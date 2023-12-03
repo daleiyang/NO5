@@ -1,116 +1,83 @@
 generatorn
+the generator
+发电机
 
 
-en generator omvandlar rörelseenergi till elektrisk
+en generator omvandlar rörelseenergi till elektrisk energi med hjälp av magneter.
+a generator converts kinetic energy into electrical energy using magnets.
+发电机利用磁铁将动能转化为电能。
 
 
-energi med hjälp av magneter.
+Generatorer finns till exempel i vindkraftverk, vattenkraftverk och kärnkraftverk.
+Generators are found, for example, in wind turbines, hydroelectric plants and nuclear power plants.
+例如，发电机存在于风力涡轮机、水力发电厂和核电厂中。
 
 
-Generatorer finns till exempel i vindkraftverk,
+rörelseenergi i vind eller strömmande vatten får en propeller, en turbin, att snurra.
+kinetic energy in wind or flowing water causes a propeller, a turbine, to spin.
+风或流水中的动能导致螺旋桨（涡轮机）旋转。
 
 
-vattenkraftverk och kärnkraftverk.
+Turbinen driver i sin tur en generator som gör om rörelseenergin till elektricitet.
+The turbine in turn drives a generator that converts the kinetic energy into electricity.
+涡轮机进而驱动发电机，将动能转化为电能。
 
 
-rörelseenergi i vind eller strömmande vatten får en propeller,
+i ett kärnkraftverk är det het ånga som sätter turbinen i rörelse.
+in a nuclear power plant, it is hot steam that sets the turbine in motion.
+在核电站中，是热蒸汽驱动涡轮机运转。
 
-6
-00:00:18.809 --> 00:00:19.600
-en turbin
 
-7
-00:00:19.850 --> 00:00:20.569
-att snurra.
+På detta sätt kan man alltså ta vara på energi och omvandla den till elektrisk energi, elektricitet
+In this way, you can use energy and convert it into electrical energy, electricity
+这样就可以利用能源并将其转化为电能、电
 
-8
-00:00:21.329 --> 00:00:24.110
-Turbinen driver i sin tur en generator
 
-9
-00:00:24.250 --> 00:00:27.159
-som gör om rörelseenergin till elektricitet.
+elen går att transportera genom elnätet så att energin kan användas någon annanstans
+the electricity can be transported through the electricity grid so that the energy can be used elsewhere
+电力可以通过电网输送，以便可以在其他地方使用
 
-10
-00:00:28.180 --> 00:00:30.729
-i ett kärnkraftverk är det het ånga
 
-11
-00:00:30.899 --> 00:00:32.659
-som sätter turbinen i rörelse.
-
-12
-00:00:33.340 --> 00:00:35.689
-På detta sätt kan man alltså ta vara på energi
-
-13
-00:00:35.900 --> 00:00:37.979
-och omvandla den till elektrisk energi,
-
-14
-00:00:38.500 --> 00:00:39.599
-elektricitet
-
-15
-00:00:40.330 --> 00:00:43.569
-elen går att transportera genom elnätet
-
-16
-00:00:43.569 --> 00:00:46.349
-så att energin kan användas någon annanstans
-
-17
-00:00:47.799 --> 00:00:48.560
 elmotorn.
+the electric motor.
+电动机。
 
-18
-00:00:49.319 --> 00:00:53.040
+
 Med hjälp av magneter kan man omvandla elektricitet till rörelse.
+With the help of magnets, electricity can be converted into motion.
+在磁铁的帮助下，电力可以转化为运动。
 
-19
-00:00:53.639 --> 00:00:55.479
-Det är så en elektrisk motor,
 
-20
-00:00:55.759 --> 00:00:57.639
-en elmotor fungerar.
+Det är så en elektrisk motor, en elmotor fungerar.
+That's how an electric motor, an electric motor works.
+这就是电动机、电动机的工作原理。
 
-21
-00:00:58.279 --> 00:01:01.439
-Elektriska motorer används för att driva olika apparater,
 
-22
-00:01:01.799 --> 00:01:03.080
-till exempel hårtorkar,
+Elektriska motorer används för att driva olika apparater, till exempel hårtorkar, dammsugare och borrmaskiner.
+Electric motors are used to power various appliances, such as hair dryers, vacuum cleaners and drills.
+电动机用于为各种电器提供动力，例如吹风机、吸尘器和电钻。
 
-23
-00:01:03.400 --> 00:01:05.519
-dammsugare och borrmaskiner.
 
-24
-00:01:06.160 --> 00:01:09.699
 Dom kan också användas i industrier och vid olika transporter.
+They can also be used in industries and in various transports.
+它们还可用于工业和各种运输。
 
-25
-00:01:11.260 --> 00:01:12.209
+
 bildtexter.
+captions.
+字幕。
 
-26
-00:01:12.620 --> 00:01:16.819
-Vindkraftverkens rotorblad driver en generator
 
-27
-00:01:16.819 --> 00:01:20.889
-som omvandlar vindens rörelseenergi till elektricitet
+Vindkraftverkens rotorblad driver en generator som omvandlar vindens rörelseenergi till elektricitet
+The wind turbine's rotor blades drive a generator that converts the wind's kinetic energy into electricity
+风力涡轮机的转子叶片驱动发电机，将风的动能转化为电能
 
-28
-00:01:22.069 --> 00:01:27.150
+
 elmotorer driver runt fläkthjulet både i dammsugaren och i hårtorken.
+electric motors drive the fan wheel in both the vacuum cleaner and the hair dryer.
+电动马达驱动吸尘器和吹风机中的风扇轮。
 
-29
-00:01:27.830 --> 00:01:31.069
-Med dammsugaren drar man nytta av att luft sugs in
 
-30
-00:01:31.349 --> 00:01:34.379
-och i hårtorken använder man luften som blåses ut.
+Med dammsugaren drar man nytta av att luft sugs in och i hårtorken använder man luften som blåses ut.
+With the vacuum cleaner, you take advantage of the fact that air is sucked in, and in the hair dryer, you use the air that is blown out.
+使用真空吸尘器时，您可以利用吸入空气的优势，而在吹风机中，您可以利用吹出的空气。
