@@ -1,0 +1,128 @@
+begrepp
+concept
+概念
+
+
+batteri: en uppladdningsbar strömkälla.
+battery: a rechargeable power source.
+电池：可充电电源。
+
+
+elektrisk krets: när en strömkälla är ihopkopplad med till exempel lampor och strömbrytare.
+electrical circuit: when a power source is connected to things like lights and switches.
+电路：当电源连接到灯和开关等物体时。
+
+
+elektrisk ledare: Material som leder elektricitet bra.
+electrical conductor: Material that conducts electricity well.
+电导体：导电良好的材料。
+
+
+elmotor: omvandlar elektrisk ström till rörelse.
+electric motor: converts electric current into motion.
+电动机：将电流转化为运动。
+
+
+energiprincipen: energi kan inte skapas eller förstöras, bara omvandlas mellan olika former
+the energy principle: energy cannot be created or destroyed, only transformed between different forms
+能量原理：能量不能被创造或毁灭，只能在不同形式之间转化
+
+
+fossila bränslen:  bränslen som bildats i marken under mycket lång tid, till exempel olja, kol och naturgas.
+fossil fuels: fuels formed in the ground over a very long time, for example oil, coal and natural gas.
+化石燃料：经过很长时间在地下形成的燃料，例如石油、煤炭和天然气。
+
+
+förnybar energi: energi som förnyas i samma takt som den används, till exempel biobränsle.
+renewable energy: energy that is renewed at the same rate as it is used, for example biofuel.
+可再生能源：以与使用速度相同的速度更新的能源，例如生物燃料。
+
+
+generator: omvandlar rörelse till elektrisk ström
+generator: converts motion into electrical current
+发电机：将运动转化为电流
+
+
+icke förnybar energi: energi som inte kan återbildas eller som återbildas väldigt långsamt.
+non-renewable energy: energy that cannot be regenerated or regenerates very slowly.
+不可再生能源：无法再生或再生速度非常缓慢的能源。
+
+
+isolator: material som inte leder elektricitet.
+insulator: material that does not conduct electricity.
+绝缘体：不导电的材料。
+
+
+kopplingsschema: en ritning som visar en elektrisk krets och vilka komponenter som ingår
+circuit diagram: a drawing that shows an electrical circuit and what components are included
+电路图：显示电路以及包含哪些组件的图
+
+
+parallellkoppling: när till exempel två lampor är kopplade till ett batteri, men i varsin krets.
+parallel connection: when, for example, two lamps are connected to a battery, but in separate circuits.
+并联连接：例如，当两个灯连接到电池，但位于不同的电路中时。
+
+
+seriekoppling: när till exempel två lampor är kopplade efter varann i samma krets, så att ingen eller båda lyser
+series connection: when, for example, two lights are connected one behind the other in the same circuit, so that neither or both lights up
+串联：例如，当两个灯在同一电路中一个接一个地连接时，导致两个灯都不亮或都不亮
+
+
+statisk elektricitet:  små elektriska stötar som får det att spraka i vissa kläder eller i håret.
+static electricity: small electric shocks that cause some clothes or hair to crackle.
+静电：轻微的电击会导致一些衣服或头发碎裂。
+
+
+strömavbrott: när strömmen inte kommer fram, till exempel för att ledningar gått sönder vid oväder.
+power outage: when the power does not arrive, for example because wires have broken during a storm.
+停电：当电力没有到达时，例如由于暴风雨期间电线断裂。
+
+
+strömkrets: en elektrisk krets som kan vara sluten, så att strömmen kommer runt, eller bruten, så att strömmen stoppas.
+circuit: an electrical circuit that can be closed, so that current flows around, or broken, so that current is stopped.
+电路：可以闭合，使电流流过，或断开，使电流停止的电路。
+
+
+strömkälla: något som ger ström, till exempel ett väguttag eller ett batteri
+power source: something that provides power, such as a road outlet or a battery
+电源：提供电力的东西，例如道路插座或电池
+
+
+växthuseffekt: när atmosfären fungerar som ett växthus och hindrar värme från att försvinna ut i rymden.
+greenhouse effect: when the atmosphere acts as a greenhouse and prevents heat from escaping into space.
+温室效应：大气充当温室并阻止热量逃逸到太空中。
+
+
+kan du nu?
+can you now
+你现在可以吗
+
+
+Vilken energiform blir till slut all energi?
+What form of energy does all energy end up being?
+所有能量最终都以什么形式存在？
+
+
+ge exempel på vad vi använder energi till
+give examples of what we use energy for
+举例说明我们使用能源的目的
+
+
+Nämn tre saker du använder elektricitet till
+Name three things you use electricity for
+说出你用电的三件事
+
+
+Vad är strömavbrott?
+What is a power outage?
+什么是停电？
+
+
+Vad är skillnaden på förnybara och icke förnybara energikällor?
+What is the difference between renewable and non-renewable energy sources?
+可再生能源和不可再生能源有什么区别？
+
+
+förklara hur vi människor kan påverka växthuseffekten.
+explain how we humans can affect the greenhouse effect.
+解释我们人类如何影响温室效应。

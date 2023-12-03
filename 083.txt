@@ -1,0 +1,116 @@
+generatorn
+
+
+en generator omvandlar rörelseenergi till elektrisk
+
+
+energi med hjälp av magneter.
+
+
+Generatorer finns till exempel i vindkraftverk,
+
+
+vattenkraftverk och kärnkraftverk.
+
+
+rörelseenergi i vind eller strömmande vatten får en propeller,
+
+6
+00:00:18.809 --> 00:00:19.600
+en turbin
+
+7
+00:00:19.850 --> 00:00:20.569
+att snurra.
+
+8
+00:00:21.329 --> 00:00:24.110
+Turbinen driver i sin tur en generator
+
+9
+00:00:24.250 --> 00:00:27.159
+som gör om rörelseenergin till elektricitet.
+
+10
+00:00:28.180 --> 00:00:30.729
+i ett kärnkraftverk är det het ånga
+
+11
+00:00:30.899 --> 00:00:32.659
+som sätter turbinen i rörelse.
+
+12
+00:00:33.340 --> 00:00:35.689
+På detta sätt kan man alltså ta vara på energi
+
+13
+00:00:35.900 --> 00:00:37.979
+och omvandla den till elektrisk energi,
+
+14
+00:00:38.500 --> 00:00:39.599
+elektricitet
+
+15
+00:00:40.330 --> 00:00:43.569
+elen går att transportera genom elnätet
+
+16
+00:00:43.569 --> 00:00:46.349
+så att energin kan användas någon annanstans
+
+17
+00:00:47.799 --> 00:00:48.560
+elmotorn.
+
+18
+00:00:49.319 --> 00:00:53.040
+Med hjälp av magneter kan man omvandla elektricitet till rörelse.
+
+19
+00:00:53.639 --> 00:00:55.479
+Det är så en elektrisk motor,
+
+20
+00:00:55.759 --> 00:00:57.639
+en elmotor fungerar.
+
+21
+00:00:58.279 --> 00:01:01.439
+Elektriska motorer används för att driva olika apparater,
+
+22
+00:01:01.799 --> 00:01:03.080
+till exempel hårtorkar,
+
+23
+00:01:03.400 --> 00:01:05.519
+dammsugare och borrmaskiner.
+
+24
+00:01:06.160 --> 00:01:09.699
+Dom kan också användas i industrier och vid olika transporter.
+
+25
+00:01:11.260 --> 00:01:12.209
+bildtexter.
+
+26
+00:01:12.620 --> 00:01:16.819
+Vindkraftverkens rotorblad driver en generator
+
+27
+00:01:16.819 --> 00:01:20.889
+som omvandlar vindens rörelseenergi till elektricitet
+
+28
+00:01:22.069 --> 00:01:27.150
+elmotorer driver runt fläkthjulet både i dammsugaren och i hårtorken.
+
+29
+00:01:27.830 --> 00:01:31.069
+Med dammsugaren drar man nytta av att luft sugs in
+
+30
+00:01:31.349 --> 00:01:34.379
+och i hårtorken använder man luften som blåses ut.
