@@ -1,32 +1,53 @@
 Vad kan du om Frankrike?
+What do you know about France?
+你对法国了解多少？
 
 
 Måla Frankrikes flagga.
+Paint the flag of France.
+画法国国旗。
 
 
 Frankrikes karta
+France map
+法国地图
 
 
-Ta fram din karibok och slå upp Frankrike.
+Ta fram din kartbok och slå upp Frankrike.
+Take out your map book and look up France.
+拿出你的地图册，查找法国。
 
 
 Vilka platser är markerade på kartan här bredvid?
+Which places are marked on the map next to this?
+旁边的地图上标记了哪些地点？
 
 
 tätort.  vatten.
+urban area. water.
+市区。水。
 
 
 OBS: Korsika syns ej på kartan.
+NOTE: Corsica is not visible on the map.
+注意：科西嘉岛在地图上不可见。
 
 
 Frågor om Frankrikes
+Questions about France
+关于法国的问题
 
 
 Vad skulle du helst vilja besöka ifall du fick åka som turist till Frankrike?
+What would you most like to visit if you could go as a tourist to France?
+如果你可以去法国旅游，你最想去参观什么？
 
 
 Vilka franska bilmärken kan du?
+Which French car brands do you know?
+你知道哪些法国汽车品牌？
 
 
 På vilka sätt betyder turismen mycket för Frankrike?
-
+In what ways is tourism important to France?
+旅游业在哪些方面对法国很重要？
