@@ -1,93 +1,187 @@
 Facit till Diagnos 4
+Conclusion to Diagnosis 4
+诊断答案4
 
 Genom maten du äter får du energi.
+The food you eat gives you energy.
+你吃的食物给你能量。
 
 För att röra dig, bli varm, växa och tänka.
+To move, get warm, grow and think.
+移动、取暖、成长和思考。
 
 Växter får energi från solen. De kan lagra energin. Det kallas fotosyntes.
+Plants get energy from the sun. They can store the energy. It is called photosynthesis.
+植物从太阳中获取能量。 它们可以储存能量。 这就是所谓的光合作用。
 
 Belysning inomhus och utomhus, uppvärmning i lokaler och hem, till alla olika apparater och maskiner, till transport som flyg, bilar, bussar och lastbilar.
+Indoor and outdoor lighting, heating in premises and homes, for all different appliances and machines, for transport such as planes, cars, buses and trucks.
+室内和室外照明、场所和家庭供暖、所有不同的电器和机器、飞机、汽车、公共汽车和卡车等运输。
 
 Förnybar energi: Energi som hela tiden förnyas. Den kan komma från vindar, vattenströmmar eller solens strålning.
+Renewable energy: Energy that is constantly renewed. It can come from winds, water currents or the sun's radiation.
+可再生能源：不断更新的能源。 它可能来自风、水流或太阳辐射。
 
 Icke förnybar energi: Energi som tar längre tid att förnyas eller inte kan förnyas. 
+Non-renewable energy: Energy that takes longer to renew or cannot be renewed.
+不可再生能源：需要较长时间更新或无法更新的能源。
 
 Lagrad energi som finns i marken som uran, olja eller kol kallas för fossila bränslen.
+Stored energy found in the ground such as uranium, oil or coal is called fossil fuels.
+在地下发现的储存能源，如铀、石油或煤炭，被称为化石燃料。
 
-Förnybar energi: vindkraftverk, vattenkraftverk, solfångare, bergvärme
+Förnybar energi: vindkraftverk, vattenkraftverk, solfångare, bergvärme.
+Renewable energy: wind turbines, hydroelectric plants, solar collectors, geothermal energy.
+可再生能源：风力涡轮机、水力发电厂、太阳能集热器、地热能。
 
-Icke förnybar energi: kärnkraftverk, kolkraftverk, olja
+Icke förnybar energi: kärnkraftverk, kolkraftverk, olja.
+Non-renewable energy: nuclear power plants, coal-fired power plants, oil.
+不可再生能源：核电站、燃煤电站、石油。
 
 Strömavbrott: När den elektriska kretsen bryts så att ström inte kommer fram.
+Power failure: When the electrical circuit is broken so that power does not arrive.
+停电：电路损坏，无法通电。
 
 Energiprincipen: Energi kan inte skapas eller förstöras, bara omvandlas.
+The principle of energy: Energy cannot be created or destroyed, only transformed.
+能量原理：能量不能被创造或毁灭，只能被转化。
 
 Isolator: Ämne som inte leder ström eller värme bra.
+Insulator: Substance that does not conduct electricity or heat well.
+绝缘体：不能很好地导电或导热的物质。
 
 Generator: Rörelseenergi omvandlas till elektricitet, t.ex. i ett vindkraftverk.
+Generator: Motion energy is converted into electricity, e.g. in a wind turbine.
+发电机：运动能量转化为电能，例如发电机。 在风力涡轮机中。
 
 Batteri: en uppladdningsbar strömkälla.
+Battery: a rechargeable power source.
+电池：可充电电源。
 
 Elektrisk krets: när en strömkälla, t.ex. ett batteri, är ihopkopplad med en eller flera komponenter, exempelvis lampor och strömbrytare.
+Electric circuit: when a power source, e.g. a battery, is connected to one or more components, for example lights and switches.
+电路：当有电源时，例如 电池连接到一个或多个组件，例如灯和开关。
 
 Ledare: material som leder elektricitet bra.
+Conductor: material that conducts electricity well.
+导体：导电良好的材料。
 
 Elmotor: omvandlar elektrisk ström till rörelse.
+Electric motor: converts electric current into motion.
+电动机：将电流转化为运动。
 
 Statisk elektricitet: små elektriska stötar som får det att spraka i vissa kläder eller i håret.
+Static electricity: small electrical shocks that cause some clothing or hair to crackle.
+静电：轻微的电击会导致某些衣服或头发破裂。
 
 Parallellkoppling
+Parallel connection
+并联
 
 Lamporna i en parallellkoppling har alla en egen krets till strömkällan. 
+The lamps in a parallel connection all have their own circuit to the power source.
+并联的灯都有自己的电源电路。
 
 Om en lampa går sönder kommer strömmen nå alla andra lampor. 
+If one lamp breaks, the current will reach all the other lamps.
+如果一盏灯坏了，电流将到达所有其他灯。
 
 I en seriekoppling är lamporna kopplade i en serie så alla har samma krets. 
+In a series connection, the lamps are connected in series so they all have the same circuit.
+在串联连接中，灯串联连接，因此它们都具有相同的电路。
 
 Går en lampa sönder bryts strömmen för alla lampor. 
+If one lamp breaks, the power to all lamps is interrupted.
+如果一盏灯坏了，所有灯的电源都会中断。
 
 kopplingsschema
+wiring diagram
+接线图
 
 Fundera
+Think
+思考
 
 I uppgift 7-10 kan eleverna visa om de förstår att allt levande behöver energi och att solen är den viktigaste energikällan på jorden,
+In tasks 7-10, students can show if they understand that all living things need energy and that the sun is the most important source of energy on earth,
+在任务 7-10 中，学生可以表明他们是否了解所有生物都需要能量，并且太阳是地球上最重要的能源，
 
 att alla energikällor har för- och nackdelar och att vår energianvändning påverkar miljön lokalt och globalt. 
+that all energy sources have advantages and disadvantages and that our energy use affects the environment locally and globally.
+所有能源都有优点和缺点，我们的能源使用会影响当地和全球的环境。
 
 De kan visa om de kan se helheten när det gäller energikällor, 
+They can show if they can see the big picture when it comes to energy sources,
+他们可以展示在能源方面他们是否能看到大局，
 
 hur miljövänliga de är i drift men även hur de påverkar omgivningen i form av utbyggnad och eventuell utvinning av bränsle. 
+how environmentally friendly they are in operation but also how they affect the surroundings in the form of expansion and possible extraction of fuel.
+它们在运行时对环境有多友好，以及它们如何以扩张和可能提取燃料的形式影响周围环境。
 
 De kan förutom miljöperspektivet diskutera effektivitet, driftskostnader och hur ekonomiskt hållbara energikällorna är. 
+In addition to the environmental perspective, they can discuss efficiency, operating costs and how financially sustainable the energy sources are.
+除了环境角度之外，他们还可以讨论效率、运营成本以及能源的财务可持续性。
 
 Eleverna kan visa om de kan förklara hur självklar elektricitet är för oss och hur beroende vi är av den idag, 
+Students can show if they can explain how natural electricity is to us and how dependent we are on it today,
+学生可以展示他们是否可以解释自然电对我们有何影响以及我们今天对它的依赖程度，
 
 men även att elektriciteten har lett till att utvecklingen gått framåt och hur vi fått förbättrade levnadsvillkor, 
+but also that electricity has led to progress in development and how we have improved living conditions,
+而且电力带来了发展进步以及我们如何改善了生活条件，
 
 samt att energifördelningen inte är rättvis för jordens befolkning.
+and that the distribution of energy is not fair for the earth's population.
+能源的分配对于地球人口来说是不公平的。
 
 T.ex. se på tv, använda dator, tända lampor, ladda mobilen, få vatten till dusch och toalett, använda spisen.
+For example. watch TV, use the computer, turn on the lights, charge the mobile phone, get water for the shower and toilet, use the stove.
+例如。 看电视、用电脑、开灯、给手机充电、洗澡、上厕所、取水、使用炉灶。
 
 Elda med ved. 
+Fire with wood.
+用木头生火。
 
 Skenet från brasan, stearinljus eller fotogenlampor.
+The glow from the fire, candles or kerosene lamps.
+火、蜡烛或煤油灯发出的光。
 
 Solen gör att vi har vind, vattenströmmar (vattnets kretslopp) och fossila bränslen som är lagrad energi i gamla växter. 
+The sun means that we have wind, water currents (the water cycle) and fossil fuels which are stored energy in old plants.
+太阳意味着我们有风、水流（水循环）和化石燃料，这些燃料储存在旧工厂中。
 
 Växters lagrade energi kommer från solen. 
+Plants' stored energy comes from the sun.
+植物储存的能量来自太阳。
 
 Så vilken energikälla det än är som ger elektricitet i huset där hårtorken finns, har solen från början varit ursprungskällan till energin.
+So whatever energy source it is that provides electricity in the house where the hair dryer is located, the sun has been the original source of energy from the beginning.
+因此，无论是什么能源为吹风机所在的房屋提供电力，太阳从一开始就是最初的能源。
 
 Äpplet du plockat: Solen har gett energi för att trädet ska växa upp och få frukt. 
+The apple you picked: The sun has provided energy for the tree to grow up and bear fruit.
+你摘下的苹果：太阳为树的生长和结果提供了能量。
 
 Det krävs dessutom energi för att plocka ner äpplet och hålla i det.
+It also requires energy to pick the apple down and hold it.
+摘下并握住苹果也需要能量。
 
 Äpplet från affären: Här har också krävts energi för att odla trädet. 
+The apple from the store: Energy has also been required here to grow the tree.
+商店里的苹果：这里也需要能量来种植这棵树。
 
 Men förutom det har det krävts energi för att hålla igång växthuset med kyla, 
+But apart from that, energy has been required to keep the greenhouse running with cooling,
+但除此之外，还需要能源来保持温室的运行和冷却，
 
 uppvärmning och byggmaterial och för att plocka ner, förpacka och transportera äpplet till Sverige och ut till affären. 
+heating and building materials and to pick down, pack and transport the apple to Sweden and out to the store.
+供暖和建筑材料，以及采摘、包装和运输苹果到瑞典和商店。
 
 Kanske har man använt bekämpningsmedel mot insekter under odlingen och i transporten för att äpplet inte ska börja ruttna. 
+Perhaps pesticides have been used against insects during cultivation and in transport to prevent the apple from rotting.
+也许在种植和运输过程中使用了杀虫剂来防治昆虫，以防止苹果腐烂。
 
 Det har även gått åt energi för att ta äpplet från affären.
+Energy has also been used to take the apple from the store.
+能量也被用来从商店里取出苹果。
