@@ -1,0 +1,79 @@
+Vi jämför länderna i centrala Europa.
+We compare the countries in central Europe.
+我们比较中欧国家。
+
+Här kan du se en tabell över länderna i centrala Europa.
+Here you can see a table of the countries in central Europe.
+在这里您可以看到中欧国家的表格。
+
+Land. Österrike. Schweiz. Liechtenstein. Ungern. Tjeckien. Slovakien.
+Country. Austria. Switzerland. Liechtenstein. Hungary. Czech Republic. Slovakia.
+国家。奥地利。瑞士。列支敦士登。匈牙利。捷克共和国。斯洛伐克。
+
+Areal. Folkmängd. miljoner. inv. Folktäthet.
+Area. Population. million. inv. Population density.
+面积。人口。百万。单位（人）。人口密度。
+
+Språk. tyska. franska. italienska. ungerska. tjeckiska. slovakiska.
+Language. German. French. Italian. Hungarian. Czech. Slovak.
+语言。德语。法语。意大利语。匈牙利语。捷克语。斯洛伐克语。
+
+Valuta. euro. schweizerfranc. forint. koruna.
+Currency. Euro. Swiss Franc. forint. koruna.
+货币。欧元。瑞士法郎。福林。克朗。
+
+Huvudstad. Wien. Bern. Vaduz. Budapest. Prag. Bratislava.
+Capital. Vienna. Berne. Vaduz. Budapest. Prague. Bratislava.
+首都。维也纳。伯尔尼。瓦杜兹。布达佩斯。布拉格。布拉迪斯拉发。
+
+Statsskick. republik. monarki.
+State condition. republic. monarchy.
+政治体制。共和国。君主制。
+
+Vilket land har störst folkmängd?
+Which country has the largest population?
+哪个国家人口最多？
+
+Vilket av länderna är mest tätbefolkat?
+Which of the countries is most densely populated?
+哪个国家人口最稠密？
+
+Vilket land är störst till ytan?
+Which country has the largest surface area?
+哪个国家的国土面积最大？
+
+Vilka länder är monarkier?
+Which countries are monarchies?
+哪些国家是君主制国家？
+
+Vilka av länderna använder sig inte av valutan euro?
+Which of the countries does not use the euro currency?
+哪个国家不使用欧元？
+
+Frågor om länderna i centrala Europa.
+Questions about the countries of central Europe.
+关于中欧国家的问题。
+
+Varför är det inte bra i längden att elda med kol?
+Why is it not good in the long run to fire with coal?
+为什么用煤生火从长远来看不好？
+
+Hur kan man se att Alperna är en ung bergskedja?
+How can you tell that the Alps are a young mountain range?
+你怎么知道阿尔卑斯山是一座年轻的山脉？
+
+Floden Donau passerar tre huvudstäder i den här regionen. Vilka är de?
+The Danube River passes through three capitals in this region. Who are they?
+多瑙河流经该地区的三个首都。他们是谁？
+
+Varför kan man säga att höga berg och gnistrande snö är en naturtillgång?
+Why can you say that high mountains and sparkling snow are a natural asset?
+为什么说高山白雪是天然的财富呢？
+
+Vilka av länderna i regionen saknar kust mot havet?
+Which of the countries in the region are landlocked?
+该地区哪些国家是内陆国家？
+
+Ge exempel på ett antal jordbruksprodukter som kommer från just länderna i centrala Europa?
+Give examples of a number of agricultural products that come from the countries in central Europe?
+举例说明一些来自中欧国家的农产品？
