@@ -1,0 +1,104 @@
+P 190
+Multiplikation med 10,100 och 1000.
+
+MULTIPLIKATION MED POSITIVA HELTAL.
+
+Det är lätt att multiplicera positiva heltal med 10,100 eller 1000.
+
+Produkten är 10,100 eller 1000 gånger så stor. 
+
+Det innebär att alla siffror i produkten får värden som är 10,100 eller 1000 gånger större.
+
+Man kan tänka så här. 5 tior är värda 50 kr. 
+
+5 hundralappar är värda 500 kr. 5 tusenlappar är värda 5000 kr.
+
+MULTIPLIKATION MED TAL I DECIMALFORM. 
+
+hundratal. tiotal. ental. tiondel. hundradel.
+
+Hur är det då när ett tal i decimalform multipliceras med 10,100 eller 1000?
+
+Vi tittar på ett exempel, 100 . 1,45.
+
+När man multiplicerar ett tal med 100 får alla siffror ett 100 gånger större värde. 
+
+I exemplet flyttar siffran 1 från positionen för ental till positionen för hundratal.
+
+Man flyttar siffrorna lika många steg åt vänster som det är nollor i 100.
+
+
+P 191
+IBLAND BEHÖVS FLER NOLLOR.
+
+Man kan skriva hur många nollor man vill efter den sista decimalen utan att talets värde förändras.
+
+Ibland behöver man fylla på med nollor efter den sista decimalen när man ska multiplicera med 10,100 eller 1000.
+
+tusental. hundratal. tiotal. ental. tiondel. hundradel. tusendel.
+
+Alla siffror får ett 10 gånger större värde.
+
+Du kan också tänka så här:
+
+Det ser ut som om decimaltecknet flyttar sig ett steg åt höger. 
+
+Du flyttar decimaltecknet lika många steg som det är nollor i 10.
+
+Alla siffror får ett 1 000 gånger större värde.
+
+Du kan också tänka så här:
+
+Det ser ut som om decimaltecknet flyttar sig tre steg åt höger. 
+
+Du flyttar decimaltecknet lika många steg som det är nollor i 1000.
+
+Eftersom talet bara har två decimaler behöver du lägga till en extra nolla.
+
+
+P 192
+Skolköket i Ekskolan köpte 100 liter mjölk för 9,80 kr per liter. 
+
+Hur mycket kostade mjölken?
+
+Hur tänker du när du ska multiplicera ett tal i decimalform med 10,100 eller 1000?
+
+Sveriges största skalbagge, ekoxen, kan bli 7,5 cm lång. 
+
+Hur lång blir en rad med 100 så långa ekoxar? Svara i meter.
+
+Vilket tal är x?
+
+En loppa kan hoppa 100 gånger sin egen längd. Hur långt kan loppan hoppa om den är 3 mm lång? Svara i decimeter.
+
+En loppa kan äta 10 gånger sin egen vikt per dag. Hur mycket kan loppan äta på en dag om den väger 0,3 g?
+
+
+P 193
+När Tove ska räkna ut 50 . 7,2 gör hon så här:
+
+Förklara varför Tove får rätt svar.
+
+Vilket värde har siffran 5 i talet 1,52?
+
+Vilket värde får siffran 5 när talet 1,52 multipliceras med 100?
+
+Vilket tal är x?
+
+En maskin tillverkar 100 000 tabletter per dygn. Varje tablett väger 0,08 g. 
+
+Hur mycket väger alla tabletter som maskinen tillverkar under en vecka? Svara i kilogram.
+
+Ett chilifrö väger endast 0,005 g.
+
+Hur mycket väger en miljon frön? Svara i kilogram.
+
+Hur många frön behövs för att de sammanlagt ska väga 1 g?
+
+Talet A är 10 gånger så stort som talet B. 
+
+Talet B är i sin tur 100 gånger så stort som talet C. 
+
+Talet A är lika med 1,2. Vilket tal är C?
+
+Talet 100000 är en miljon gånger större än en tiondel. Visa att det är så.
