@@ -1,0 +1,17 @@
+EXEMPEL. Svar. ETT.
+1 hundratal dividerat med 4 är O hundratal. Nollan behöver du inte skriva ut.
+19 tiotal dividerat med 4 är 4 hela tiotal. Resten, 3 tiotal, blir minnessiffra.
+32 ental dividerat med 4 är 8 ental.
+1 hundratal dividerat med 5 är O hundratal. 10 tiotal dividerat med 5 är 2 tiotal.
+3 ental dividerat med 5 är O ental. Den nollan måste du skriva ut.
+35 tiondelar dividerat med 5 är 7 tiondelar. 
+Kom ihåg att ta med dig decimaltecknet när du passerar det.
+För att kontrollera att decimaltecknet hamnat rätt kan du göra en överslagsräkning.
+Eftersom så är svaret rimligt.
+1 ental dividerat med 3 är O. Nollan måste skrivas ut.
+13 tiondelar dividerat med 3 är 4 hela tiondelar. Resten, 1 tiondel, blir minnessiffra.
+18 hundradelar dividerat med 3 är 6 hundradelar. 
+Jasmine köper tre böcker om Harry Potter och betalar 687 kr. 
+Vad kostar böckerna per styck om de kostar lika mycket?
+Michel ska lägga 120 köttbullar i 5 påsar med lika många i varje.
+Hur många köttbullar blir det i varje påse?

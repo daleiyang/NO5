@@ -1,0 +1,19 @@
+När man dividerar ett tal med ett annat tal kallas det för division. 
+De två talen kallas täljare och nämnare. Svaret kallas kvot.
+täljare. kvot. nämnare.
+DIVISION NÄR TÄLJARENS FÖRSTA SIFFRA AR MINDRE ÄN NÄMNAREN.
+Här visar vi hur man räknar kort division när täljarens första siffra är ett mindre tal än det tal som står i nämnaren.
+1 hundratal dividerat med 2 är O hundratal. Nollan behöver du inte skriva ut.
+13 tiotal dividerat med 2 är 6 hela tiotal.
+Resten 1 tiotal blir minnessiffra och motsvarar 10 ental.
+12 ental dividerat med 2 är 6 ental.
+DIVISION NÄR TÄLJAREN ÄR ETT TAL I DECIMALFORM.
+Man kan använda kort division också när man dividerar tal i decimalform.
+6 tiotal dividerat med 2 är 3 tiotal.
+5 ental dividerat med 2 är 2 hela ental. Resten 1 ental = 10 tiondelar.
+Skriv ut decimaltecknet i kvoten när du går förbi det.
+14 tiondelar dividerat med 2 är 7 tiondelar.
+Hur kan man vara säker på att man har placerat decimaltecknet rätt?
+Ett bra sätt är att använda sig av överslagsräkning.
+I det här exemplet kan man tänka så här.
+65 är lite mer än 60 och 60 delat med 2 är 30. Då måste svaret vara 32,7.

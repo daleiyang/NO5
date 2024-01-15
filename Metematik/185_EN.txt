@@ -1,0 +1,19 @@
+Dividing one number by another number is called division.
+The two numbers are called the numerator and denominator. The answer is called quotient.
+numerator. quotient. denominator.
+DIVISION WHEN THE NUMERATOR'S FIRST NUMBER IS LESS THAN THE DENOMINATOR.
+Here we show how to calculate short division when the first digit of the numerator is a smaller number than the number in the denominator.
+1 hundreds divided by 2 is O hundreds. You do not need to print the zero.
+13 tens divided by 2 is 6 whole tens.
+The remaining 1 tens becomes a memory digit and corresponds to 10 singulars.
+12 singulars divided by 2 is 6 singulars.
+DIVISION WHEN THE NUMBER IS A NUMBER IN DECIMAL FORM.
+Short division can also be used when dividing numbers in decimal form.
+6 tens divided by 2 is 3 tens.
+5 singular divided by 2 is 2 whole singular. The remainder 1 singular = 10 tenths.
+Print the decimal point in the quotient as you pass it.
+14 tenths divided by 2 is 7 tenths.
+How can you be sure that you have placed the decimal point correctly?
+A good way is to use rough calculations.
+In this example, you can think like this.
+65 is slightly more than 60 and 60 divided by 2 is 30. Then the answer must be 32.7.

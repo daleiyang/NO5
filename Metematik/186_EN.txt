@@ -1,0 +1,17 @@
+EXAMPLE. Response. ONE.
+1 hundreds divided by 4 is O hundreds. You do not need to print the zero.
+19 tens divided by 4 is 4 whole tens. The rest, 3 tens, will be a memory number.
+32 singulars divided by 4 is 8 singulars.
+1 hundreds divided by 5 is O hundreds. 10 tens divided by 5 is 2 tens.
+3 singular divided by 5 is O singular. You must print that zero.
+35 tenths divided by 5 is 7 tenths.
+Remember to take the decimal point with you when you pass it.
+To check that the decimal point is correct, you can do an approximate calculation.
+Because the answer is reasonable.
+1 number divided by 3 is O. The zero must be printed.
+13 tenths divided by 3 is 4 whole tenths. The rest, 1 tenth, becomes a memory digit.
+18 hundredths divided by 3 is 6 hundredths.
+Jasmine buys three books about Harry Potter and pays SEK 687.
+What is the cost of the books per piece if they cost the same?
+Michel is to put 120 meatballs in 5 bags with the same number in each.
+How many meatballs are in each bag?

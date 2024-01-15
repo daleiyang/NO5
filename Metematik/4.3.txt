@@ -1,0 +1,309 @@
+P 184
+Kort division. AKTIVITET.
+Short division. ACTIVITY.
+短除法。 活动。
+
+Egenskaper hos tal. Materiel: Aktivitetsblad. Antal deltagare: 2—3 st. Delbart med 3. Jämnt tal.
+Properties of numbers. Materials: Activity sheet. Number of participants: 2-3. Divisible by 3. Even number.
+数字的属性。 材料：活动表。 参加人数：2-3人。 可被 3 整除。 偶数。
+
+Talen i rutan ska ni placera i något av de områden som bildas av de tre cirklarna på aktivitetsbladet.
+You must place the numbers in the box in one of the areas formed by the three circles on the activity sheet.
+您必须将数字放入活动表上三个圆圈形成的区域之一的框中。
+
+Vi hjälper er med några tal.
+We help you with some figures.
+我们可以帮助您填写几个数字。
+
+Talet 9 är delbart med 3 men är inte delbart med 5. 
+The number 9 is divisible by 3 but is not divisible by 5.
+数字 9 能被 3 整除，但不能被 5 整除。
+
+Det är inte heller ett jämnt tal.
+It is also not an even number.
+它也不是偶数。
+
+Talet 18 är ett jämnt tal som är delbart med 3.
+The number 18 is an even number that is divisible by 3.
+数字18是能被3整除的偶数。
+
+Talet 45 är delbart med både 3 och 5. Men det är inte ett jämnt tal.
+The number 45 is divisible by both 3 and 5. But it is not an even number.
+数字 45 可以被 3 和 5 整除。但它不是偶数。
+
+Turas om att skriva in ett tal i taget tills alla 18 talen är placerade någonstans i cirklarna. Se till att ni är överens.
+Take turns writing in one number at a time until all 18 numbers are placed somewhere in the circles. Make sure you agree.
+轮流一次写一个数字，直到所有 18 个数字都位于圆圈中的某处。 确保你同意。
+
+Jämför ert resultat med en annan grupp.
+Compare your results with another group.
+将您的结果与另一组进行比较。
+
+P 185
+När man dividerar ett tal med ett annat tal kallas det för division. 
+Dividing one number by another number is called division.
+将一个数除以另一个数称为除法。
+
+De två talen kallas täljare och nämnare. Svaret kallas kvot.
+The two numbers are called the numerator and denominator. The answer is called quotient.
+这两个数字称为分子和分母。 答案称为商。
+
+täljare. kvot. nämnare.
+numerator. quotient. denominator.
+分子。 商。 分母。
+
+DIVISION NÄR TÄLJARENS FÖRSTA SIFFRA AR MINDRE ÄN NÄMNAREN.
+DIVISION WHEN THE NUMERATOR'S FIRST NUMBER IS LESS THAN THE DENOMINATOR.
+当分子的第一个数字小于分母时的除法运算。
+
+Här visar vi hur man räknar kort division när täljarens första siffra är ett mindre tal än det tal som står i nämnaren.
+Here we show how to calculate short division when the first digit of the numerator is a smaller number than the number in the denominator.
+这里我们展示当分子的第一位数字小于分母中的数字时如何计算短除法。
+
+1 hundratal dividerat med 2 är O hundratal. Nollan behöver du inte skriva ut.
+1 hundreds divided by 2 is O hundreds. You do not need to print the zero.
+1 百除以 2 是 O 百。 您不需要写零。
+
+13 tiotal dividerat med 2 är 6 hela tiotal.
+13 tens divided by 2 is 6 whole tens.
+13 个10 除以 2 等于 6 个整数十。
+
+Resten 1 tiotal blir minnessiffra och motsvarar 10 ental.
+The remaining 1 tens becomes a memory digit and corresponds to 10 singulars.
+剩下的 1 个十位成为记忆数字，对应 10 个单数。
+
+12 ental dividerat med 2 är 6 ental.
+12 singulars divided by 2 is 6 singulars.
+12 个单数除以 2 等于 6 个单数。
+
+DIVISION NÄR TÄLJAREN ÄR ETT TAL I DECIMALFORM.
+DIVISION WHEN THE NUMBER IS A NUMBER IN DECIMAL FORM.
+当数字是10进制形式的数字时的除法运算。
+
+Man kan använda kort division också när man dividerar tal i decimalform.
+Short division can also be used when dividing numbers in decimal form.
+被除数包含小数也可以使用短除法。
+
+6 tiotal dividerat med 2 är 3 tiotal.
+6 tens divided by 2 is 3 tens.
+6 个10除以 2 等于 3 个10。
+
+5 ental dividerat med 2 är 2 hela ental. Resten 1 ental = 10 tiondelar.
+5 singular divided by 2 is 2 whole singular. The remainder 1 singular = 10 tenths.
+单数 5 除以 2 等于 单数 2 。 余数单数 1  = 十分之 10。
+
+Skriv ut decimaltecknet i kvoten när du går förbi det.
+Print the decimal point in the quotient as you pass it.
+当您传递商时，写下商中的小数点。
+
+14 tiondelar dividerat med 2 är 7 tiondelar.
+14 tenths divided by 2 is 7 tenths.
+10分之14除以2等于10分之7。
+
+Hur kan man vara säker på att man har placerat decimaltecknet rätt?
+How can you be sure that you have placed the decimal point correctly?
+如何确定小数点位置正确？
+
+Ett bra sätt är att använda sig av överslagsräkning.
+A good way is to use rough calculations.
+一个好的方法是使用粗略的计算。
+
+I det här exemplet kan man tänka så här:
+In this example, you can think like this:
+在这个例子中，你可以这样思考：
+
+65 är lite mer än 60 och 60 delat med 2 är 30. Då måste svaret vara 32,7.
+65 is slightly more than 60 and 60 divided by 2 is 30. Then the answer must be 32.7.
+65 比 60 稍大一些，60 除以 2 就是 30。那么答案一定是 32.7。
+
+P 186
+EXEMPEL. Svar. ETT.
+EXAMPLE. Response. ONE.
+例子。 答案。 一。
+
+1 hundratal dividerat med 4 är O hundratal. Nollan behöver du inte skriva ut.
+1 hundreds divided by 4 is O hundreds. You do not need to print the zero.
+100 除以 4 是 O 百。 您不需要写 0。
+
+19 tiotal dividerat med 4 är 4 hela tiotal. Resten, 3 tiotal, blir minnessiffra.
+19 tens divided by 4 is 4 whole tens. The rest, 3 tens, will be a memory number.
+19 个 10 除以 4 等于 4 个整数 10。 剩下的 3 个 10，将是一个记忆数字。
+
+32 ental dividerat med 4 är 8 ental.
+32 singulars divided by 4 is 8 singulars.
+32 个单数除以 4 等于 8 个单数。
+
+1 hundratal dividerat med 5 är O hundratal. 10 tiotal dividerat med 5 är 2 tiotal.
+1 hundreds divided by 5 is O hundreds. 10 tens divided by 5 is 2 tens.
+100 除以 5 是 O 个 100 。 10 个 10 除以 5 等于 2 个 10。
+
+3 ental dividerat med 5 är O ental. Den nollan måste du skriva ut.
+3 singular divided by 5 is O singular. You must print that zero.
+3 单数除以 5 是 O 单数。 您必须写那个0。
+
+35 tiondelar dividerat med 5 är 7 tiondelar. 
+35 tenths divided by 5 is 7 tenths.
+10 分之 35 除以 5 等于 10 分之 7。
+
+Kom ihåg att ta med dig decimaltecknet när du passerar det.
+Remember to take the decimal point with you when you pass it.
+通过的时候记得带上小数点。
+
+För att kontrollera att decimaltecknet hamnat rätt kan du göra en överslagsräkning.
+To check that the decimal point is correct, you can do an approximate calculation.
+要检查小数点是否正确，可以进行近似计算。
+
+Eftersom så är svaret rimligt.
+Because the answer is reasonable.
+因为答案是合理的。
+
+1 ental dividerat med 3 är O. Nollan måste skrivas ut.
+1 number divided by 3 is O. The zero must be printed.
+1 除以 3 是 O。 必须写零。
+
+13 tiondelar dividerat med 3 är 4 hela tiondelar. Resten, 1 tiondel, blir minnessiffra.
+13 tenths divided by 3 is 4 whole tenths. The rest, 1 tenth, becomes a memory digit.
+10 分之 13 除以 3 等于 10 分之 4。 其余的 10 分之一，成为记忆数字。
+
+18 hundradelar dividerat med 3 är 6 hundradelar. 
+18 hundredths divided by 3 is 6 hundredths.
+100 分之 18 除以 3 等于 100 分之 6。
+
+Jasmine köper tre böcker om Harry Potter och betalar 687 kr. 
+Jasmine buys three books about Harry Potter and pays SEK 687.
+Jasmine 购买了三本关于哈利·波特的书，并支付了 687 瑞典克朗。
+
+Vad kostar böckerna per styck om de kostar lika mycket?
+What is the cost of the books per piece if they cost the same?
+如果这些书的价格相同，每本的价格是多少？
+
+Michel ska lägga 120 köttbullar i 5 påsar med lika många i varje.
+Michel is to put 120 meatballs in 5 bags with the same number in each.
+米歇尔将 120 个肉丸放入 5 个袋子中，每个袋子的数量相同。
+
+Hur många köttbullar blir det i varje påse?
+How many meatballs are in each bag?
+每袋有多少个肉丸？
+
+P 187  
+Osten delas i åtta lika stora bitar. Hur mycket väger varje bit?
+The cheese is divided into eight equal pieces. How much does each piece weigh?
+将奶酪分成 8 等份。 每件重多少？
+
+Ge förslag på vad som kan stå istället för x och y om x/y = 1.5
+Give suggestions for what could stand instead of x and y if x/y = 1.5
+如果 x/y = 1.5，请给出替代 x 和 y 的建议
+
+Omkretsen av en kvadrat är 15,2 cm. Hur lång är varje sida?
+The perimeter of a square is 15.2 cm. How long is each side?
+正方形的周长是15.2厘米。 每边有多长？
+
+Fem likadana skruvar kostar sammanlagt 9,50 kr. Hur mycket kostar en skruv?
+Five identical screws cost a total of SEK 9.50. How much does a screw cost?
+五个相同的螺丝总共花费 9.50 瑞典克朗。 一颗螺丝要多少钱？
+
+Vilket tal är x? TVÅ.
+What number is x? TWO.
+x 是多少？ 二。
+
+Fem likadana chokladaskar kostade sammanlagt 395 kr. Vad kostade en chokladask?
+Five identical chocolate boxes cost a total of SEK 395. How much did a box of chocolates cost?
+5盒一模一样的巧克力总共花费了 395 瑞典克朗。1盒巧克力多少钱？
+
+Hilda har ett godissnöre som är 1,65 m långt. Hon delar det lika med sina två kompisar. 
+Hilda has a candy string that is 1.65 m long. She shares it equally with her two friends.
+Hilda 有一根 1.65 m 长的糖果串。 她与她的两个朋友平分。
+
+Hur lång bit får var och en?
+How long does each person get?
+每个人能得到多长？
+
+P 188
+Peder vill förenkla uträkningen. Då gör han så här. Förklara hur Peder tänker.
+Peder wants to simplify the calculation. Then he does this. Explain how Peder thinks.
+Peder想要简化计算。 然后他就这么做了。 解释Peder的想法。
+
+Kvadraten har lika lång omkrets som triangeln. Hur lång sida har kvadraten?
+The square has the same perimeter as the triangle. How long is the side of the square?
+正方形的周长与三角形相同。 正方形的边长是多少？
+
+Joakim köpte 5 liter lingon på torget för 149,50 kr. 
+Joakim bought 5 liters of lingonberries on the square for SEK 149.50.
+Joakim 在广场上花了 149.50 瑞典克朗买了 5 升越橘。
+
+Melissa stod bakom Joakim i kön. Hon köpte 4 liter lingon. Vad kostade det?
+Melissa stood behind Joakim in the queue. She bought 4 liters of lingonberries. What did it cost?
+Melissa 在队列中站在 Joakim 后面。 她买了 4 升越橘。 花了多少钱？
+
+Nadia dividerar ett tal med 9. Kvoten är 35,1. Vilket är talet? TRE.
+Nadia divides a number by 9. The quotient is 35.1. What is the number? THREE.
+Nadia 将一个数字除以 9。商为 35.1。 这个数字是多少？ 三。
+
+Vilka siffror ska stå istället för bokstäverna?
+What numbers should stand instead of the letters?
+应该用什么数字代替字母？
+
+P 189
+Vid en fisketur fick Albin en makrill, en rödspätta och en torsk.
+On a fishing trip, Albin caught a mackerel, a plaice and a cod.
+在一次钓鱼之旅中，Albin 钓到了一条鲭鱼、一条鲽鱼和一条鳕鱼。
+
+Makrillen vägde 0,3 kg och rödspättan tre gånger så mycket.
+The mackerel weighed 0.3 kg and the plaice three times as much.
+鲭鱼重0.3公斤，鲽鱼是它的3倍重。
+
+Torsken vägde tre gånger så mycket som rödspättan. Beräkna medelvärdet av fiskarnas vikter.
+The cod weighed three times as much as the plaice. Calculate the mean of the weights of the fish.
+鳕鱼的重量是鲽鱼的3倍。 计算鱼的平均重量。
+
+Vilket tal är y?
+What number is y?
+y 是多少？
+
+Viktoria räknar så här. Förklara hur hon tänker. Räkna på samma sätt.
+Viktoria calculates like this. Explain how she thinks. Calculate in the same way.
+Viktoria 是这样算的。 解释她的想法。 以同样的方式计算。
+
+En bräda är 4,8 m lång. Först sågar Sanna av en lång bit som är 1,55 m. 
+A board is 4.8 m long. First, Sanna saws off a long piece that is 1.55 m.
+一块板长 4.8 m。 首先，Sanna 锯掉了一块 1.55 m 的长木块。
+
+Därefter sågar hon av en kort bit på 40 cm. 
+She then saws off a short piece of 40 cm.
+然后她锯下了 40 厘米的一小段。
+
+Den delen som sedan är kvar delar hon i tre lika långa bitar. Hur långa är dessa bitar?
+She then divides the part that is left into three equally long pieces. How long are these pieces?
+然后她将剩下的部分分成 3 等长的部分。 这些小段有多长？
+
+Hur mycket billigare är det per styck om man köper fem kakor?
+How much cheaper is it per piece if you buy five cookies?
+如果买5块饼干，每块便宜多少？
+
+Lucas tänker på ett tal. Om han dividerar talet med 5 och sedan adderar med 1,7 får han 4,5.
+Lucas thinks of a number. If he divides the number by 5 and then adds by 1.7, he gets 4.5.
+Lucas 想了一个数字。 如果他将该数字除以 5，然后再加上 1.7，则得到 4.5。
+
+Vilket tal tänker Lucas på?
+What number is Lucas thinking of?
+Lucas 想的数字是什么？
+
+Viktor betalade 498 kr för två kilogram kräftor.
+Viktor paid SEK 498 for two kilograms of crayfish.
+Viktor 花了 498 瑞典克朗买了 2 公斤小龙虾。
+
+Emine köpte tre kilogram av samma sort. Hur mycket fick hon tillbaka på 1000 kr?
+Emine bought three kilograms of the same variety. How much did she get back on SEK 1000?
+Emine 买了3 公斤同样的东西。 她付了 1000 瑞典克朗，能找回多少钱？
+
+Av en lotterivinst på 28380 kr fick Freja en tredjedel och Hugo en fjärdedel. Resten fick Arvid.
+Of a lottery win of SEK 28,380, Freja received a third and Hugo a quarter. Arvid got the rest.
+一张彩票赢得了28380瑞典克朗的奖金，其中，Freja收到了3分之1; Hugo 赢得了4分之1; Arvid 得到了剩下的。
+
+Hur mycket fick han? Hur stor andel av vinsten fick Arvid?
+How much did he get? What percentage of the profit did Arvid get?
+他得到了多少钱？ Arvid 获得了百分之多少的利润？
+
+BETA UTMANING KAPITEL 4.
+BETA CHALLENGE CHAPTER 4.
+测试版挑战第 4 章。
