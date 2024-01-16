@@ -1,0 +1,126 @@
+P 194
+Division med 10, 100 och 1 000.
+
+DIVISION AV TAL I DECIMALFORM.
+
+När man dividerar ett tal i decimalform med 10, 
+
+kommer alla siffror i talet att få ett 10 gånger mindre värde. 
+
+Tiotalssiffran blir entalssiffra, entalssiffran blir tiondelssiffra och så vidare. 
+
+Det betyder till exempel att 14,5/10 = 1,45.
+
+Siffrorna flyttar lika många steg åt höger som det är nollor i 10.
+
+hundratal. tiotal. ental. tiondel. hundradel.
+
+Om vi istället dividerar 14,5 med 100 kommer alla siffror i talet att få ett 100 gånger mindre värde.
+
+Vi får då att 14,5/100 = 0,145.
+
+Siffrorna flyttar lika många steg åt höger som det är nollor i 100. 
+
+Eftersom siffrorna flyttar två steg får vi lägga till en nolla och skriva 14,5 som 014,5. 
+
+En eller flera nollor i början av talet förändrar inte talets värde. 
+
+Här flyttar till exempel siffran 1 från positionen för tiotal till positionen för tiondelar.
+
+hundratal. tiotal. ental. tiondel. hundradel. tusendel.
+
+På liknande sätt kan vi visa att 14,5/1000 = 0,0145. 
+
+Siffrorna flyttar lika många steg som det är nollor i 1 000. 
+
+Eftersom siffrorna flyttar tre steg så får vi lägga till några nollor och skriva 14,5 som 0014,5. 
+
+Nollorna i början påverkar inte talets värde.
+
+
+P 195
+DIVISION AV POSITIVA HELTAL.
+
+Även när ett positivt heltal divideras med 10 kommer siffrorna i talet att få ett 10 gånger mindre värde. 
+
+Divisionen 75/10 kan visas så här:
+
+hundratal. tiotal. ental. tiondel. hundradel.
+
+När vi dividerar med 10 flyttar siffran 7 från positionen för tiotal till positionen för ental.
+
+Siffran 5 flyttar från positionen för ental till positionen för tiondelar.
+
+Vi skriver 75 som 75,0 för att få decimaltecknet synligt.
+
+På liknande sätt kan vi visa att 75/100 = 0,75 och att 75/1000 = 0,075.
+
+Du kan tänka så här: "Det ser ut som att decimaltecknet flyttar ett steg åt vänster." 
+
+Du flyttar decimaltecknet lika många steg som det är nollor i 10.
+
+Du kan tänka så här: "Det ser ut som att decimaltecknet flyttar två steg åt vänster." 
+
+Du flyttar decimaltecknet lika många steg som det är nollor i 100.
+
+Eftersom decimaltecknet då hamnar framför 3:an måste du skriva ut en nolla på entalssiffrans plats.
+
+Du kan tänka så här: "Det ser ut som att decimaltecknet flyttar tre steg åt vänster." 
+
+Du flyttar decimaltecknet lika många steg som det är nollor i 1000. 
+
+Här behöver du skriva ut två extra nollor för att kunna sätta ut decimaltecknet.
+
+
+P 196
+För att få ett synligt decimaltecken skriver du 352 som 352,0. 
+
+Då får du 352,0/10 = 35,20 = 35,2.
+
+På en friluftsdag serverades varmkorv. En förpackning med 100 korvar kostade 290 kr. 
+
+Hur mycket kostade korvarna per styck?
+
+När Marcus räknade 10*1,5 så fick han svaret 0,15 vilket är fel.
+
+Hur tror du att Marcus tänkte? Vilket är svaret?
+
+Hur många tiokronor får man, om man växlar 4 500 kr till tiokronor?
+
+
+P 197
+Vilket tal är x?
+
+Liam köper 100 skruvar. Hur mycket kostar skruvarna per styck?
+
+100 skruvar kostar 58 kr.
+
+Ett tal ska först multipliceras med 1 000. Sedan ska svaret divideras med 100.
+
+Hur kan man utföra beräkningen på ett enklare sätt?  Förklara hur du tänker.
+
+Jordens omkrets är 40 000 km. Antag att man färdas runt ekvatorn på 100 dygn. 
+
+Hur långt färdas man då varje dygn? Svara i mil.
+
+
+P 198
+På en stor skola serveras 1 000 portioner lunch varje dag. 
+
+För det betalar skolan 42 500 kr. Hur mycket kostar varje portion?
+
+Vilket tal är x?
+
+Om du multiplicerar ett tal med 0,1 eller dividerar det med 10 så får du samma svar. 
+
+Förklara varför. En bokhandel betalade 19 500 kr för 100 exemplar av en ny bok.
+
+Böckerna såldes sedan för 325 kr styck. Alla böcker blev sålda. 
+
+Hur mycket tjänade bokhandeln?
+
+Erwin räknade så här. Förklara hur Erwin tänkte.
+
+Yard är ett längdmått som används till exempel i USA. 100 yards motsvarar 91,44 m. 
+
+Hur mycket längre är 1 m än 1 yard? Svara i millimeter.
