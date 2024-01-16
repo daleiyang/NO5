@@ -1,0 +1,13 @@
+IBLAND BEHÖVS FLER NOLLOR.
+Man kan skriva hur många nollor man vill efter den sista decimalen utan att talets värde förändras.
+Ibland behöver man fylla på med nollor efter den sista decimalen när man ska multiplicera med 10, 100 eller 1000.
+tusental. hundratal. tiotal. ental. tiondel. hundradel. tusendel.
+Alla siffror får ett 10 gånger större värde.
+Du kan också tänka så här:
+Det ser ut som om decimaltecknet flyttar sig ett steg åt höger. 
+Du flyttar decimaltecknet lika många steg som det är nollor i 10.
+Alla siffror får ett 1 000 gånger större värde.
+Du kan också tänka så här:
+Det ser ut som om decimaltecknet flyttar sig tre steg åt höger. 
+Du flyttar decimaltecknet lika många steg som det är nollor i 1000.
+Eftersom talet bara har två decimaler behöver du lägga till en extra nolla.

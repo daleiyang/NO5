@@ -1,0 +1,13 @@
+SOMETIMES MORE ZEROS ARE NEEDED.
+You can write as many zeros as you want after the last decimal without the value of the number changing.
+Sometimes you need to add zeros after the last decimal point when multiplying by 10, 100 or 1000.
+thousand. hundreds. ten. singular. tenth. hundredth. thousandth.
+All numbers are given a 10 times larger value.
+You can also think like this:
+It looks like the decimal point moves one step to the right.
+You move the decimal point as many steps as there are zeros in 10.
+All numbers are given a 1,000 times greater value.
+You can also think like this:
+It looks like the decimal point moves three steps to the right.
+You move the decimal point as many steps as there are zeros in 1000.
+Since the number only has two decimal places, you need to add an extra zero.

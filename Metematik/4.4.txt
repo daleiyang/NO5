@@ -1,104 +1,199 @@
 P 190
-Multiplikation med 10,100 och 1000.
+Multiplikation med 10, 100 och 1000.
+Multiplication by 10, 100 and 1000.
+乘以 10, 100 和 1000。
 
 MULTIPLIKATION MED POSITIVA HELTAL.
+MULTIPLICATION WITH POSITIVE INTEGER NUMBERS.
+正整数的乘法。
 
-Det är lätt att multiplicera positiva heltal med 10,100 eller 1000.
+Det är lätt att multiplicera positiva heltal med 10, 100 eller 1000.
+Multiplying positive integers by 10, 100 or 1000 is easy.
+将正整数乘以 10, 100 或 1000 很容易。
 
-Produkten är 10,100 eller 1000 gånger så stor. 
+Produkten är 10, 100 eller 1000 gånger så stor. 
+The product is 10, 100 or 1000 times as large.
+积是原来的 10 倍，100 倍或 1000 倍。
 
 Det innebär att alla siffror i produkten får värden som är 10,100 eller 1000 gånger större.
+This means that all numbers in the product get values that are 10, 100 or 1000 times larger.
+这意味着乘积中的所有数字都会获得 10，100 或 1000 倍大的值。
 
 Man kan tänka så här. 5 tior är värda 50 kr. 
+You can think like this. 5 tens are worth SEK 50.
+你可以这样想。 5 个 10 克朗的价值为 50 克朗。
 
 5 hundralappar är värda 500 kr. 5 tusenlappar är värda 5000 kr.
+5 hundred notes are worth SEK 500. 5 thousand notes are worth SEK 5,000.
+5 张 100 克朗的纸币价值 500 克朗。5 张 1000 克朗的纸币价值 5,000 克朗。
 
 MULTIPLIKATION MED TAL I DECIMALFORM. 
+MULTIPLICATION WITH NUMBERS IN DECIMAL FORM.
+十进制数字的乘法。
 
 hundratal. tiotal. ental. tiondel. hundradel.
+hundreds. ten. singular. tenth. hundredth.
+百位。 十位。 个位。 十分位。 百分位。
 
 Hur är det då när ett tal i decimalform multipliceras med 10,100 eller 1000?
+So what happens when a number in decimal form is multiplied by 10, 100 or 1000?
+那么，当十进制数乘以 10，100 或 1000 时会发生什么？
 
 Vi tittar på ett exempel, 100 . 1,45.
+We look at an example, 100 . 1.45.
+我们看一个例子，100*1.45。
 
 När man multiplicerar ett tal med 100 får alla siffror ett 100 gånger större värde. 
+When you multiply a number by 100, all digits get a 100 times greater value.
+当您将一个数字乘以 100 时，所有数字的值都会增加 100 倍。
 
 I exemplet flyttar siffran 1 från positionen för ental till positionen för hundratal.
+In the example, the digit 1 moves from the ones position to the hundreds position.
+在该示例中，数字 1 从个位移动到百位。
 
 Man flyttar siffrorna lika många steg åt vänster som det är nollor i 100.
-
+You move the numbers as many steps to the left as there are zeros in 100.
+将数字向左移动 100 中零的数量。
 
 P 191
 IBLAND BEHÖVS FLER NOLLOR.
+SOMETIMES MORE ZEROS ARE NEEDED.
+有时需要更多的零。
 
 Man kan skriva hur många nollor man vill efter den sista decimalen utan att talets värde förändras.
+You can write as many zeros as you want after the last decimal without the value of the number changing.
+您可以在最后一个小数后写入任意多个零，而数字的值不会改变。
 
-Ibland behöver man fylla på med nollor efter den sista decimalen när man ska multiplicera med 10,100 eller 1000.
+Ibland behöver man fylla på med nollor efter den sista decimalen när man ska multiplicera med 10, 100 eller 1000.
+Sometimes you need to add zeros after the last decimal point when multiplying by 10, 100 or 1000.
+有时，乘以 10，100 或 1000 时，需要在最后一个小数点后添加零。
 
 tusental. hundratal. tiotal. ental. tiondel. hundradel. tusendel.
+thousand. hundreds. ten. singular. tenth. hundredth. thousandth.
+千位。 百位。 十位。 个位。 十分位。 百分位。 千分位。
 
 Alla siffror får ett 10 gånger större värde.
+All numbers are given a 10 times larger value.
+所有数字都被赋予 10 倍大的值。
 
 Du kan också tänka så här:
+You can also think like this:
+你也可以这样想：
 
 Det ser ut som om decimaltecknet flyttar sig ett steg åt höger. 
+It looks like the decimal point moves one step to the right.
+看起来小数点向右移动了一位。
 
 Du flyttar decimaltecknet lika många steg som det är nollor i 10.
+You move the decimal point as many steps as there are zeros in 10.
+您将小数点移动的步数与 10 中的零个数相同。
 
 Alla siffror får ett 1 000 gånger större värde.
+All numbers are given a 1,000 times greater value.
+所有数字都被赋予 1,000 倍的大值。
 
 Du kan också tänka så här:
+You can also think like this:
+你也可以这样想：
 
 Det ser ut som om decimaltecknet flyttar sig tre steg åt höger. 
+It looks like the decimal point moves three steps to the right.
+看起来小数点向右移动了三步。
 
 Du flyttar decimaltecknet lika många steg som det är nollor i 1000.
+You move the decimal point as many steps as there are zeros in 1000.
+您将小数点移动的步数与 1000 中的零个数相同。
 
 Eftersom talet bara har två decimaler behöver du lägga till en extra nolla.
-
+Since the number only has two decimal places, you need to add an extra zero.
+由于该数字只有两位小数，因此需要添加一个额外的零。
 
 P 192
 Skolköket i Ekskolan köpte 100 liter mjölk för 9,80 kr per liter. 
+The school kitchen in Ekskolan bought 100 liters of milk for SEK 9.80 per liter.
+Ekskolan 的学校厨房以每升 9.80 瑞典克朗的价格购买了 100 升牛奶。
 
 Hur mycket kostade mjölken?
+How much did the milk cost?
+牛奶花了多少钱？
 
 Hur tänker du när du ska multiplicera ett tal i decimalform med 10,100 eller 1000?
+How do you think when you have to multiply a number in decimal form by 10, 100 or 1000?
+当你必须将一个十进制数乘以 10，100 或 1000 时，你会怎么想？
 
 Sveriges största skalbagge, ekoxen, kan bli 7,5 cm lång. 
+Sweden's largest beetle, Stag beetle, can be 7.5 cm long.
+瑞典最大的甲虫，锹甲，可以长 7.5 厘米。
 
 Hur lång blir en rad med 100 så långa ekoxar? Svara i meter.
+How long will a row of 100 such long oaks be? Answer in meters.
+一排 100 棵这么长的橡树有多长？ 答案以米为单位。
 
 Vilket tal är x?
+What number is x?
+x 是多少？
 
 En loppa kan hoppa 100 gånger sin egen längd. Hur långt kan loppan hoppa om den är 3 mm lång? Svara i decimeter.
+A flea can jump 100 times its own length. How far can the flea jump if it is 3 mm long? Answer in decimetres.
+跳蚤可以跳自身长度的 100 倍。 如果跳蚤长3毫米，它能跳多远？ 答案以分米为单位。
 
 En loppa kan äta 10 gånger sin egen vikt per dag. Hur mycket kan loppan äta på en dag om den väger 0,3 g?
-
+A flea can eat 10 times its own weight per day. How much can the flea eat in a day if it weighs 0.3 g?
+跳蚤每天可以吃掉自身重量10倍的食物。 如果跳蚤重0.3克，一天能吃多少东西？
 
 P 193
-När Tove ska räkna ut 50 . 7,2 gör hon så här:
+När Tove ska räkna ut 50.7,2 gör hon så här:
+When Tove has to calculate 50.7.2 she does this:
+当 Tove 必须计算 50 * 7.2 时，她这样做：
 
 Förklara varför Tove får rätt svar.
+Explain why Tove gets the right answer.
+解释为什么 Tove 会得到正确答案。
 
 Vilket värde har siffran 5 i talet 1,52?
+What is the value of the number 5 in the number 1.52?
+数字 1.52 中数字 5 的值是多少？
 
 Vilket värde får siffran 5 när talet 1,52 multipliceras med 100?
+What value does the number 5 get when the number 1.52 is multiplied by 100?
+当数字 1.52 乘以 100 时，数字 5 得到什么值？
 
 Vilket tal är x?
+What number is x?
+x 是多少？
 
 En maskin tillverkar 100 000 tabletter per dygn. Varje tablett väger 0,08 g. 
+A machine produces 100,000 tablets per day. Each tablet weighs 0.08 g.
+一台机器每天生产 100,000 粒药片。 每片重0.08克。
 
 Hur mycket väger alla tabletter som maskinen tillverkar under en vecka? Svara i kilogram.
+How much do all the tablets that the machine makes in a week weigh? Answer in kilograms.
+这台机器一周生产的所有药片的重量是多少？ 答案以公斤为单位。
 
 Ett chilifrö väger endast 0,005 g.
+A chili seed weighs only 0.005 g.
+一颗辣椒籽仅重0.005克。
 
 Hur mycket väger en miljon frön? Svara i kilogram.
+How much does a million seeds weigh? Answer in kilograms.
+一百万颗种子有多重？ 答案以公斤为单位。
 
 Hur många frön behövs för att de sammanlagt ska väga 1 g?
+How many seeds are needed for them to weigh a total of 1 g?
+总共需要多少粒种子才能重 1 克？
 
 Talet A är 10 gånger så stort som talet B. 
+The number A is 10 times as large as the number B.
+数A是数B的10倍。
 
 Talet B är i sin tur 100 gånger så stort som talet C. 
+The number B is in turn 100 times as large as the number C.
+数字 B 又是数字 C 的 100 倍。
 
 Talet A är lika med 1,2. Vilket tal är C?
+The number A is equal to 1.2. What number is C?
+数字A等于1.2。 C 是几？
 
 Talet 100000 är en miljon gånger större än en tiondel. Visa att det är så.
+The number 100000 is a million times greater than a tenth. Show that it is so.
+100000这个数字比十分之一大一百万倍。 证明确实如此。

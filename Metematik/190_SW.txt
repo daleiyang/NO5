@@ -1,0 +1,14 @@
+Multiplikation med 10, 100 och 1000.
+MULTIPLIKATION MED POSITIVA HELTAL.
+Det är lätt att multiplicera positiva heltal med 10, 100 eller 1000.
+Produkten är 10, 100 eller 1000 gånger så stor. 
+Det innebär att alla siffror i produkten får värden som är 10,100 eller 1000 gånger större.
+Man kan tänka så här. 5 tior är värda 50 kr. 
+5 hundralappar är värda 500 kr. 5 tusenlappar är värda 5000 kr.
+MULTIPLIKATION MED TAL I DECIMALFORM. 
+hundratal. tiotal. ental. tiondel. hundradel.
+Hur är det då när ett tal i decimalform multipliceras med 10,100 eller 1000?
+Vi tittar på ett exempel, 100 * 1,45.
+När man multiplicerar ett tal med 100 får alla siffror ett 100 gånger större värde. 
+I exemplet flyttar siffran 1 från positionen för ental till positionen för hundratal.
+Man flyttar siffrorna lika många steg åt vänster som det är nollor i 100.
