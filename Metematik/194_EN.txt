@@ -1,75 +1,19 @@
-Division med 10, 100 och 1 000.
 Division by 10, 100 and 1,000.
-除以 10， 100 和 1,000。
-
-DIVISION AV TAL I DECIMALFORM.
 DIVISION OF NUMBERS IN DECIMAL FORM.
-小数形式的除法。
-
-När man dividerar ett tal i decimalform med 10, 
 When dividing a number in decimal form by 10,
-将小数除以 10 时，
-
-kommer alla siffror i talet att få ett 10 gånger mindre värde. 
 all digits in the number will get a 10 times smaller value.
-数字中的所有数字都将得到小 10 倍的值。
-
-Tiotalssiffran blir entalssiffra, entalssiffran blir tiondelssiffra och så vidare. 
 The tens digit becomes the ones digit, the ones digit becomes the tenths digit and so on.
-十位数字变成个位数字，个位数字变成十分位数字，依此类推。
-
-Det betyder till exempel att 14,5/10 = 1,45.
 This means, for example, that 14.5/10 = 1.45.
-例如，这意味着 14.5/10 = 1.45。
-
-Siffrorna flyttar lika många steg åt höger som det är nollor i 10.
 The numbers move as many steps to the right as there are zeros in 10.
-数字向右移动的步数与 10 中零的个数相同。
-
-hundratal. tiotal. ental. tiondel. hundradel.
 hundreds. ten. singular. tenth. hundredth.
-百位。 十位。 个位。 十分位。 百分位。
-
-Om vi istället dividerar 14,5 med 100 kommer alla siffror i talet att få ett 100 gånger mindre värde.
 If we instead divide 14.5 by 100, all the digits in the number will get a 100 times smaller value.
-如果我们将 14.5 除以 100，则该数字中的所有数字都将得到小 100 倍的值。
-
-Vi får då att 14,5/100 = 0,145.
 We then get that 14.5/100 = 0.145.
-然后我们得到 14.5/100 = 0.145。
-
-Siffrorna flyttar lika många steg åt höger som det är nollor i 100. 
 The numbers move as many steps to the right as there are zeros in 100.
-数字向右移动的步数与 100 中零的个数相同。
-
-Eftersom siffrorna flyttar två steg får vi lägga till en nolla och skriva 14,5 som 014,5. 
 Since the numbers move two steps, we must add a zero and write 14.5 as 014.5.
-由于数字移动了两步，因此我们必须添加一个零并将 14.5 写为 014.5。
-
-En eller flera nollor i början av talet förändrar inte talets värde. 
 One or more zeros at the beginning of the number does not change the value of the number.
-数字开头的一个或多个零不会改变数字的值。
-
-Här flyttar till exempel siffran 1 från positionen för tiotal till positionen för tiondelar.
 Here, for example, the digit 1 moves from the tens position to the tenths position.
-这里，例如，数字1从十位移动到十分位。
-
-hundratal. tiotal. ental. tiondel. hundradel. tusendel.
 hundreds. ten. singular. tenth. hundredth. thousandth.
-百位。 十位。 个位。 十分位。 百分位。千分位。
-
-På liknande sätt kan vi visa att 14,5/1000 = 0,0145. 
 Similarly, we can show that 14.5/1000 = 0.0145.
-同样，我们可以证明 14.5/1000 = 0.0145。
-
-Siffrorna flyttar lika många steg som det är nollor i 1 000. 
 The numbers move as many steps as there are zeros in 1,000.
-这些数字移动的步数与 1,000 中零的个数一样多。
-
-Eftersom siffrorna flyttar tre steg så får vi lägga till några nollor och skriva 14,5 som 0014,5. 
 Since the numbers move three steps, we can add some zeros and write 14.5 as 0014.5.
-由于数字移动了三步，我们可以添加一些零，并将 14.5 写为 0014.5。
-
-Nollorna i början påverkar inte talets värde.
 The leading zeros do not affect the value of the number.
-前导零不会影响数字的值。
