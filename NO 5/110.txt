@@ -26,9 +26,9 @@ Såna gamla skogar är viktiga för många arter.
 Such old forests are important for many species.
 这些古老的森林对许多物种都很重要。
 
-På äldre granar kan man hitta skäglav som hänger från grenarna.
-On older fir trees, beard lichen can be found hanging from the branches.
-在较老的冷杉树上，可以发现胡须地衣挂在树枝上。
+På äldre granar kan man hitta skägglav som hänger från grenarna.
+On older fir trees, beard vines can be found hanging from the branches.
+在较老的冷杉树上，可以发现松萝(树胡子)挂在树枝上。
 
 På marken och på trädstammar växer andra arter av lavar.
 Other species of lichen grow on the ground and on tree trunks.
@@ -51,8 +51,8 @@ The bog on the mountain is a wetland with tall tufts of grass and occasional cro
 山上的沼泽是一片湿地，长着高高的草丛，偶尔还有弯曲的松树。
 
 Polarullen lyser vit liksom hjortronblommorna.
-The polar roller glows white, like the gooseberry flowers.
-极地滚轮发出白色的光，就像醋栗花一样。
+Eriophorum scheuchzeri glows white, like the cloudberry flowers.
+白羊胡子草发出白色的光，就像云莓花一样。
 
 På sensommaren är myren guldgul av hjortron och röd av tranbär
 In late summer, the marsh is golden yellow from cloudberries and red from cranberries
@@ -60,19 +60,19 @@ In late summer, the marsh is golden yellow from cloudberries and red from cranbe
 
 På en liten tuva kan man hitta en blålila blomma som har en krans med ljusgröna blad vid marken.
 On a small tuft you can find a blue-purple flower that has a wreath of light green leaves at the ground.
-在一小簇花丛中，您会发现一朵蓝紫色的花朵，地面上有一圈浅绿色的叶子。
+在一小簇花丛中，您会发现一朵蓝紫色的花朵，地面上有一圈浅绿色的叶子。Blomman heter tätört
 
 På bladen ligger några döda flugor.
 There are some dead flies on the leaves.
 叶子上有一些死苍蝇。
 
 Blomman heter tätört och är en av få svenska köttätande växter.
-The flower is called tätört and is one of the few Swedish carnivorous plants.
-这种花被称为 tätört，是瑞典为数不多的食肉植物之一。
+The flower is called "Pinguicula vulgaris" and is one of the few Swedish carnivorous plants.
+这种花被称为"野捕虫堇(jin 3)"，是瑞典为数不多的食肉植物之一。
 
 Tätörtens blad är klibbiga, så att flugor och myror fastnar där.
-The leaves of the sedge are sticky, so that flies and ants get stuck there.
-tätört 的叶子很粘，所以苍蝇和蚂蚁会粘在那里。
+The leaves of the "Pinguicula vulgaris" are sticky, so that flies and ants get stuck there.
+"野捕虫堇"的叶子很粘，所以苍蝇和蚂蚁会粘在那里。
 
 När en insekt har fastnat, rullar bladet ihop sig.
 When an insect is stuck, the leaves curl up.
@@ -83,12 +83,12 @@ Inside the leaf roll, the insect dissolves and the plant absorbs the nutrients.
 在叶卷内，昆虫溶解，植物吸收养分。
 
 På det sättet får tätörten i sig de viktiga näringsämnen som finns i insekter, men som det är ont om i myrarna.
-In this way, the sedge gets the important nutrients that are found in insects, but which are in short supply in the bogs.
-通过这种方式，tätört 获得了昆虫身上发现的重要营养物质，但沼泽中却缺乏这些营养物质。
+In this way, the "Pinguicula vulgaris" gets the important nutrients that are found in insects, but which are in short supply in the bogs.
+通过这种方式，"野捕虫堇" 获得了昆虫身上发现的重要营养物质，但沼泽中却缺乏这些营养物质。
 
-Tranbär. Polarull. Tätört. Hjortron
-Cranberry. Polar fleece. tätört. Cloudberry
-蔓越莓。 摇粒绒。 tätört。 云莓
+Tranbär. Polarull. Tätört. Hjortron.
+Cranberry. Eriophorum scheuchzeri. Pinguicula vulgaris. Cloudberry.
+蔓越莓。 白羊胡子草。 野捕虫堇。 云莓。
 
 Om man har tur kan man få se älgen klampa över myren.
 If you are lucky, you may see the moose trampling across the marsh.
