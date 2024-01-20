@@ -60,7 +60,7 @@ They dig large tunnel systems below ground with passages that can be between 10 
 
 Flera djur bor ihop i små kolonier och visslar högt för att varna varandra för faror. 
 Several animals live together in small colonies and whistle loudly to warn each other of dangers.
-几种动物生活在一个小群体中，并大声吹口哨以警告彼此有危险。
+几只动物生活在一个小群体中，并大声吹口哨以警告彼此有危险。
 
 De sitter ofta upprätt som ekorrar, och spanar omkring sig. 
 They often sit upright like squirrels, and scout around.
