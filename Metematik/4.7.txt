@@ -155,7 +155,7 @@ När han var sju veckor gammal vägde han 3,8 kg.
 
 Hur mycket mer väger Lucas nu?
 
-P206
+P 206
 Laleh köper tre akvariefiskar som kostar 32,50 kr styck.
 
 Hur mycket ska hon betala?
@@ -171,3 +171,112 @@ Hur mycket väger bollarna sammanlagt?
 Peter köpte två förpackningar med 500 A4-papper i varje förpackning. 
 
 För det betalade han 120 kr. Hur mycket kostade varje papper?
+
+P 207
+Vilket tal får du om du har talet 18,65 och subtraherar med en femtedel av talet?
+
+Du har talet 27,94. Tiondelssiffran byter plats med tiotalssiffran.
+
+Hur mycket större blir talet?
+
+För 3,5 kg jordgubbar betalade Jenny 315 kr. 
+
+På varje kilogram gick det i genomsnitt 2 liter. 
+
+Vilket var priset per liter?
+
+En gräsmatta är 16,75 m lång och 11,25 m bred. 
+
+Hur långt är staketet runt gräsmattan?
+
+Ett litermått väger 630 g när det är helt fyllt med blåbär och 380 g när det är fyllt till hälften.
+
+Hur mycket väger litermåttet när det är tomt?
+
+I en burk finns det lika många enkronor som femkronor. 
+
+Myntens sammanlagda värde är 456 kr. Hur många mynt finns det i burken? I
+
+I Nannaskolans aula finns det 250 platser.
+
+När eleverna framförde en musikal sålde de 223 biljetter. 
+
+De kostade 30 kr styck. 
+
+Hur mycket mer hade de sålt för om det hade varit utsålt?
+
+Summan av två tal är 73,6. 
+
+Det ena talet är tre gånger så stort som det andra. 
+
+Beräkna differensen av talen.
+
+P 208
+Fokus på. Begrepp och metod. Vad minns du?
+
+Vad kallas talet 20? produkt. kvot. differens. summa.
+
+I vilket räknesätt kallas talen för faktorer?
+
+multiplikation. division. subtraktion. addition
+
+Hur mycket är 100 — 0,01?
+
+Vad kallas talen 100 och 75? termer. täljare. faktorer. nämnare.
+
+Vilken av divisionerna ger ett svar som är mindre än 1?
+
+Vilket tal är x om x * 100 = 320?
+
+Hur mycket är 8 * 0,09?
+
+Vilket tal har du dividerat 14,5 med om kvoten är 0,0145?
+
+Vilket tal är x om 0,18/x = 0,06?
+
+Välj några begrepp och beskriv hur de hör ihop.
+
+addition. term. täljare. subtraktion. summa. nämnare. 
+
+multiplikation. differens. kvot. division. faktor. produkt.
+
+P 209
+Problemlösning. Tänk logiskt. Exempel.
+
+Ibland går inte ett problem att lösa genom att gissa, rita eller pröva sig fram. 
+
+Men med logiskt tänkande kanske du hittar lösningen.
+
+Tre tal som är mindre än 10 multipliceras med varandra. 
+
+Produkten är 105. Vilka är de tre talen?
+
+Eftersom 105 slutar på 5 är talet delbart med 5.
+
+105/5 = 21. Kvoten är 21. Alltså är 105 = 5*21.
+
+21 = 7*3. Alltså är 105 = 5*7*3.
+
+Fyra tal som alla är mindre än 10 multipliceras med varandra.
+
+Produkten är 210. Vilka är de fyra talen?
+
+Rebecka köpte ett par sandaler och ett par gymnastikskor.
+
+Hon betalade 625 kr. Gymnastikskorna var 145 kr dyrare än sandalerna. 
+
+Hur mycket kostade sandalerna och hur mycket kostade gymnastikskorna?
+
+I uppställningen betyder X en viss siffra, 
+
+Y en annan siffra och Z en tredje siffra. Vilka siffror då?
+
+Bilderna visar en tärning som är avbildad på tre olika sätt. 
+
+Vilken bokstav finns mitt emot.
+
+Fem bagare hinner tillsammans baka fem bullar på fem minuter.
+
+Hur många bullar hinner tio bagare baka på tio minuter?
+
+P 210
