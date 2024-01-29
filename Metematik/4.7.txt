@@ -231,223 +231,435 @@ How much more does Lucas weigh now?
 
 P 206
 Laleh köper tre akvariefiskar som kostar 32,50 kr styck.
+Laleh buys three aquarium fish that cost SEK 32.50 each.
+“拉蕾”买了三条观赏鱼，每条花费 32.50 瑞典克朗。
 
 Hur mycket ska hon betala?
+How much should she pay?
+她应该付多少钱？
 
 En förpackning med fem kokosbollar kostar 19,50 kr.
+A pack of five coconut balls costs SEK 19.50.
+一包 5 个椰子球售价 19.50 瑞典克朗。
 
 Vilket är priset per kokosboll?
+What is the price per coconut ball?
+每个椰子球的价格是多少？
 
-I en låda finns 100 golfbollar. De väger 0,045 kg styck. 
+I en låda finns 100 golfbollar. De väger 0,045 kg styck.
+There are 100 golf balls in a box. They weigh 0.045 kg each. 
+一个盒子里有 100 个高尔夫球。 每个重 0.045 公斤。
 
 Hur mycket väger bollarna sammanlagt?
+How much do the balls weigh in total?
+这些球的总重量是多少？
 
 Peter köpte två förpackningar med 500 A4-papper i varje förpackning. 
+Peter bought two packs of 500 A4 papers in each pack.
+“彼得”买了2包A4纸，每包500张。
 
 För det betalade han 120 kr. Hur mycket kostade varje papper?
+For that he paid SEK 120. How much did each paper cost?
+为此他支付了 120 瑞典克朗。每张纸的价格是多少？
 
 P 207
 Vilket tal får du om du har talet 18,65 och subtraherar med en femtedel av talet?
+What number do you get if you have the number 18.65 and subtract one fifth of the number?
+如果你有数字 18.65 并减去该数字的五分之一，你会得到什么数字？
 
 Du har talet 27,94. Tiondelssiffran byter plats med tiotalssiffran.
+You have the number 27.94. The tenths digit changes place with the tens digit.
+你的数字是 27.94。 十分位数字与十位数字交换位置。
 
 Hur mycket större blir talet?
+How much bigger will the number be?
+这个数字会大多少？
 
 För 3,5 kg jordgubbar betalade Jenny 315 kr. 
+For 3.5 kg of strawberries, Jenny paid SEK 315.
+“珍妮”花了 315 瑞典克朗买了 3.5 公斤草莓。
 
 På varje kilogram gick det i genomsnitt 2 liter. 
+An average of 2 liters was used for each kilogram.
+每公斤平均2升。
 
 Vilket var priset per liter?
+What was the price per liter?
+每升的价格是多少？
 
 En gräsmatta är 16,75 m lång och 11,25 m bred. 
+A lawn is 16.75 m long and 11.25 m wide.
+草坪长 16.75 m，宽 11.25 m。
 
 Hur långt är staketet runt gräsmattan?
+How long is the fence around the lawn?
+草坪周围的栅栏有多长？
 
 Ett litermått väger 630 g när det är helt fyllt med blåbär och 380 g när det är fyllt till hälften.
+A liter measure weighs 630 g when it is completely filled with blueberries and 380 g when it is half filled.
+一升的量筒装满蓝莓时重 630 克，装满一半时重 380 克。
 
 Hur mycket väger litermåttet när det är tomt?
+How much does the liter measure weigh when empty?
+这个一升的量筒空空如也时重量是多少？
 
 I en burk finns det lika många enkronor som femkronor. 
+In a jar, there are as many one kroner as five kroner.
+一个罐子里有很多 1 克朗到 5 克朗的硬币。
 
-Myntens sammanlagda värde är 456 kr. Hur många mynt finns det i burken? I
+Myntens sammanlagda värde är 456 kr. Hur många mynt finns det i burken? 
+The total value of the coins is SEK 456. How many coins are in the jar? 
+硬币总价值为 456 瑞典克朗。罐子里有多少枚硬币？ 
 
 I Nannaskolans aula finns det 250 platser.
+There are 250 seats in Nannaskolan's auditorium.
+Nannaskolan的礼堂有 250 个座位。
 
 När eleverna framförde en musikal sålde de 223 biljetter. 
+When the students performed a musical, they sold 223 tickets.
+当学生们表演音乐剧时，他们卖出了223张门票。
 
 De kostade 30 kr styck. 
+They cost SEK 30 each.
+每张售价 30 瑞典克朗。
 
 Hur mycket mer hade de sålt för om det hade varit utsålt?
+How much more would they have sold for if it had been sold out?
+如果卖完了，他们还能卖多少钱？
 
 Summan av två tal är 73,6. 
+The sum of two numbers is 73.6.
+两个数字之和是 73.6。
 
 Det ena talet är tre gånger så stort som det andra. 
+One number is three times the size of the other.
+一个数字是另一个数字的三倍。
 
 Beräkna differensen av talen.
+Calculate the difference of the numbers.
+计算数字之差。
 
 P 208
 Fokus på. Begrepp och metod. Vad minns du?
+Focus on. Concept and method. What do you remember?
+专注于。 概念和方法。 你记得什么？
 
 Vad kallas talet 20? produkt. kvot. differens. summa.
+What is the number 20 called? product. quotient. difference. sum.
+20 这个数字叫什么？ 积。 商。 差。 和。
 
 I vilket räknesätt kallas talen för faktorer?
+In which method of calculation are the numbers called factors?
+在哪种计算方法中，这些数字称为因子？
 
 multiplikation. division. subtraktion. addition
+multiplication. division. subtraction. addition
+乘法。 除法。 减法。 加法。
 
 Hur mycket är 100 — 0,01?
+How much is 100 — 0.01?
+100 — 0.01 是多少？
 
 Vad kallas talen 100 och 75? termer. täljare. faktorer. nämnare.
+What are the numbers 100 and 75 called? terms. numerator. factors. denominator.
+100和75这两个数字叫什么？ 项。 分子。 因素。 分母。
 
 Vilken av divisionerna ger ett svar som är mindre än 1?
+Which of the divisions gives an answer less than 1?
+哪个除法的答案小于 1？
 
 Vilket tal är x om x * 100 = 320?
+What number is x if x * 100 = 320?
+如果 x * 100 = 320，x 是多少？
 
 Hur mycket är 8 * 0,09?
+How much is 8 * 0.09?
 
 Vilket tal har du dividerat 14,5 med om kvoten är 0,0145?
+What number did you divide 14.5 by if the quotient is 0.0145?
+如果商是 0.0145，你将 14.5 除以什么数？
 
 Vilket tal är x om 0,18/x = 0,06?
+What number is x if 0.18/x = 0.06?
+如果 0.18/x = 0.06，x 是多少？
 
 Välj några begrepp och beskriv hur de hör ihop.
+Choose some concepts and describe how they fit together.
+选择一些概念并描述它们如何组合在一起。
 
 addition. term. täljare. subtraktion. summa. nämnare. 
+addition. term. numerator. subtraction. sum. denominator.
+加法。 项。 分子。 减法。 和。 分母。
 
 multiplikation. differens. kvot. division. faktor. produkt.
+multiplication. difference. quotient. division. factor. product.
+乘法。 差。 商。 除法 因子。 积。
 
 P 209
 Problemlösning. Tänk logiskt. Exempel.
+Problem solving. Think logically. Example.
+解决问题。 逻辑思考。 例子。
 
 Ibland går inte ett problem att lösa genom att gissa, rita eller pröva sig fram. 
+Sometimes a problem cannot be solved by guessing, drawing or experimenting.
+有时，问题无法通过猜测、绘图或实验来解决。
 
 Men med logiskt tänkande kanske du hittar lösningen.
+But with logical thinking you might find the solution.
+但通过逻辑思维，你可能会找到解决方案。
 
 Tre tal som är mindre än 10 multipliceras med varandra. 
+Three numbers less than 10 are multiplied together.
+三个小于 10 的数相乘。
 
 Produkten är 105. Vilka är de tre talen?
+The product is 105. What are the three numbers?
+乘积是 105，这三个数字是多少？
 
 Eftersom 105 slutar på 5 är talet delbart med 5.
+Since 105 ends in 5, the number is divisible by 5.
+由于 105 以 5 结尾，因此该数字可以被 5 整除。
 
 105/5 = 21. Kvoten är 21. Alltså är 105 = 5*21.
+105/5 = 21. The quotient is 21. So 105 = 5*21.
+105/5 = 21。商是21。所以105 = 5*21。
 
 21 = 7*3. Alltså är 105 = 5*7*3.
+21 = 7*3. So 105 = 5*7*3.
+21 = 7*3。 所以 105 = 5*7*3。
 
 Fyra tal som alla är mindre än 10 multipliceras med varandra.
+Four numbers that are all less than 10 are multiplied together.
+四个小于 10 的数字相乘。
 
 Produkten är 210. Vilka är de fyra talen?
+The product is 210. What are the four numbers?
+积是 210，这四个数字是多少？
 
 Rebecka köpte ett par sandaler och ett par gymnastikskor.
+Rebecka bought a pair of sandals and a pair of trainers.
+“瑞贝卡”买了一双凉鞋和一双运动鞋。
 
 Hon betalade 625 kr. Gymnastikskorna var 145 kr dyrare än sandalerna. 
+She paid SEK 625. The gym shoes were SEK 145 more expensive than the sandals.
+她支付了 625 瑞典克朗。运动鞋比凉鞋贵了 145 瑞典克朗。
 
 Hur mycket kostade sandalerna och hur mycket kostade gymnastikskorna?
+How much were the sandals and how much were the trainers?
+凉鞋多少钱，运动鞋多少钱？
 
 I uppställningen betyder X en viss siffra, 
+In the array, X means a certain number,
+竖式中，X表示某个数字，
 
 Y en annan siffra och Z en tredje siffra. Vilka siffror då?
+Y another digit and Z a third digit. What numbers then?
+Y 是另一个数字，Z 是第三个数字。 那么它们是什么数字呢？
 
 Bilderna visar en tärning som är avbildad på tre olika sätt. 
+The images show a die depicted in three different ways.
+这些图像显示了以三种不同方式描绘的骰子。
 
 Vilken bokstav finns mitt emot.
+Which letter is opposite.
+哪个字母是相对的。（分别写出ABC相对的字母是什么）
 
 Fem bagare hinner tillsammans baka fem bullar på fem minuter.
+Five bakers manage to bake five buns together in five minutes.
+五个面包师设法在五分钟内烤出五个面包。
 
 Hur många bullar hinner tio bagare baka på tio minuter?
+How many buns can ten bakers bake in ten minutes?
+十个面包师十分钟能烤多少个面包？
 
 P 210
 En träkloss målas blå runt om. 
+A wooden block is painted blue all around.
+一块木块周围漆成蓝色。
 
 Klossen delas sedan i små klossar som bilden visar. 
+The block is then divided into small blocks as shown in the picture.
+然后将木块分成小块，如图所示。
 
-Hur många av dessa klossar har: inte färg på någon sida.
+Hur många av dessa klossar har: 
+How many of these bricks have: 
+这些小块中有多少块：
 
-färg på en sida. färg på två sidor. färg på tre sidor.
+inte färg på någon sida. färg på en sida.
+no color on any side. color on one page.
+任何一面都没有颜色。 一面上有颜色。
+
+färg på två sidor. färg på tre sidor.
+color on two sides. color on three sides.
+两面上有颜色。 三面上有颜色。
 
 Cirkeln betyder samma tal i de tre beräkningarna.
+The circle means the same number in the three calculations.
+圆圈表示这三个计算中的数字相同。
 
 Det gör kvadraten och triangeln också. Vilket tal betyder varje figur?
+So does the square and the triangle. What number does each figure represent?
+正方形和三角形也是如此。 每个形状代表什么数字？
 
 Spelkorten är lagda efter ett visst system. Vilket är det dolda kortet?
+The playing cards are laid out according to a certain system. What is the hidden card?
+扑克牌是按照一定的规律摆放的。 隐藏的那张是什么？
 
 Försök att komma på hur talen i de olika kvadraterna hänger ihop.
+Try to figure out how the numbers in the different squares are connected.
+尝试找出不同方格中的数字是如何连接的。
 
 Räkna sedan ut vilket tal som saknas.
+Then calculate which number is missing.
+然后计算缺少的那个数字。
 
 Tre lampor sitter bredvid varandra. 
+Three lamps sit next to each other.
+三盏灯并排放置。
 
 En lampa blinkar var 6:e sekund, 
+One light flashes every 6 seconds,
+一盏灯每 6 秒闪烁一次，
 
 en annan var 10:e sekund och den tredje var 12:e sekund. 
+another every 10 seconds and the third every 12 seconds.
+另一盏灯每 10 秒闪烁一次，第三盏灯每 12 秒闪烁一次。
 
 Antag att alla tre lamporna blinkar samtidigt just nu. 
+Assume that all three lights are flashing at the same time right now.
+假设所有三个灯现在同时闪烁。
 
 Hur länge dröjer det innan de blinkar samtidigt igen?
+How long will it take before they flash simultaneously again?
+需要多长时间它们才会再次同时闪烁？
 
 P 211
 Resonemang & Kommunikation. Gauss - ett riktigt mattesnille.
+Reasoning and Communication. Gauss - a real math whiz.
+推理与沟通。 高斯——真正的数学高手。
 
 För över 200 år sedan gick ett riktigt mattesnille på en skola i Tyskland.
+Over 200 years ago, a real math genius attended a school in Germany.
+200 多年前，一位真正的数学天才在德国的一所学校上学。
 
 Han hette Karl Friedrich Gauss och var 9 år. 
+His name was Karl Friedrich Gauss and he was 9 years old.
+他的名字叫“卡尔·弗里德里希·高斯”，今年 9 岁。
 
 En dag tänkte hans lärare att han skulle få en uppgift som var väldigt klurig att lösa. 
+One day his teacher thought he would be given a task that was very clever to solve.
+有一天，他的老师分配给他一个任务，并且认为他足够聪明，一定能够解决。
 
 Uppgiften som Karl fick var att räkna ut summan av alla heltal från 1 till 100.
+The task Karl was given was to calculate the sum of all integers from 1 to 100.
+“卡尔”的任务是计算 1 到 100 之间所有整数的总和。
 
 Läraren trodde att det skulle ta flera timmar för Karl. 
+The teacher thought it would take several hours for Karl.
+老师认为“卡尔”需要几个小时。
 
 Men redan efter fem minuter hade han räknat ut summan. 
+But already after five minutes he had calculated the sum.
+但五分钟后他就算出了和。
 
 Hur kunde han göra det?
+How could he do that?
+他是如何做到的呢？
 
 P 212
 Resonemang & Kommunikation. 
+Reasoning and Communication.
+推理与沟通。
 
 För att enklare förstå hur han gjorde så räknar vi först ut summan av alla heltal från 1 till 10.
+To make it easier to understand how he did it, we first calculate the sum of all integers from 1 to 10.
+为了更容易理解他是如何做到的，我们首先计算 1 到 10 之间所有整数的总和。
 
 Vi kan då para ihop talen två och två:
+We can then pair the numbers two and two:
+然后我们可以将数字两两配对：
 
 Hur stor är summan av varje par?
+What is the sum of each pair?
+每一对数字的和是多少？
 
 Hur många sådana summor är det?
+How many such sums are there?
+这样的和有多少？
 
 Nu kan du med multiplikation räkna ut summan av alla heltal från 1 till 10. 
+Now you can use multiplication to calculate the sum of all integers from 1 to 10.
+现在您可以使用乘法来计算 1 到 10 之间所有整数的总和。
 
 Vilken är summan?
+What is the sum?
+总和是多少？
 
 Du ska nu använda samma metod för att räkna ut summan av alla heltal från 1 till 20.
+You will now use the same method to calculate the sum of all integers from 1 to 20.
+现在，您将使用相同的方法来计算 1 到 20 之间的所有整数的总和。
 
 Hur stor är summan av varje par?
+What is the sum of each pair?
+每对的和是多少？
 
 Hur många sådana summor är det?
+How many such sums are there?
+这样的和有多少？
 
 Hur stor är summan av alla heltal från 1 till 20?
+What is the sum of all the integers from 1 to 20?
+1 到 20 之间所有整数的和是多少？
 
 Använd samma metod och lös den uppgift som Gauss fick.
+Use the same method and solve the problem that Gauss was given.
+用同样的方法，求解“高斯”给出的问题。
 
 Använd metoden och räkna ut summan av de 1000 första heltalen.
+Use the method and calculate the sum of the first 1000 integers.
+使用该方法计算前 1000 个整数的总和。
 
 Vilken är summan av de 1000 första udda heltalen?
+What is the sum of the first 1000 odd integers?
+前 1000 个奇数之和是多少？
 
 Vilken är summan av de 1000 första jämna heltalen?
+What is the sum of the first 1000 even integers?
+前 1000 个偶数之和是多少？
 
 P 213
 Sammanfattning. Addition och subtraktion.
+Summary. Addition and subtraction.
+总结。 加法和减法。
 
 ADDITION term + term = summa.
+ADDITION term + term = sum.
+加法 项 + 项 = 和。
 
 SUBTRAKTION term - term = differens.
+SUBTRACTION term - term = difference.
+减法 项 - 项 = 差。
 
 När man räknar addition och subtraktion med uppställning är det viktigt att ental placeras under ental, 
+When calculating addition and subtraction with arrays, it is important that numbers are placed under numbers
+当用竖式计算加法和减法时，重要的是数字放在数字下面
 
 tiondelar under tiondelar och så vidare.
+tenths under tenths and so on.
+十分之一放在十分之一下面，依此类推。
 
 Multiplikation. faktor * faktor = produkt
+Multiplication. factor * factor = product
+乘法。 因子*因子=乘积
 
 Division. täljare / nämnare = kvot.
+Division. numerator / denominator = quotient.
+除法。 分子/分母=商。
 
 Multiplikation och division med 10, 100 och 1000.
+Multiplication and division by 10, 100 and 1000.
+10、100 和 1000 的乘法和除法。
 
 hundratal. tiotal. ental. tiondel. hundradel.
 hundreds. ten. singular. tenth. hundredth.
 百位。 十位。 个位。 十分位。 百分位。
-
