@@ -80,80 +80,154 @@ How much did he get back when he paid with a SEK 500 note?
 
 P 203
 Johanna cyklar samma väg till och från skolan varje dag. 
+Johanna cycles the same route to and from school every day.
+“乔安娜”每天骑车往返学校的路线相同。
 
 Hon har räknat ut att hon under en skolvecka cyklar sammanlagt 17,5 km. 
+She has calculated that during a school week she cycles a total of 17.5 km.
+她计算出，在一个上学周内，她总共骑行了 17.5 公里。
 
 Hur långt har Johanna till skolan? Svara i meter.
+How far is Johanna from school? Answer in meters.
+“乔安娜”离学校有多远？ 答案以米为单位。
 
 Vilket tal är x?
+What number is x?
+x 是多少？
 
 Snickare Bengtsson ska köpa spik. 
+Carpenter Bengtsson is going to buy nails.
+木匠“本特松”要去买钉子。
 
 En liten förpackning med 100 spikar kostar 26 kr. 
+A small package of 100 nails costs SEK 26.
+一小包 100 个钉子的价格为 26 瑞典克朗。
 
 En stor förpackning med 1 000 spikar kostar 220 kr.
+A large package of 1,000 nails costs SEK 220.
+一大包 1,000 个钉子的价格为 220 瑞典克朗。
 
 Hur mycket dyrare är varje spik i den lilla förpackningen?
+How much more expensive is each nail in the small package?
+小包装中的每个钉子要贵多少？
 
 Emil köpte glassarna och betalade med en 100-lapp. Han fick tillbaka 20 kr. 
+Emil bought the ice creams and paid with a 100 note. He got SEK 20 back.
+“埃米尔”买了冰淇淋并用 100 元钞票付款。 他拿回了 20 瑞典克朗。
 
 Varje glass kostade lika mycket. Vad kostade en glass?
+Each ice cream cost the same. How much did an ice cream cost?
+每个冰淇淋的价格都一样。 一个冰淇淋花了多少钱？
 
 När Yannick fyllde 11 år hoppade han 1,08 m i höjdhopp.
+When Yannick turned 11, he jumped 1.08 m in the high jump.
+“雅尼克”11岁那年，他跳高了1.08米。
 
 Tre år senare hoppade han 1,33 m. 
+Three years later he jumped 1.33 m.
+三年后，他跳了1.33 m。
 
 Hans mormor gav honom 10 kr för varje centimeter som han hade förbättrat sitt resultat.
+His grandmother gave him SEK 10 for every centimeter he had improved his result.
+他的成绩每提高1厘米，他的祖母就给他 10 瑞典克朗。
 
 Hur mycket fick Yannick?
+How much did Yannick get?
+“雅尼克”得到了多少钱？
 
 En tom hink väger 1,8 kg. 
+An empty bucket weighs 1.8 kg.
+一个空桶重 1.8 公斤。
 
 När hinken är fylld till en fjärdedel med vatten väger den 5,5 kg. 
+When the bucket is a quarter full of water, it weighs 5.5 kg.
+当水桶装满四分之一的水时，它的重量为 5.5 公斤。
 
 Vad väger hinken när den är helt full med vatten?
+What does the bucket weigh when it is completely full of water?
+当桶完全装满水时，它的重量是多少？
 
 P 204
 Assad simmade 100 m. Hans kompis Filip tog tid. 
+Assad swam 100 m. His friend Filip took the time.
+“阿萨德”游了100米。 他的朋友“菲利普”记录时间。
 
 På de första femtio metrarna hade Assad tiden 58,5 s. 
+In the first fifty meters, Assad had a time of 58.5 s.
+在前50米中，“阿萨德”的成绩为58.5秒。
 
 När han simmat hela sträckan visade klockan att det sammanlagt tagit 2 min 6,5 s. 
+When he swam the entire distance, the watch showed that it took a total of 2 min 6.5 s.
+当他游完全程时，手表显示总共花了2分6.5秒。
 
 Hur lång tid tog de sista femtio metrarna?
+How long did the last fifty meters take?
+最后五十米用了多长时间？
 
 Yolanda simmade 250 m i en 50 m-bassäng. 
+Yolanda swam 250 m in a 50 m pool.
+“约兰达”在50米的泳池里游了250米。
 
 Tiden blev sex minuter och femton sekunder. 
+The time was six minutes and fifteen seconds.
+时间是6分15秒。
 
 Hur lång tid tog varje 50 m-längd i genomsnitt?
+How long did each 50 m length take on average?
+每50米长度平均需要多长时间？
 
 Addera talen A och B samt talen C och D. 
+Add the numbers A and B and the numbers C and D.
+将数字 A 和 B 以及数字 C 和 D 相加。
 
 Subtrahera den större summan med den mindre. 
+Subtract the larger sum from the smaller sum.
+从较大的总和减去较小的总和。
 
 Multiplicera differensen med 100. Vilken är produkten?
+Multiply the difference by 100. What is the product?
+将差值乘以 100。乘积是多少？
 
 Ett innebandylag har tio spelare. Medelåldern är 17,5 år. 
+A floorball team has ten players. The average age is 17.5 years.
+一支垒球队有10名球员。 平均年龄为17.5岁。
 
 En av spelarna, som är 22 år, slutar och ersätts med en 16-åring. 
+One of the players, who is 22 years old, quits and is replaced by a 16-year-old.
+其中一名 22 岁的球员退出并由一名 16 岁的球员取代。
 
 Vilken är den nya medelåldern?
+What is the new average age?
+新的平均年龄是多少？
 
 P 205
 TRÄNA. Numerisk räkning.
+TRAIN. Numerical calculation.
+火车。 数值计算。
 
 Hannes åker buss till skolan. 
+Hannes takes the bus to school.
+“汉尼斯”乘公共汽车去学校。
 
 När bussen har kört 5,8 km är det 7,5 km kvar till skolan. 
+When the bus has driven 5.8 km, there are 7.5 km left to the school.
+当公交车行驶了 5.8 公里时，距离学校还有 7.5 公里。
 
 Hur lång är Hannes skolväg?
+How long is Hanne's school route?
+“汉尼斯”的上学路线有多长？
 
 Hunden Lucas är sju år och han väger 26,2 kg. 
+The dog Lucas is seven years old and he weighs 26.2 kg.
+小狗“卢卡斯”今年7岁，体重26.2公斤。
 
 När han var sju veckor gammal vägde han 3,8 kg.
+When he was seven weeks old, he weighed 3.8 kg.
+当它7周大时，它的体重为3.8公斤。
 
 Hur mycket mer väger Lucas nu?
+How much more does Lucas weigh now?
+“卢卡斯”现在体重增加了多少？
 
 P 206
 Laleh köper tre akvariefiskar som kostar 32,50 kr styck.
@@ -280,3 +354,100 @@ Fem bagare hinner tillsammans baka fem bullar på fem minuter.
 Hur många bullar hinner tio bagare baka på tio minuter?
 
 P 210
+En träkloss målas blå runt om. 
+
+Klossen delas sedan i små klossar som bilden visar. 
+
+Hur många av dessa klossar har: inte färg på någon sida.
+
+färg på en sida. färg på två sidor. färg på tre sidor.
+
+Cirkeln betyder samma tal i de tre beräkningarna.
+
+Det gör kvadraten och triangeln också. Vilket tal betyder varje figur?
+
+Spelkorten är lagda efter ett visst system. Vilket är det dolda kortet?
+
+Försök att komma på hur talen i de olika kvadraterna hänger ihop.
+
+Räkna sedan ut vilket tal som saknas.
+
+Tre lampor sitter bredvid varandra. 
+
+En lampa blinkar var 6:e sekund, 
+
+en annan var 10:e sekund och den tredje var 12:e sekund. 
+
+Antag att alla tre lamporna blinkar samtidigt just nu. 
+
+Hur länge dröjer det innan de blinkar samtidigt igen?
+
+P 211
+Resonemang & Kommunikation. Gauss - ett riktigt mattesnille.
+
+För över 200 år sedan gick ett riktigt mattesnille på en skola i Tyskland.
+
+Han hette Karl Friedrich Gauss och var 9 år. 
+
+En dag tänkte hans lärare att han skulle få en uppgift som var väldigt klurig att lösa. 
+
+Uppgiften som Karl fick var att räkna ut summan av alla heltal från 1 till 100.
+
+Läraren trodde att det skulle ta flera timmar för Karl. 
+
+Men redan efter fem minuter hade han räknat ut summan. 
+
+Hur kunde han göra det?
+
+P 212
+Resonemang & Kommunikation. 
+
+För att enklare förstå hur han gjorde så räknar vi först ut summan av alla heltal från 1 till 10.
+
+Vi kan då para ihop talen två och två:
+
+Hur stor är summan av varje par?
+
+Hur många sådana summor är det?
+
+Nu kan du med multiplikation räkna ut summan av alla heltal från 1 till 10. 
+
+Vilken är summan?
+
+Du ska nu använda samma metod för att räkna ut summan av alla heltal från 1 till 20.
+
+Hur stor är summan av varje par?
+
+Hur många sådana summor är det?
+
+Hur stor är summan av alla heltal från 1 till 20?
+
+Använd samma metod och lös den uppgift som Gauss fick.
+
+Använd metoden och räkna ut summan av de 1000 första heltalen.
+
+Vilken är summan av de 1000 första udda heltalen?
+
+Vilken är summan av de 1000 första jämna heltalen?
+
+P 213
+Sammanfattning. Addition och subtraktion.
+
+ADDITION term + term = summa.
+
+SUBTRAKTION term - term = differens.
+
+När man räknar addition och subtraktion med uppställning är det viktigt att ental placeras under ental, 
+
+tiondelar under tiondelar och så vidare.
+
+Multiplikation. faktor * faktor = produkt
+
+Division. täljare / nämnare = kvot.
+
+Multiplikation och division med 10, 100 och 1000.
+
+hundratal. tiotal. ental. tiondel. hundradel.
+hundreds. ten. singular. tenth. hundredth.
+百位。 十位。 个位。 十分位。 百分位。
+
