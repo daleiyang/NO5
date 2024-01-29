@@ -79,7 +79,6 @@ How much did he get back when he paid with a SEK 500 note?
 当他用 500 瑞典克朗纸币付款时，找回多少钱？
 
 P 203
-
 Johanna cyklar samma väg till och från skolan varje dag. 
 
 Hon har räknat ut att hon under en skolvecka cyklar sammanlagt 17,5 km. 
@@ -115,7 +114,6 @@ När hinken är fylld till en fjärdedel med vatten väger den 5,5 kg.
 Vad väger hinken när den är helt full med vatten?
 
 P 204
-
 Assad simmade 100 m. Hans kompis Filip tog tid. 
 
 På de första femtio metrarna hade Assad tiden 58,5 s. 
@@ -143,7 +141,6 @@ En av spelarna, som är 22 år, slutar och ersätts med en 16-åring.
 Vilken är den nya medelåldern?
 
 P 205
-
 TRÄNA. Numerisk räkning.
 
 Hannes åker buss till skolan. 
@@ -157,3 +154,20 @@ Hunden Lucas är sju år och han väger 26,2 kg.
 När han var sju veckor gammal vägde han 3,8 kg.
 
 Hur mycket mer väger Lucas nu?
+
+P206
+Laleh köper tre akvariefiskar som kostar 32,50 kr styck.
+
+Hur mycket ska hon betala?
+
+En förpackning med fem kokosbollar kostar 19,50 kr.
+
+Vilket är priset per kokosboll?
+
+I en låda finns 100 golfbollar. De väger 0,045 kg styck. 
+
+Hur mycket väger bollarna sammanlagt?
+
+Peter köpte två förpackningar med 500 A4-papper i varje förpackning. 
+
+För det betalade han 120 kr. Hur mycket kostade varje papper?
