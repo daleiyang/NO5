@@ -137,163 +137,315 @@ Write the lengths in meters. In other words.
 P 218
 
 Sabinas bästa längdhopp var 3,42 m långt. Lova hoppade 15 cm längre.
+Sabina's best long jump was 3.42 m long. Lova jumped 15 cm longer.
+"萨宾娜"的最佳跳远成绩是3.42 m。 “洛娃” 跳得远了 15 厘米。
 
 Hur långt hoppade hon? Svara i meter. Lova hoppade:
+How far did she jump? Answer in meters. Lova jumped:
+她跳了多远？答案以米为单位。“洛娃”跳了：
 
 Omvandla till samma enhet innan du räknar.
+Convert to the same unit before calculating.
+计算前转换为相同单位。
 
 Här har vi omvandlat till meter.
+Here we have converted to meters.
+这里我们已经转换为米。
 
 Lägg märke till att vi skriver (3,42 + 0,15) m.
+Notice that we write (3.42 + 0.15) m.
+请注意，我们写为 (3.42 + 0.15) 米。
 
 Parentesen gör att du bara behöver skriva enheten en gång. 
+The parentheses mean that you only need to type the unit once.
+括号表示您只需把单位写一次。
 
 Men du kan förstås också skriva 3,42 m + 0,15 m.
+But of course you can also write 3.42 m + 0.15 m.
+但当然你也可以写3.42 米 + 0.15 米。
 
 Du kan istället omvandla till centimeter:
+You can instead convert to centimeters:
+你可以改为转换为厘米：
 
 Visa hur du räknar. Svara med hel mening.
+Show how you calculate. Answer with a full sentence.
+展示你是如何计算的。用完整的句子回答。
 
 Skriv längderna i centimeter. Då är. Alltså är. LÄNGDENHETER.
+Write the lengths in centimeters. Then is. So is. UNITS OF LENGTH.
+以厘米为单位写出长度。那么就是。换句话说。长度单位。
 
 P 219
 
 Vilka tal saknas? Då är. Alltså är.
+What numbers are missing? Then is. So is.
+缺少哪些数字？那么就是。换句话说。
 
 Skriv längderna i meter.
+Write the lengths in meters.
+以米为单位写出长度。
 
 Vilken sträcka är längst? 19 cm eller 0,2 m.
+Which distance is the longest? 19 cm or 0.2 m.
+哪个长度最长？ 19 厘米或 0.2 米。
 
 En struts kan bli 2 m 75 cm hög. Skriv höjden i meter.
+An ostrich can be 2 m 75 cm tall. Write the height in meters.
+鸵鸟可高 2 m 75 cm。以米为单位写出高度。
 
 Vilken enhet saknas?
+Which unit is missing?
+缺少哪个长度单位？
 
 En linjal är ofta 30 ? lång.
+A ruler is often 30 ? long.
+尺子通常是 30 ？长。
 
 Din säng är ungefär 1,95 ? lång.
+Your bed is about 1.95? long.
+你的床大约1.95？长。
 
 Ett stort glasspaket är ungefär 1,7 ? långt.
+A large ice cream package is approximately 1.7 ? long.
+一个大的冰淇淋包装大约是1.7？长。
 
 P 220
 
 Skriv längderna i centimeter.
+Write the lengths in centimeters.
+以厘米为单位写出长度。
 
 Skriv längderna i millimeter.
+Write the lengths in millimeters.
+以毫米为单位写出长度。
 
 Skriv längderna i decimeter.
+Write the lengths in decimetres.
+以分米为单位写出长度。
 
 Vem har rätt? Förklara hur du tänker.
+Who is right? Explain how you are thinking.
+谁是对的？解释一下你的想法。
 
 Hur långa är sträckorna? Svara i centimeter.
+How long are the routes? Answer in centimeters.
+路线有多长？答案以厘米为单位。
 
 Vilket tal är x?
+What number is x?
+x 是多少？
 
 Rami tävlade i hoppning med sin ponny. 
+Rami competed in jumping with his pony.
+"拉米"和他的小马一起参加跳跃比赛。
 
 Det första hindret var 1,15 m.
+The first obstacle was 1.15 m.
+第一个障碍是 1.15 米。
 
 Det andra hindret var 35 cm lägre.
+The second obstacle was 35 cm lower.
+第二个障碍物低了 35 厘米。
 
 Hur högt var det? Svara i centimeter.
+How high was it? Answer in centimeters.
+有多高？答案以厘米为单位。
 
 En dag var snön 135 cm djup i Funäsdalen och 78 cm i Sälen.
+One day the snow was 135 cm deep in Funäsdalen and 78 cm in Sälen.
+有一天，Funäsdalen 的积雪深度为 135 厘米，Sälen 的积雪深度为 78 厘米。
 
 Hur mycket djupare var snön i Funäsdalen? Svara i decimeter.
+How much deeper was the snow in Funäsdalen? Answer in decimetres.
+Funäsdalen 的雪有多深？答案以分米为单位。
 
 P 221
 
 Skriv längderna i meter.
+Write the lengths in meters.
+以米为单位写出长度。
 
 Fathima är 1,58 m lång. Selma är 12 cm längre.
+Fathima is 1.58 m tall. Selma is 12 cm taller.
+Fathima 身高 1.58 m。Selma 高了 12 厘米。
 
 Skriv 12 cm som meter. Hur lång är Selma? Svara i meter.
+Write 12 cm as meter. How tall is Selma? Answer in meters.
+将 12 厘米写为米。Selma 有多高？答案以米为单位。
 
 Skriv längderna i centimeter.
+Write the lengths in centimeters.
+以厘米为单位写出长度。
 
 Mät längden av föremålen. Skriv längderna i både millimeter och centimeter.
+Measure the length of the objects. Write the lengths in both millimeters and centimeters.
+测量物体的长度。以毫米和厘米为单位写出长度。
 
 Taimaz har en halsduk som är 1,75 m lång. 
+Taimaz has a scarf that is 1.75 m long.
+Taimaz 有一条 1.75 m 长的围巾。
 
 Annas halsduk är 0,15 m längre. Hur lång är den? Svara i
+Anna's scarf is 0.15 m longer. How long is it? Reply in
+"安娜"的围巾比他的长了 0.15 m。她的围巾有多长？回复于
 
 Vad saknas i tabellen?
+What is missing from the table?
+列表中缺少什么？
 
 Längd i centimeter. Längd i meter. Längd i decimeter.
+Length in centimeters. Length in meters. Length in decimetres.
+长度以厘米为单位。长度以米为单位。长度以分米为单位。
 
 Oscar har ett rep som är 1,80 m långt. 
+Oscar has a rope that is 1.80 m long.
+Oscar 有一根 1.80 米长的绳子。
 
 Han delar det i fyra lika långa bitar. 
+He divides it into four equal pieces.
+他把它分成四等份。
 
 Hur lång blir varje bit? Svara i centimeter.
+How long will each piece be? Answer in centimeters.
+每份多长？答案以厘米为单位。
 
 P 222
 
 Hur många millimeter är.
+How many millimeters are.
+是多少毫米。
 
 Emil har hissat upp Ida i flaggstången. 
+Emil has hoisted Ida up the flagpole.
+“埃米尔”把“艾达”举到了旗杆上。
 
 Ungefär hur hög är flaggstången? Förklara hur du tänker.
+Approximately how high is the flagpole? Explain how you are thinking.
+旗杆大约有多高？解释一下你的想法。
 
 Ingrid har virkat en halsduk. 
+Ingrid has crocheted a scarf.
+Ingrid 织了一条围巾。
 
 I genomsnitt virkade hon 7 cm varje dag i tre veckor.
+On average, she crocheted 7 cm every day for three weeks.
+她平均每天织 7 厘米，连续织了三周，
 
 Hur lång blev halsduken? Svara i meter.
+How long was the scarf? Answer in meters.
+围巾有多长？答案以米为单位。
 
 Hur mycket är hälften av 5 m? Svara i. centimeter. meter. millimeter.
+How much is half of 5 m? Answer in. centimeters. meter. millimeter.
+5 米的一半是多少？答案以厘米，米，毫米为单位。
 
 Innan pappa slängde ut julgranen i januari ville Alva mäta hur lång den var. 
+Before dad threw out the Christmas tree in January, Alva wanted to measure how tall it was.
+一月份爸爸扔掉圣诞树之前，Alva 想测量一下它有多高。
 
 Granen var 0,5 m längre än Alva, som är 1,65 m lång. 
+The fir was 0.5 m longer than Alva, which is 1.65 m tall.
+冷杉比 Alva 高 0.5 米，Alva 高 1.65 米。
 
 Hur lång var granen? Svara i.
+How tall was the tree? Reply in.
+那棵树有多高？回复在.
 
 Skriv längderna i centimeter. Skriv längderna i meter.
+Write the lengths in centimeters. Write the lengths in meters.
+以厘米为单位写出长度。以米为单位写出长度。
 
 Åtta elever syr varsin tygpåse i slöjden. Det finns fem meter tyg från början.
+Eight students each sew a cloth bag in the craft. There are five meters of fabric from the beginning.
+8名学生每人缝制了一个布袋。从一开始就有5米长的布料。
 
 Det går åt 0,45 m tyg till varje påse. Hur mycket tyg finns det sedan kvar? 
+It takes 0.45 m of fabric for each bag. How much fabric is then left?
+每个袋子需要 0.45 米的布料。那么还剩下多少布料？
 
 Skriv längderna i decimeter.
+Write the lengths in decimetres.
+以分米为单位写出长度。
 
 P 223
 
 En sträcka är 5,86 m lång. Hur många meter är en sträcka som är. längre. kortare.
+A section is 5.86 m long. How many meters is a distance that is. longer. shorter.
+一段长5.86米。也就是多少米？更长。更短。
 
 Assad stöter 6,54 m i kula. 
+Assad hits 6.54 m in ball.
+Assad 扔球扔了 6.54 米。
 
 John stöter 2 dm längre och Viktor 27 cm längre än John. 
+John pushes 2 dm longer and Viktor 27 cm longer than John.
+John 扔得要远 2 分米，Viktor 比 John 扔得远 27 厘米。
 
-Hur långt stöter Viktor? Svara i meter.
+Hur långt stöter Viktor? Svara i meter.jämfota
+How far does Viktor push? Answer in meters.
+Viktor 能扔多远？答案以米为单位。
 
 Sixten och Maja hoppar jämfota. Sixtens längsta hopp är 1,2 m.
+Sixten and Maja jump to keep pace. Sixten's longest jump is 1.2 m.
+Sixten 和 Maja 立定跳远。 Sixten 最远能跳1.2 米。
 
 Maja hoppar 5 cm längre. Hur långt hoppar hon?
+Maja jumps 5 cm further. How far does she jump?
+Maja 比她多跳了 5 厘米。她能跳多远？
 
 I ett vanligt längdhopp kan Maja hoppa tre gånger så långt som när hon hoppar jämfota. 
+In a normal long jump, Maja can jump three times as far as when she jumps level.
+在急行跳远中，Maja 的跳远距离是立定跳远时的三倍。
 
 Hur långt kan Maja hoppa i ett vanligt längdhopp?
+How far can Maja jump in a regular long jump?
+Maja 急行跳远能跳多远？
 
 Beräkna och svara i centimeter.
+Calculate and answer in centimeters.
+计算并以厘米为单位回答。
 
 Hur många centimeter är det mellan byrån och sängen?
+How many centimeters are there between the dresser and the bed?
+梳妆台和床之间有多少厘米？
 
 När Matilda bakar kanelbullar rullar hon ihop degen till en 0,5 m lång rulle. 
+When Matilda bakes cinnamon buns, she rolls the dough into a 0.5 m long roll.
+当 Matilda 烤肉桂面包时，她将面团卷成0.5米长的卷。
 
 Hon skär av en bit på 2 cm som hon äter upp. 
+She cuts off a 2 cm piece which she eats.
+她切下一块 2 厘米的块来吃。
 
 Resten av rullen skär hon i 3 cm tjocka bitar som hon bakar bullar av. 
+She cuts the rest of the roll into 3 cm thick pieces, which she bakes into buns.
+她将剩下的面包卷切成 3 厘米厚的小块，然后将其烤成小圆面包。
 
 Hur många bullar bakar Matilda?
+How many buns does Matilda bake?
+玛蒂尔达烤了多少个面包？
 
 Vilket tal är x?
+What number is x?
+x 是多少？
 
 När Samir hade fest hemma satte han ut fem ljuslyktor vid infarten till huset. 
+When Samir had a party at home, he set out five lanterns at the entrance to the house.
+当 Samir 在家举办聚会时，他在房子门口放了五盏灯笼。
 
 Mellan lyktorna var det 2 m 7 dm. 
+Between the lanterns it was 2 m 7 dm.
+灯笼之间的距离为 2 米 7 分米。
 
 Hur långt var det mellan den första och den sista lyktan?
+How far was it between the first and the last lantern?
+第一个灯笼和最后一个灯笼之间相距多远？
 
 Svara i meter.
+Answer in meters.
+答案以米为单位。
 
 Hur tänker du när du gör enhetsomvandlingen 2,5 cm =0,025 m?
+What do you think when you do the unit conversion 2.5 cm =0.025 m?
+当你进行单位换算2.5厘米=0.025米时你会想到什么？
