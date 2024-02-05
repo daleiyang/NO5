@@ -1,0 +1,135 @@
+P 214
+
+KAN DU DET HÄR?
+DO YOU KNOW THIS?
+你知道吗？
+
+Hur många decimeter är 1/2 m? dm.
+How many decimeters are 1/2 m? dm.
+1/2米是多少分米？ 分米。
+
+Vilka vinklar är spetsiga?
+Which angles are acute?
+哪些角是锐角？
+
+Hur stor area har en kvadrat med sidan 4 cm?
+What is the area of ​​a square with side 4 cm?
+边长为4厘米的正方形的面积是多少？
+
+Hur många millimeter är 4 dm 5 cm? mm.
+How many millimeters are 4 dm 5 cm? mm.
+4分米5厘米是多少毫米？ 毫米。
+
+En rektangel har omkretsen 32 cm. 
+A rectangle has a perimeter of 32 cm.
+一个长方形的周长是 32 厘米。
+
+Två av sidorna är 10 cm vardera. 
+Two of the sides are 10 cm each.
+其中两条边各 10 厘米。
+
+Hur långa är var och en av de övriga sidorna?
+How long are each of the other sides?
+其他边各多长？
+
+Vilket tal är x om 2 mil — x km = 4 km?
+What number is x if 2 Scandinavian mile — x km = 4 km?
+如果 2 斯堪的纳维亚英里 — x 公里 = 4 公里，x 是多少？
+
+Hur stor area har triangeln om varje ruta har sidan 1 cm?
+What is the area of ​​the triangle if each square has a side of 1 cm?
+如果每个正方形的边长都是1厘米，那么三角形的面积是多少？
+
+Vilket tal är x om 2 m — x cm = 1 dm 5 cm?
+What number is x if 2 m — x cm = 1 dm 5 cm?
+如果 2米 — x 厘米 = 1 分米 5 厘米，x 是多少？
+
+Hur långt är 1/4 av 1/2 mil?
+How far is 1/4 of 1/2 Scandinavian mile?
+1/2 斯堪的纳维亚英里的 1/4 有多远？
+
+P 215
+
+Geometri. BEGREPP. 
+Geometry. CONCEPT.
+几何学。概念。
+
+vilka begrepp känner du till sedan tidigare? 
+What concepts do you already know?
+您已经了解哪些概念？
+
+Kan du beskriva dem?
+Can you describe them?
+你能描述一下它们吗？
+
+prefix. spetsig vinkel. trubbig vinkel. rät vinkel. skala. förminskning.
+prefix. acute angle. right angle. obtuse angle. scale. reduction.
+前缀。锐角。钝角。直角。规模。比例尺。缩小。
+
+förstoring. bas. höjd. omkrets. rektangel. parallellogram.
+enlargement. base. height. circumference. rectangle. parallelogram.
+放大。底。高。周长。长方形。平行四边形。
+
+triangel. cirkel. diameter. radie.
+triangle. circle. diameter. radius.
+三角形。圆。直径。半径。
+
+kvadrat. romb. area.
+square. diamond. area.
+正方形。菱形。面积。
+
+P 216 
+
+Längdenheter. METER, DECIMETER, CENTIMETER OCH MILLIMETER.
+Units of length. METERS, DECIMETERS, CENTIMETERS AND MILLIMETERS.
+长度单位。米、分米、厘米和毫米。
+
+Det här är en sträcka. 
+This is a stretch.
+这是一个线段。
+
+Sträckan har en början och ett slut och därför har den en viss längd.
+The route has a beginning and an end and therefore has a certain length.
+线段有起点和终点，因此有一定的长度。
+
+Längd kan mätas i till exempel meter (m), decimeter (dm), centimeter (cm) och millimeter (mm).
+Length can be measured in, for example, meters (m), decimeters (dm), centimeters (cm) and millimeters (mm).
+长度可以例如以米(m)、分米(dm)、厘米(cm)和毫米(mm)来测量。
+
+Mellan enheterna 1 m, 1 dm, 1 cm och 1 mm finns följande samband:
+Between the units 1 m, 1 dm, 1 cm and 1 mm there is the following relationship:
+单位1米、1分米、1厘米和1毫米之间存在以下关系：
+
+Som du ser är den närmaste större enheten tio gånger så stor som den mindre.
+As you can see, the nearest larger unit is ten times the size of the smaller one.
+正如您所看到的，最接近的较大单位的大小是较小单位的十倍。
+
+Med hjälp av sambanden kan vi räkna ut att:
+Using the relationships, we can calculate that:
+利用这些关系，我们可以计算出：
+
+P 217
+
+PREFIX. Orden deci, centi och milli kallas prefix. 
+PREFIX. The words deci, centi and milli are called prefixes.
+前缀。单词 deci、centi 和 milli 称为前缀。
+
+Deci betyder tiondel, centi betyder hundradel och milli betyder tusendel. 
+Deci means tenth, centi means hundredth and milli means thousandth.
+Deci 表示十分之一，centi 表示百分之一，milli 表示千分之一。
+
+En decimeter är lika med en tiondels meter, 
+A decimeter is equal to one-tenth of a meter,
+1分米等于十分之一米，
+
+en centimeter är lika med en hundradels meter och en millimeter är lika med en tusendels meter.
+a centimeter equals one hundredth of a meter and a millimeter equals one thousandth of a meter.
+1厘米等于百分之一米，1毫米等于千分之一米。
+
+betyder. tiondel. hundradel. tusendel.
+mean. tenth. hundredth. thousandth.
+意思是。十分之一。百分之一。千分之一。
+
+Skriv längderna i meter. Alltså.
+Write the lengths in meters. In other words.
+以米为单位写出长度。换句话说。
