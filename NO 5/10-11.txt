@@ -1,223 +1,440 @@
 P 10
 
 En atom har en kärna i mitten. 
+An atom has a nucleus in the center.
+原子的中心有一个原子核。
 
 Runt atomkärnan svävar små partiklar, elektroner, i en enorm fart. 
+Small particles, electrons, float around the atomic nucleus at enormous speed.
+小粒子、电子以极快的速度围绕原子核漂浮。
 
 Det är svårt att rita, så bilder på atomer är väldigt förenklade. 
+It is difficult to draw, so pictures of atoms are very simplified.
+画起来很困难，所以原子的图像非常简单。
 
 Oftast ritas atomer med cirklar eller skal.
+Most often, atoms are drawn with circles or shells.
+最常见的是，原子用圆圈或壳来绘制。
 
 Atomer och molekyler.
+Atoms and molecules.
+原子和分子。
 
-Alla ämnen består av otroligt många, otroligt små delar, som kallas atomer. 
+Alla ämnen består av otroligt många, otroligt små delar, som kallas atomer.
+All matter consists of incredibly many, incredibly small parts, called atoms. 
+所有物质都由数量极多、极小的部分组成，这些部分称为原子。
 
 Alla ämnen, allting runt omkring oss, är uppbyggt av atomer. 
+All matter, everything around us, is made up of atoms.
+所有物质，我们周围的一切，都是由原子组成的。
 
 Därmed finns det många olika slags atomer.
+Thus there are many different kinds of atoms.
+因此，有许多不同种类的原子。
 
 När två eller fler atomer sitter ihop kallas det för en molekyl.
+When two or more atoms are joined together, it is called a molecule.
+当两个或多个原子连接在一起时，就称为分子。
 
 Antingen kan det vara atomer av samma sort som sitter ihop, 
+Either it can be atoms of the same kind that stick together,
+它可以是粘在一起的同类原子，
 
 eller atomer av olika sorter. 
+or atoms of different kinds.
+也可以是不同种类的原子。
 
 Många molekyler består av två, tre eller några fler atomer, 
+Many molecules consist of two, three or a few more atoms,
+许多分子由两个、三个或更多原子组成，
 
 men det finns också molekyler som består av hundratals atomer.
+but there are also molecules that consist of hundreds of atoms.
+但也有由数百个原子组成的分子。
 
 Grundämnen och kemiska föreningar.
+Elements and chemical compounds.
+元素和化合物。
 
 Ett ämne som består av en slags atomer kallas för ett grundämne.
+A substance that consists of one kind of atoms is called an element.
+由一种原子组成的物质称为元素。
 
 Två exempel på vanliga grundämnen är syre och kol. 
+Two examples of common elements are oxygen and carbon.
+常见元素的两个例子是氧和碳。
 
 I naturen finns det ungefär hundra olika grundämnen. 
+In nature, there are about a hundred different elements.
+在自然界中，大约有一百种不同的元素。
 
 Dessutom finns det flera grundämnen som kemister har framställt.
+In addition, there are several elements that chemists have produced.
+此外，化学家还生产了几种元素。
 
 Ett ämne som består av mer än en sorts atomer kallas för en kemisk förening. 
+A substance that consists of more than one kind of atoms is called a chemical compound.
+由多种原子组成的物质称为化合物。
 
 Eftersom det finns mer än hundra olika grundämnen som kan sättas ihop på olika sätt, 
+Since there are more than a hundred different elements that can be put together in different ways,
+由于有一百多种不同的元素可以以不同的方式组合在一起
 
 så finns det mängder av kemiska föreningar.
+there are multitudes of chemical compounds.
+因此存在多种化合物。
 
 En vanlig kemisk förening är koldioxid, som består av de två grundämnena kol och syre. 
+A common chemical compound is carbon dioxide, which consists of the two elements carbon and oxygen.
+一种常见的化合物是二氧化碳，它由碳和氧两种元素组成。
 
 Koldioxid är en gas som finns i luften som vi andas ut och i bilavgaser. 
+Carbon dioxide is a gas found in the air we breathe and in car exhaust.
+二氧化碳是在我们呼吸的空气和汽车尾气中发现的一种气体。
 
 En annan vanlig kemisk förening är vatten, som består av grundämnena syre och väte.
+Another common chemical compound is water, which consists of the elements oxygen and hydrogen.
+另一种常见的化合物是水，它由氧和氢元素组成。
 
 För att förstå hur atomer kan sitta ihop med varandra kan man tänka sig dem som legobitar.
+To understand how atoms can fit together, you can think of them as Lego pieces.
+要了解原子如何组合在一起，您可以将它们视为乐高积木。
 
 Grundämne kol, C. Grundämne syre, O. Grundämne väte, H.
+Element carbon, C. Element oxygen, O. Element hydrogen, H.
+碳元素，C。氧元素，O。氢元素，H。
 
 Kemisk förening CO2. 1 kolatom, C. 2 syreatomer, O.
+Chemical compound CO2. 1 carbon atom, C. 2 oxygen atoms, O.
+化学化合物CO2。 1 个碳原子，C。2 个氧原子，O。
 
 Kemisk förening H2O. 1 syreatom, O. 2 väteatomer, H.
+Chemical compound H2O. 1 oxygen atom, O. 2 hydrogen atoms, H.
+化合物H2O。 1 个氧原子，O。 2 个氢原子，H。
 
 KEMI OCH MILJÖ
+CHEMISTRY AND ENVIRONMENT
+化学与环境
 
 P 11
 
 Ingenting försvinner, allt finns kvar.
+Nothing disappears, everything remains.
+没有什么消失，一切都依然存在。
 
-Det finns en naturlag som säger att ingenting försvinner, allt finns kvar. 
+Det finns en naturlag som säger att ingenting försvinner, allt finns kvar.
+There is a law of nature that says nothing disappears, everything remains. 
+有一条自然法则说，没有任何东西会消失，一切都会留下来。
 
 Det betyder att ämnen kan omvandlas, förändras, gömmas undan eller brytas ner.
+This means that substances can be transformed, changed, hidden or broken down.
+这意味着物质可以被转化、改变、隐藏或分解。
 
 Men alla atomer som fanns i ämnet finns ändå kvar.
+But all the atoms that were in the substance still remain.
+但物质中的所有原子仍然存在。
 
 Atomernas kretslopp.
+Cycle of atoms.
+原子循环。
 
 En död hare på marken förmultnar sakta bort. 
+A dead hare on the ground is slowly rotting away.
+地上一只死兔子正在慢慢腐烂。
 
 I jorden finns massor av nedbrytare, 
+In the soil there are lots of decomposers,
+土壤中有大量的分解者、
 
 olika smådjur och svampar som lever av döda djur och växter. 
+various small animals and fungi that feed on dead animals and plants.
+各种小动物和以死去的动植物为食的真菌。
 
 Nedbrytarna äter upp haren, och deras spillning blir jord med näringsämnen från haren. 
+The decomposers eat the hare, and their droppings become soil with nutrients from the hare.
+分解者吃掉野兔，它们的粪便变成含有野兔养分的土壤。
 
 Näringen tas upp av växter som kan växa mer. 
+The nutrients are taken up by plants that can grow more.
+养分被可以生长更多的植物吸收。
 
 Alla atomer som finns i haren är kvar,
+All the atoms that are in the hare remain,
+兔子体内的所有原子都保留下来，
 
 men de ingår inte i samma form och samma föreningar som när de byggde upp haren. 
+but they are not included in the same form and the same compounds as when they built the hare.
+但它们不再以与建造兔子时相同的形式和化合物包含在内。
 
 Nu finns de i luften, i nedbrytarna, i jorden och i växterna. 
+Now they are in the air, in the decomposers, in the soil and in the plants.
+现在它们存在于空气中、分解器中、土壤中和植物中。
 
 Snart kommer en annan hare förbi och mumsar i sig en växt. 
+Soon another hare comes by and munches on a plant.
+不久，另一只兔子过来并咀嚼植物。
 
 Så går atomerna runt i olika kretslopp. 
+So the atoms go around in different circuits.
+所以原子在不同的循环中运转。
 
 De kommer alltid att vara samma atomer, men i kretsloppet finns de i olika föreningar.
+They will always be the same atoms, but in the cycle they are in different compounds.
+它们始终是相同的原子，但在循环中它们处于不同的化合物中。
 
 Atomerna som finns i en hare försvinner inte när haren dör. 
+The atoms contained in a hare do not disappear when the hare dies.
+野兔死后，野兔体内所含的原子并不会消失。
 
 Kroppen förmultnar och försvinner, men finns kvar på andra platser i naturen.
+The body decays and disappears, but remains in other places in nature.
+尸体腐烂并消失，但仍保留在自然界的其他地方。
 
 P 12
 
 Vatten på havsytan avdunstar och stiger upp som vattenånga. 
+Water on the ocean surface evaporates and rises as water vapor.
+海洋表面的水蒸发并以水蒸气的形式上升。
 
 Vattnet har övergått från flytande form till gasform utan att koka. 
+The water has changed from liquid to gas without boiling.
+水在没有沸腾的情况下从液体变成了气体。
 
 Avdunstning sker också från marken, växterna och från vår hud.
+Evaporation also occurs from the ground, the plants and from our skin.
+地面、植物和我们的皮肤也会发生蒸发。
 
 Fast, flytande och gas.
+Solid, liquid and gas.
+固体、液体和气体。
 
 Temperaturen avgör om ett ämne är i fast form, flytande form eller gasform.
+The temperature determines whether a substance is in solid, liquid or gas form.
+温度决定了物质是固态、液态还是气态。
 
 I rumstemperatur är vatten flytande. 
+At room temperature, water is liquid.
+在室温下，水是液体。
 
 Om man kokar upp det till +100 C börjar det bubbla och omvandlas till vattenånga. 
+If you boil it up to +100 degrees celsius, it starts to bubble and turns into water vapor.
+如果将其煮沸至 +100 摄氏度，它就会开始冒泡并变成水蒸气。
 
 Ångan är alltså vatten i gasform. 
+The steam is thus water in gaseous form.
+因此，蒸汽是气态形式的水。
 
 Alla flytande ämnen kan koka, men det sker vid olika temperaturer.
+All liquids can boil, but at different temperatures.
+所有液体都可以沸腾，但温度不同。
 
 Om man istället sätter in vattnet i frysen så blir det is,
+If you instead put the water in the freezer, it becomes ice,
+如果你把水放进冰箱里，它就会变成冰，
 
 vattnet fryser och övergår i fast form. 
+the water freezes and turns into solid form.
+水结冰并变成固体。
 
 Alla ämnen kan frysa och smälta, övergå mellan flytande och fast form.
+All substances can freeze and melt, transition between liquid and solid form.
+所有物质都可以冻结和融化，在液体和固体之间转变。
 
 Även det sker vid olika temperaturer. 
+This also happens at different temperatures.
+在不同的温度下也会发生这种情况。
 
 Is smälter till vatten vid 0 C, medan metallen järn måste upphettas mycket mer. 
+Ice melts into water at 0 degrees celsius, while the metal iron must be heated much more.
+冰在 0 摄氏度时会融化成水，而金属铁必须加热得多。
 
 Järn smälter först vid +1538 C!
+Iron first melts at +1538 degrees celsius!
+铁首先在 +1538 摄氏度熔化！
 
 Om man fyller en ballong med luft och sedan kyler ner den mycket så kommer luften att bli flytande. 
+If you fill a balloon with air and then cool it down a lot, the air will liquefy.
+如果你给气球充满空气，然后将其冷却很多，空气就会液化。
 
 Kokpunkten för kväve är -196 C. 
+The boiling point of nitrogen is -196 degrees celsius.
+氮气的沸点为 -196 摄氏度。
 
 För att kvävet ska bli vätska måste man alltså kyla ner gasen till under den temperaturen.
+In order for the nitrogen to become a liquid, the gas must therefore be cooled down to below that temperature.
+为了使氮气变成液体，必须将气体冷却到该温度以下。
 
 FAST FORM.
+SOLID.
+固体。
 
 Alla molekyler sitter ihop utan att röra sig fritt. 
+All molecules are stuck together without moving freely.
+所有分子都粘在一起，不能自由移动。
 
 Is är vatten i fast form. 
+Ice is water in solid form.
+冰是固体形式的水。
 
 När ämnen blir fasta kallas det att ämnena stelnar.
+When substances become solid, it is called that the substances solidify.
+当物质变成固体时，称为物质凝固。
 
 FLYTANDE FORM.
+LIQUID FORM.
+液体形式。
 
 Om man värmer (tillför energi till) ett ämne som är i fast form, 
+If you heat (add energy to) a substance that is in solid form,
+如果加热（添加能量）固体形式的物质，
 
 så börjar molekylerna röra sig mer. Ämnet börjar smälta. 
+the molecules start to move more. The substance begins to melt.
+分子就会开始更多的移动。 该物质开始熔化。
 
 Den temperatur som ämnet smälter vid kallas för smältpunkt. 
+The temperature at which the substance melts is called the melting point.
+物质熔化的温度称为熔点。
 
 Molekylerna sitter inte längre lika tätt packade och ämnet är flytande.
+The molecules are no longer as tightly packed and the substance is liquid.
+分子不再紧密堆积，物质呈液态。
 
 GASFORM. 
+GAS FORM.
+气体形式。
 
 Med mer värmeenergi kommer molekylerna att röra sig snabbare och mer. 
+With more heat energy, the molecules will move faster and more.
+有了更多的热能，分子就会移动得更快、更多。
 
 Molekylerna kan röra sig långt från varandra. 
+The molecules can move far from each other.
+分子可以彼此远离。
 
 Den temperatur som ämnet börjar koka vid kallas för kokpunkt. 
+The temperature at which the substance begins to boil is called the boiling point.
+物质开始沸腾的温度称为沸点。
 
 När ämnet kokar blir det i gasform, det förångas. 
+When the substance boils, it becomes a gas, it evaporates.
+当物质沸腾时，它变成气体，蒸发。
 
 När gas blir flytande säger man att det kondenserar.
+When gas becomes liquid, it is said to condense.
+当气体变成液体时，称为冷凝。
 
 smälter. stelnar. förångas. kondenserar.
+melts. solidifies. evaporate. condenses.
+融化。 凝固。 蒸发。 凝结。
 
 P 13
 
 Kemiska reaktioner.
+Chemical reactions.
+化学反应。
 
 När olika ämnen sätts ihop och bildar andra ämnen kallas det för en kemisk reaktion. 
+When different substances are put together and form other substances, it is called a chemical reaction.
+当不同的物质放在一起并形成其他物质时，称为化学反应。
 
 När du äter sker det många kemiska reaktioner i kroppen. 
+When you eat, many chemical reactions take place in the body.
+当你吃东西时，体内会发生许多化学反应。
 
 Utan kemiska reaktioner skulle vi inte kunna få energi från fetter, 
+Without chemical reactions, we would not be able to get energy from the fats,
+如果没有化学反应，我们就无法从食物中的脂肪、
 
 kolhydrater och proteiner som finns i maten.
+carbohydrates and proteins found in food.
+碳水化合物和蛋白质中获取能量。
 
 Vad är rost?
+What is rust?
+什么是铁锈？
 
 Järn kan rosta när det kommer i kontakt med vatten och luft. 
+Iron can rust when it comes into contact with water and air.
+铁与水和空气接触时会生锈。
 
 Det är syre som tillsammans med järnet bildar en kemisk förening som vi kallar rost. 
+It is oxygen that, together with the iron, forms a chemical compound that we call rust.
+氧气与铁一起形成一种化合物，我们称之为铁锈。
 
 Om det är fuktigt i luften, eller om det finns vissa ämnen i omgivningen, går det snabbare. 
+If the air is moist, or if there are certain substances in the environment, it goes faster.
+如果空气潮湿，或者环境中有某些物质，则速度会加快。
 
 Att järnföremål rostar är ett problem, 
+Iron objects rusting is a problem,
+铁制品生锈是一个问题，
 
 men det går att skydda järn från att rosta. 
+but it is possible to protect iron from rusting.
+但可以防止铁生锈。
 
 Man kan till exempel måla, 
+For example, you can paint, 
+例如，您可以涂漆、
 
 smörja in med olja eller täcka ytan med någon annan metall, som inte rostar lika lätt.
+lubricate with oil or cover the surface with some other metal, which does not rust as easily.
+用油润滑或用其他不易生锈的金属覆盖表面。
 
 Gas i kakan.
+Gas in the cake.
+蛋糕里有气体。
 
 För att få en fin sockerkaka måste man använda bakpulver. 
+To get a nice sponge cake, you have to use baking powder.
+想要做出漂亮的海绵蛋糕，就必须使用泡打粉。
 
-Utan bakpuler blir kakan alldeles platt. 
+Utan bakpulver blir kakan alldeles platt. 
+Without baking powder, the cake will be completely flat.
+如果没有泡打粉，蛋糕就会完全扁平。
 
 Bakpulver består av ämnen som omvandlas till koldioxid vid hög värme. 
+Baking powder consists of substances that are converted to carbon dioxide at high heat.
+发酵粉由在高温下转化为二氧化碳的物质组成。
 
 Det betyder att det sker en kemisk reaktion när sockerkakssmeten är i ugnen och blir varm. 
+This means that a chemical reaction takes place when the cookie dough is in the oven and gets hot.
+这意味着当饼干面团放入烤箱并变热时会发生化学反应。
 
 I smeten bildas en massa små bubblor, som innehåller koldioxid. 
+A lot of small bubbles form in the batter, which contain carbon dioxide.
+面糊中形成许多小气泡，其中含有二氧化碳。
 
 Den bubbliga smeten stelnar i värmen och kakan blir fluffig med en massa små hål i och lätt att tugga.
+The bubbly batter solidifies in the heat and the cake becomes fluffy with lots of small holes in it and easy to chew.
+起泡的面糊在高温下凝固，蛋糕变得蓬松，里面有很多小孔，很容易咀嚼。
 
 Om du grillar korven för länge blir den bränd. 
+If you grill the sausage for too long, it will burn.
+如果烤香肠的时间太长，它就会烧焦。
 
 Man ser att korven är svart och den smakar inte gott. 
+You can see that the sausage is black and it does not taste good.
+可以看到香肠是黑色的，味道不太好。
 
 Det svarta är kol från köttet. Det som har hänt är en kemisk reaktion.
+The black is carbon from the meat. What has happened is a chemical reaction.
+黑色是肉中的碳。 所发生的事情是化学反应。
 
 På hösten ändrar löven på träd och buskar färg. 
+In autumn, the leaves on trees and bushes change color.
+秋天，树木和灌木丛的叶子变色。
 
 De gröna löven blir orangeröda och gula. 
+The green leaves turn orange-red and yellow.
+绿叶变成橙红色和黄色。
 
 Det gröna ämnet i löven bryts ner genom en kemisk reaktion. 
+The green substance in the leaves breaks down through a chemical reaction.
+叶子中的绿色物质通过化学反应分解。
 
 Kvar blir det röda färgämnet, som fanns där redan innan, men inte syntes. 
+What remains is the red dye, which was already there before, but was not visible.
+剩下的是红色染料，它之前就已经在那里了，但不可见。
+
