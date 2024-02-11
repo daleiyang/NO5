@@ -65,219 +65,437 @@ A major disadvantage when we use oil, gas and coal is that we affect the environ
 我们使用石油、天然气和煤炭的一个主要缺点是会影响环境。
 
 Det beror på att när vi eldar med fossila bränslen,
+This is because when we burn fossil fuels, 
+这是因为当我们燃烧化石燃料时，
 
 släpper vi ut olika ämnen som kommer ut i luften.
+we release various substances that come into the air.
+我们会释放各种物质到空气中。
 
 För att få upp oljan och gas borrar man djupt ner i havsbottnen från stora plattformar.
+To get the oil and gas up, they drill deep into the seabed from large platforms.
+为了开采石油和天然气，他们从大型平台深入海底钻探。
 
 Svavel, som är ett av dessa ämnen, skadar sjöar och skog genom försurning. 
+Sulphur, which is one of these substances, damages lakes and forests through acidification.
+硫就是这些物质之一，它会通过酸化破坏湖泊和森林。
 
 Ett annat ämne som släpps ut i stora mängder är koldioxid.
+Another substance that is emitted in large quantities is carbon dioxide.
+另一种大量排放的物质是二氧化碳。
 
 Koldioxid är inte giftig, men det påverkar vårt klimat så att det blir varmare. 
+Carbon dioxide is not poisonous, but it affects our climate so that it becomes warmer.
+二氧化碳无毒，但它会影响我们的气候，使气候变暖。
 
 Detta är inte bra, eftersom vissa länder då kan få det alltför torrt för att kunna odla.
+This is not good, as some countries may then find it too dry to grow crops.
+这并不好，因为一些国家可能会发现天气太干燥而无法种植农作物。
 
 Andra områden kan drabbas av oväder och översvämningar. 
+Other areas may be affected by storms and floods.
+其他地区可能会受到风暴和洪水的影响。
 
 Polaris och glaciärer kan komma att smälta, vilket kan leda till att havsytan stiger. 
+Polaris and glaciers may melt, which may cause sea levels to rise.
+北极星(北极?)和冰川可能会融化，从而导致海平面上升。
 
 Detta kan ge svåra översvämningar vid kusterna.
+This can cause severe flooding on the coasts.
+这可能会导致海岸严重洪水泛滥。
 
 Kärnkraft. 
+Nuclear power.
+核电。
 
 I ett kärnkraftverk använder man uran som bränsle för att framställa energi.
+In a nuclear power plant, uranium is used as fuel to produce energy.
+在核电站中，铀被用作燃料来产生能量。
 
 När man klyver atomkärnor från ämnet uran, 
+When you split atomic nuclei from the substance uranium,
+当你从铀物质中分离出原子核时，
 
 bildas det värme som man sedan kan omvandla till energi.
+heat is formed which can then be converted into energy.
+形成热量，然后可以将其转化为能量。
 
 Kärnkraftens fördelar är att det ger stora mängder energi och att det inte släpper ut någon koldioxid, 
+The advantages of nuclear power are that it provides large amounts of energy and that it does not emit any carbon dioxide,
+核电的优点是提供大量能源并且不排放任何二氧化碳，
 
 som påverkar vårt klimat.
+which affects our climate.
+这会影响我们的气候。
 
 Men kärnkraften har även en del nackdelar. 
+But nuclear power also has some disadvantages.
+但核电也有一些缺点。
 
 Om det inträffar en olycka vid ett kärnkraftverk, kan det bli en katastrof.
+If there is an accident at a nuclear power plant, it could be a disaster.
+如果核电站发生事故，可能会造成灾难。
 
 Då kan radioaktiv strålning från uranet läcka ut och ge allvarliga skador på människor, djur och natur.
+Then radioactive radiation from the uranium can leak out and cause serious damage to people, animals and nature.
+然后铀的放射性辐射就会泄漏出来，对人类、动物和自然造成严重损害。
 
 År 1986 skedde just en sådan olycka vid ett kärnkraftverk i Tjernobyl i Ukraina.
+In 1986, just such an accident occurred at a nuclear power plant in Chernobyl, Ukraine.
+1986年，乌克兰切尔诺贝利核电站就发生过这样的事故。
 
 Dessutom avger allt avfall från ett kärnkraftverk radioaktiv strålning.
+In addition, all waste from a nuclear power plant emits radioactive radiation.
+此外，核电站产生的所有废物都会释放放射性辐射。
 
 Avfallet måste därför lagras i berggrunden i tusentals år.
+The waste must therefore be stored in the bedrock for thousands of years.
+因此，废物必须在基岩中储存数千年。
 
 I ett kärnkraftverk använder man uran som bränsle.
-
+In a nuclear power plant, uranium is used as fuel.
+在核电站中，铀被用作燃料。
 
 p 125
 
 FÖRNYBARA ENERGIKÄLLOR. Vattenkraft.
+RENEWABLE ENERGY SOURCES. Hydroelectric.
+可再生能源。 水力发电。
 
 Du vet nog sedan tidigare att vattnets kraft i en forsande flod kan omvandlas till elektricitet. 
+You probably already know that the power of water in a rushing river can be converted into electricity.
+您可能已经知道，湍急的河流中的水力可以转化为电力。
 
-Detta sker i ett vattenkraftverk. Ett vattenkraftverk är en miljövänlig energikälla. 
+Detta sker i ett vattenkraftverk. 
+This takes place in a hydroelectric plant. 
+这发生在水力发电厂。
+
+Ett vattenkraftverk är en miljövänlig energikälla. 
+A hydropower plant is an environmentally friendly source of energy.
+水力发电厂是一种环保能源。
 
 Det ger inga farliga utsläpp. 
+It produces no dangerous emissions.
+它不会产生危险的排放物。
 
 Men det finns nackdelar även med vattenkraftverk. 
+But there are disadvantages even with hydroelectric plants.
+但即使是水力发电厂也有缺点。
 
 Att bygga stora dammar gör stora förändringar i naturen. 
+Building large dams makes big changes in nature.
+修建大型水坝使自然发生巨大变化。
 
 Naturområden kan läggas under vatten, 
+Natural areas can be put under water, 
+自然区域可能被淹没，
 
-människor kan tvingas flytta och fiskarna som lever i älvarna, 
+människor kan tvingas flytta 
+people may be forced to move
+人们可能被迫迁移，
 
-kan få det svårt att ta sig förbi vattenkraftverken.
+och fiskarna som lever i älvarna, kan få det svårt att ta sig förbi vattenkraftverken.
+生活在河流中的鱼可能会发现很难通过水力发电厂。
 
 Vindkraftverk i Danmark.
+Wind turbines in Denmark.
+丹麦的风力涡轮机。
 
 Solenergi. I ett solkraftverk tar man till vara all den energi, som solens strålar innehåller.
+Solar energy. In a solar power plant, all the energy contained in the sun's rays is used.
+太阳能。 在太阳能发电厂中，太阳光线中包含的所有能量都被使用。
 
 Med hjälp av stora speglar fångar man upp solstrålarna. 
+With the help of large mirrors, you catch the sun's rays.
+在大镜子的帮助下，您可以捕捉到阳光。
 
 Då bildas värme som sedan omvandlas till elektricitet.
+Heat is then generated which is then converted into electricity.
+然后产生热量，然后转化为电能。
 
 Nuförtiden kan man rätt så ofta se solfångare på en del hustak. 
+Nowadays, you can quite often see solar collectors on some roofs.
+如今，在一些屋顶上经常可以看到太阳能集热器。
 
 Solfångarna kan t.ex. värma vattnet som används i hemmet. 
+The solar collectors can e.g. heat the water used in the home.
+举例来说，太阳能集热器可以加热家里使用的水。
 
 Solfångarna kan även värma upp själva huset som man bor i.
+The solar collectors can also heat the house in which you live.
+太阳能集热器还可以为您居住的房屋供暖。
 
 Av vågornas rörelser kan man framställa elektricitet.
+Electricity can be produced from the movements of the waves.
+波浪的运动可以产生电力。
 
 Vattenkraftverk i Sverige.
+Hydropower plants in Sweden.
+瑞典的水力发电厂。
 
 Vindkraft. I vinden finns det energi när det blåser.
+Wind power. There is energy in the wind when it blows.
+风力。 风吹起来时就有能量。
 
 Ett vindkraftverk kan omvandla denna energi till elektricitet.
+A wind turbine can convert this energy into electricity.
+风力涡轮机可以将这种能量转化为电能。
 
-Ett vindkraftverk har två eller tre stora rotorblad, som sätts i rörelse när det blåser. 
+Ett vindkraftverk har två eller tre stora rotorblad, 
+A wind turbine has two or three large rotor blades,
+风力涡轮机有两个或三个大型转子叶片，
+
+som sätts i rörelse när det blåser. 
+which are set in motion when the wind blows.
+当风吹动时，这些叶片就会开始运动。
 
 När rotorbladen snurrar driver de en turbin, 
+As the rotor blades spin, they drive a turbine,
+当转子叶片旋转时，它们驱动涡轮机，
 
 som i sin tur driver en generator som skapar elektricitet.
+which in turn drives a generator that creates electricity.
+进而驱动发电机发电。
 
 Vindkraftverk ger inga miljöfarliga utsläpp. 
+Wind turbines produce no environmentally hazardous emissions.
+风力涡轮机不会产生对环境有害的排放物。
 
 Men eftersom de ger jämförelsevis lite energi, 
+But since they provide comparatively little energy, 
+但由于它们提供的能源相对较少，
 
 måste man bygga väldigt många vindkraftverk.
+you have to build a lot of wind turbines.
+因此必须建造大量风力涡轮机。
 
 Solfångare på hustak.
+Solar collectors on roofs.
+屋顶上的太阳能集热器。
 
 Vågkraft. Tidvattenkraft.
+Wave power. Tidal power.
+波浪能。 潮汐发电。
 
 I ett vågkraftverk använder man vågornas rörelse i havet för att skapa elektricitet.
+In a wave power plant, the movement of the waves in the sea is used to create electricity.
+在波浪发电厂中，利用海浪的运动来发电。
 
 Tidvattenkraftverk använder man i områden där det är stor skillnad mellan ebb och flod. 
+Tidal power plants are used in areas where there is a large difference between ebb and flow.
+潮汐发电站用于潮汐落差较大的地区。
 
 Vattnets rörelser vid ebb och flod används till att producera elektricitet.
-
+The movements of the water at ebb and flow are used to produce electricity.
+水在潮起潮落时的运动被用来发电。
 
 P 126
 
 Hållbar framtid.
+Sustainable future.
+可持续的未来。
 
 När vi pratar om en hållbar framtid, 
+When we talk about a sustainable future, 
+当我们谈论可持续的未来时，
 
 menar vi att vi måste tänka på alla de människor som kommer att leva i framtiden.
+we mean that we have to think about all the people who will live in the future.
+我们的意思是我们必须考虑所有生活在未来的人。
 
 De måste kunna få tillgång till en ren och ofördärvad natur. 
+They must be able to access a clean and unspoiled nature.
+他们必须能够接触干净且未受破坏的大自然。
 
-De ska kunna ha tillgång till rent vatten, kunna odla sin mat och leva ett gott liv.
+De ska kunna ha tillgång till rent vatten, 
+They should be able to have access to clean water, 
+他们应该能够获得清洁的水，
+
+kunna odla sin mat och leva ett gott liv.
+be able to grow their own food and live a good life.
+能够自己种植食物并过上美好的生活。
 
 Att välja energikällor som ger minskade utsläpp ger en hållbar utveckling för framtidens människor. 
+Choosing energy sources that produce reduced emissions provides sustainable development for the people of the future.
+选择减少排放的能源可以为未来的人们提供可持续发展。
 
 Då måste vi satsa på förnybara energikällor, som sol, vind och vatten.
+Then we have to invest in renewable energy sources, such as sun, wind and water.
+然后我们必须投资可再生能源，例如太阳能、风能和水能。
 
 Att ersätta fossila bränslen innebär att vi minskar problemet med att jordens klimat förändras så snabbt.
+Replacing fossil fuels means that we reduce the problem of the earth's climate changing so quickly.
+替代化石燃料意味着我们可以如此迅速地减少地球气候变化的问题。
 
 Energifrågor. Solen ger allt levande energi. Kan du ge några exempel på detta.
+Energy issues. The sun gives all living things energy. Can you give some examples of this.
+能源问题。 太阳给予所有生物能量。 你能举一些例子吗？
 
 På vilket sätt är solenergin avgörande för att vattnets kretslopp ska fungera?
+In what way is solar energy crucial for the water cycle to function?
+太阳能在哪些方面对水循环发挥至关重要？
 
 Här kan du se några exempel på olika energikällor.
+Here you can see some examples of different energy sources.
+在这里您可以看到不同能源的一些示例。
 
 Vilka av dem är förnybara och vilka är icke förnybara? 
+Which of them are renewable and which are non-renewable?
+其中哪些是可再生的，哪些是不可再生的？
 
 Sätt in orden rätt i tabellen.
+Put the words correctly in the table.
+将单词正确地填入表中。
 
 vindkraft. naturgas. solenergi. olja. vågkraft. kol. tidvattenkraft. uran. vattenkraft.
+wind power. natural gas. solar energy. oil. wave power. charcoal. tidal power. uranium. hydroelectric.
+风力。 天然气。 太阳能。 石油。 波浪能。 煤炭。 潮汐发电。 铀。 水力发电。
 
 Förnybara energikällor. Icke förnybara energikällor.
-
+Renewable energy sources. Non-renewable energy sources.
+可再生能源。 不可再生能源。
 
 P 127 
 
-
 Fler frågor om energi och hållbar framtid.
+More questions about energy and a sustainable future.
+有关能源和可持续未来的更多问题。
 
-Här nedan ser du några bilder på olika energikällor. Skriv några fakta om varje bild.
+Här nedan ser du några bilder på olika energikällor. 
+Below you can see some pictures of different energy sources. 
+下面您可以看到一些不同能源的图片。 
+
+Skriv några fakta om varje bild.
+Write some facts about each picture.
+写下有关每张图片的一些事实。
 
 Vilka energikällor kallas även för fossila bränslen?
+Which energy sources are also called fossil fuels?
+哪些能源也称为化石燃料？
 
 Hur har fossila bränslen bildats?
+How were fossil fuels formed?
+化石燃料是如何形成的？
 
 Vilka nackdelar finns med att använda fossila bränslen?
+What are the disadvantages of using fossil fuels?
+使用化石燃料有哪些缺点？
 
 Vad tycker du är viktigast när det gäller att välja energikällor inför framtiden?.
-
+What do you think is most important when it comes to choosing energy sources for the future?.
+在选择未来能源时，您认为最重要的是什么？
 
 P 128
 
-
 Södra Europa. Länderna vid Medelhavet.
+Southern Europe. The Mediterranean countries.
+南欧。 地中海国家。
 
 Länderna i södra Europa ligger vid eller mycket nära Medelhavet. 
+The countries of southern Europe are located on or very close to the Mediterranean Sea.
+南欧国家位于或非常靠近地中海。
 
 I den region som vi kallar södra Europa finns länderna Portugal, Spanien, 
+In the region we call Southern Europe are the countries Portugal, Spain,
+在我们称为南欧的地区有葡萄牙、西班牙、
 
 Italien, Grekland, Slovenien, Kroatien, Serbien, Bosnien och Hercegovina, 
+Italy, Greece, Slovenia, Croatia, Serbia, Bosnia and Herzegovina,
+意大利、希腊、斯洛文尼亚、克罗地亚、塞尔维亚、波斯尼亚和黑塞哥维那、
 
 Montenegro, Kosovo, Makedonien och Albanien.
+Montenegro, Kosovo, Macedonia and Albania.
+黑山、科索沃、马其顿和阿尔巴尼亚。
 
 Till södra Europa brukar man också räkna ett antal mikrostater, som är riktigt små. 
+Southern Europe also usually counts a number of micro-states, which are really small.
+南欧通常也有许多微型国家，这些国家非常小。
 
 Ibland är dessa länder inte större än en svensk småstad. 
+Sometimes these countries are no bigger than a small Swedish town.
+有时这些国家并不比瑞典的一个小镇大。
 
 Till dessa mikrostater räknas Andorra, San Marino och världens minsta land, Vatikanstaten.
+These microstates include Andorra, San Marino and the world's smallest country, Vatican City.
+这些微型国家包括安道尔、圣马力诺和世界上最小的国家梵蒂冈城。
 
 Dessutom hör de båda öarna Malta och Cypern till länderna i södra Europa.
+In addition, the two islands of Malta and Cyprus belong to the countries of southern Europe.
+另外，马耳他和塞浦路斯两个岛屿都属于南欧国家。
 
 Så gott som alla länder i södra Europa ligger på tre stora halvöar, som stäcker sig ut i Medelhavet.
+Almost all countries in southern Europe are located on three large peninsulas, which jut out into the Mediterranean Sea.
+南欧几乎所有国家都位于伸入地中海的三个大半岛上。
 
 Längst i väster ligger den Pyreneiska halvön. 
+Farthest west is the Iberian Peninsula.
+最西边是伊比利亚半岛。
 
 Här hittar vi länderna Portugal, Spanien och Andorra. 
+Here we find the countries Portugal, Spain and Andorra.
+在这里我们找到了葡萄牙、西班牙和安道尔这三个国家。
 
 Halvön har fått namnet efter bergskedjan Pyrenéerna.
+The peninsula is named after the Pyrenees mountain range.
+该半岛因比利牛斯山脉而得名。
 
 Italien och de två mikrostaterna San Marino och Vatikanstaten ligger på den Apenninska halvön. 
+Italy and the two microstates of San Marino and Vatican City are located on the Apennine Peninsula.
+意大利以及圣马力诺和梵蒂冈城这两个微型国家位于亚平宁半岛。
 
 Den här halvön har fått namn efter bergskedjan Apenninerna.
+This peninsula is named after the Apennine mountain range.
+这个半岛以亚平宁山脉命名。
 
 I öster ligger Balkanhalvön med länderna Grekland, Albanien och Makedonien.
+To the east lies the Balkan Peninsula with the countries of Greece, Albania and Macedonia.
+东边是巴尔干半岛，与希腊、阿尔巴尼亚和马其顿等国相邻。
 
 Norr om Balkanhalvön ligger länderna Slovenien, Kroatien, Serbien, Bosnien och Hercegovina, Montenegro och Kosovo.
+North of the Balkan Peninsula are the countries of Slovenia, Croatia, Serbia, Bosnia and Herzegovina, Montenegro and Kosovo.
+巴尔干半岛北部有斯洛文尼亚、克罗地亚、塞尔维亚、波斯尼亚和黑塞哥维那、黑山和科索沃等国家。
 
 Karta över länderna i södra Europa.
+Map of the countries of southern Europe.
+南欧国家的地图。
 
 PORTUGAL. Lissabon. SPANIEN. Madrid. FRANKRIKE. ANDORRA. Sardinien. Medelhavet.
+PORTUGAL. Lisbon. SPAIN. Madrid. FRANCE. ANDORRA. Sardinia. Mediterranean Sea.
+葡萄牙。 里斯本。 西班牙。 马德里。 法国。 安道尔。 撒丁岛。 地中海。
 
 SAN MARINO. ITALIEN. Rom. Sicilien. MALTA. 
+SAN MARINO. ITALY. Rome. Sicily. MALTA.
+圣马力诺。 意大利。 罗马。 西西里岛。 马耳他。
 
-SLOVENIEN. KROATIEN. BOSNIEN-H. SERBIEN. MONTENEGRO. KOSOVO. MAKEDONIEN. ALBANIEN. GREKLAND.
+SLOVENIEN. KROATIEN. BOSNIEN. SERBIEN. MONTENEGRO. KOSOVO. MAKEDONIEN. ALBANIEN. GREKLAND.
+SLOVENIA. CROATIA. BOSNIA. SERBIA. MONTENEGRO. KOSOVO. MACEDONIA. ALBANIA. GREECE.
+斯洛文尼亚。 克罗地亚。 波斯尼亚-H。 塞尔维亚。 黑山。 科索沃。 马其顿。 阿尔巴尼亚。 希腊。
 
 Torra och varma somrar.
+Dry and hot summers.
+夏季干燥炎热。
 
 Länderna i södra Europa ligger i den subtropiska klimatzonen. 
+The countries of southern Europe are in the subtropical climate zone.
+南欧国家属于亚热带气候区。
 
 Här är somrarna mycket varma och torra, medan vintrarna är milda och fuktiga.
+Here, the summers are very hot and dry, while the winters are mild and humid.
+这里，夏季炎热干燥，冬季温和潮湿。
 
-För de länder som ligger kring Medelhavet brukar man även säga att de har ett medelhavsklimat. 
+För de länder som ligger kring Medelhavet 
+For the countries located around the Mediterranean Sea, 
+对于位于地中海沿岸的国家，
+
+brukar man även säga att de har ett medelhavsklimat. 
+it is also usually said that they have a Mediterranean climate.
+通常也称其为地中海气候。
 
 På somrarna är det inte ovanligt att dagstemperaturen går över 30 grader.
+In the summer, it is not unusual for the daytime temperature to exceed 30 degrees.
+夏季，白天气温超过30度并不罕见。
 
 Somrarna är torra och varma vid Medelhavet.
+Summers are dry and hot in the Mediterranean.
+地中海的夏季干燥炎热。
+
