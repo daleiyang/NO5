@@ -1,283 +1,543 @@
 P 224
 
 Meter, kilometer och mil.
+Meters, kilometers and Scandinavian mile.
+米、公里和斯堪的纳维亚英里。
 
 Vasaloppet är Sveriges mest kända skidtävling. Det är 90 000 m långt.
+Vasaloppet is Sweden's most famous ski race. It is 90,000 meters long.
+瓦萨滑雪节是瑞典最著名的滑雪比赛。全长 90,000 米。
 
 Så långa sträckor är opraktiskt att uttrycka i meter. 
+Such long distances are impractical to express in meters. 
+如此长的距离用米来表示是不切实际的。
 
 Istället använder vi kilometer (km) och mil. 
+Instead, we use kilometers (km) and Scandinavian mile. 
+相反，我们使用公里和斯堪的纳维亚英里。
 
 Vasaloppet är 90 km eller 9 mil långt.
+Vasaloppet is 90 km or 9 Scandinavian mile long.
+瓦萨国际滑雪节全长 90 公里或 9 斯堪的纳维亚英里。
 
 Prefixet kilo betyder tusen. En kilometer är lika med ett tusen meter.
+The prefix kilo means thousand. One kilometer is equal to one thousand meters.
+前缀 "kilo" 的意思是 "千"。一公里等于一千米。
 
-Men vi kan också säga att I m är en tusendels kilometer.
+Men vi kan också säga att 1 m är en tusendels kilometer.
+But we can also say that 1 m is one thousandth of a kilometer.
+但我们也可以说，1米是千分之一公里。
 
 Det går tio kilometer på en mil. 
+It goes ten kilometers in one Scandinavian mile. 
+一斯堪的纳维亚英里能跑十公里。
 
 Alltså är en kilometer lika med en tiondels mil.
+So one kilometer is equal to one tenth of a Scandinavian mile.
+因此，一公里等于十分之一斯堪的纳维亚英里。
 
-mil. 1 tusendels kilometer. 1 tiondels mil. 1 tiotusendels mil.
+1 tusendels kilometer. 1 tiondels mil. 1 tiotusendels mil.
+1 thousandth of a kilometer. 1 tenth of a Scandinavian mile. 1 ten thousandth of a Scandinavian mile
+千分之一公里。十分之一斯堪的纳维亚英里。万分之一斯堪的纳维亚英里。
 
 P 225
 
 Skriv längderna i kilometer.
+Write the lengths in kilometers.
+以千米为单位写出长度。
 
 Då är 0,3 mil. Alltså är 5,2 mil.
+Then 0.3 Scandinavian mile. That is 5.2 Scandinavian mile.
+然后是 0.3 斯堪的纳维亚英里。这就是 5.2 斯堪的纳维亚英里。
 
 Ett alternativ är att direkt multiplicera 0,3 med 10.
+An alternative is to directly multiply 0.3 by 10.
+另一种方法是直接用 0.3 乘以 10。
 
 Ett alternativ är att direkt dividera 2 300 med 1000.
+An alternative is to directly divide 2 300 by 1000.
+另一种方法是直接用 2 300 除以 1000。
 
 P 226
 
 Skriv längderna i kilometer.
+Write the lengths in kilometers.
+以千米为单位写出长度。
 
 På vägskyltar anges avståndet i kilometer.
+Road signs indicate the distance in kilometers.
+路标以公里为单位标明距离。
 
 Skriv de här avstånden i mil.
+Write these distances in Scandinavian mile.
+以斯堪的纳维亚英里为单位写出这些距离。
 
 Klara och Saga åkte skridskor på en sjö.
+Klara and Saga were skating on a lake.
+“克拉拉”和“萨迦”在湖上滑冰。
 
 De åkte en plogad bana som var 1 mil lång.
+They went on a plowed track that was 1 Scandinavian mile long.
+他们走在一条 1 斯堪的纳维亚英里长的犁过的小路上。
 
 De vilade efter 6 km. Hur långt hade de sedan kvar att åka? 
+They rested after 6 km. How far did they then have to go? 
+他们在 6 公里后休息。他们还需要走多远？
 
 Svara i kilometer. Skriv längderna i mil.
+Answer in kilometers. Write the lengths in Scandinavian mile.
+以千米为单位回答。以斯堪的纳维亚英里为单位写出长度。
 
 Ett skidspår är 5 km långt. Skriv längden i
+A ski trail is 5 km long. Write the length in
+一条滑雪道长 5 千米。 以...为单位写下长度
 
 Skriv längderna i kilometer.
+Write the lengths in kilometers.
+以千米为单位写出长度。
 
 Ett spår i skogen är 2,5 km långt. 
+One trail in the forest is 2.5 km long. 
+森林中的一条小路长 2.5 公里。
 
 Hur tänker du när du ska räkna ut hur många meter det är?
+How do you calculate how many meters it is?
+如何计算它有多少米？
 
 Vilket tal är x?
+Which number is x?
+哪个数字是 x？
 
 P 227
 
 Skriv längderna i kilometer.
+Write the lengths in kilometers.
+以千米为单位写出长度。
 
 Olivia åkte skidor. Efter 0,4 mil åt hon en apelsin. 
+Olivia went skiing. After 0.4 Scandinavian mile, she ate an orange. 
+“奥利维亚”去滑雪。滑了 0.4 斯堪的纳维亚英里后，她吃了一个橙子。
 
 Sedan åkte hon 0,7 mil till. Hur långt åkte Olivia sammanlagt? Svara i.
+She then traveled another 0.7 Scandinavian mile. How far did Olivia travel in total? Answer in.
+然后她又走了 0.7 斯堪的纳维亚英里。奥利维亚总共走了多远？答案以...为单位。
 
 Skriv längderna i meter. 
+Write the lengths in meters. 
+以米为单位写出长度。
 
 På en sekund hinner ljudet 340 m. 
+In one second, the sound travels 340 meters. 
+一秒钟内，声音传播 340 米。
 
 Ljuset rör sig så fort att det syns direkt. 
+The light moves so fast that it is immediately visible. 
+光线的移动速度非常快，一眼就能看到。
 
 Under ett åskväder såg Elin en blixt fem sekunder innan hon hörde mullret.
+During a thunderstorm, Elin saw a flash five seconds before she heard the rumble.
+在一场雷雨中，“伊琳”在听到轰隆声的五秒钟前看到了一道闪光。
 
 Hur långt bort var blixten?
+How far away was the lightning?
+闪电有多远？
 
 Ett maratonlopp är 42 195 m långt.
+A marathon is 42,195 meters long.
+马拉松全长 42195 米。
 
 Ungefär hur många kilometer är det?
+Approximately how many kilometers is that?
+大约有多少公里？
 
 Vilket tal är x?
+Which number is x?
+哪个数字是 x？
 
 Joakim har 4 km till skolan. Liam har 750 m kortare väg.
+Joakim has 4 km to the school. Liam has a shorter distance of 750 m.
+Joakim 距离学校有 4 公里。Liam 的距离更短，只有 750 米。
 
 Hur lång är Liams väg till skolan? Svara i.
+How long is Liam's route to school? Answer in.
+Liam 上学的路线有多长？答案以...为单位。
 
 När man ska omvandla till exempel 1,2 km till meter kan man multiplicera 1,2 med 1 000. 
+For example, to convert 1.2 km to meters, you can multiply 1.2 by 1000. 
+例如，要将 1.2 千米换算成米，可以将 1.2 乘以 1000。
 
 Förklara varför.
+Explain why.
+请解释原因。
 
 Hur kan man på motsvarande sätt omvandla från meter till kilometer?
+How can you similarly convert from meters to kilometers?
+如何将米换算成公里？
 
 P 228
 
 Ett skidspår är 7,5 km. William åker ett varv varje dag under en hel vecka utom på söndagen. 
+A ski track is 7.5 km long. William skis one lap every day for a whole week except Sunday. 
+滑雪道长 7.5 公里。在一整周内，除周日外，William 每天都要滑一圈。
 
 Hur långt åker han sammanlagt? Svara i.
+How far does he travel in total? Answer in.
+他总共走了多远？答案以...为单位。
 
 Familjen Ahlander ska köra 150 mil till Innsbruck. 
+The Ahlander family will drive 150 km to Innsbruck. 
+Ahlander 一家将驱车 150 公里前往 Innsbruck。
 
 De övernattar i Flensburg och har då två tredjedelar av resan kvar. 
+They spend the night in Flensburg and have two thirds of the journey left. 
+他们在 “Flensburg” 过夜，还有三分之二的路程要走。
 
 Hur många kilometer är det från Flensburg till Innsbruck?
+How many kilometers is it from Flensburg to Innsbruck?
+从 Flensburg 到 Innsbruck 有多少公里？
 
 Från Rom till Venedig är det 50,9 mil. 
+The distance from Rome to Venice is 50.9 Scandinavian mile. 
+“罗马”到“威尼斯”的距离为 50.9 斯堪的纳维亚英里。
 
 Från Rom till Milano är det 68 km längre. Hur långt är det? Svara i mil.
+From Rome to Milan it is 68 km longer. How far is that? Answer in Scandinavian mile.
+从"罗马"到"米兰"要多走 68 公里。这有多远？以斯堪的纳维亚英里为单位回答。
 
 Ylva har 7,2 km till sitt arbete. Först går hon till busshållplatsen.
+Ylva has 7.2 km to her work. First she walks to the bus stop.
+Ylva 离上班的地方有 7.2 公里。她先走到公交车站。
 
 Då har hon gått en tredjedel av hela sträckan. 
+She will have walked a third of the entire distance. 
+她将走完全程的三分之一。
 
 Den återstående sträckan åker hon buss. 
+She travels the remaining distance by bus. 
+她乘坐公共汽车走完剩下的路程。
 
 Hur lång är bussresan? Svara i meter.
+How long is the bus journey? Answer in meters.
+公交车路程有多长？以米为单位回答。
 
 Sandra promenerar en sträcka som är tre miljoner femhundratusen millimeter lång. 
+Sandra walks a distance that is three million five hundred thousand millimeters long. 
+Sandra 行走的距离长达三百五十万毫米。
 
 Vilka andra enheter passar bättre att ange den sträckan i, 
+What other units are better suited to indicate that distance, 
+还有什么其他单位更适合表示这个距离、 
 
 och vilken enhet tycker du är bäst? Motivera ditt svar.
+and which unit do you think is the best? Justify your answer.
+你认为哪个单位最好？请说明理由。
 
 Valter har 3 500 m till centrum. 
+Valter is 3 500 m from the center. 
+Valter 距市中心 3500 米。
 
 Två gånger i veckan cyklar han fram och tillbaka. 
+He cycles back and forth twice a week. 
+他每周往返两次。
 
 Hur långt är det sammanlagt? Svara i
+What is the total distance? Answer in
+总距离是多少？答案以...为单位
 
 Du reser från Berlin till Amsterdam och passerar de här vägskyltarna. 
+You are traveling from Berlin to Amsterdam and pass these road signs. 
+您从柏林前往阿姆斯特丹，经过这些路标。
 
 Vägskyltar visar avstånd i kilometer.
+Road signs show distances in kilometers.
+路标以公里为单位显示距离。
 
 Hur långt har du kvar innan du har kommit halvvägs?
+How far do you have to go before you reach the halfway point?
+在到达中点之前，你还需要走多远？
 
 En engelsk mil är 1 609 m. 
+One mile is 1,609 meters. 
+一英里等于 1609 米。
 
 Hur stor är differensen mellan en svensk mil och sex engelska mil?
+What is the difference between one Swedish mile and six English miles?
+1 瑞典英里和 6 英里之间有什么区别？
 
 P 229
 
 Skala. FÖRMINSKNING.
+Scale. REDUCTION.
+比例。 缩小。
 
 Pingisracketen är avbildad i skala 1: 10.
+The table tennis racket is depicted on a scale of 1:10.
+乒乓球拍的比例为 1:10。
 
 När vi läser det säger vi ”skala ett till tio”.
+When we read it, we say "scale one to ten".
+当我们读它时，我们会说 "一比十"。
 
 Racketen är en tiondel så lång på bilden som den är i verkligheten. 
+The racket is one tenth as long in the picture as it is in reality. 
+图中球拍的长度是实际长度的十分之一。
 
 Om vi avbildar något som är stort gör vi ofta bilden mindre än verkligheten. 
+If we depict something large, we often make the image smaller than the reality. 
+如果我们描绘的东西很大，我们往往会让图像小于物品的现实尺寸。
 
 Bilden är en förminskning.
+The image is a reduction.
+图片是缩小版。
 
 Vi kan också säga att racketen är tio gånger så lång i verkligheten som på bilden.
+We can also say that the racket is ten times as long in reality as in the picture.
+我们还可以说，球拍的实际长度是图片的十倍。
 
 När vi ska räkna ut hur lång racketen är i verkligheten mäter vi först racketen på bilden. 
+To calculate how long the racket is in reality, we first measure the racket in the picture. 
+要计算球拍的实际长度，我们首先要测量图片中的球拍。
 
 Den är 3 cm. 
+It is 3 cm. 
+是 3 厘米。
 
 Eftersom skalan är 1 : 10 multiplicerar vi längden med 10 för att få reda på racketens verkliga längd.
+Since the scale is 1 : 10, we multiply the length by 10 to find out the real length of the racket.
+由于比例尺是 1:10，所以我们将长度乘以 10，就得出了球拍的实际长度。
 
 Racketen är alltså 30 cm lång i verkligheten.
+The racket is thus 30 cm long in reality.
+因此，球拍实际长度为 30 厘米。
 
 FÖRSTORING. Nyckelpigan är avbildad i skala 5 : 1. 
+MAGNIFICATION. The ladybird is depicted at a scale of 5:1. 
+放大。瓢虫的比例为 5:1。
 
 När vi läser det säger vi ”skala fem till ett”. 
+When we read it, we say "scale five to one". 
+当我们读它时，我们会说 "五比一"。
 
 Nyckelpigan är fem gånger så lång på bilden som i verkligheten.
+The ladybird is five times as tall in the picture as it is in reality.
+图片中的瓢虫是现实中的五倍高。
 
 Om vi avbildar något som är litet gör vi ofta bilden större än verkligheten. 
+If we depict something small, we often make the image bigger than the reality. 
+如果我们描绘的东西很小，我们往往会让图像大于现实尺寸。
 
 Bilden är en förstoring.
+The image is an enlargement.
+图片是放大的。
 
 Vi kan också säga att nyckelpigan är fem gånger kortare i verkligheten än på bilden.
+We can also say that the ladybird is five times shorter in reality than in the picture.
+我们还可以说，现实中的瓢虫比图片上的矮五倍。
 
 När vi ska räkna ut hur lång nyckelpigan är i verkligheten mäter vi först längden av nyckelpigan. 
+To find out how tall the ladybird is in reality, we first measure the length of the ladybird. 
+要想知道瓢虫实际有多高，我们首先要测量瓢虫的长度。
 
 Den är 35 mm. Eftersom skalan är 5: 1 dividerar vi längden med 5.
+It is 35 mm. Since the scale is 5:1, we divide the length by 5.
+是 35 毫米。因为比例尺是 5:1，所以我们用长度除以 5。
 
 Nyckelpigan är alltså 7 mm lång i verkligheten.
+The ladybird is thus 7 mm long in reality.
+因此，瓢虫实际上只有 7 毫米长。
 
 P 230
 
 Mät pennans längd i hela och halva centimeter.
+Measure the length of the pencil in whole and half centimeters.
+用整厘米和半厘米测量铅笔的长度。
 
 Hur lång är pennan i verkligheten?
+How long is the pencil in reality?
+铅笔到底有多长？
 
 Längd på bilden. Längd i verkligheten.
+Length in the picture. Length in reality.
+图片中的长度。实际长度。
 
 Eftersom skalan är 1:3 så är pennan tre gånger så lång i verkligheten som på bilden.
+Since the scale is 1:3, the pen is three times as long in reality as in the picture.
+因为比例尺是 1:3，所以现实中这支笔的长度是图片中的三倍。
 
 Pennan är 13,5 cm i verkligheten. 
+The pen is 13.5 cm in reality. 
+这支笔的实际长度为 13.5 厘米。
 
 Visa hur du räknar. Svara med hel mening.
+Show how you calculate. Answer with a complete sentence.
+展示你是如何计算的。用一个完整的句子回答。
 
 Hur långt är gemet i verkligheten?
+How long is the paper clip in reality?
+回形针实际上有多长？
 
 I verkligheten är gemet 1,5 cm långt.
+In reality, the paper clip is 1.5 cm long.
+实际上，回形针有 1.5 厘米长。
 
 P 231
 
 Hur långa är föremålen i verkligheten? Mät i hela centimeter.
+How long are the objects in reality? Measure in whole centimeters.
+现实中的物体有多长？以整厘米为单位测量。
 
 En modell av en segelbåt är 9 cm lång. Modellen är tillverkad i skala 1: 100. 
+A model of a sailboat is 9 cm long. The model is made in 1:100 scale. 
+帆船模型长 9 厘米。模型的比例为 1:100。
 
 Hur lång är segelbåten i verkligheten? Svara i meter.
+How long is the sailboat in reality? Answer in meters.
+帆船实际上有多长？答案以米为单位。
 
 På en bild är en loppa 2 cm lång. Bilden är i skala 10 : 1. 
+In one picture, a flea is 2 cm long. The image is at a scale of 10:1. 
+在一张图片中，一只跳蚤有 2 厘米长。图片比例为 10:1。
 
 Hur lång är loppan i verkligheten? Svara i millimeter.
+How long is the flea in reality? Answer in millimeters.
+跳蚤实际上有多长？请以毫米为单位回答。
 
 Förklara hur du ska göra om du får i uppgift av din lärare att rita en bild av klassrummets golv i skala 1 : 100.
+Explain what to do if your teacher asks you to draw a picture of the classroom floor at a scale of 1:100.
+解释如果老师要求你以 1:100 的比例画一幅教室地板图，你该怎么做。
 
 På en bild är ett rep 10 cm långt. Bilden är ritad i skala 1 : 25.
+In one picture, a rope is 10 cm long. The picture is drawn at a scale of 1 : 25.
+在一幅图中，绳子长 10 厘米。该图的比例尺为 1:25。
 
 Hur långt är repet i verkligheten? Svara i meter.
+How long is the rope in reality? Answer in meters.
+绳子实际上有多长？答案以米为单位。
 
 En insekt är avbildad i skala 4 : 1. På bilden är insekten 32 mm lång.
+An insect is depicted at a scale of 4 : 1. In the picture, the insect is 32 mm long.
+一只昆虫的比例是 4:1。 图中的昆虫长 32 毫米。
 
 Hur lång är den i verkligheten? Svara i centimeter.
+How long is it in reality? Answer in centimeters.
+实际有多长？请以厘米为单位回答。
 
 Vad saknas i tabellen?
+What is missing from the table?
+表格中缺少了什么？
 
 Längd på bild. Skala. Längd i verkligheten.
+Length of picture. Scale. Length in reality.
+图片长度。比例尺。现实中的长度。
 
 P 232
 
 Hur långa är föremålen i verkligheten? Mät i hela centimeter.
+How long are the objects in reality? Measure in whole centimeters.
+现实中的物体有多长？以整厘米为单位测量。
 
 En valhaj är 3 cm på en bild i skala 1 : 250.
+A whale shark is 3 cm on a 1:250 scale image.
+鲸鲨在 1:250 比例的图像上为 3 厘米。
 
 Hur lång är hajen i verkligheten? Svara i meter.
+How long is the shark in reality? Answer in meters.
+鲨鱼实际有多长？答案以米为单位。
 
 Hur lång och hur bred är ramen i verkligheten? 
+How long and how wide is the frame in reality? 
+镜框实际有多长多宽？
 
 Mät ytterkanterna i hela och halva centimeter.
+Measure the outer edges in whole and half centimeters.
+以整厘米和半厘米为单位测量外边缘。
 
 På en bild är en mygga dubbelt så lång som i verkligheten.
+In a picture, a mosquito is twice as long as in real life.
+在图片中，蚊子的长度是现实生活中的两倍。
 
 Vilken är skalan?
+What is the scale?
+比例是多少？
 
 På bilden är myggan 1,4 cm. Hur lång är den i verkligheten?
-
-Skala 1:10
+In the picture, the mosquito is 1.4 cm. How long is it in reality?
+图片中的蚊子有 1.4 厘米长。实际有多长？
 
 En krokodil är avbildad i skala 1 : 10. 
+A crocodile is depicted at a scale of 1 : 10. 
+鳄鱼的比例尺为 1:10。
 
 På bilden är krokodilen 35 cm lång. 
+In the picture, the crocodile is 35 cm long. 
+图片中的鳄鱼长 35 厘米。
 
 Hur lång är den i verkligheten? Svara i meter.
+How long is it in reality? Answer in meters.
+实际有多长？以米为单位回答。
 
 Förklara vad som menas med skala 1 : 1 000.
+Explain what is meant by 1 : 1 000 scale.
+解释 1 : 1000 比例尺的含义。
 
 Vad saknas i tabellen?
+What is missing from the table?
+表格中缺少了什么？
 
 Längd på bild. Skala. Längd i verkligheten
+Length of picture. Scale. Length in reality
+图片长度。比例尺。实际长度
 
 P 233
 
 Hur långt och hur brett är rummet i verkligheten?
+How long and how wide is the room in reality?
+房间实际有多长多宽？
 
 Mät i hela och halva centimeter.
+Measure in whole and half centimeters.
+测量单位为整厘米和半厘米。
 
 En fluga är en tredjedel så lång i verkligheten som den är på en bild. 
+A fly is one third as long in real life as it is in a picture. 
+一只苍蝇在现实生活中的长度是图片中的三分之一。
 
 I vilken skala är flugan avbildad?
+At what scale is the fly depicted?
+描绘苍蝇的比例是多少？
 
 Lös uppgifterna 80-82 med hjälp av kartan.
+Solve problems 80-82 using the map.
+利用地图解决第 80-82 题。
 
 Hur många meter i verkligheten motsvarar 1 cm på kartan?
+How many meters in reality correspond to 1 cm on the map?
+地图上的 1 厘米对应现实中的多少米？
 
 Hurilångt är det mellan kontroll 2 och 3 i verkligheten?
+How far apart are controls 2 and 3 in reality?
+2 号和 3 号控制台之间的实际距离有多远？
 
 Mät i hela centimeter. Svara i meter.
+Measure in whole centimeters. Answer in meters.
+以整厘米为单位测量。以米为单位回答。
 
 Från starten till första kontrollen är det 600 m i verkligheten.
+From the start to the first control is 600 m in reality.
+从起点到第一个控制点实际距离为 600 米。
 
 Hur långt är det på kartan?
+How far is it on the map?
+地图上有多远？
 
 Vad tror du att det betyder om du har en bild i skala 1: 1?
+What do you think it means if you have a 1:1 scale image?
+你认为 1:1 比例的图像意味着什么？
 
 På en bild i skala 1 : 30 är en stege 6 cm lång. 
+On a 1:30 scale image, a ladder is 6 cm long. 
+在 1:30 的比例图像上，梯子的长度为 6 厘米。
 
 Hur lång är den i skala 1:10?
+How long is it at 1:10 scale?
+1:10 的比例有多长？
