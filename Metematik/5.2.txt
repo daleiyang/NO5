@@ -1,0 +1,283 @@
+P 224
+
+Meter, kilometer och mil.
+
+Vasaloppet är Sveriges mest kända skidtävling. Det är 90 000 m långt.
+
+Så långa sträckor är opraktiskt att uttrycka i meter. 
+
+Istället använder vi kilometer (km) och mil. 
+
+Vasaloppet är 90 km eller 9 mil långt.
+
+Prefixet kilo betyder tusen. En kilometer är lika med ett tusen meter.
+
+Men vi kan också säga att I m är en tusendels kilometer.
+
+Det går tio kilometer på en mil. 
+
+Alltså är en kilometer lika med en tiondels mil.
+
+mil. 1 tusendels kilometer. 1 tiondels mil. 1 tiotusendels mil.
+
+P 225
+
+Skriv längderna i kilometer.
+
+Då är 0,3 mil. Alltså är 5,2 mil.
+
+Ett alternativ är att direkt multiplicera 0,3 med 10.
+
+Ett alternativ är att direkt dividera 2 300 med 1000.
+
+P 226
+
+Skriv längderna i kilometer.
+
+På vägskyltar anges avståndet i kilometer.
+
+Skriv de här avstånden i mil.
+
+Klara och Saga åkte skridskor på en sjö.
+
+De åkte en plogad bana som var 1 mil lång.
+
+De vilade efter 6 km. Hur långt hade de sedan kvar att åka? 
+
+Svara i kilometer. Skriv längderna i mil.
+
+Ett skidspår är 5 km långt. Skriv längden i
+
+Skriv längderna i kilometer.
+
+Ett spår i skogen är 2,5 km långt. 
+
+Hur tänker du när du ska räkna ut hur många meter det är?
+
+Vilket tal är x?
+
+P 227
+
+Skriv längderna i kilometer.
+
+Olivia åkte skidor. Efter 0,4 mil åt hon en apelsin. 
+
+Sedan åkte hon 0,7 mil till. Hur långt åkte Olivia sammanlagt? Svara i.
+
+Skriv längderna i meter. 
+
+På en sekund hinner ljudet 340 m. 
+
+Ljuset rör sig så fort att det syns direkt. 
+
+Under ett åskväder såg Elin en blixt fem sekunder innan hon hörde mullret.
+
+Hur långt bort var blixten?
+
+Ett maratonlopp är 42 195 m långt.
+
+Ungefär hur många kilometer är det?
+
+Vilket tal är x?
+
+Joakim har 4 km till skolan. Liam har 750 m kortare väg.
+
+Hur lång är Liams väg till skolan? Svara i.
+
+När man ska omvandla till exempel 1,2 km till meter kan man multiplicera 1,2 med 1 000. 
+
+Förklara varför.
+
+Hur kan man på motsvarande sätt omvandla från meter till kilometer?
+
+P 228
+
+Ett skidspår är 7,5 km. William åker ett varv varje dag under en hel vecka utom på söndagen. 
+
+Hur långt åker han sammanlagt? Svara i.
+
+Familjen Ahlander ska köra 150 mil till Innsbruck. 
+
+De övernattar i Flensburg och har då två tredjedelar av resan kvar. 
+
+Hur många kilometer är det från Flensburg till Innsbruck?
+
+Från Rom till Venedig är det 50,9 mil. 
+
+Från Rom till Milano är det 68 km längre. Hur långt är det? Svara i mil.
+
+Ylva har 7,2 km till sitt arbete. Först går hon till busshållplatsen.
+
+Då har hon gått en tredjedel av hela sträckan. 
+
+Den återstående sträckan åker hon buss. 
+
+Hur lång är bussresan? Svara i meter.
+
+Sandra promenerar en sträcka som är tre miljoner femhundratusen millimeter lång. 
+
+Vilka andra enheter passar bättre att ange den sträckan i, 
+
+och vilken enhet tycker du är bäst? Motivera ditt svar.
+
+Valter har 3 500 m till centrum. 
+
+Två gånger i veckan cyklar han fram och tillbaka. 
+
+Hur långt är det sammanlagt? Svara i
+
+Du reser från Berlin till Amsterdam och passerar de här vägskyltarna. 
+
+Vägskyltar visar avstånd i kilometer.
+
+Hur långt har du kvar innan du har kommit halvvägs?
+
+En engelsk mil är 1 609 m. 
+
+Hur stor är differensen mellan en svensk mil och sex engelska mil?
+
+P 229
+
+Skala. FÖRMINSKNING.
+
+Pingisracketen är avbildad i skala 1: 10.
+
+När vi läser det säger vi ”skala ett till tio”.
+
+Racketen är en tiondel så lång på bilden som den är i verkligheten. 
+
+Om vi avbildar något som är stort gör vi ofta bilden mindre än verkligheten. 
+
+Bilden är en förminskning.
+
+Vi kan också säga att racketen är tio gånger så lång i verkligheten som på bilden.
+
+När vi ska räkna ut hur lång racketen är i verkligheten mäter vi först racketen på bilden. 
+
+Den är 3 cm. 
+
+Eftersom skalan är 1 : 10 multiplicerar vi längden med 10 för att få reda på racketens verkliga längd.
+
+Racketen är alltså 30 cm lång i verkligheten.
+
+FÖRSTORING. Nyckelpigan är avbildad i skala 5 : 1. 
+
+När vi läser det säger vi ”skala fem till ett”. 
+
+Nyckelpigan är fem gånger så lång på bilden som i verkligheten.
+
+Om vi avbildar något som är litet gör vi ofta bilden större än verkligheten. 
+
+Bilden är en förstoring.
+
+Vi kan också säga att nyckelpigan är fem gånger kortare i verkligheten än på bilden.
+
+När vi ska räkna ut hur lång nyckelpigan är i verkligheten mäter vi först längden av nyckelpigan. 
+
+Den är 35 mm. Eftersom skalan är 5: 1 dividerar vi längden med 5.
+
+Nyckelpigan är alltså 7 mm lång i verkligheten.
+
+P 230
+
+Mät pennans längd i hela och halva centimeter.
+
+Hur lång är pennan i verkligheten?
+
+Längd på bilden. Längd i verkligheten.
+
+Eftersom skalan är 1:3 så är pennan tre gånger så lång i verkligheten som på bilden.
+
+Pennan är 13,5 cm i verkligheten. 
+
+Visa hur du räknar. Svara med hel mening.
+
+Hur långt är gemet i verkligheten?
+
+I verkligheten är gemet 1,5 cm långt.
+
+P 231
+
+Hur långa är föremålen i verkligheten? Mät i hela centimeter.
+
+En modell av en segelbåt är 9 cm lång. Modellen är tillverkad i skala 1: 100. 
+
+Hur lång är segelbåten i verkligheten? Svara i meter.
+
+På en bild är en loppa 2 cm lång. Bilden är i skala 10 : 1. 
+
+Hur lång är loppan i verkligheten? Svara i millimeter.
+
+Förklara hur du ska göra om du får i uppgift av din lärare att rita en bild av klassrummets golv i skala 1 : 100.
+
+På en bild är ett rep 10 cm långt. Bilden är ritad i skala 1 : 25.
+
+Hur långt är repet i verkligheten? Svara i meter.
+
+En insekt är avbildad i skala 4 : 1. På bilden är insekten 32 mm lång.
+
+Hur lång är den i verkligheten? Svara i centimeter.
+
+Vad saknas i tabellen?
+
+Längd på bild. Skala. Längd i verkligheten.
+
+P 232
+
+Hur långa är föremålen i verkligheten? Mät i hela centimeter.
+
+En valhaj är 3 cm på en bild i skala 1 : 250.
+
+Hur lång är hajen i verkligheten? Svara i meter.
+
+Hur lång och hur bred är ramen i verkligheten? 
+
+Mät ytterkanterna i hela och halva centimeter.
+
+På en bild är en mygga dubbelt så lång som i verkligheten.
+
+Vilken är skalan?
+
+På bilden är myggan 1,4 cm. Hur lång är den i verkligheten?
+
+Skala 1:10
+
+En krokodil är avbildad i skala 1 : 10. 
+
+På bilden är krokodilen 35 cm lång. 
+
+Hur lång är den i verkligheten? Svara i meter.
+
+Förklara vad som menas med skala 1 : 1 000.
+
+Vad saknas i tabellen?
+
+Längd på bild. Skala. Längd i verkligheten
+
+P 233
+
+Hur långt och hur brett är rummet i verkligheten?
+
+Mät i hela och halva centimeter.
+
+En fluga är en tredjedel så lång i verkligheten som den är på en bild. 
+
+I vilken skala är flugan avbildad?
+
+Lös uppgifterna 80-82 med hjälp av kartan.
+
+Hur många meter i verkligheten motsvarar 1 cm på kartan?
+
+Hurilångt är det mellan kontroll 2 och 3 i verkligheten?
+
+Mät i hela centimeter. Svara i meter.
+
+Från starten till första kontrollen är det 600 m i verkligheten.
+
+Hur långt är det på kartan?
+
+Vad tror du att det betyder om du har en bild i skala 1: 1?
+
+På en bild i skala 1 : 30 är en stege 6 cm lång. 
+
+Hur lång är den i skala 1:10?
