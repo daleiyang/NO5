@@ -1,5 +1,5 @@
 Crime doesn't pay.
-犯罪是没有代价的。
+犯罪弊大于利（得不偿失）
 
 Sofie and Karim are in the newsagent's after sports day.
 运动会结束后，“索菲”和“卡里姆”在报亭里。
@@ -32,13 +32,13 @@ Do you really want gobstoppers and lollipops? They're almost the same.
 你真的想要圆硬糖和棒棒糖吗？它们几乎是一样的。
 
 Hmm, good thinking. Gobstoppers are more expensive, so...
-嗯，想法不错。圆硬糖更贵，所以...
+嗯，好主意。圆硬糖更贵，所以...
 
 Shopkeeper. Oy, come back, you!
 店主。 喂，你回来！
 
 Sofie and Karim turn around and see an older girl push past them.
-索菲和卡里姆转过身来，看到一个年长的女孩从他们身边走过。
+索菲和卡里姆转过身来，看到一个年长一些的女孩从他们身边走过，还推了他们一把。
 
 When she opens the door and runs outside something falls to the ground. 
 当她打开门跑出去时，有东西掉在了地上。
@@ -52,45 +52,60 @@ brott
 
 doesn't pay
 lönar sig inte
+得不偿失
 
 newsagent's
 tobaksaffär
+报亭
 
 chewing gum
 tuggummi
+口香糖
 
 gobstopper
 stor hård karamell
+圆硬糖
 
 jelly beans
 geléböna
+糖豆
 
 afford
 ha råd med 
+买得起
 
 a bag of
 en påse
+一袋
 
 worth the money
 värd pengarna
+物有所值
 
 lollipop
 klubba
+棒棒糖
 
 cheap, cheaper
 billig, billigare
+便宜，更便宜
 
 last
 räcka
+持续
 
 good thinking
 bra tänkt
+好主意
 
 more expensive
 dyrare
+更贵
 
 push
 knuffa (sig)
+推
 
 disappear
 försvinna
+消失
