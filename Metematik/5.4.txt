@@ -1,153 +1,291 @@
 P 234
 
 Vinklar. AKTIVITET. Uppskatta vinklar.
+Angles. ACTIVITY. Estimate angles.
+角度。活动。 估算角度。
 
 Materiel: Gradskiva, papper, linjal. Antal deltagare: 2-3 st.
+Materials: protractor, paper, ruler. Number of participants: 2-3.
+材料：量角器、纸、尺子。参加人数：2-3 人。
 
 Rita 4—5 vinklar var på ett papper. Använd linjal.
+Draw 4-5 angles each on a piece of paper. Use a ruler.
+在一张纸上各画 4-5 个角。用尺子画。
 
 Numrera vinklarna med 1, 2, 3 och så vidare.
+Number the angles with 1, 2, 3 and so on.
+将角编号为 1、2、3，以此类推。
 
 Ta en vinkel i taget. Var och en av er skriver ner hur stor ni tror att vinkeln är.
+Take one angle at a time. Each of you write down how big you think the angle is.
+每次取一个角。每人写下你认为这个角有多大。
 
 Sedan mäter ni vinkeln med gradskiva. Den som gissat närmast får 1 poäng.
+Then you measure the angle with a protractor. The closest guess gets 1 point.
+然后用量角器测量角度。最接近的猜测得 1 分。
 
 Vinner gör den som har flest poäng när alla vinklar är avklarade.
+The winner is the person with the most points when all the angles are completed.
+完成所有角度后，得分最高者获胜。
 
 VRIDNING MÄTS I GRADER.
+TWIST IS MEASURED IN DEGREES.
+旋转以度为单位。
 
 Minutvisaren på en klocka vrider sig ett varv på en timme.
+The minute hand of a watch turns one revolution in one hour.
+手表的分针每小时转一圈。
 
 Den har då vridit sig 360 grader. Det skriver vi 360°.
+It has then turned 360 degrees. We write 360°.
+然后转过 360 度。我们写作 360°。
 
 Eftersom en vridning ett helt varv är 360° så är ett halvt varv 180° och ett fjärdedels varv 90°.
+Since a full turn is 360°, a half turn is 180° and a quarter turn is 90°.
+因为转一圈是 360°，转半圈是 180°，转四分之一圈是 90°。
 
 Ett helt varv är 360°. Ett halvt varv är 180°. Ett fjärdedels varv är 90°.
+A full turn is 360°; a half turn is 180°; a quarter turn is 90°.
+转一圈是 360°，转半圈是 180°，转四分之一圈是 90°。
 
 En vridning kan också vara större än 360°.
+A rotation can also be greater than 360°.
+旋转也可以大于 360°。
 
 När till exempel en skateboardåkare snurrar två varv är vridningen 2*360° = 720°.
+For example, when a skateboarder makes two turns, the twist is 2*360° = 720°.
+例如，当滑板运动员转两圈时，旋转的角度为 2*360° = 720°。
 
 P235
 
 OLIKA SORTERS VINKLAR.
+DIFFERENT TYPES OF ANGLES.
+不同的角。
 
 En vridning kan visas med en vinkel. 
+A twist can be shown with an angle. 
+旋转可以用角度来表示。
 
 Vinkeln markeras med en båge eller med en hake om vinkeln är rät.
+The angle is marked with an arc or with a hook if the angle is right.
+角度用弧线标记，如果是直角，则用钩子标记。
 
 båge. En spetsig vinkel är mindre än 90°.
+arc. An acute angle is less than 90°.
+弧线。 锐角小于 90°。
 
-hake. En rät vinkel är 90°. 
+hake. En rät vinkel är 90°.
+hook. A right angle is 90°. 
+钩子。 直角为 90°。
 
 En trubbig vinkel är större än 90° men mindre än 180°.
+An obtuse angle is greater than 90° but less than 180°.
+钝角大于 90°，小于 180°。
 
 ATT MÄTA VINKLAR. Man mäter vinklar med en gradskiva.
+TO MEASURE ANGLES. You measure angles with a protractor.
+来测量角。你可以用量角器测量角度。
 
 Lägg gradskivans mittmarkering på vinkelspetsen och ena vinkelbenet på 0°.
+Place the center mark of the protractor on the tip of the angle and one leg of the angle at 0°.
+将量角器的中心点放在角的顶端，将角的一条腿置于 0°。
 
 vinkelspets. vinkelben.
+angle tip. angle leg.
+顶点。边。
 
 Gradskivan har två graderingar och det är viktigt att välja rätt. 
+The protractor has two gradations and it is important to choose the right one. 
+量角器有两个刻度，选择正确的刻度非常重要。
 
 Man utgår från den gradering där det står 0. 
+It is based on the grading where it says 0. 
+你可以从 0 刻度开始。
 
 Sedan avläser man hur stor vridningen till det andra vinkelbenet är.
+Then you measure the amount of twist to the other angle leg.
+然后读取另一个角脚的旋转量。
 
 En bra metod är också att först tänka efter om vinkeln är spetsig eller trubbig, 
+A good method is also to first consider whether the angle is acute or obtuse, 
+一个好的方法是首先考虑这个角是锐角还是钝角，
 
 det vill säga om den är större eller mindre än 90°.
+i.e. whether it is greater or less than 90°.
+即大于还是小于 90°。
 
 Den här vinkeln är spetsig. 
+This angle is pointed. 
+这个角度是锐角。
 
 Alltså läser du av 50° på den inre graderingen.
+So you read 50° on the inner graduation.
+因此内刻度读数为 50°。
 
 Den här vinkeln är trubbig.
+This angle is blunt,
+这个角度是钝角，
 
 Alltså läser du av 130° på den yttre graderingen.
+so you read 130° on the outer graduation.
+因此外部刻度读数为 130°。
 
 P 236
 
 ATT RITA VINKLAR.
+TO DRAW ANGLES.
+来画角。
 
 Så här ritar du en vinkel som är 70°.
+How to draw an angle that is 70°.
+如何画一个 70° 的角。
 
 Börja med att markera vinkelns spets med en punkt.
+Start by marking the point of the angle with a dot. 
+首先用圆点标出角的顶点。
 
 Rita sedan det ena vinkelbenet.
+Then draw one of the angle legs.
+然后画出角的一条边。
 
 Lägg gradskivan som bilden visar.
+Place the protractor as shown. 
+如图所示放置量角器。
 
 Gör ett kryss vid 70°.
+Make a cross at 70°. 
+在 70° 处打叉，
 
 Rita det andra vinkelbenet.
+Draw the second angle leg. 
+画出另一条边
 
 Avsluta med att markera vinkeln med en båge.
+Finish by marking the angle with an arc.
+最后用弧线标记角
 
 P 237
 
 Vilka av vinklarna är. räta. spetsiga. trubbiga.
+Which of the angles are. right. acute. obtuse.
+哪些角是： 直角。锐角。钝角。
 
 Ordna vinklarna i storleksordning. Börja med den minsta.
+Arrange the angles in order of size. Start with the smallest one.
+按大小顺序排列角。从最小的角开始。
 
 Hur stora är vinklarna?
+How big are the angles?
+角度有多大？
 
 Mät vinklarna. Gradtalen ska sluta på 0 eller 5.
+Measure the angles. The degrees should end in 0 or 5.
+测量角度。度数应以 0 或 5 结尾。
 
 P 238
 
 Vilken vinkel är störst? Förklara hur du tänker.
+Which angle is the largest? Explain your thinking.
+哪个角度最大？解释你的想法。
 
 Rita en vinkel som är.
+Draw an angle that is.
+画一个这样的角度。
 
 Räkna ut hur stor vinkeln v är.
+Calculate the size of the angle v.
+计算角 v 的大小。
 
 Hur stora är vinklarna?
+How big are the angles?
+角度有多大？
 
 Hur många grader är en vridning på. varv. ett och ett halvt varv.
+How many degrees is a rotation of. turns. one and a half turns.
+旋转...等于多少度 。圈。一圈半。
 
 P 239
 
 Mät vinklarna. Gradtalen ska sluta på 0 eller 5.
+Measure the angles. The degrees should end in 0 or 5.
+测量角度。度数应以 0 或 5 结尾。
 
 Rita en vinkel som är.
+画一个这样的角。
 
 Räkna ut hur stor vinkeln v är. Kontrollmät sedan med en gradskiva.
+计算角 v 有多大。然后用量角器检查。
 
 Hur många grader har en kompassnål vridit sig om den svänger medurs från.
+How many degrees has a compass needle turned if it turns clockwise from.
+如果罗盘针从中心顺时针转动，它转了多少度？
 
 norr till öster. norr till söder. söder till öster.
+north to east. north to south. south to east.
+由北向东，由北向南，由南向东。
 
 På en klocka har minutvisaren vridit sig 360°.
+On a watch, the minute hand has rotated 360°.
+在手表上，分针旋转 360°。
 
 Hur många grader har timvisaren vridit sig under den tiden? 
+How many degrees has the hour hand turned in that time? 
+在这段时间里，时针转了多少度？
 
 Motivera ditt svar.
+Justify your answer.
+请说明理由。
 
 P 240
 
 Mät vinklarna. Gradtalen ska sluta på 0 eller 5.
+Measure the angles. The degrees should end in 0 or 5.
+测量角度。度数应以 0 或 5 结尾。
 
 Rita en vinkel som är.
+Draw an angle that is.
+画一个这样的角。
 
 Hur många grader vrider sig minutvisaren på.
+How many degrees does the minute hand turn.
+分针转动多少度？
 
 en kvart. tjugo minuter. fyrtiofem minuter.
+fifteen minutes twenty minutes forty-five minutes
+十五分钟 二十分钟 四十五分钟
 
 I Göteborg finns ett stort pariserhjul. 
+In Gothenburg there is a large Ferris wheel.
+哥德堡有一个大型摩天轮。
 
 Det snurrar ett helt varv på en kvart. 
+It turns a full circle in fifteen minutes.
+它在 15 分钟内转了一圈。
 
 Hur många grader vrider sig hjulet på tre minuter?
+How many degrees does the wheel turn in three minutes?
+三分钟内摩天轮转多少度？
 
 Hur stor är vinkeln mellan visarna på en klocka som är.
+What is the angle between the hands of a watch that is.
+手表指针之间的夹角是多少？
 
 En vinkel är 25°. 
+An angle is 25°.
+一个角是 25°。
 
 Hur stor är vinkeln om du zoomar in den med tre gångers förstoring? 
+How big is the angle if you zoom in at three times magnification?
+如果放大三倍，这个角有多大？
 
 Motivera ditt svar.
+Justify your answer.
+请说明你的答案。
 
 Hur många grader vrider sig timvisaren på en klocka på.
+How many degrees does the hour hand on a watch turn.
+手表上的时针转动多少度。
 
 timmar. en halvtimme.
+hours. half an hour.
+小时。 半小时
