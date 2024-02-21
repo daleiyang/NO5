@@ -59,7 +59,7 @@ slightly.	lätt, lite	稍微
 mood.		stämning, humör	心情
 lane.		bana.		泳道
 opponent.	motståndare.	对手
-my jaw dropped.	jag tappade hakan.	我的下巴掉了下来
+my jaw dropped.	jag tappade hakan. 我的下巴掉了下来
 smug.		självbelåten.	得意的
 did. do.	gjorde. göra.	做到
 come second.	komma på andra plats. 	取得第二名

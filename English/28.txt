@@ -55,94 +55,48 @@ In fact, it became an Olympic sport in 1995.
 Do you want to know more about netball? See page 64.
 您想了解更多有关无挡板篮球的信息吗？请参见第 64 页。
 
-energetic
-kraftfull, energisk
-精力充沛
+energetic.	kraftfull, energisk.	精力充沛
 
-is played by
-spelas av
-由...来做
+is played by.	spelas av.	由...来做
 
-woman, women
-kvinna, kvinnor
-女人
+woman, women.	kvinna, kvinnor.	女人
 
-once upon a time 
-en gång för längesedan
-从前
+once upon a time.  en gång för längesedan.  从前
 
-was called
-kallades
-被称为
+was called.	kallades.	被称为
 
-game
-spel
-游戏
+game.	spel.	游戏
 
-throw
-kasta
-扔
+throw.	kasta.	扔
 
-bounce
-studsa
-弹跳
+bounce.	studsa.	弹跳
 
-score a goal
-göra mål
-进球
+score a goal.	göra mål.	进球
 
-team
-lag
-队
+team.	lag.	队
 
-each
-var och en, varje
-每个
+each.	var och en, varje.	每个
 
-court
-plan
-球场
+court.	plan.	球场
 
-pass
-passa
-传递
+pass.	passa.	传递
 
-member
-medlem
-成员
+member.	medlem.	成员
 
-try, tries
-försöker
-试图
+try, tries.	försöker.	试图
 
-block
-stoppa
-阻止
+block.	stoppa.	阻止
 
-soft, softer
-mjuk, mjukare
-软
+soft, softer.	mjuk, mjukare.	软
 
-country, countries
-land, länder
-国家
+country, countries.	land, länder.	国家
 
-top
-populäraste
-顶级
+top.	populäraste.	顶级
 
-the West Indies
-Västindien
-西印度群岛
+the West Indies.	Västindien.	西印度群岛
 
-in fact
-faktiskt
-事实上
+in fact.	faktiskt.	事实上
 
-became (become)
-blev (bli)
-成为
+became (become).	blev (bli).	成为
 
-Olympic
-olympisk
-奥林匹克
+Olympic.	olympisk.	奥林匹克
