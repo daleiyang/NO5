@@ -1,0 +1,309 @@
+P 241
+
+Omkrets. MÅNGHÖRNINGAR. Parallella linjer.
+Perimeter（circumference）. DIMENSIONAL RELATIONSHIPS. parallel lines
+周长。尺寸关系。平行线
+
+Parallella linjer är linjer som aldrig korsar varandra hur långt de än dras ut. 
+Parallel lines are lines that never cross each other no matter how far they are drawn. 
+平行线是指无论画多远都不会相交的线。
+
+Det betyder att avståndet mellan två parallella linjer är konstant, det vill säga alltid lika stort.
+This means that the distance between two parallel lines is constant, i.e. always equal.
+这意味着两条平行线之间的距离是恒定的，即始终相等。
+
+Parallellogram. Romb. Rektangel. Kvadrat. Triangel.
+Parallelogram. rhombus. Rectangle. square. triangle.
+平行四边形。 菱形。 矩形。 正方形。 三角形。
+
+En parallellogram har fyra sidor.
+A parallelogram has four sides.
+平行四边形有四条边。
+
+Sidorna mitt emot varandra är parallella och lika långa.
+The sides opposite each other are parallel and of equal length.
+对边平行且长度相等。
+
+En romb är en parallellogram där alla sidor är lika långa.
+A rhombus is a parallelogram where all sides are of equal length.
+菱形是所有边长度相等的平行四边形。
+
+En rektangel är en parallellogram med räta vinklar.
+A rectangle is a parallelogram with right angles.
+矩形是有直角的平行四边形。
+
+En kvadrat är en rektangel där alla sidor är lika långa.
+A square is a rectangle where all sides are of equal length.
+正方形是所有边长度相等的长方形。
+
+En triangel har tre sidor.
+A triangle has three sides.
+三角形有三条边。
+
+Månghörningar eller polygoner är ett gemensamt namn på alla geometriska figurer med flera hörn. 
+Polygons are a common name for all geometric figures with multiple vertices. 
+多边形是所有具有多个顶点的几何图形的通称。
+
+Det kan vara trehörningar, fyrhörningar, femhörningar, sexhörningar och så vidare.
+They can be triangles, quadrangles, pentagons, hexagons and so on.
+它们可以是三角形、四边形、五边形、六边形等等。
+
+CIRKEL.
+CIRCLE.
+圆。
+
+Sträckan från medelpunkten till en punkt på cirkeln kallas radie.
+The distance from the center to a point on the circle is called the radius.
+从圆心到圆上某一点的距离称为半径。
+
+Sträckan tvärs över cirkeln genom medelpunkten kallas diameter.
+The distance across the circle through the center is called the diameter.
+穿过圆心的距离称为直径。
+
+P 242
+
+OMKRETS.
+Perimeter/circumference.
+周长
+
+När man tar reda på hur långt det är runt omkring något, tar man reda på omkretsen.
+When you find the distance around something, you find the perimeter.
+当你找出环绕某物的长度时，你就找到了周长。
+
+Runt gräsplanen är det. Omkretsen är alltså 270 m.
+Around the pitch it is. The perimeter is therefore 270 m.
+环绕球场。因此，周长为 270 米。
+
+CIRKLARS OMKRETS.
+PERIMETER OF THE CIRCLE.
+圆的周长。
+
+Omkretsen av en cirkel är ungefär tre gånger så lång som diametern.
+The perimeter of a circle is about three times as long as the diameter.
+圆的周长大约是直径的三倍。
+
+Det betyder att den här cirkelns omkrets är ungefär 3*5 cm = 15 cm.
+This means that the circumference of this circle is approximately 3*5 cm = 15 cm.
+这意味着这个圆的周长约为 3*5 厘米 = 15 厘米。
+
+Det exakta värdet av en cirkels omkrets får man genom att multiplicera diametern med ett tal som kallas pi. 
+The exact value of the perimeter of a circle is obtained by multiplying the diameter by a number called pi. 
+圆周长的精确值是用直径乘以一个叫做π的数字得出的。
+
+Pi skrivs med en grekisk bokstav,
+Pi is written with a Greek letter,
+Pi 用希腊字母书写、
+
+Beräkna rektangelns omkrets.
+Calculate the perimeter of the rectangle.
+计算矩形的周长。
+
+Genom att sätta ut en parentes behöver du bara skriva enheten två gånger.
+By putting out a parenthesis, you only need to write the unit twice.
+通过括号，只需写两次单位。
+
+Mät sidorna och beräkna omkretsen.
+Measure the sides and calculate the perimeter.
+测量边长并计算周长。
+
+Visa hur du räknar. Svara med hel mening.
+Show how you calculate. Answer with a complete sentence.
+展示你是如何计算的。用一个完整的句子回答。
+
+P 243
+
+En tallrik har formen av en cirkel med omkretsen 90 cm.
+A plate has the shape of a circle with a perimeter of 90 cm.
+一个盘子的形状是一个周长为 90 厘米的圆。
+
+Ungefär hur lång är diametern?
+Approximately how long is the diameter?
+直径大约有多长？
+
+Omkretsen av en cirkel är ungefär tre gånger så lång som diametern.
+The perimeter of a circle is about three times as long as the diameter.
+圆的周长大约是直径的三倍。
+
+Du räknar därför ut diameterns längd genom att dividera omkretsen med 3.
+You therefore calculate the length of the diameter by dividing the perimeter by 3.
+因此，用周长除以 3 就可以计算出直径的长度。
+
+Diametern är ungefär 30 cm. Visa hur du räknar. Svara med hel mening.
+The diameter is about 30 cm. Show how you calculate. Answer with a complete sentence.
+直径约为 30 厘米。请展示你是如何计算的。用一个完整的句子回答。
+
+Vad för sorts figur är det här?
+What kind of figure is this?
+这是什么形状？
+
+Mät sidorna i hela centimeter och räkna ut omkretsen.
+Measure the sides in whole centimetres and calculate the perimeter.
+以厘米为单位测量边长并计算周长。
+
+Rita en rektangel med sidorna 2,5 cm och 5 cm. Räkna ut omkretsen.
+Draw a rectangle with sides of 2.5 cm and 5 cm. Calculate the perimeter.
+画一个边长分别为 2.5 厘米和 5 厘米的矩形。计算周长。
+
+Mät i hela centimeter och räkna ut omkretsen.
+Measure in whole centimeters and calculate the perimeter.
+以厘米为单位测量并计算周长。
+
+Vem eller vilka har rätt? Förklara hur du tänker.
+Who is right? Explain your thinking.
+谁是对的？请解释您的想法。
+
+Det är en kvadrat. Det är en rektangel. Det är en romb.
+It is a square. It is a rectangle. It is a rhombus.
+是正方形。是长方形。是菱形。
+
+Mät diametern i hela centimeter. Hur lång är radien?
+Measure the diameter in whole centimeters. How long is the radius?
+用厘米为单位测量直径。半径有多长？
+
+Ungefär hur lång omkrets har cirkeln?
+What is the approximate perimeter of the circle?
+圆的周长大约是多少？
+
+P 244
+
+Vad för sorts figur är det här?
+What kind of figure is this?
+这是什么形状？
+
+Mät i hela och halva centimeter och räkna ut omkretsen.
+Measure in whole and half centimeters and calculate the perimeter.
+用厘米和0.5厘米为单位测量并计算周长。
+
+En rektangel har omkretsen 12,8 cm. Två av sidorna är 3,7 cm vardera.
+A rectangle has a perimeter of 12.8 cm. Two of the sides are 3.7 cm each.
+一个长方形的周长是 12.8 厘米。其中两条边长各为 3.7 厘米。
+
+Hur långa är de övriga sidorna?
+How long are the other sides?
+其他边的长度是多少？
+
+En rund skål har diametern 25 cm. Ungefär hur lång är omkretsen?
+A round bowl has a diameter of 25 cm. Approximately how long is the perimeter?
+一个圆碗的直径是 25 厘米。周长大约有多长？
+
+Rita en triangel med en rät vinkel.
+Draw a triangle with a right angle.
+画一个直角三角形。
+
+De två sidor som bildar den räta vinkeln ska vara 3 cm och 4 cm. 
+The two sides forming the right angle should be 3 cm and 4 cm.
+构成直角的两条边应分别为 3 厘米和 4 厘米。 
+
+Mät längden av den tredje sidan i hela centimeter. 
+Measure the length of the third side in whole centimeters. 
+以厘米为单位测量第三边的长度。
+
+Hur lång är triangelns omkrets?
+How long is the perimeter of the triangle?
+三角形的周长有多长？
+
+Vad för sorts figur är det här?
+What kind of figure is this?
+这是什么形状？
+
+Mät sidorna i hela och halva centimeter. Räkna ut omkretsen.
+Measure the sides in whole and half centimeters. Calculate the perimeter.
+用厘米和0.5厘米为单位测量边长。计算周长。
+
+En cirkel har radien 4,5 cm. 
+A circle has a radius of 4.5 cm. 
+一个圆的半径是 4.5 厘米。
+
+Hur lång är diametern? Ungefär hur lång är omkretsen?
+How long is the diameter? Approximately how long is the perimeter?
+直径有多长？周长大约有多长？
+
+En rund pool har omkretsen 18 m. Ungefär hur lång är radien?
+A round pool has a circumference of 18 m. What is the approximate radius?
+一个圆形水池的周长为 18 米，半径大约是多少？
+
+Vem har rätt? Förklara hur du tänker.
+Who is right? Explain your thinking.
+谁是对的？请解释您的想法。
+
+En kvadrat är en sorts romb. En romb är en sorts kvadrat.
+A square is a type of rhombus. A rhombus is a kind of square.
+正方形是菱形的一种。菱形是正方形的一种。
+
+P 245
+
+En rektangel och en kvadrat har samma omkrets. Kvadratens sida är 5,5 cm. 
+A rectangle and a square have the same perimeter. The side of the square is 5.5 cm. 
+一个长方形和一个正方形的周长相同。正方形的边长是 5.5 厘米。
+
+Vilka mått kan rektangeln ha? Ge två olika förslag.
+What dimensions can the rectangle have? Give two different suggestions.
+矩形可以有哪些尺寸？请给出两种不同的建议。
+
+Adam och Eva deltog i en cykelorientering.
+Adam and Eva participated in a cycling orientation. 
+Adam 和 Eva 参加了自行车定向越野赛。
+
+Bilden är en ritning över banan. 
+The image is a drawing of the track. 
+图片为赛道图。
+
+Hur lång var banan? Svara i kilometer.
+How long was the track? Answer in kilometers.
+赛道有多长？请以公里为单位回答。
+
+En matta är dubbelt så lång som den är bred. Längden är 5 m.
+A carpet is twice as long as it is wide. The length is 5 meters.
+地毯的长是宽的两倍。长度是 5 米。
+
+Vilken är mattans omkrets?
+What is the circumference of the carpet?
+地毯的周长是多少？
+
+En cirkel har omkretsen 27 cm. Ungefär hur lång är. diametern. radien.
+A circle has a circumference of 27 cm. Approximately how long is. the diameter. the radius.
+一个圆的周长是 27 厘米。直径、半径大约有多长？
+
+I liksidiga trianglar är sidorna lika långa. 
+In equilateral triangles, the sides are of equal length.
+等边三角形的边长相等。
+
+Hur långa är sidorna om en sådan triangel har omkretsen 13,5 dm? 
+How long are the sides if such a triangle has a perimeter of 13.5 dm? 
+如果这样一个三角形的周长是 13.5 分米，那么它的边有多长？
+
+Svara i centimeter.
+Answer in centimeters.
+以厘米为单位回答。
+
+Två sidor i en rektangel är 12,8 cm vardera. 
+Two sides of a rectangle are 12.8 cm each. 
+长方形的两条边长各为 12.8 厘米。
+
+De två övriga sidorna är hälften så långa. Räkna ut omkretsen.
+The other two sides are half as long. Calculate the perimeter.
+另外两条边的长度是它的一半。计算周长。
+
+Ett fönster har formen av en kvadrat med sidan 1 m. 
+A window has the shape of a square with a side of 1 m. 
+窗户的形状是边长为 1 米的正方形。
+
+Lukas mäter att fönstret är ungefär 1,4 m tvärs över. Hur är det möjligt?
+Lukas measures that the window is about 1.4 m across. How is this possible?
+Lukas 测量出窗户的宽度约为 1.4 米。这怎么可能呢？
+
+Ungefär vilken omkrets har den halva kiwiskivan?
+What is the approximate circumference of the half kiwi slice?
+半片猕猴桃的周长大约是多少？
+
+I en triangel är en sida 5 cm och en annan sida 4 cm. 
+In a triangle, one side is 5 cm and another side is 4 cm. 
+在一个三角形中，一条边是 5 厘米，另一条边是 4 厘米。
+
+Hur lång och hur kort kan den tredje sidan vara? 
+How long and how short can the third page be? 
+第三页可以多长多短？
+
+Förklara hur du tänker.
+Explain your thinking.
+解释你的想法。
