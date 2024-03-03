@@ -120,3 +120,6 @@ soppa
 toffee apple
 knäckäpple (klubba)
 太妃苹果
+
+januari februari mars april maj juni juli
+augusti september oktober november december
