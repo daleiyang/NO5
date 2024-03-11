@@ -1,0 +1,12 @@
+kontrabas.
+fiol.
+gitarr.
+elgitarr.
+cello.
+trumpet.
+flöjt.
+blockflöjt.
+trummor.
+säckpipa.
+piano.
+synt.
