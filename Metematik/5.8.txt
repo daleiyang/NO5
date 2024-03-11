@@ -1,403 +1,767 @@
 P 256
 
 BLANDADE UPPGIFTER.
+MIXED TASKS.
+混合任务。
 
 Skriv längderna i meter. Skriv längderna i centimeter.
+Write the lengths in meters. Write the lengths in centimeters.
+用米为单位写出长度。用厘米为单位写出长度。
 
 Mät föremålen i hela centimeter. 
+Measure the objects in whole centimeters.
+以整厘米为单位测量物体。
 
 Räkna sedan ut hur långa föremålen är i verkligheten.
+Then calculate how long the objects are in reality.
+然后计算物体在现实中的长度。
 
 Förklara vad som menas med att en ritning är i skala 1: 50.
+Explain what is meant by a 1:50 scale drawing.
+解释 “1:50比例绘图” 的含义。
 
 Hur stora är vinklarna?
+How big are the angles?
+角度是多少？
 
 Rita en vinkel som är. Skriv längderna i kilometer.
+Draw an angle that is. Write the lengths in kilometers.
+画一个这样的角度。以千米为单位写出长度。
 
 P 257
 
 Mät de sträckor du behöver i hela centimeter. Beräkna sedan arean.
+Measure the distances you need in whole centimeters. Then calculate the area.
+以整厘米为单位测量所需的距离。然后计算面积。
 
 En kvadrat har samma omkrets som en rektangel med sidorna 11 cm och 7 cm. 
+A square has the same perimeter as a rectangle with sides of 11 cm and 7 cm.
+正方形的周长与边长分别为 11 厘米和 7 厘米的长方形的周长相同。
 
 Hur stor är kvadratens area?
+What is the area of the square?
+正方形的面积是多少？
 
 En cirkel har diametern 9 cm. 
+A circle has a diameter of 9 cm.
+一个圆的直径是 9 厘米。
 
 Ungefär hur lång är omkretsen? Hur lång är radien?
+Approximately how long is the circumference? How long is the radius?
+周长大约有多长？半径有多长？
 
 Skriv längderna i millimeter. Vilka tal saknas?
+Write the lengths in millimeters. Which numbers are missing?
+用毫米写出长度。缺少哪些数字？
 
 Mät vinklarna. Gradtalen ska sluta på 0 eller 5.
+Measure the angles. The degrees should end in 0 or 5.
+测量角度。度数应以 0 或 5 结尾。
 
 P 258
 
 Rita en vinkel som är.
+Draw an angle that is.
+画一个这样的角度。
 
 På en bild i skala 1: 100 är en säng 2,2 cm lång. 
+On a 1:100 scale image, a bed is 2.2 cm long.
+在 1:100 比例的图像上，床的长度是 2.2 厘米。
 
 Hur lång är sängen i verkligheten? Svara i meter.
+How long is the bed in reality? Answer in meters.
+实际的床有多长？以米为单位回答。
 
 En rektangel har omkretsen 18 cm. Den ena sidan är 6 cm.
+A rectangle has a perimeter of 18 cm. One side is 6 cm.
+一个长方形的周长是 18 厘米。一边长 6 厘米。
 
 Hur stor är rektangelns area? Beräkna arean.
+What is the area of the rectangle? Calculate the area.
+长方形的面积是多少？ 计算面积。
 
 Kalle har sågat ner en björk. Stammen är 7,35 m. 
+Kalle has sawn down a birch tree. The trunk is 7.35 m long.  
+Kalle 锯下了一棵桦树。树干长 7.35 米。
 
 Kalle sågar sedan av tio bitar som alla är 50 cm långa. 
+Kalle then saws off ten pieces, each 50 cm long. 
+然后 Kalle 锯下了 10 根树干，每根长 50 厘米
 
 Hur lång bit finns det sedan kvar av stammen? Svara i meter.
+How long is the remaining piece of the trunk? Answer in meters.
+剩下的树干有多长？答案：米。
 
 Den stubbe som blev kvar efter björken var cirkelformad med diametern 30 cm.
+The stump left by the birch tree was circular with a diameter of 30 cm.
+桦树留下的树桩是圆形的，直径为 30 厘米。
 
 Ungefär hur lång omkrets hade stubben?
+Approximately how long was the circumference of the stump?
+树桩的周长大约有多长？
 
 Varje ruta är en kvadrat med sidan 1 cm.
+Each box is a square with side 1 cm.
+每个方格都是边长为 1 厘米的正方形。
 
 Hur kan du på två sätt beräkna triangelns area?
+How can you calculate the area of the triangle in two ways?
+如何用两种方法计算三角形的面积？
 
 Hur stor är arean?
+What is the area?
+面积是多少？
 
 P 259
 
-Vilket tal:saknas?
-
-KAPITEL 5
+Vilket tal saknas?
+Which number is missing?
+缺少哪个数字？
 
 Ett skidspår är 2,5 km långt. Under en vecka åker Melker åtta varv.
+A ski track is 2.5 km long. In one week, Melker does eight laps.
+滑雪道长 2.5 公里。Melker 在一周内滑了八圈。
 
 Hur långt blir det sammanlagt? Svara i mil.
+What is the total distance? Answer in Scandinavian miles.
+总距离是多少？以“斯堪的纳维亚”英里为单位回答。
 
 En kvadrat har lika lång sida som diametern i en cirkel.
+A square has a side length equal to the diameter of a circle. 
+正方形的边长等于圆的直径。
 
 ”Då är kvadratens area större än cirkelns”, säger Isak. 
+"Then the area of the square is larger than the area of the circle", says Isak. 
+伊萨克说："那么正方形的面积比圆形的面积大。"
 
 Hur kan han veta det utan att räkna?
+How can he know this without counting?
+连算都没算，他是怎么知道的呢？
 
 Tavlan är avbildad i skala 1 : 20. Mät sidorna i hela centimeter.
+The painting is depicted at a scale of 1:20. Measure the sides in whole centimeters.
+这幅画的比例是 1:20。用整厘米来测量边长。
 
 Hur lång och hur bred är tavlan i verkligheten? Svara i decimeter.
+How long and how wide is the painting in reality? Answer in decimeters.
+这幅画实际有多长多宽？用分米回答。
 
 Hur stor area har tavlan i verkligheten?
+What is the area of the picture in real life?
+现实中这幅画的面积是多少？
 
 I likbenta trianglar är två sidor lika långa. 
+In isosceles triangles, two sides are equal in length. 
+在等腰三角形中，两条边的长度相等。
 
 En sådan triangel har omkretsen 10,6 cm. 
+Such a triangle has a perimeter of 10.6 cm. 
+这样一个三角形的周长是 10.6 厘米
 
 Hur långa är de lika långa sidorna om den tredje sidan är 2,8 cm?
+How long are the equal sides if the third side is 2.8 cm?
+如果第三边长为 2.8 厘米，那么相等的两边有多长？
 
 P 260
 
 En tomt har det utseende och de mått som bilden visar. 
+A plot of land has the appearance and dimensions shown in the image. 
+一块地的外观和尺寸如图所示。
 
-Beräkna tomtens omkrets. area
+Beräkna tomtens omkrets. area.
+Calculate the ?of the plot.  perimeter. area.
+计算该地块的周长/面积。
 
 På en bild i skala 10: 1 är en liten mask 36 mm lång. 
+On a 10:1 scale image, a small worm is 36 mm long. 
+在比例为 10:1 的图像上，一条小虫子长 36 毫米。
 
 Hur lång skulle masken vara på en bild i skala 4: 1?
+How long would the worm be on a 4:1 scale image?
+在 4:1 比例的图像上，这条小虫子有多长？
 
 På skolgården hoppar några barn hage. Alla rutor är lika stora.
+In the schoolyard, some children are jumping hay. All the squares are the same size.
+操场上，一些孩子在跳干草堆。所有的方格都一样大。
 
 Beräkna hagens omkrets. Svara i meter. Beräkna hagens area.
+Calculate the perimeter of the garden. Answer in meters. Calculate the area of the garden.
+计算花园的周长。以米为单位回答。计算花园的面积。
 
 Väggen ovanför en diskbänk är 3,4 m lång. 
+The wall above a sink is 3.4 m long. 
+水槽上方的墙壁长 3.4 米。
 
 På väggen sitter två rader med kakelplattor. 
+On the wall are two rows of tiles. 
+墙上有两排瓷砖。
 
 Plattorna är kvadratiska med sidan 20 cm.
+The tiles are square with a side of 20 cm.
+瓷砖是边长为 20 厘米的正方形。
 
 Hur stor area har plattorna sammanlagt? 
+What is the total area of the tiles? 
+瓷砖的总面积是多少？
 
 Svara i kvadratdecimeter. Beräkna figurens area.
+Answer in square decimeters. 计算图形的面积。
+以平方分米为单位回答。 计算图形的面积。
 
 P 261
 
 Skriv längderna i meter.
+Write the lengths in meters.
+以米为单位写出长度。
 
 Moa hoppade så långt hon kunde på ett ben. 
+Moa jumped as far as she could on one leg. 
+Moa 单脚跳得最远。
 
 Det längsta hoppet var 105 cm. Skriv längden i decimeter. meter
+The longest jump was 105 cm. Write the length in decimeters. meters
+跳得最远的是 105 厘米。请用？写出长度。 分米，米
 
 Vilket tal saknas?
+Which number is missing?
+缺少哪个数字？
 
 Skriv längderna i centimeter. Skriv längderna i millimeter.
+Write the lengths in centimeters. Write the lengths in millimeters.
+用厘米写出长度。用毫米写出长度。
 
 Vilket tal saknas?
+Which number is missing?
+缺少哪个数字？
 
 P 262
 
-Skriv längderna i kilometer.
-
-Skriv längderna i mil.
+Skriv längderna i kilometer. Skriv längderna i mil.
+Write the lengths in kilometers. Write the lengths in Scandinavian miles.
+写出以千米为单位的长度。 写出以“斯堪的纳维亚”英里为单位的长度。
 
 Julias pappa har 8 mil 2 km till sitt arbete. Skriv avståndet i mil.
+Julia's father has 8 Scandinavian miles 2 km to his work. Write the distance in Scandinavian miles.
+Julia 的父亲上班的路程是 8 “斯堪的纳维亚”英里 2 千米。请写出以“斯堪的纳维亚”英里为单位的距离。
 
 Mät föremålen i hela och halva centimeter.
+Measure the objects in whole and half centimeters.
+用整厘米和半厘米测量物体。
 
 Räkna sedan ut hur långa de är i verkligheten.
+Then calculate how long they are in reality.
+然后计算它们的实际长度。
 
 En haj är 7 cm på en bild. Bilden är i skala 1: 50.
+A shark is 7 cm in a picture. The picture is at a scale of 1:50.
+在一幅图片中，鲨鱼的身长是 7 厘米。图片的比例是 1:50。
 
 Hur lång är hajen i verkligheten?
+How long is the shark in reality?
+现实中的鲨鱼有多长？
 
 Hur stora är vinklarna?
+How big are the angles?
+角度有多大？
 
 P 263
 
 Mät vinklarna. Gradtalen ska sluta på 0 eller 5.
+Measure the angles. The degrees should end in 0 or 5.
+测量角度。度数应以 0 或 5 结尾。
 
 Mät sidorna i hela och halva centimeter och beräkna sedan omkretsen.
+Measure the sides in whole and half centimeters and then calculate the circumference.
+用整厘米和半厘米测量边长，然后计算周长。
 
 Rita en rektangel med sidorna 4 cm och 5,5 cm. Räkna ut omkretsen.
+Draw a rectangle with sides of 4 cm and 5.5 cm. Calculate the perimeter.
+画一个边长分别为 4 厘米和 5.5 厘米的矩形。计算周长。
 
 En femhörning har omkretsen 40 cm. Hur långa är sidorna om alla är lika långa?
+A pentagon has a circumference of 40 cm. How long are the sides if they are all the same length?
+一个五边形的周长是 40 厘米。如果边长都相同，那么边长是多少？
 
 Mät i hela centimeter. Hur lång är cirkelns diameter?
+Measure in whole centimeters. What is the diameter of the circle?
+以整厘米为单位测量。圆的直径是多少？
 
 Hur lång är radien? Ungefär hur lång är omkretsen?
+How long is the radius? Approximately how long is the circumference?
+半径有多长？周长大约有多长？
 
 Urtavlan på en klocka är cirkelformad. 
+The face of a clock is circular. 
+时钟的表面是圆形的。
 
 Ungefär hur lång är diametern om urtavlans omkrets är 63 cm?
+Approximately how long is the diameter if the circumference of the dial is 63 cm?
+如果表盘的周长是 63 厘米，直径大约有多长？
 
 Rita en rektangel som är 6 cm lång och 1 cm bred.
+Draw a rectangle 6 cm long and 1 cm wide.
+画一个长 6 厘米、宽 1 厘米的矩形。
 
 Måla en tredjedel av rektangeln.
+Paint one third of the rectangle.
+涂出长方形的三分之一。
 
 Hur många kvadratcentimeter är målade?
+How many square centimeters are painted?
+涂了多少平方厘米？
 
 Hur många kvadratcentimeter är omålade?
+How many square centimeters are unpainted?
+未涂画的面积是多少平方厘米？
 
 Hur stor area har en rektangel som är dubbelt så bred?
+What is the area of a rectangle that is twice as wide?
+宽是其两倍的长方形面积是多少？
 
 P 264
 
 På skolgården finns en ”kingruta”. Den är 2 m lång och 2 m bred.
+There is a "king square" in the schoolyard. It is 2 m long and 2 m wide.
+学校操场上有一个 "国王广场"。它长 2 米，宽 2 米
 
 Hur stor är arean? Hur lång är omkretsen?
+What is the area? How long is the circumference?
+面积是多少？周长是多少？
 
 Mät rektangelns sidor i hela och halva centimeter. 
+Measure the sides of the rectangle in whole and half centimeters. 
+用整厘米和半厘米测量长方形的边。
 
-Räkna sedan ut omkretsen. arean.
+Räkna sedan ut. omkretsen. arean.
+Then calculate the perimeter. area.
+然后计算。周长。面积。
 
 Mät i hela centimeter. Beräkna sedan arean. Hur stor är arean?
+Measure in whole centimeters. Then calculate the area. How big is the area?
+以整厘米为单位测量。然后计算面积。面积有多大？
 
 P 265
 
 Nilen är 220 km längre än Amazonfloden. 
+The Nile is 220 km longer than the Amazon River. 
+尼罗河比亚马逊河长 220 千米。
 
 Hur många mil är Nilen om Amazonfloden är 645 mil?
+How many Scandinavian miles is the Nile if the Amazon River is 645 Scandinavian miles?
+如果亚马逊河长 645 “斯堪的纳维亚”英里，那么尼罗河长多少“斯堪的纳维亚”英里？
 
 Det tar fyra veckor för Nadines hår att växa 1 cm. 
+It takes 4 weeks for Nadine's hair to grow 1 cm. 
+Nadine 的头发长 1 厘米需要 4 周时间。
 
 Hur många millimeter växer det på en vecka?
+How many millimeters does it grow in a week?
+一周长多少毫米？
 
 Margaretas köksbord är 1,5 m långt och 0,8 m brett. 
+Margareta's kitchen table is 1.5 m long and 0.8 m wide. 
+Margareta 的厨房桌子长 1.5 米，宽 0.8 米。
 
 Hon väver en duk som hänger ner 25 cm på varje sida. 
+She weaves a cloth that hangs down 25 cm on each side. 
+她织的布每边垂下 25 厘米。
 
-Beräkna dukens omkrets. area
+Beräkna dukens. omkrets. area
+Calculate the cloth's. perimeter. area
+计算布的。周长。面积。
 
 Räkna ut figurens omkrets. Räkna ut figurens area.
+Calculate the perimeter of the figure. Calculate the area of the figure.
+计算图形的周长。计算图形的面积。
 
 På en bild är en affisch 1,5 cm bred och 2,5 cm hög. 
+In one image, a poster is 1.5 cm wide and 2.5 cm high. 
+在一张图片中，海报宽 1.5 厘米，高 2.5 厘米。
 
 Bilden är i skala 1: 80.
+The image is at a scale of 1:80.
+图片比例为 1:80。
 
 Hur stor än area har affischen i verkligheten?
+How large an area does the poster have in reality?
+这张海报的实际面积有多大？
 
 Bilden visar en vandringskarta med avstånden angivna i meter.
+The picture shows a walking map with the distances indicated in meters.
+图中所示为步行地图，距离以米为单位。
 
 Krister startar från parkeringsplatsen och går därifrån den nedre vägen till D. 
+Krister starts from the parking lot and walks from there the lower road to D. 
+Krister 从停车场出发，沿着下面的道路走到 D 处。
 
 Därifrån går han till E och sedan närmaste vägen till B. 
+From there he walks to E and then the nearest road to B. 
+从那里走到 E，然后沿着最近的路走到 B。
 
 Hur långt har då Krister gått sammanlagt? 
+How far has Krister walked in total? 
+Krister 总共走了多远？
 
 Svara i kilometer och avrunda till tiondelar.
+Answer in kilometers and round off to tenths.
+以千米为单位回答，四舍五入到十分位。
 
 En snabb sprinter springer 100 m på 10 s.
+A fast sprinter runs 100 meters in 10 seconds.
+一个快速短跑运动员用 10 秒钟跑完 100 米。
 
 Hur lång tid skulle det ta att springa en mil med den hastigheten?
+How long would it take to run a Scandinavian mile at that speed?
+以这个速度跑1“斯堪的纳维亚”英里需要多长时间？
 
 På en karta är det 4,5 cm mellan två byar. Skalan är 1: 20 000.
+On a map, the distance between two villages is 4.5 cm. The scale is 1:20 000.
+在地图上，两个村庄之间的距离是 4.5 厘米。比例尺为 1:20000。
 
 Hur långt är det mellan byarna på en karta i skala 1: 30 000?
+How far apart are the villages on a 1:30 000 map?
+在 1:30 000 的地图上，两个村庄之间的距离是多少？
 
 P 266
 
 Vad minns du?
+What do you remember?
+你还记得什么？
 
 Vilket av prefixen betyder tiondel? kilo. milli. deci. centi.
+Which of the prefixes means tenth? kilo. milli. deci. centi.
+哪个前缀表示十分之一？ kilo. milli. deci. centi.
 
 Vad kallas en vinkel som är 100°? trubbig. rät. rak. spetsig.
+What is a 100° angle called? blunt. right. straight. acute.
+100° 的角叫什么？钝角。 直角。 直角。 锐角。
 
 Ungefär hur lång omkrets har en cirkel med diametern 5 cm?
+What is the approximate circumference of a circle with a diameter of 5 cm?
+直径为 5 厘米的圆的周长大约是多少？
 
 Hur många grader är ett halvt varv?
+How many degrees is half a turn?
+半圈是多少度？
 
 Hur många millimeter är 6,2 dm?
+How many millimeters is 6.2 dm?
+6.2 分米等于多少毫米？
 
 Vad för sorts figur är det här? parallellogram. romb. kvadrat. rektangel.
+What kind of figure is this? parallelogram. rhombus. square. rectangle.
+这是什么图形？平行四边形、菱形、正方形、长方形。
 
 Hur många grader vrider sig en minutvisare på en kvart?
+How many degrees does a minute hand turn in a quarter of an hour?
+分针一刻钟转多少度？
 
 Hur skriver man 25 cm i meter?
+How do you write 25 cm in meters?
+以米为单位的 25 厘米怎么写？
 
 Vilken är skalan om 3 cm på bilden är 15 cm i verkligheten?
+What is the scale if 3 cm in the picture is 15 cm in reality?
+如果图中的 3 厘米实际是 15 厘米，那么比例尺是多少？
 
 En cirkel har diametern 24 cm. Hur lång är radien?
+A circle has a diameter of 24 cm. How long is the radius?
+一个圆的直径是 24 厘米。半径有多长？
 
 Välj några begrepp och beskriv hur de hör ihop.
+Choose some terms and describe how they are related.
+选择一些概念并描述它们之间的关系。
 
 prefix. bas. area. cirkel. spetsig vinkel. höjd. diameter.
+prefixes.  base.  area.  circle. acute angle. height. diameter.
+前缀。 底。 面积。 圆。 锐角。 高。 直径。
 
 trubbig vinkel. omkrets. radie. rät vinkel. rektangel. kvadrat.
+obtuse angle. circumference. radius. right angle. rectangle. square.
+钝角。 周长。 半径。 直角。 矩形。 正方形。
 
 skala. parallellogram. romb. förminskning. triangel. förstoring.
+scale. parallelogram. rhombus. reduction. triangle magnification.
+比例尺。 平行四边形。 菱形。 缩小。 三角形 放大。
 
 P 267
 
 Välj metod.
+Select the method.
+选择方法。
 
 Här får du träna på de sex problemlösningsmetoder som du har lärt dig i Alfa och Beta. 
+Here you will practice the six problem-solving methods you have learned in Alpha and Beta. 
+在这里，您将练习在 Alpha 和 Beta 中学习到的六种解决问题的方法。
 
 Ibland kan du använda dig av olika metoder. Välj den du tycker är bäst.
+Sometimes you can use different methods. Choose the one you think is best.
+有时你可以使用不同的方法。选择你认为最好的方法。
 
 RITA EN BILD. GISSA OCH PRÖVA. HITTA MÖNSTER.
+DRAW A PICTURE. GUESS AND TRY. FINDING PATTERNS.
+画一幅画。 猜测和尝试。 找规律。
 
 STEG FÖR STEG. ARBETA BAKIFRÅN. TÄNK LOGISKT.
+STEP BY STEP. WORK FROM BEHIND. THINK LOGICALLY.
+循序渐进。 从后面开始。 逻辑思考。
 
 Sara står i kö för att köpa biljetter till en konsert. 
+Sara is standing in line to buy tickets for a concert. 
+萨拉正在排队购买一场音乐会的门票。
 
 Hon står på elfte plats i kön både framifrån och bakifrån räknat.
+She is in eleventh place in the queue both from the front and from the back.
+从前面和后面看，她都排在队伍的第 11 位。
 
 Hur många personer står i kön?
+How many people are in the queue?
+有多少人在排队？
 
 Hundarna Fido, Pluto, Laban, Snobben, Max och Ruff träffas för första gången. 
+The dogs Fido, Pluto, Laban, Snob, Max and Ruff meet for the first time. 
+狗狗 Fido、Pluto、Laban、Snob、Max 和 Ruff 第一次见面。
 
 De hälsar på varandra i tur och ordning med ett ”Voff”. 
+They greet each other in turn with a "Woof". 
+它们依次用 "汪汪 "互相打招呼。
 
 Hur många ”Voff” blir det sammanlagt när alla har hälsat på alla?
+How many "Woofs" will there be in total when everyone has greeted everyone?
+当每只狗都打完招呼后，一共会有多少声 "汪汪"？
 
 Vilket är nästa tal?
+What is the next number?
+下一个数字是多少？
 
 Elin har tre gånger så många kaniner som Tim. 
+Elin has three times as many rabbits as Tim. 
+伊琳养的兔子是蒂姆的三倍。
 
 Tillsammans har de 36 kaniner. Hur många kaniner har var och en?
+Together they have 36 rabbits. How many rabbits does each of them have?
+他们一共有 36 只兔子。他们每人有多少只兔子？
 
 På en brädgård får man betala per sågning om man vill ha en bräda delad. 
+In a lumberyard, you have to pay per cut if you want a board split. 
+在木料场，如果你想劈开一块木板，就必须按次付费。
 
 Det kostar 18 kr att få en bräda sågad i tre delar.
+It costs 18 kr to have a board sawn into three pieces.
+将一块木板锯成三块需要 18 克朗。
 
 Hur mycket kostar det att få den sågad i tolv delar?
+How much does it cost to have it sawn into 12 pieces?
+锯成 12 块要多少钱？
 
 P 268
 
-I en skål finns det fyra sorters frukt.  Hälften av frukterna är clementiner. 
+I en skål finns det fyra sorters frukt. Hälften av frukterna är clementiner.
+In one bowl there are four types of fruit. Half of the fruits are clementines.
+一个碗里有四种水果。一半的水果是柑橘。
 
 Det finns dubbelt så många äpplen som päron.
+There are twice as many apples as pears.
+苹果的数量是梨的两倍。
 
 Det finns lika många bananer som päron. I skålen finns det tre bananer. 
+There are as many bananas as pears. There are three bananas in the bowl. 
+香蕉和梨的数量一样多。碗里有 3 根香蕉。
 
 Hur många frukter av varje sort ligger i skålen?
+How many fruits of each type are in the bowl?
+碗里各有多少种水果？
 
 Rita nio punkter som bilden visar.
+Draw nine points as shown in the picture.
+如图所示，画出九个点。
 
 Försök sedan binda samman de nio punkterna med fyra räta linjer.
+Then try to connect the nine points with four straight lines.
+然后尝试用四条直线连接这九个点。
 
 Linjerna ska hänga ihop så att den andra börjar där den första slutar och så vidare.
+The lines should be connected so that the second one starts where the first one ends and so on.
+连接时，第二条直线应从第一条直线的终点开始，以此类推。
 
-Ett tal multipliceras med 5. 
+Ett tal multipliceras med 5.
+A number is multiplied by 5.
+一个数字乘以 5。
 
 Om man sedan subtraherar med 14, så får man differensen 16. 
+If you then subtract by 14, you get the difference 16. 
+然后减去 14，差值为 16。
 
 Vilket är talet?
+What is the number?
+这个数字是多少？
 
 De två tomatplantorna A och B växer intill varandra vid en vägg. 
+The two tomato plants A and B are growing next to each other on a wall. 
+两株西红柿 A 和 B 紧挨着长在一面墙上。
 
 En dag är planta A 10 cm hög och planta B 5 cm hög.
+One day, plant A is 10 cm high and plant B is 5 cm high.
+有一天，A 株高 10 厘米，B 株高 5 厘米。
 
-Planta A växer 1 cm per dag medan planta B växer 1,5 cm per dag. 
+Planta A växer 1 cm per dag medan planta B växer 1,5 cm per dag.
+Plant A grows 1 cm per day while plant B grows 1.5 cm per day.
+A 株每天长 1 厘米，B 株每天长 1.5 厘米。
 
 Hur många dagar dröjer det innan planta B är lika hög som planta A?
+How many days does it take before plant B is as tall as plant A?
+要多少天后 B 植物才能长到 A 植物那么高？
 
 På ett nöjesfält har man ett pariserhjul. 
+An amusement park has a Ferris wheel. 
+游乐园里有一个摩天轮。
 
 Korgarna är numrerade i ordning, 1, 2,3 ... och så vidare. 
+The baskets are numbered in order, 1, 2, 3 ... and so on. 
+篮子按顺序编号，1、2、3......依次类推。
 
 När korg nummer 25 är längst ner är korg nummer 8 högst upp. 
+When basket number 25 is at the bottom, basket number 8 is at the top. 
+当 25 号篮子在底部时，8 号篮子在顶部。
 
 Hur många korgar har pariserhjulet?
+How many baskets does the Ferris wheel have?
+摩天轮有多少个篮子？
 
 P 269
 
 Kvadrat i fem delar. Resonemang & Kommunikation.
+Square in five parts. Reasoning & Communication.
+正方形分为五个部分。推理与交流。
 
 Bilden visar en kvadrat som är delad i fem delar.
+The image shows a square divided into five parts.
+图片显示一个正方形被分成五个部分。
 
 Vad för sorts figur är.
+What kind of figure is.
+是什么样的图形？
 
 I de fem delarna finns det sammanlagt 17 vinklar.
+In the five parts there are a total of 17 angles.
+在这五个部分中共有 17 个角。
 
-Hur många av dessa är. trubbiga. spetsiga. fäta.
+Hur många av dessa är. trubbiga. spetsiga. räta.
+How many of these are. blunt? acute. straight.
+其中有多少个是钝角、锐角、直角？
 
 Imitten av kvadraten finns det fyra vinklar.
+In the middle of the square there are four angles.
+正方形中间有四个角。
 
 Hur många grader är dessa sammanlagt?
+How many degrees are these in total?
+一共是多少度？
 
 Vilka figurer kan tillsammans bilda en fyrhörning. femhörning. sexhörning.
+Which figures can together form a quadrangle. pentagon. hexagon.
+哪些图形可以拼成四边形、五边形、六边形？
 
 Antag att den stora kvadratens area är 36 cm2.
+Suppose the area of the large square is 36 cm2.
+假设大正方形的面积是 36 平方厘米。
 
-Hurlång är omkretsen av den. stora kvadraten. lilla kvadraten
+Hurlång är omkretsen av den. stora kvadraten. lilla kvadraten.
+How long is the perimeter of the. large square. small square.
+？的周长是多长？大正方形。小正方形。
 
 Hur stor area sammanlagt har figurerna.
+What is the total area of the figures?
+这些图形的总面积是多少？点击并应用
 
 Antag att du på varje sida i kvadraten klipper bort en remsa som är 5 mm bred. 
+Suppose you cut a strip 5 mm wide on each side of the square. 
+假设在正方形的两边各剪一条 5 毫米宽的长条。
 
 Hur stor area har den del av kvadraten som blir kvar?
+What is the area of the part of the square that remains?
+剩下的正方形部分的面积是多少？
 
 P 270
 
 Längdenheter. Skala.
+Units of length。 Scale.
+长度单位 。比例尺。
 
 En bild av något stort, till exempel ett hus, är en förminskad bild av verkligheten.
+A picture of something large, such as a house, is a reduced version of reality.
+房屋等大型物体的图片是现实的缩小版。
 
 Skala 1: 10 betyder att 1 cm på bilden motsvarar 10 cm i verkligheten.
+Scale 1:10 means that 1 cm in the picture corresponds to 10 cm in reality.
+比例 1:10 表示图片中的 1 厘米对应现实中的 10 厘米。
 
 En bild av något litet, till exempel en insekt, är ofta en förstorad bild av verkligheten.
+A picture of something small, such as an insect, is often a magnified image of reality.
+昆虫等小东西的图片通常是现实的放大图像。
 
 Skala 3 : 1 betyder att 3 cm på bilden motsvarar 1 cm i verkligheten.
+Scale 3 : 1 means that 3 cm in the picture corresponds to 1 cm in reality.
+比例尺 3 : 1 表示图片中的 3 厘米对应现实中的 1 厘米。
 
 Vinklar. 
+Angles.
+角。
  
 En spetsig vinkel är mindre än 90?. spetsig vinkel.
+An acute angle is less than 90? acute angle.
+锐角小于 90°？锐角。
 
 En rät vinkel är 90°. rät vinkel.
+A right angle is 90°. right angle.
+直角是 90°。 直角。
 
-En trubbig vinkel är större än 90°? men mindre än 180°. trubbig vinkel.
+En trubbig vinkel är större än 90° men mindre än 180°. trubbig vinkel.
+An obtuse angle is greater than 90° but less than 180°. obtuse angle.
+钝角大于 90°，小于 180°。
 
-Geometriska figur.
+Geometriska figurer.
+Geometric figures.
+几何图形
 
 parallellogram. romb. rektangel. kvadrat. triangel. cirkel.
+parallelogram. rhombus. rectangle. square. triangle. circle.
+平行四边形、菱形、长方形、正方形、三角形、圆形。
 
 P 271
 
 Omkrets.
+Perimeter.
+周长.
 
 När man räknar ut omkretsen tar man reda på hur långt det är runt omkring en figur. 
+When calculating the perimeter, you find out how long it is around a figure. 
+计算周长时，您可以找出它围绕图形的长度。
 
 Omkretsen av en månghörning räknas ut genom att längden av sidorna adderas.
+The circumference of a polygon is calculated by adding the length of the sides.
+多边形的周长是通过边长相加计算出来的。
 
-Omkretss. Omkretsen av en cirkel är ungefär tre gånger så lång som diametern.
+Omkretsen av en cirkel är ungefär tre gånger så lång som diametern.
+The circumference of a circle is about three times as long as the diameter.
+圆的周长大约是直径的三倍。
 
-medelpunkt. diameter. radle. Rektanglars area.
+medelpunkt. diameter. radie. Rektanglars area.
+center. diameter. radius. the area of a rectangle.
+圆心.直径.半径.矩形的面积。
 
 Med area menas hur stor yta ett område har, till exempel en rektangel. 
+Area refers to the size of an area such as a rectangle. 
+面积是指矩形等区域的大小。
 
 En rektangels area räknas ut genom att man multiplicerar basen med höjden. höjd. bas.
+The area of a rectangle is calculated by multiplying the base by the height. height. base.
+矩形面积的计算方法是底乘以高。
 
 Trianglars area. 
+Area of triangles. 
+三角形的面积。
 
 En triangels area beräknar man genom att multiplicera basen med höjden och sedan dividera med 2.
+The area of a triangle is calculated by multiplying the base by the height and then dividing by 2.
+三角形面积的计算方法是底乘高再除以 2。

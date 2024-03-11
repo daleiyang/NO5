@@ -1,0 +1,52 @@
+Mobiles. 	Acronyms and emoticons.
+手机。		缩略语和表情符号。
+
+camera lens.	kameralins.	相机镜头
+
+stylus.		penna.		手写笔
+
+touchscreen.	pekskärm.	触摸屏。
+
+button.		knapp.		按钮
+
+loader,charger.	laddare.	充电器
+
+laugh out loud.		skratta högt.	笑出声来
+
+be right back.		strax tillbaka.	马上回来	
+
+back at keyboard.	tillbaka.	回到键盘前
+
+see you later.		ses senare.	再见
+
+mate.			kompis.		伙计
+
+thank you.		tack.		谢谢
+
+hugs and kisses.	puss och kram.	拥抱和亲吻
+
+ta ta for now(goodbye).	hej då!		再见
+
+happy.			glad.		高兴
+
+sad.			ledsen.		伤心
+
+angry.			arg.		生气
+
+surprised.		förvånad.	惊讶
+
+acronym.    initialord (första bokstaven i varje ord).	首字母缩略语
+
+emoticon.   känsla + bild = smajlis :-).	表情符号 (感觉+图像=笑脸)
+
+bad reception.	dålig mottagning.	信号不好
+
+The battery is dead.	Batteriet är urladdat.	没电了
+
+Recharge the battery.	Ladda batteriet.	充电
+
+Put more money on the cash card.  Ladda kontantkortet.	为预付卡充值
+
+I'll send you an SMS. I'll text you.	Jag ska sms:a till dig. 我会给你发短信
+
+I’ll send an MMS.	Jag ska mms:a.	我会发一条彩信。
