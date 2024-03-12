@@ -1,0 +1,58 @@
+Vilka av vinklarna är. spetsiga. räta. trubbiga.
+Which of the angles are. acute. straight. blunt.
+哪些角是锐角、直角、钝角？
+
+Rita en rektangel med sidorna 7 cm och 3 cm. Beräkna omkretsen.
+Draw a rectangle with sides of 7 cm and 3 cm. Calculate the perimeter.
+画一个边长分别为 7 厘米和 3 厘米的矩形。计算周长。
+
+Hur många grader är. en rät vinkel. ett halvt varv. tre fjärdedels varv.
+How many degrees are. a right angle. half a turn. three quarters of a turn.
+直角、半转角、四分之三转角分别是多少度？
+
+En sexhörning har omkretsen 3 dm. 
+A hexagon has a circumference of 3 dm.
+一个六边形的周长是 3 分米。
+
+Hur långa är sidorna om alla är lika långa? Svara i centimeter.
+How long are the sides if they are all the same length? Answer in centimeters.
+如果边长都相同，那么边长是多少？请以厘米为单位回答。
+
+Under en regnig vecka kom det så här mycket regn de olika dagarna:
+During a rainy week, this is how much rain fell on each day: 
+在下雨的一周里，每天的降雨量是多少？
+
+Beräkna medelvärdet. Vilken är medianen? Vilket är typvärdet?
+Calculate the mean. What is the median? What is the typical value?
+计算平均值。中位数是多少？众数是多少？
+
+Mät pennans längd i hela och halva centimeter.
+Measure the length of the pencil in whole and half centimeters. 
+用整厘米和半厘米测量铅笔的长度。
+
+Hur lång är pennan i verkligheten?
+How long is the pencil in reality?
+铅笔实际有多长？
+
+Darin köper 3 kg bananer. Priset per kilogram är 17,90 kr.
+Darin buys 3 kg of bananas. The price per kilogram is SEK 17.90.
+Darin 买了 3 公斤香蕉。每公斤的价格是 17.90 瑞典克朗。
+
+Hur mycket får Darin tillbaka om han lämnar fram 100 kr?
+How much does Darin get back if he hands over SEK 100?
+如果 Darin 付了 100 瑞典克朗，能找回多少钱？
+
+Gross och tjog är gamla enheter. 
+Gross and twenty are old units.
+gross 和 twenty 是旧的数量单位。
+
+Ett gross är lika med 144 stycken och ett tjog är lika med 20 stycken. 
+A gross is equal to 144 pieces and a twenty is equal to 20 pieces.
+一个gross 等于 144个，一个 twenty 等于 20个。
+
+Hur många hela tjog är ett gross och hur många blir över?
+一个gross等于多少个整twenty，还剩多少？
+
+Veckans problem. Hur stor andel av figuren är grön?
+Problem of the week. What percentage of the figure is green?
+本周问题。绿色占图的百分比是多少？

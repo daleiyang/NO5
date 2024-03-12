@@ -29,18 +29,23 @@ At the same time, people talk about continents, which are the large land areas o
 同时，我们通常所说的大陆是指世界上的大片陆地。
 
 Våra sju världsdelar ligger på sex kontinenter.
+Our seven continents are located on six continents.
 我们的七大洲位于六块大陆。
 
 Oftast är världsdel och kontinent samma sak, men inte alltid.
+Usually, continent and continent are the same, but not always.
 通常，大洲和大陆是一回事，但并不总是。
 
 De båda världsdelarna Europa och Asien, ligger till exempel på en kontinent, som heter Eurasien.
+For example, the two continents of Europe and Asia are located on a continent called Eurasia.
 例如，欧洲和亚洲两大洲位于一个叫做欧亚大陆的大陆上。
 
 Världsdel. Nordamerika. Sydamerika. Europa. Asien. Afrika. Oceanien. Antarktis.
+Continent. North America. South America. Europe. Asia. Africa. Oceania. Antarctica.
 大洲。 北美洲。 南美洲。 欧洲。 非洲。 亚洲。 大洋洲。 南极洲。
 
 Kontinent. Nordamerika. Sydamerika. Eurasien. Afrika. Australien. Antarktis.
+Continent. North America South America Eurasia. Africa. Australia. Antarctica.
 大陆。 北美大陆。 南美大陆。 欧亚大陆。 非洲大陆。 澳大利亚大陆。 南极大陆。
 
 Klimatet i världen varierar.
@@ -176,8 +181,8 @@ Polar climates have really cold winters.
 P 003
 
 Tundra. Tajga. Lövskog. Stäpp. Macchia.
-Tundra. 
-苔原。 
+Tundra. Taiga. Deciduous forest. Steppe. Maquis shrubland.
+苔原。 北方针叶林。 落叶林。 大草原。 马基斯灌木丛带。
 
 Europas natur. Europas natur är omväxlande. 
 The nature of Europe. Europe's nature is diverse. 
@@ -237,7 +242,7 @@ Today there are large fields and pastures here.
 
 Stäppen. Öster om lövskogsbältet ligger stäppen. 
 Steppe. East of the deciduous forest belt is the steppe. 
-大草原。落叶林带以东是大草原。
+大草原。 落叶林带以东是大草原。
 
 En stäpp är en stor och torr grässlätt, där det förutom gräs växer en del buskar.
 A steppe is a large and dry grassy plain, where some shrubs grow in addition to grass.
@@ -575,7 +580,6 @@ I början av 1900-talet tyckte en tysk forskare som hette Wegener,
 At the beginning of the 20th century, a German scientist called Wegener, 
 20 世纪初，一位名叫魏格纳的德国科学家认为，非洲和南美洲的地壳轮廓是由板块组成的、 
 
-
 att Afrikas och Europas konturer verkade passa bra ihop med Sydamerika och Nordamerika.
 thought that the contours of Africa and Europe seemed to fit well with South America and North America.
 他认为非洲和欧洲的轮廓似乎与南美洲和北美洲很吻合。
@@ -792,7 +796,6 @@ tsunamier, som drar in över land.
 tsunamis, which move inland.
 海啸，向内陆移动。
 
-
 I de områden där plattor kolliderar med varandra sker det också vulkanutbrott och jordskalv. 
 In areas where plates collide with each other, volcanic eruptions and earthquakes also occur. 
 在板块相互碰撞的地区，也会发生火山爆发和地震。
@@ -919,11 +922,9 @@ Försök att rita ut de olika kontinentalplattorna så noga du kan.
 Try to draw the different continental plates as accurately as you can.
 尽量准确地画出不同的大陆板块。
 
-
 Om du hinner kan du färglägga de olika kontinenterna i olika färger.
 If you have time, color the different continents in different colors.
 如果有时间，给不同的大陆涂上不同的颜色。
-
 
 Sätt även ut deras namn på kartan.
 Also put their names on the map.

@@ -1,0 +1,97 @@
+P 1
+
+Begrepp. Beskrivning. Bild. exempel.
+
+Längd. En linje som är begränsad åt båda hållen har en viss längd.
+
+Grundenheten för längd är 1 meter (1 m).
+
+Andra exempel på enheter för längd är 1 centimeter (1 cm) och 1 decimeter (1 dm).
+
+Sträcka. En rät linje som är begränsad åt båda hållen. En sträcka.
+
+Prefix. Litet ord som placeras i början av ett annat ord och ändrar ordets betydelse. 
+
+Några exempel på prefix är milli, centi, deci och kilo.
+
+Milli betyder tusendel. Centi betyder hundradel. 
+
+Deci betyder tiondel. Kilo betyder tusen.
+
+Skala Förminskning Förstoring.
+
+En skala berättar vilket förhållandet är mellan två längder. 
+
+Det används ofta när verkligheten ska avbildas.
+
+När man avbildar något stort förminskar man alla längder. 
+
+När man avbildar något litet förstorar man längderna. 
+
+Skala 1 : 1 innebär att något avbildas i naturlig storlek. 
+
+Det betyder att 1 cm på bilden är lika med 1 cm i verkligheten.
+
+Skala 1 : 2 innebär att något har förminskats. 
+
+Det betyder att 1 cm på bilden är lika med 2 cm i verkligheten.
+
+Skala 2 : 1 innebär att något har förstorats. 
+
+Det betyder att 2 cm på bilden är lika med 1 cm i verkligheten.
+
+Vinkel. Båge. Hake. spetsig vinkel. rät vinkel.
+
+En vinkel kan vara spetsig, rät eller trubbig. 
+
+Gradskiva. Den här vinkeln är 50°.
+
+Vinklars storlek mäts med en gradskiva. Den är graderad i grader.
+
+Spetsig vinkel. En spetsig vinkel är mindre än 90°.
+
+P 2
+
+Rät vinkel. En rät vinkel är 90°.
+
+Trubbig vinkel. En trubbig vinkel är större än 90° men mindre än 180°.
+
+Parallella linjer. 
+
+Två (eller flera) linjer som aldrig korsar varandra hur långt de än dras ut. 
+
+Avståndet mellan linjerna är alltid lika stort.
+
+Parallellogram. En figur med fyra sidor, där motstående sidor är parallella.
+
+Romb. En romb är en parallellogram där alla sidor är lika långa.
+
+Rektangel. Bas. Höjd. En rektangel är en parallellogram med räta vinklar.
+
+Diagonal. En diagonal är en sträcka mellan två hörn, 
+
+som inte ligger bredvid varandra, till exempel i en rektangel,
+
+Kvadrat. En rektangel vars sidor är lika långa kallas en kvadrat.
+
+Triangel. En figur med tre sidor.
+
+P 3
+
+Cirkel. medelpunkt.
+
+En tvådimensionell figur där alla punkter har samma avstånd till en given punkt, medelpunkten.
+
+Diameter. En sträcka tvärs över en cirkel genom cirkelns medelpunkt.
+
+Radie. En sträcka från en cirkels medelpunkt och en punkt på cirkeln.
+
+Omkrets. Ett föremåls omkrets berättar hur långt det är runt föremålet.
+
+Omkretsen av en rektangel med längden 4 cm och bredden 3 cm är:
+
+Area. Ett områdes area talar om hur stort området är. 
+
+En enhet för area är kvadratcentimeter (cm^2).
+
+Den här triangeln har arean.
