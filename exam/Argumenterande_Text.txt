@@ -1,0 +1,35 @@
+Argumenterande text.
+Argumentative text.
+议论文。
+
+1. Rubrik.	2. Presentera din åsikt tydligt.
+1. heading	2. Present your opinion clearly.
+1. 标题		2. 清楚地表达自己的观点。
+
+2.1 Jag tycker. 	2.2 Min åsikt är
+2.1 I think. 		2.2 My opinion is.
+2.1 我认为 		2.2 我的观点是
+
+3. Motivera med flera argument.
+3. motivate with several arguments.
+3. 提出几个论据。
+
+3.1 För det första. 	3.2 För det andra.
+3.1 For the first. 	3.2 Secondly.
+3.1 首先。		3.2 其次。
+
+3.3 Dessutom. 		3.4 En del menar.
+3.3 In addition. 	3.4 Some people think.
+3.3 此外。		3.4 有些人认为。
+
+3.5 Slutligen tycker jag.  4. Sammanfatta och upprepa din åsikt.
+3.5 Finally, I think.	   4. summarize and repeat your opinion.
+3.5 最后，我认为。	   4. 总结并重复你的观点。
+
+4.1 Därför menar jag. 	   4.2 Jag är därför säker på. 
+4.1 Therefore, I think.    4.2 I am therefore sure. 
+4.1 因此，我认为。	   4.2 因此，我确信。
+
+4.3 Som ni kan se.	5. Signatur.
+4.3 As you can see.	5. Signature.
+4.3 如你所见。		5. 签名。

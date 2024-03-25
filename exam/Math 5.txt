@@ -1,97 +1,193 @@
 P 1
 
 Begrepp. Beskrivning. Bild. exempel.
+Concept. Description. Image. example.
+概念。描述。图形。示例。
 
 Längd. En linje som är begränsad åt båda hållen har en viss längd.
+Length. A line that is limited in both directions has a certain length.
+长度。双向受限的直线有一定的长度。
 
 Grundenheten för längd är 1 meter (1 m).
+The basic unit of length is 1 meter (1 m).
+长度的基本单位是 1 米（1 m）。
 
 Andra exempel på enheter för längd är 1 centimeter (1 cm) och 1 decimeter (1 dm).
+Other examples of units for length are 1 centimeter (1 cm) and 1 decimeter (1 dm).
+长度单位的其他例子还有 1 厘米（1 cm）和 1 分米（1 dm）。
 
 Sträcka. En rät linje som är begränsad åt båda hållen. En sträcka.
+Line segment. A straight line that is limited in both directions. A line segment.
+线段。双向受限的直线。一条线段。
 
 Prefix. Litet ord som placeras i början av ett annat ord och ändrar ordets betydelse. 
+Prefix. Small word that is placed at the beginning of another word and changes the meaning of the word.
+前缀。置于另一个词开头的小词，可改变该词的含义。
 
 Några exempel på prefix är milli, centi, deci och kilo.
+Some examples of prefixes are milli, centi, deci and kilo.
+前缀的例子有milli, centi, deci 和 kilo.
 
-Milli betyder tusendel. Centi betyder hundradel. 
+Milli betyder tusendel. Centi betyder hundradel.
+Milli means thousandth. Centi means hundredth. 
+Milli 表示千分之一。Centi指百分之一。
 
 Deci betyder tiondel. Kilo betyder tusen.
+Deci means tenth. Kilo means thousand.
+Deci 指十分之一。Kilo 表示千。
 
-Skala Förminskning Förstoring.
+Skala. Förminskning. Förstoring.
+Scale. Reduction enlargement.
+比例。 缩小。 放大。
 
-En skala berättar vilket förhållandet är mellan två längder. 
+En skala berättar vilket förhållandet är mellan två längder.
+A scale tells you what the relationship is between two lengths.
+比例告诉你两个长度之间的关系。
 
 Det används ofta när verkligheten ska avbildas.
+It is often used to represent reality. 
+它通常用来表示现实。
 
 När man avbildar något stort förminskar man alla längder. 
+When depicting something large, you reduce all the lengths.
+描绘大的事物时，所有长度都会缩小。
 
 När man avbildar något litet förstorar man längderna. 
+When depicting something small, the lengths are enlarged. 
+当描绘小的事物时，则放大所有长度。
 
-Skala 1 : 1 innebär att något avbildas i naturlig storlek. 
+Skala 1 : 1 innebär att något avbildas i naturlig storlek.
+Scale 1 : 1 means that something is depicted in natural size.
+比例 1 : 1 表示以自然尺寸描绘事物。
 
 Det betyder att 1 cm på bilden är lika med 1 cm i verkligheten.
+This means that 1 cm in the image is equal to 1 cm in reality.
+这意味着图像中的 1 厘米等于现实中的 1 厘米。
 
-Skala 1 : 2 innebär att något har förminskats. 
+Skala 1 : 2 innebär att något har förminskats.
+Scale 1 : 2 means that something has been reduced in size. 
+比例 1 : 2 表示某物被缩小。
 
 Det betyder att 1 cm på bilden är lika med 2 cm i verkligheten.
+This means that 1 cm in the image is equal to 2 cm in reality.
+这意味着图像中的 1 厘米等于现实中的 2 厘米。
 
-Skala 2 : 1 innebär att något har förstorats. 
+Skala 2 : 1 innebär att något har förstorats.
+Scale 2 : 1 means that something has been enlarged. 
+比例 2 : 1 表示某物被放大。
 
 Det betyder att 2 cm på bilden är lika med 1 cm i verkligheten.
+This means that 2 cm in the image is equal to 1 cm in reality.
+这意味着图像中的 2 厘米等于现实中的 1 厘米。
 
 Vinkel. Båge. Hake. spetsig vinkel. rät vinkel.
+Angle. Arc. Hook. acute angle. right angle.
+角。 弧线。 钩子。 锐角。 直角。
 
-En vinkel kan vara spetsig, rät eller trubbig. 
+En vinkel kan vara spetsig, rät eller trubbig.
+An angle can be acute, right or obtuse.
+角可以是锐角、直角或钝角。
 
 Gradskiva. Den här vinkeln är 50°.
+Protractor. This angle is 50°.
+量角器。这个角是 50°。
 
 Vinklars storlek mäts med en gradskiva. Den är graderad i grader.
+The size of angles is measured with a protractor. It is graduated in degrees.
+角的大小是用量角器测量的。量角器的刻度单位是度。
 
 Spetsig vinkel. En spetsig vinkel är mindre än 90°.
+Acute angle. An acute angle is less than 90°.
+锐角。锐角小于 90°。
 
 P 2
 
 Rät vinkel. En rät vinkel är 90°.
+Right angle. A right angle is 90°.
+直角 直角为 90°。
 
 Trubbig vinkel. En trubbig vinkel är större än 90° men mindre än 180°.
+Obtuse angle. An obtuse angle is greater than 90° but less than 180°.
+钝角。钝角大于 90°，小于 180°。
 
 Parallella linjer. 
+Parallel lines. 
+平行线 
 
 Två (eller flera) linjer som aldrig korsar varandra hur långt de än dras ut. 
+Two (or more) lines that never cross each other no matter how far they are drawn. 
+两条（或多条）线，无论画多远都不会相交。
 
 Avståndet mellan linjerna är alltid lika stort.
+The distance between the lines is always the same.
+线与线之间的距离始终保持不变。
 
 Parallellogram. En figur med fyra sidor, där motstående sidor är parallella.
+Parallelogram. A figure with four sides, where the opposite sides are parallel.
+平行四边形。有四条边且两组对边相互平行的图形。
 
 Romb. En romb är en parallellogram där alla sidor är lika långa.
+Rhombus. A rhombus is a parallelogram where all sides are of equal length.
+菱形。 菱形是四边长度相等的平行四边形。
 
 Rektangel. Bas. Höjd. En rektangel är en parallellogram med räta vinklar.
+Rectangle. Base. Height. A rectangle is a parallelogram with right angles.
+矩形。 底。 高。 矩形是有直角的平行四边形。
 
-Diagonal. En diagonal är en sträcka mellan två hörn, 
+Diagonal.
+Diagonal.
+对角线。
 
-som inte ligger bredvid varandra, till exempel i en rektangel,
+En diagonal är en sträcka mellan två hörn, som inte ligger bredvid varandra, 
+A diagonal is a line segment between two corners that are not next to each other, 
+对角线是指两个互不相邻的角之间的一条线段，
+
+till exempel i en rektangel,
+for example in a rectangle,
+例如矩形中的对角线,
 
 Kvadrat. En rektangel vars sidor är lika långa kallas en kvadrat.
+Square. A rectangle whose sides are of equal length is called a square.
+正方形。 边长相等的长方形称为正方形。
 
 Triangel. En figur med tre sidor.
+Triangle. A figure with three sides.
+三角形。有三条边的图形。
 
 P 3
 
 Cirkel. medelpunkt.
+Circle. center point.
+圆。 圆心。
 
 En tvådimensionell figur där alla punkter har samma avstånd till en given punkt, medelpunkten.
+A two-dimensional figure in which all points are equidistant from a given point, the center.
+一个二维图形，其中所有点都等距离于一个给定点，即圆心。
 
 Diameter. En sträcka tvärs över en cirkel genom cirkelns medelpunkt.
+Diameter. A line segment across a circle through the center of the circle.
+直径。 穿过圆心的线段。
 
 Radie. En sträcka från en cirkels medelpunkt och en punkt på cirkeln.
+Radius. A line segment from the center of a circle to a point on the circle.
+半径。 从圆心到圆上某一点的线段。
 
 Omkrets. Ett föremåls omkrets berättar hur långt det är runt föremålet.
+Perimeter. The perimeter of an object tells you how long it is around the object.
+周长。 物体的周长表示围绕物体一周的长度。
 
 Omkretsen av en rektangel med längden 4 cm och bredden 3 cm är:
+The perimeter of a rectangle of length 4 cm and width 3 cm is:
+一个长 4 厘米、宽 3 厘米的长方形的周长是：
 
 Area. Ett områdes area talar om hur stort området är. 
+Area. The area of an area tells you how big the area is. 
+面积。 一个区域的面积告诉你这个区域有多大。
 
 En enhet för area är kvadratcentimeter (cm^2).
+One unit of area is square centimeters (cm^2).
+面积的单位是平方厘米（cm^2）。
 
 Den här triangeln har arean.
+This triangle has the area.
+这个三角形的面积是
