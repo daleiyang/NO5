@@ -1,0 +1,339 @@
+P 170
+
+KAN DU DET HÄR? 
+
+Hur mycket är 4,5 + 3?
+
+Vilket tal är x om x/5 = 3 rest 2?
+
+Hur mycket är 12000/100?
+
+Hur mycket är 20 * 50?
+
+Summan av två tal är 0,95. Det ena talet är 0,5. Vilket är det andra?
+
+Hur mycket är 1,4 + 1/4?
+
+Vilket tal är x om 2500/x = 50?
+
+Vilken är entalssiffran i produkten till 6 * 427?
+
+Vilket tal är 30 gånger så stort som 400?
+
+P 171
+
+Numerisk räkning. Begrepp. Vilka begrepp känner du till sedan tidigare?
+
+Kan du beskriva dem?
+
+addition. subtraktion. multiplikation. division. term.
+
+summa. differens. faktor. täljare. nämnare. kvot. produkt.
+
+P 172
+
+Addition och subtraktion med uppställning. AKTIVITET.
+
+Vem kommer närmast 10? Materiel: Två tärningar. Antal deltagare: 3-5 st.
+
+Rita av tabellen. Ental. Tiondel.
+
+Kasta de båda tärningarna. Den ena tärningen visar entalssiffra och den andra tiondelssiffra. 
+
+Bestäm efter varje kast vilken tärning som visar vad.
+
+Skriv in de båda siffrorna på den plats som du har bestämt.
+
+Turas om att kasta. Efter tre kast var adderar ni de tre talen.
+
+Vinner gör den som kommer närmast 10.
+
+Tävla fler gånger eller hitta på en egen tävling.
+
+P 173
+
+ADDITION. När man tar ett tal plus ett annat tal kallas det för addition.
+
+Talen som man adderar kallas termer. Det svar som man får kallas summa.
+
+SUBTRAKTION. När man tar ett tal minus ett annat tal kallas det för subtraktion.
+
+Talen som man subtraherar kallas termer. Det svar som man får kallas differens.
+
+term. summa. differens. VÄXLA ÖVER NOLL.
+
+Om den första termen har en eller flera nollor kan man behöva växla ner två eller flera gånger innan man kan subtrahera med uppställning.
+
+3 ental minus 7 ental går inte utan att du växlar ner 1 tiotal .
+
+Du har inget tiotal att växla. Då får du först växla ner 1 hundratal till 10 tiotal.
+
+Stryk 4:an och skriv de 10 tiotalen ovanför nollan. 
+
+Växla ner 1 av dessa tiotal till 10 ental. 
+
+Stryk 10:an och skriv de 10 entalen ovanför 3:an.
+
+Nu har du 13 ental : 13 - 7 = 6. Du har 9 tiotal kvar: 9 - 4 = 5.
+
+Du har 3 hundratal kvar.
+
+ADDITION OCH SUBTRAKTION MED TAL I DECIMALFORM.
+
+Om man till exempel ska räkna ut 523 + 76 eller 931 - 84 med uppställning är det viktigt att man skriver entalssiffror under varandra,
+
+tiotalssiffror under varandra och så vidare. Samma sak gäller om talen innehåller decimaler.
+
+Då skriver man tiondelssiffror under varandra, hundradelssiffror under varandra och så vidare.
+
+Om talen har olika antal decimaler är det klokt att skriva talen med lika många decimaler när man gör uppställningen.
+
+Man fyller då på med nollor i de tal som har minst antal decimaler.
+
+P 174
+
+Du skriver talen med tiotalssiffror under varandra , entalssiffror under varandra och tiondelssiffror under varandra .
+
+1:an växlas upp som minnessiffra vid entalen.
+
+1:an växlas upp som minnessiffra vid tiotalen.
+
+Sätt ut decimaltecknet.
+
+4 - 8 går inte. Du växlar ner 1 tiotal till 10 ental : 14 - 8 = 6.
+
+Det återstår 2 tiotal : 2-1 = 1.
+
+Fyll på med en nolla så att talen får lika många decimaler.
+
+Vid addition spelar det inte någon roll vilket tal som står överst. 
+
+Men det är ofta praktiskt att skriva det största talet överst .
+
+Skriv talen så att de har lika många decimaler.
+
+Vid subtraktion måste det största talet skrivas Överst .
+
+P 175
+
+5 ental minus 8 ental går inte utan att du växlar ner.
+
+Eftersom det saknas tiotal måste du växla ner ända från hundratalen .
+
+Växla först ner 1 hundratal till 10 tiotal. Sedan växlar du ner 1 av dessa tiotal till 10 ental.
+
+Då har du 15 ental: 15 - 8 = 7. Du har 9 tiotal kvar : 9-3 = 6. Du har 1 hundratal kvar .
+
+2 hundradelar minus 6 hundradelar går inte utan att du växlar ner. 
+
+Växla ner 1 ental till 10 tiondelar . Växla ner 1 av dessa tiondelar till 10 hundradelar.
+
+Taberg är 343 m högt. Tomtabacken är 31 m högre. Hur hög är Tomtabacken?
+
+En morgon visade termometern 13,5 °C. En timme senare hade temperaturen stigit med 2,9 °C. 
+
+Vad visade termometern då?
+
+P 176
+
+Elin sprang 200 m på tiden 30,5 s. Martin hade 1,7 s kortare tid. Vilken tid hade han?
+
+Differensen mellan två tal är 1,8. Det mindre talet är 17,5. Vilket är det andra?
+
+Vilken eller vilka av additionerna ger en summa som är större än 100? 
+
+Förklara hur du kan veta det utan att räkna.
+
+Vilket tal är x?
+
+Adina har läst 247 sidor i en bok med 405 sidor. Hur många sidor har hon kvar att läsa?
+
+Summan av två tal är 35,2. Det ena talet är 14,9. Vilket är det andra?
+
+David fick en fisk som vägde 275 g. John fick en som vägde 95 g mer.
+
+Hur mycket vägde fiskarna sammanlagt?
+
+P 177
+
+Förklara hur du kan räkna ut 99 + 99 och 103-98 med huvudräkning.
+
+Addera de tre tal som pilarna pekar på. Vilken är summan?
+
+Leah kastar en boll 44,15 m. Ronja kastar en halv meter kortare. 
+
+Hur långt kastar Ronja?
+
+I en djurpark finns en pytonorm som är 7,85 m lång. 
+
+Ella är sex och en halv meter kortare. Hur lång är Ella?
+
+En triangel har omkretsen 17,3 cm. En sida är 5,75 cm och en annan är 4,35 cm. 
+
+Hur lång är den tredje sidan?
+
+Rebecca körde bil från Karlstad till Umeå, en sträcka på 810 km.
+
+Hon stannade i Sundsvall för att äta middag. 
+
+Då hade hon en tredjedel kvar att köra.
+
+Hur långt är det från Karlstad till Sundsvall?
+
+P 178
+
+Klockan sex på morgonen var det 11,7 °C hemma hos Ida.
+
+Klockan tolv hade temperaturen stigit med 6,9 °C .
+
+Klockan sex på kvällen hade temperaturen sjunkit igen och då med 4,7 °C. 
+
+Vilken var temperaturen då?
+
+När Jana räknar 45,2 - 3,75 med uppställning får hon svaret 7,7 vilket är fel.
+
+Vilket fel har Jana gjort? Vilket är det korrekta svaret?
+
+My och Axel fjällvandrade i fyra dagar. 
+
+Den första dagen gick de 16,8 km, den andra dagen 15,5 km och den tredje dagen 12,7km.
+
+Hur långt gick de den fjärde dagen om hela sträckan var 59 km?
+
+My bar en ryggsäck som vägde 7,2 kg. Axels ryggsäck vägde 5,8 kg mer.
+
+Ungefär hur stor andel av ryggsäckarnas sammanlagda vikt bar My?
+
+Summan av två tal är 462. Differensen av de två talen är 32. Vilka är talen?
+
+P 179
+
+Multiplikation med uppställning.
+
+När man tar ett tal gånger ett annat tal kallas det för multiplikation.
+
+Talen som man multiplicerar kallas faktorer. Svaret kallas produkt.
+
+faktor. produkt.
+
+Skriv talet med flest siffror överst.
+
+Börja multiplicera entalen: 6 * 3 = 18. 
+
+Entalssiffran 8 skriver du under 6:an och tiotalssiffran 1 blir minnessiffra .
+
+Fortsätt med tiotalen: 6 * 4 tiotal = 24 tiotal.
+
+24 plus minnessiffran ger 25 tiotal. 2:an blir minnessiffra .
+
+Avsluta med hundratalen: 6 * 2 hundratal = 12 hundratal.
+
+Addera minnessiffran och du får (12 + 2) hundratal = 14 hundratal .
+
+Här börjar du med tiondelarna : 4 * 2 tiondelar = 8 tiondelar. 
+
+Skriv 8:an under 4:an.
+
+Fortsätt med entalen: 4 * 3 ental = 12 ental . Skriv 12 framför 8:an.
+
+Sätt ut decimaltecknet mellan entalet och tiondelarna.
+
+Om du känner dig osäker på var decimaltecknet ska placeras kan du använda överslagsräkning .
+
+Eftersom multiplikationen är ungefär lika med 4 * 3 = 12 , så måste decimaltecknet hamna efter 2:an.
+
+6 * 4 hundradelar = 24 hundradelar. 2:an blir minnessiffra .
+
+6 * 3 tiondelar = 18 tiondelar. Addera med minnessiffran .
+
+Nu har du 20 tiondelar. Skriv 2:an som minnessiffra .
+
+6 * O ental = 0 ental. Addera med minnessiffran , så får du 2 ental.
+
+Sätt ut decimaltecknet mellan entalssiffran och tiondelssiffran .
+
+Produkten har alltid samma antal decimaler som antalet decimaler i faktorerna.
+
+Här ska det alltså vara två decimaler.
+
+P 180
+
+Molly köper 3 kg apelsiner och betalar med en hundralapp. 
+
+Apelsinerna kostar 21,90 kr per kilogram. Hur mycket får hon tillbaka?
+
+Apelsinerna kostar. Betalar. Får tillbaka. Svar : Molly får tillbaka 34 kr.
+
+Vid kassan avrundas beloppet till helt antal kronor .
+
+Teckna dina beräkningar . Visa hur du räknar . Svara med hel mening .
+
+Zoe simmar 225 m fyra gånger samma vecka. Hur långt blir det sammanlagt?
+
+Hur mycket väger bowlingkloten sammanlagt om de väger 7,5 kg styck?
+
+P 181
+
+Blir produkten alltid större än faktorerna när man multiplicerar Förklara hur du tänker.
+
+Johans hundvalp vägde 1,4 kg. Efter ett halvår vägde den fyra gånger så mycket. 
+
+Hur många kilogram hade valpen ökat i vikt?
+
+Fem personer gick på teater. Biljetterna kostade 350 kr styck.
+
+Vad kostade biljetterna sammanlagt?
+
+Den här hinken rymmer 7,5 liter. Hur mycket ryms sammanlagt i sju lika stora hinkar?
+
+P 182
+
+Leila köper 4 kg äpplen och betalar med en hundralapp.
+
+Hur mycket får hon tillbaka?
+
+Arman har fyra paket som sammanlagt väger 12 kg.
+
+Två av paketen väger 2,8 kg vardera och ett väger 4,3 kg. 
+
+Hur mycket väger det fjärde paketet?
+
+Produkten av två olika tal är 1. Ge två förslag på vilka talen kan vara.
+
+Till Emmas kalas köper hennes mamma fyra läsk. Varje flaska rymmer 1,5 liter och kostar 12,90 kr.
+
+Mamma betalar med en hundralapp. Hur mycket får hon tillbaka?
+
+En förpackning med fyra mazariner 60 kostade 39 kr. 
+
+Aron räknade ut att mazarinerna kostade 9,75 kr styck.
+
+Ge två exempel på hur du kan kontrollera om Aron räknade rätt.
+
+Hade han räknat rätt?
+
+Amanda har en påse med femkronor som väger 154 g.
+
+Varje femkrona väger 7 g. Hur mycket fattas innan Amanda har 150 kr?
+
+P 183
+
+Hur mycket längre omkrets har kvadraten än triangeln?
+
+Tänk dig att du ska räkna ut 16 * 1,5 utan miniräknare. Hur gör du?
+
+En bräda är 4,2 m lång . 
+
+Malin sågar till sex bitar som var och en är 0,65 m lång. 
+
+Hur mycket är sedan kvar av brädan?
+
+Priset på bensin höjdes från 15,85 kr till 16,50 kr per liter.
+
+Gustav tankade sin moped med 8 liter innan höjningen.
+
+Hur mycket sparade han på det?
+
+Addera de fyra tal som är markerade på tallinjen.
+
+Multiplicera summan med 9. Vilken är produkten?
