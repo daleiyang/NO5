@@ -1,218 +1,414 @@
 P 170
 
 KAN DU DET HÄR? 
+DO YOU KNOW THIS? 
+你知道吗？
 
 Hur mycket är 4,5 + 3?
+How much is 4.5 + 3?
+4.5 + 3 等于多少？
 
 Vilket tal är x om x/5 = 3 rest 2?
+Which number is x if x/5 = 3 rest 2?
+如果 x/5 = 3 余 2，哪个数是 x？
 
 Hur mycket är 12000/100?
+How much is 12000/100?
+12000/100 等于多少？
 
 Hur mycket är 20 * 50?
+How much is 20 * 50?
+20 * 50 等于多少？
 
 Summan av två tal är 0,95. Det ena talet är 0,5. Vilket är det andra?
+The sum of two numbers is 0.95. One number is 0.5. Which is the other?
+两个数的和是 0.95。其中一个数是 0.5。另一个数是多少？
 
 Hur mycket är 1,4 + 1/4?
+How much is 1.4 + 1/4?
+1.4 + 1/4 等于多少？
 
 Vilket tal är x om 2500/x = 50?
+Which number is x if 2500/x = 50?
+如果 2500/x = 50，哪个数是 x？
 
 Vilken är entalssiffran i produkten till 6 * 427?
+What is the single digit of the product of 6 * 427?
+6 * 427 的乘积的个位数是多少？
 
 Vilket tal är 30 gånger så stort som 400?
+Which number is 30 times as large as 400?
+哪个数是 400 的 30 倍？
 
 P 171
 
 Numerisk räkning. Begrepp. Vilka begrepp känner du till sedan tidigare?
+Numerical calculation. Concepts. Which concepts do you already know?
+数值计算。概念。你已经知道哪些概念？
 
 Kan du beskriva dem?
+Can you describe them?
+你能描述它们吗？
 
 addition. subtraktion. multiplikation. division. term.
+addition. subtraction. multiplication. division. term.
+加法、减法、乘法、除法、项.
 
 summa. differens. faktor. täljare. nämnare. kvot. produkt.
+sum. difference. factor. numerator. denominator. quotient. product.
+和、差、因数、分子、分母、商、积。
 
 P 172
 
 Addition och subtraktion med uppställning. AKTIVITET.
+Addition and subtraction with line-up. ACTIVITY.
+排队加减法。活动：
 
 Vem kommer närmast 10? Materiel: Två tärningar. Antal deltagare: 3-5 st.
+Who comes closest to 10? Materials: Two dice. Number of participants: 3-5.
+谁最接近 10？材料： 两个骰子。参与者人数： 3-5.
 
 Rita av tabellen. Ental. Tiondel.
+Draw the table. Single digit. Tenth.
+画表。 个位数。 十位数。
 
 Kasta de båda tärningarna. Den ena tärningen visar entalssiffra och den andra tiondelssiffra. 
+Roll the two dice. One dice shows a single digit and the other a tenth digit. 
+掷两颗骰子。一个骰子显示个位数，另一个骰子显示十位数。
 
 Bestäm efter varje kast vilken tärning som visar vad.
+After each roll, decide which dice shows what.
+每次掷完后，决定哪个骰子显示什么。
 
 Skriv in de båda siffrorna på den plats som du har bestämt.
+Write the two numbers in the place you have decided.
+将这两个数字写在你们决定的位置上。
 
 Turas om att kasta. Efter tre kast var adderar ni de tre talen.
+Take turns throwing the dice. After three rolls each, add up the three numbers.
+轮流掷骰子。 每人掷三次后，将三个数字相加。
 
 Vinner gör den som kommer närmast 10.
+The person who comes closest to 10 wins.
+最接近 10 的人获胜。
 
 Tävla fler gånger eller hitta på en egen tävling.
+Compete several times or come up with your own competition.
+可以多次比赛，也可以自己想办法比赛。
 
 P 173
 
 ADDITION. När man tar ett tal plus ett annat tal kallas det för addition.
+ADDITION. When you take a number plus another number, it is called addition.
+加法。把一个数加上另一个数，就叫做加法。
 
 Talen som man adderar kallas termer. Det svar som man får kallas summa.
+The numbers you add are called terms. The answer you get is called a sum.
+相加的数字称为"项"。得到的答案称为"和"。
 
 SUBTRAKTION. När man tar ett tal minus ett annat tal kallas det för subtraktion.
+SUBTRACTION. When you take a number minus another number, it is called subtraction.
+减法。用一个数减去另一个数，叫做减法。
 
 Talen som man subtraherar kallas termer. Det svar som man får kallas differens.
+The numbers you subtract are called terms. The answer you get is called a difference.
+被减数称为项。得到的答案称为差。
 
 term. summa. differens. VÄXLA ÖVER NOLL.
+term. sum. difference. CHANGE OVER ZERO.
+项、和、差。零上变化。
 
 Om den första termen har en eller flera nollor kan man behöva växla ner två eller flera gånger innan man kan subtrahera med uppställning.
+If the first term has one or more zeros, you may need to shift down two or more times before you can subtract with an array.
+如果第一项有一个或多个零，则可能需要向下移动两次或多次，才能用数组进行减法运算。
 
 3 ental minus 7 ental går inte utan att du växlar ner 1 tiotal .
+3 ones minus 7 ones is not possible without shifting down 1 ten.
+3 个一减 7 个一，如果不向下移动 1 个十，是不可能的。
 
 Du har inget tiotal att växla. Då får du först växla ner 1 hundratal till 10 tiotal.
+You have no tens to change. Then you must first change 1 hundred to 10 tens.
+你没有十要改。那么必须先将 1 个 100 改为 10 个 10。
 
 Stryk 4:an och skriv de 10 tiotalen ovanför nollan. 
+Delete the 4 and write the 10 tens above the zero. 
+删除 4，然后在 0 的上方写上 10 个十。
 
 Växla ner 1 av dessa tiotal till 10 ental. 
+Change 1 of these tens to 10 ones. 
+将其中 1 个十变为 10 个一。
 
 Stryk 10:an och skriv de 10 entalen ovanför 3:an.
+Delete the 10 and write the 10 ones above the 3.
+删去 10，把 10 个 1 写在 3 的上面。
 
 Nu har du 13 ental : 13 - 7 = 6. Du har 9 tiotal kvar: 9 - 4 = 5.
+Now you have 13 ones: 13 - 7 = 6. You have 9 tens left: 9 - 4 = 5.
+现在有 13 个 1 ：13 - 7 = 6。还剩下 9 个 10 ：9 - 4 = 5。
 
 Du har 3 hundratal kvar.
+You have 3 hundreds left.
+还剩 3 个百。
 
 ADDITION OCH SUBTRAKTION MED TAL I DECIMALFORM.
+ADDITION AND SUBTRACTION WITH NUMBERS IN DECIMAL FORM.
+用小数形式计算加减法。
 
 Om man till exempel ska räkna ut 523 + 76 eller 931 - 84 med uppställning är det viktigt att man skriver entalssiffror under varandra,
+For example, if you want to calculate 523 + 76 or 931 - 84 with an array, it is important to write single digits below each other, 
+例如，如果您想用竖式计算 523 + 76 或 931 - 84，必须将个位数写在下面、 
 
 tiotalssiffror under varandra och så vidare. Samma sak gäller om talen innehåller decimaler.
+tens below each other and so on. The same applies if the numbers contain decimals.
+十位数的下面，依次类推。如果数字包含小数，情况也一样。
 
 Då skriver man tiondelssiffror under varandra, hundradelssiffror under varandra och så vidare.
+Then you write tenths below each other, hundredths below each other and so on.
+然后，十位数写在十位数的下面，百位数写在百位数的下面，以此类推。
 
 Om talen har olika antal decimaler är det klokt att skriva talen med lika många decimaler när man gör uppställningen.
+If the numbers have different numbers of decimals, it is wise to write the numbers with the same number of decimals when making the list.
+如果数字的小数位数不同，那么在列表时最好写出小数位数相同的数字。
 
 Man fyller då på med nollor i de tal som har minst antal decimaler.
+You then add zeros to the numbers with the least number of decimal places.
+然后，在小数位数最少的数字上加上零。
 
 P 174
 
 Du skriver talen med tiotalssiffror under varandra , entalssiffror under varandra och tiondelssiffror under varandra .
+You write the numbers with tens digits below each other, singles digits below each other and tenths digits below each other.
+在写数字时，十位数在下面，个位数在下面，十位数在下面。
 
 1:an växlas upp som minnessiffra vid entalen.
+The 1 is shifted up as a memory digit for the ones.
+1 向上移动，作为 1 的记忆位。
 
 1:an växlas upp som minnessiffra vid tiotalen.
+The 1 is shifted up as a memory digit for the tens.
+1 向上移动，作为十位的数位。
 
 Sätt ut decimaltecknet.
+Insert the decimal point.
+插入小数点。
 
 4 - 8 går inte. Du växlar ner 1 tiotal till 10 ental : 14 - 8 = 6.
+4 - 8 does not work. You change 1 ten to 10 ones : 14 - 8 = 6.
+4 - 8 无效。将 1 个十变为 10 个一：14 - 8 = 6。
 
 Det återstår 2 tiotal : 2-1 = 1.
+There are 2 tens left: 2-1 = 1.
+还剩下 2 个 10 ：2-1 = 1。
 
 Fyll på med en nolla så att talen får lika många decimaler.
+Add a zero so that the numbers have the same number of decimals.
+加上一个零，这样两个数的小数位数就相同了。
 
 Vid addition spelar det inte någon roll vilket tal som står överst. 
+When adding, it does not matter which number is on top. 
+加法时，哪个数在上面并不重要。
 
 Men det är ofta praktiskt att skriva det största talet överst .
+But it is often practical to write the largest number at the top.
+但通常把最大的数写在最前面比较实用。
 
 Skriv talen så att de har lika många decimaler.
+Write the numbers so that they have the same number of decimal places.
+写出的数字要有相同的小数位数。
 
 Vid subtraktion måste det största talet skrivas Överst .
+In subtraction, the largest number must be written at the top.
+在减法中，最大的数必须写在最前面。
 
 P 175
 
 5 ental minus 8 ental går inte utan att du växlar ner.
+5 singles minus 8 singles is not possible without shifting down.
+如果不向下移动，5 个单数减去 8 个单数是不可能的。
 
 Eftersom det saknas tiotal måste du växla ner ända från hundratalen .
+Since there are no tens, you have to shift down from the hundreds.
+因为没有 10 ，所以必须从百往下移。
 
 Växla först ner 1 hundratal till 10 tiotal. Sedan växlar du ner 1 av dessa tiotal till 10 ental.
+First change 1 hundred to 10 tens. Then change 1 of these tens to 10 ones.
+首先将 1 个百变为 10 个十。然后将其中 1 个十变为 10 个一。
 
 Då har du 15 ental: 15 - 8 = 7. Du har 9 tiotal kvar : 9-3 = 6. Du har 1 hundratal kvar .
+Then you have 15 ones: 15 - 8 = 7. You have 9 tens left: 9-3 = 6. You have 1 hundredth left .
+这样就有 15 个 1 ：15 - 8 = 7，还剩 9 个 10 ： 9-3 = 6，还剩 1 个 100。
 
 2 hundradelar minus 6 hundradelar går inte utan att du växlar ner. 
+2 hundredths minus 6 hundredths is not possible without shifting down. 
+如果不向下移动，2 个 百分位数 减去 6 个 百分位数 是不可能的。
 
 Växla ner 1 ental till 10 tiondelar . Växla ner 1 av dessa tiondelar till 10 hundradelar.
+Change 1 single digit to 10 tenths . Change 1 of these tenths to 10 hundredths.
+将 1 个个位数改为 10 个十分位数。将其中 1 个十分位数改为 10 个百分位数。
 
 Taberg är 343 m högt. Tomtabacken är 31 m högre. Hur hög är Tomtabacken?
+Taberg is 343 m high. Tomtabacken is 31 m higher. How high is Tomtabacken?
+Taberg 高 343 米。Tomtabacken 比它高 31 米。Tomtabacken 有多高？
 
 En morgon visade termometern 13,5 °C. En timme senare hade temperaturen stigit med 2,9 °C. 
+One morning the thermometer showed 13.5°C. One hour later the temperature had risen by 2.9°C. 
+一天早晨，温度计显示 13.5 °C。一小时后温度上升了 2.9°C。
 
 Vad visade termometern då?
+What did the thermometer show?
+温度计显示的是多少度？
 
 P 176
 
 Elin sprang 200 m på tiden 30,5 s. Martin hade 1,7 s kortare tid. Vilken tid hade han?
+Elin ran 200 m in a time of 30.5 s. Martin had 1.7 s less time. What was his time?
+Elin 跑 200 米用时 30.5 秒，Martin 少用了 1.7 秒。他的时间是多少？
 
 Differensen mellan två tal är 1,8. Det mindre talet är 17,5. Vilket är det andra?
+The difference between two numbers is 1.8. The smaller number is 17.5. Which is the other?
+两个数字之差是 1.8，较小的数字是 17.5。另一个数是多少？
 
 Vilken eller vilka av additionerna ger en summa som är större än 100? 
+Which of the additions gives a sum greater than 100? 
+哪个加法的和大于 100？
 
 Förklara hur du kan veta det utan att räkna.
+Explain how you can know this without counting.
+解释一下你如何不用数数就能知道。
 
 Vilket tal är x?
+Which number is x?
+x 是多少？
 
 Adina har läst 247 sidor i en bok med 405 sidor. Hur många sidor har hon kvar att läsa?
+Adina has read 247 pages in a book with 405 pages. How many pages does she have left to read?
+一本书有 405 页，阿迪娜已经读了 247 页。她还剩多少页没看？
 
 Summan av två tal är 35,2. Det ena talet är 14,9. Vilket är det andra?
+The sum of two numbers is 35.2. One number is 14.9. Which is the other?
+两个数的和是 35.2，其中一个数是 14.9。另一个数是多少？
 
 David fick en fisk som vägde 275 g. John fick en som vägde 95 g mer.
+David caught a fish that weighed 275 g. John caught one that weighed 95 g more.
+大卫 钓到一条重 275 克的鱼。约翰 钓到一条重 95 克的鱼。
 
 Hur mycket vägde fiskarna sammanlagt?
+How much did the fish weigh in total?
+这两条鱼一共多重？
 
 P 177
 
 Förklara hur du kan räkna ut 99 + 99 och 103-98 med huvudräkning.
+Explain how you can calculate 99 + 99 and 103-98 using mental arithmetic.
+解释如何用心算法计算 99 + 99 和 103-98。
 
 Addera de tre tal som pilarna pekar på. Vilken är summan?
+Add the three numbers that the arrows point to. What is the sum?
+将箭头指向的三个数字相加。总和是多少？
 
 Leah kastar en boll 44,15 m. Ronja kastar en halv meter kortare. 
+Leah throws a ball 44.15 m. Ronja throws half a meter shorter. 
+Leah 投掷了一个 44.15 米的球，而 Ronja 投掷的距离比她短了半米。
 
 Hur långt kastar Ronja?
+How far does Ronja throw?
+Ronja 能扔多远？
 
 I en djurpark finns en pytonorm som är 7,85 m lång. 
+In a zoo there is a python that is 7.85 m long. 
+动物园里有一条长 7.85 米的蟒蛇。
 
 Ella är sex och en halv meter kortare. Hur lång är Ella?
+Ella is six and a half meters shorter. How long is Ella?
+Ella 比它短 6.5 米。艾拉有多长？
 
 En triangel har omkretsen 17,3 cm. En sida är 5,75 cm och en annan är 4,35 cm. 
+A triangle has a perimeter of 17.3 cm. One side is 5.75 cm and another is 4.35 cm. 
+一个三角形的周长是 17.3 厘米。一边长 5.75 厘米，另一边长 4.35 厘米。
 
 Hur lång är den tredje sidan?
+How long is the third side?
+第三条边有多长？
 
 Rebecca körde bil från Karlstad till Umeå, en sträcka på 810 km.
+Rebecca drove a car from Karlstad to Umeå, a distance of 810 km.
+Rebecca 开车从 Karlstad 到 Umeå，全程 810 千米。
 
 Hon stannade i Sundsvall för att äta middag. 
+She stopped in Sundsvall for dinner. 
+她在 Sundsvall 停车吃晚饭。
 
 Då hade hon en tredjedel kvar att köra.
+Then she had one third to go.
+然后她还剩下三分之一的路程。
 
 Hur långt är det från Karlstad till Sundsvall?
+How far is it from Karlstad to Sundsvall?
+从 Karlstad 到 Sundsvall 有多远？
 
 P 178
 
 Klockan sex på morgonen var det 11,7 °C hemma hos Ida.
+At six o'clock in the morning it was 11.7°C at Ida's house.
+早上六点，Ida 家的气温为 11.7°C。
 
 Klockan tolv hade temperaturen stigit med 6,9 °C .
+At noon, the temperature had risen by 6.9 °C .
+中午，气温上升了 6.9 摄氏度。
 
 Klockan sex på kvällen hade temperaturen sjunkit igen och då med 4,7 °C. 
+At six o'clock in the evening, the temperature had dropped again, this time by 4.7°C. 
+傍晚六点，气温再次下降，这次下降了 4.7°C。
 
 Vilken var temperaturen då?
+What was the temperature then?
+当时的温度是多少？
 
 När Jana räknar 45,2 - 3,75 med uppställning får hon svaret 7,7 vilket är fel.
+When Jana calculates 45.2 - 3.75 with a table, she gets the answer 7.7, which is wrong.
+当 Jana 用表格计算 45.2 - 3.75 时，她得到的答案是 7.7，这是错误的。
 
 Vilket fel har Jana gjort? Vilket är det korrekta svaret?
+What error has Jana made? What is the correct answer?
+Jana 犯了什么错误？正确答案是什么？
 
 My och Axel fjällvandrade i fyra dagar. 
+My and Axel went hiking for four days. 
+我和 Axel 远足四天。
 
 Den första dagen gick de 16,8 km, den andra dagen 15,5 km och den tredje dagen 12,7km.
+The first day they walked 16.8 km, the second day 15.5 km and the third day 12.7 km.
+第一天他们走了 16.8 千米，第二天走了 15.5 千米，第三天走了 12.7 千米。
 
 Hur långt gick de den fjärde dagen om hela sträckan var 59 km?
+How far did they walk on the fourth day if the total distance was 59 km?
+如果总路程是 59 千米，他们第四天走了多远？
 
 My bar en ryggsäck som vägde 7,2 kg. Axels ryggsäck vägde 5,8 kg mer.
+My carried a backpack that weighed 7.2 kg. Axel's backpack weighed 5.8 kg more.
+我的背包重 7.2 千克。Axel 的背包重 5.8 千克。
 
 Ungefär hur stor andel av ryggsäckarnas sammanlagda vikt bar My?
+Approximately what proportion of the total weight of the backpacks was carried by My?
+我的背包重量大约占背包总重量的多少？
 
 Summan av två tal är 462. Differensen av de två talen är 32. Vilka är talen?
+The sum of two numbers is 462. The difference of the two numbers is 32. What are the numbers?
+两个数的和是 462，两个数的差是 32。这两个数是多少？
 
 P 179
 
 Multiplikation med uppställning.
+Multiplication with an array.
+乘法竖式。
 
 När man tar ett tal gånger ett annat tal kallas det för multiplikation.
+Taking one number times another number is called multiplication.
+用一个数乘以另一个数叫做乘法。
 
 Talen som man multiplicerar kallas faktorer. Svaret kallas produkt.
+The numbers being multiplied are called factors. The answer is called a product.
+被乘数称为因数。答案称为积。
 
 faktor. produkt.
 
