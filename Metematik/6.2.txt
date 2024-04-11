@@ -1503,3 +1503,378 @@ Enheter för volym. Enheter för vikt.
 Units of volume. Units of weight.
 体积单位。 重量单位
 
+P 319
+
+Programmeringsövningar. Mönster och algoritmer.
+Programming exercises. Patterns and algorithms.
+编程练习。 模式和算法。
+
+I de här övningarna kommer du att få bekanta dig med mönster, algoritmer och loopar.
+In these exercises, you will become familiar with patterns, algorithms and loops.
+在这些练习中，您将熟悉模式、算法和循环。
+
+Att kunna se mönster är viktigt när man programmerar. 
+Being able to see patterns is important when programming. 
+在编程时，掌握模式非常重要。
+
+När man skriver stora och mer komplicerade program vill man undvika att instruktionen blir för lång eller krånglig. 
+When writing large and more complicated programs, you want to avoid long or complicated instructions. 
+在编写大型复杂程序时，要避免冗长或复杂的指令。
+
+Genom att träna på att se mönster kan man upptäcka om någon del av en instruktion återkommer. 
+By practicing to see patterns, you can detect if any part of an instruction is repeated. 
+通过练习识别模式，您可以发现指令的任何部分是否重复。
+
+Då kan man använda sig av så kallade loopar istället.
+Then you can use loops instead.
+这样就可以用循环来代替。
+
+Algoritmer är en lista med instruktioner för hur något ska genomföras och i vilken ordning. 
+Algorithms are a list of instructions on how to do something and in what order. 
+算法是关于如何做某事以及顺序的指令列表。
+
+Algoritmer är instruktioner som en dator följer.
+Algorithms are instructions that a computer follows.
+算法是计算机遵循的指令。
+
+Fler programmeringsövningar finns på seriens hemsida www.matematikabg.se.
+More programming exercises can be found on the series' website www.matematikabg.se.
+更多编程练习请访问系列网站 www.matematikabg.se。
+
+P 320
+
+ÖVNING 1. Algoritmer och loopar.
+Exercise 1: Algorithms and loops.
+练习 1：算法和循环。
+
+Materiel: Papper att rita på.
+Materials: Paper to draw on.
+材料: 画纸。
+
+Tänk dig att du ska skriva en instruktion, alltså en algoritm, till en dator som ska bygga armbanden. 
+Imagine that you have to write an instruction, i.e. an algorithm, for a computer to build the bracelets. 
+想象一下，你必须为计算机编写一条指令，即算法，来制作手链。
+
+Algoritmen ska vara tydlig, i steg för steg och det är viktigt att allt kommer i rätt ordning.
+The algorithm should be clear, step by step and it is important that everything is in the right order.
+算法应该清晰明了，一步一步来，重要的是一切都要按照正确的顺序进行。
+
+Exempel, armband a): En rund svart. Två runda vita. En rund svart. Två runda vita osv.
+Example, bracelet a): One round black. Two round white ones. One round black. Two round white, etc.
+例如，手链 a）： 一个黑圈。 两个白圈。 一个黑圈。 两个白圈， 等等。
+
+Skriv färdigt instruktionen för armband a) och skriv sedan instruktioner för b) och c).
+Finish the instructions for bracelet a) and then write the instructions for b) and c).
+完成手镯 a) 的指令，然后写出 b) 和 c) 的指令。
+
+Jämför med en kompis. Fick ni samma resultat? Om inte, felsök tillsammans.
+Compare with a friend. Did you get the same result? If not, troubleshoot together.
+与朋友比较一下。 结果一样吗？ 如果不一样，请一起排除故障。
+
+Var blev det fel? Finns det flera sätt att lösa uppgiften på?
+Where did it go wrong? Are there several ways to solve the task?
+哪里出错了？ 是否有几种解决任务？
+
+Eftersom mönstret upprepas kan du använda dig av Ioopar. 
+Since the pattern is repeated, you can use Ioopar. 
+因为模式是重复的，所以可以使用循环。
+
+Då skriver du hur många gånger den delen av algoritmen ska upprepas. 
+Then you write how many times that part of the algorithm should be repeated. 
+然后写出该部分算法应该重复多少次。
+
+För armband a) blir då algoritmen: Upprepa 6 gånger: En rund svart. Två runda vita.
+For bracelet a), the algorithm would be: Repeat 6 times: One round black. Two round white.
+对于手链 a），算法应为 重复 6 次： 一个黑圈。 两个白圈。
+
+Skriv om dina instruktioner och använd loopar.
+Rewrite your instructions and use loops.
+重写指令并使用循环。
+
+Rita ett eget armband. Skriv en algoritm med alla steg.
+Draw your own bracelet. Write an algorithm with all the steps.
+画出你自己的手链。 写出包含所有步骤的算法。
+
+Låt nu en kompis låtsas vara en robot. 
+Now let a friend pretend to be a robot. 
+现在让一个朋友假装成机器人。
+
+Roboten ska bygga (rita) ditt armband med hjälp av din algoritm.
+The robot will build (draw) your bracelet using your algorithm.
+机器人将使用您的算法制作（绘制）您的手链。
+
+Hur gick det för roboten? 
+How did the robot do? 
+机器人做得怎么样？
+
+Kunde den bygga armbandet utifrån din algoritm?
+Was it able to build the bracelet based on your algorithm?
+它能根据您的算法制作出手链吗？
+
+Om inte, felsök tillsammans. Var blev det fel?
+If not, troubleshoot together. Where did it go wrong?
+如果不能，请一起排除故障。哪里出错了？
+
+P 321
+
+Felsökning - debugging.
+Troubleshooting - debugging.
+故障排除--调试。
+
+En dator kan bara göra det du säger att den ska göra. 
+A computer can only do what you tell it to do. 
+计算机只能做你让它做的事情。
+
+Om det blir fel beror det på att det du sagt att den ska göra inte stämmer med vad du ville att den skulle göra.
+If something goes wrong, it is because what you told it to do is not what you wanted it to do.
+如果出了问题，那是因为你让它做的事情并不是你想要它做的。
+
+Då behöver du felsöka, debugga din instruktion. ÖVNING 2. PROGRAMMERING.
+Then you need to debug your instruction. EXERCISE 2. PROGRAMMING.
+那么你就需要调试你的指令。练习 2：编程。
+
+Debugging. En algoritm för hur den här bilden ska ritas ser ut så här:
+Debugging. An algorithm for drawing this image looks like this:
+调试。 绘制这幅图的算法如下：
+
+Börja vid stjärnan. Flytta åt höger. Fyll med färg (svart).
+Start at the star. Move to the right. Fill with color (black).
+从星星开始。 向右移动。 填充颜色（黑色）。
+
+Vilken av de fyra bilderna stämmer med den här algoritmen?
+Which of the four images matches this algorithm?
+四幅图像中哪一幅符合这种算法？
+
+Börja vid stjärnan. Flytta åt höger. Flytta åt höger. Flytta nedåt. Fyll med färg (svart).
+Start at the star. Move to the right. Move to the right. Move downwards. Fill with color (black).
+从星星开始。 向右移动。 向右移动。 向下移动。 填充颜色（黑色）。
+
+Skriv en algoritm för de tre bilder som inte stämmer.
+Write an algorithm for the three images that do not match.
+为不匹配的三幅图像编写算法。
+
+Instruktioner som du får använda är:
+Instructions that you may use are:
+你可以使用以下指令：
+
+Flytta åt höger. Flytta åt vänster. Flytta nedåt. Flytta uppåt. Fyll med färg (färgens namn).
+Move right. Move to the left. Move down. Move up. Fill with color (name of the color).
+向右移动。 向左移动。 向下移动。 上移。 填充颜色（颜色名称）。
+
+Rita en egen bild och skriv sedan en algoritm för hur bilden ska ritas.
+Draw your own picture and then write an algorithm for drawing the picture.
+绘制自己的图片，然后编写绘制图片的算法。
+
+Byt algoritm med en kompis och rita bilder genom att följa varandras algoritmer.
+Swap algorithms with a friend and draw pictures by following each other's algorithms.
+与朋友交换算法，按照对方的算法画图。
+
+Jämför era bilder med originalet. Stämmer de? Om inte, felsök (debugga).
+Compare your pictures with the original. Are they correct? If not, troubleshoot (debug).
+将您的图片与原图进行比较。 是否正确？ 如果不对，请排除故障（调试）。
+
+Var blev det fel, i algoritmen eller i tolkningen av algoritmen? PROGRAMMERINGSÖVNINGAR.
+Where did it go wrong, in the algorithm or in the interpretation of the algorithm? PROGRAMMING EXERCISES.
+是算法还是对算法的解释出了问题？ 编程练习。
+
+P 322
+
+ÖVNING 3. Hjälp Alex att samla hjärtan.
+Exercise 3: Help Alex collect hearts.
+练习 3：帮助亚历克斯收集爱心。
+
+Nu ska du hjälpa Alex att ta sig igenom en bana. 
+Now you are going to help Alex get through a course. 
+现在，你要帮助 Alex 完成一门课程。
+
+Du ska skriva en algoritm så att Alex med så få steg som möjligt kan samla in alla hjärtan.
+You will write an algorithm so that Alex can collect all the hearts in as few steps as possible.
+你要编写一个算法，让 Alex 用尽可能少的步骤收集到所有的"爱心"。
+
+Regler: Undvik de svarta stjärnorna! 
+Rules: Avoid the black stars! 
+规则： 避开黑星！
+
+Kliver Alex på en svart stjärna måste han börja om från början igen.
+If Alex steps on a black star, he has to start all over again.
+如果亚历克斯踩到黑星，他就必须重新开始。
+
+Det går bara att gå på de vita rutorna.
+You can only walk on the white squares.
+你只能在白色方格上行走。
+
+Alex vill inte gå i sidled. Han måste därför börja med att rotera 90 grader åt höger.
+Alex does not want to walk sideways. He must therefore start by rotating 90 degrees to the right.
+亚历克斯不想横着走。因此，他必须先向右旋转 90 度。
+
+Alex kan inte röra sig diagonalt.
+Alex cannot move diagonally.
+亚历克斯不能斜向移动。
+
+“Gå” betyder att han går en ruta i den riktning näsan pekar.
+"Walk" means that he walks one square in the direction his nose is pointing.
+" 走 "的意思是他沿着鼻子指向的方向走一格。
+
+Instruktioner som du får använda är: Gå.  Rotera 90° höger. Rotera 90° vänster. Ta hjärta.
+The instructions you may use are: Walk.  Rotate 90° right. Rotate 90° left. Take heart.
+您可以使用以下指令: 走。 向右转 90°。左转 90°。 拿到"爱心"。
+
+Se bilden här ovan. 
+See the image above. 
+请看上图。
+
+Skriv nu en algoritm som gör att Alex kan samla in alla hjärtan med så få steg som möjligt.
+Now write an algorithm that allows Alex to collect all the hearts in as few steps as possible.
+现在写一个算法，让亚历克斯用尽可能少的步骤收集所有的"爱心"。
+
+Jämför din algoritm med en kompis. Har ni löst uppgiften på samma sätt?
+Compare your algorithm with a friend. Did you solve the task in the same way?
+与朋友比较你的算法。 你们是否用同样的方法完成了任务？
+
+Rita egna banor och skriv algoritmer. 
+Draw your own paths and write algorithms. 
+画出你自己的路径并编写算法。
+
+Använd gärna loopar om någon del av algoritmen upprepar sig.
+Feel free to use loops if any part of the algorithm repeats itself.
+如果算法的任何部分重复出现，请随意使用循环。
+
+Bilden visar ett exempel på en bana där det kan vara användbart med en loop.
+The picture shows an example of a path where a loop can be useful.
+下图展示了一个可以使用循环的路径示例。
+
+P 323
+
+Begreppsregister	Index of terms		术语索引
+
+addition		addition		加法
+analog klocka		analog clock		模拟时钟
+andel			proportion		比例
+area			area			面积
+avrunda nedåt		round down		四舍
+avrunda uppåt		round up		五入
+avrundning		rounding		四舍五入
+
+bas			
+bråkform		fractional form		小数形式	
+båge			
+
+centi			centi			厘
+centiliter		centilitre		厘升
+centimeter		centimeter		厘米
+cirkel			circle			圆
+cirkeldiagram		circle diagram		圆图
+
+deci			deci			分
+deciliter		deciliter		分升
+decimal			decimal			小数
+decimalform		decimal form		小数形式
+decimaltecken		decimal point		小数点
+decimeter		decimeter		分米
+del			part			部分
+det hela		the whole		整体
+diagonal		diagonal		对角线
+diameter		diameter		直径
+differens		difference		差
+digital klocka		digital clock		数字时钟
+division		division		除法
+dygn			day			日
+
+faktor			factor			系数
+frekvens		frequency		频率
+frekvenstabell		frequency table		频率表
+förminskning		reduction		缩小
+förstoring		magnification		放大
+
+genomsnitt		average			平均
+gradskiva		protractor		量角器
+gram			gram			克
+
+hake			hook			钩
+hekto			hecto			百
+hektogram		hectogram		百克
+höjd			height			高度
+
+kategori		category		类别
+kilo			kilo			千
+kilogram		kilogram		千克
+kilometer		kilometer		千米
+koordinat		coordinate		坐标
+koordinataxel		coordinate axis		坐标轴
+koordinatsystem		coordinate system	坐标系
+kort division		short division		短除法
+kvadrat			square			平方
+kvot			quotient		商
+
+linjediagram		line chart		折线图
+liter			litre			升
+lägesmått		positional measurements	位置测量
+längd			length			长度
+
+massa			mass			质量
+medelvärde		mean value		平均值
+median			median			中位数
+meter			meter			米
+mil			mile			瑞典英里
+milli			milli			毫
+milliliter		millilitre		毫升
+millimeter		millimeter		毫米
+minut			minute			分钟
+multiplikation		multiplication		乘法
+månad			month			月
+månghörning		polygon			多边形
+
+nämnare			denominator		分母
+närmevärde		approximate value	近似值
+
+omkrets			perimeter		周长
+origo			origo			原数
+
+parallella linjer	parallel lines		平行线
+parallellogram		parallelogram		平行四边形
+pi (π)			pi (π)			圆周率（π）
+platsvärde		place value		位值
+polygon			polygon			多边形
+position		position		位置
+prefix			prefix			前缀
+produkt			product			乘积
+
+radie			radius			半径
+rektangel		rectangle		矩形
+romb			rhombus			菱形
+rät vinkel		right angle		直角
+
+sekund			second			秒
+skala			scale			比例
+skottår			leap year		闰年
+spetsig vinkel		acute angle		锐角
+stapeldiagram		bar chart		条形图
+stolpdiagram		bar chart		条形图
+sträcka			distance		距离
+subtraktion		subtraction		减法
+summa			sum			和
+sågtandslinje		sawtooth line		锯齿线
+
+tallinje		number line		数线
+term			term			项
+timme			hour			小时
+ton			ton			吨
+triangel		triangle		三角形
+trubbig vinkel		obtuse angle		钝角
+typvärde		type value		类型值
+täljare			numerator		分母
+
+vecka			week			周
+vikt			weight			重量
+vinkel			angle			角度
+vinkelben		angle leg		角度脚
+vinkelspets		angle tip		角尖
+volym			volume			体积
+vridning		torsion			扭力
+växla ner		gear down		齿轮下降
+växla upp		gear up			齿轮上升
+
+x-axel			x-axis			x 轴
+y-axel			y-axis			Y 轴
+år			year			年份
+överslagsräkning	extrapolation		外推法
