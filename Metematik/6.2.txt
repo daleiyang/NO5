@@ -1755,17 +1755,17 @@ avrunda nedåt		round down		四舍
 avrunda uppåt		round up		五入
 avrundning		rounding		四舍五入
 
-bas			
-bråkform		fractional form		小数形式	
-båge			
+bas			base			底
+bråkform		fractional form		分数形式	
+båge			arc			弧线
 
-centi			centi			厘
+centi			centi			厘，百分之一
 centiliter		centilitre		厘升
 centimeter		centimeter		厘米
 cirkel			circle			圆
-cirkeldiagram		circle diagram		圆图
+cirkeldiagram		circle diagram		饼图
 
-deci			deci			分
+deci			deci			分，十分之一
 deciliter		deciliter		分升
 decimal			decimal			小数
 decimalform		decimal form		小数形式
@@ -1778,9 +1778,9 @@ diameter		diameter		直径
 differens		difference		差
 digital klocka		digital clock		数字时钟
 division		division		除法
-dygn			day			日
+dygn			day			日，天
 
-faktor			factor			系数
+faktor			factor			因数
 frekvens		frequency		频率
 frekvenstabell		frequency table		频率表
 förminskning		reduction		缩小
@@ -1790,10 +1790,10 @@ genomsnitt		average			平均
 gradskiva		protractor		量角器
 gram			gram			克
 
-hake			hook			钩
+hake			hook			钩子
 hekto			hecto			百
 hektogram		hectogram		百克
-höjd			height			高度
+höjd			height			高
 
 kategori		category		类别
 kilo			kilo			千
@@ -1808,7 +1808,7 @@ kvot			quotient		商
 
 linjediagram		line chart		折线图
 liter			litre			升
-lägesmått		positional measurements	位置测量
+lägesmått		positional measurements	位置度量
 längd			length			长度
 
 massa			mass			质量
@@ -1816,7 +1816,7 @@ medelvärde		mean value		平均值
 median			median			中位数
 meter			meter			米
 mil			mile			瑞典英里
-milli			milli			毫
+milli			milli			毫，千分之一
 milliliter		millilitre		毫升
 millimeter		millimeter		毫米
 minut			minute			分钟
@@ -1828,12 +1828,12 @@ nämnare			denominator		分母
 närmevärde		approximate value	近似值
 
 omkrets			perimeter		周长
-origo			origo			原数
+origo			origin			原点
 
 parallella linjer	parallel lines		平行线
 parallellogram		parallelogram		平行四边形
 pi (π)			pi (π)			圆周率（π）
-platsvärde		place value		位值
+platsvärde		place value		位置值
 polygon			polygon			多边形
 position		position		位置
 prefix			prefix			前缀
@@ -1848,33 +1848,33 @@ sekund			second			秒
 skala			scale			比例
 skottår			leap year		闰年
 spetsig vinkel		acute angle		锐角
-stapeldiagram		bar chart		条形图
-stolpdiagram		bar chart		条形图
+stapeldiagram		bar chart？		柱状图？
+stolpdiagram		bar chart		柱状图
 sträcka			distance		距离
 subtraktion		subtraction		减法
 summa			sum			和
 sågtandslinje		sawtooth line		锯齿线
 
-tallinje		number line		数线
+tallinje		number line		数轴
 term			term			项
 timme			hour			小时
 ton			ton			吨
 triangel		triangle		三角形
 trubbig vinkel		obtuse angle		钝角
-typvärde		type value		类型值
-täljare			numerator		分母
+typvärde		Mode 			众数
+täljare			numerator		分子
 
 vecka			week			周
 vikt			weight			重量
 vinkel			angle			角度
-vinkelben		angle leg		角度脚
-vinkelspets		angle tip		角尖
+vinkelben		angle leg		边
+vinkelspets		angle tip		顶点
 volym			volume			体积
-vridning		torsion			扭力
-växla ner		gear down		齿轮下降
-växla upp		gear up			齿轮上升
+vridning		turn			旋转
+växla ner		borrow			借位
+växla upp		carry			进位
 
 x-axel			x-axis			x 轴
 y-axel			y-axis			Y 轴
 år			year			年份
-överslagsräkning	extrapolation		外推法
+överslagsräkning	rough counting		估算
