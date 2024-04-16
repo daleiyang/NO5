@@ -1,171 +1,361 @@
 P 1
 
 Kemi och miljö. Förklara begreppen och ge ett exempel.
+Chemistry and environment. Explain the concepts and give an example.
+化学与环境。 解释这些概念并举例说明。
 
 Grundämne. Exempel. Kemisk förening. Lösning.
+Element. Example. Chemical compound. Solution.
+元素。 举例。 化合物。 解决方案。
 
 Vad händer med en järnspik som ligger utomhus?
+What happens to an iron nail left outside?
+铁钉放在外面会怎么样？
 
 Kryssa för det påstående som stämmer. Rost är.
+Check the statement that is correct. Rust is.
+在正确的选项上打勾。铁锈是
 
 ett grundämne. en kemisk reaktion. en blandning.
+an element. a chemical reaction. a mixture.
+一种元素； 一种化学反应； 一种混合物。
 
 Man mäter kemisk surhet i pH. Sådant som är neutralt har pH-värde 7.
+Chemical acidity is measured in pH. A neutral substance has a pH of 7.
+化学酸性用 pH 值来衡量，中性物质的 pH 值为 7。
 
 Vilka pH-värden har sura ämnen? Vad kallas de ämnen som inte är sura?
+What are the pH values of acidic substances? What are the substances that are not acidic called?
+酸性物质的 pH 值是多少？不呈酸性的物质叫什么？
 
 Ge exempel på en kemisk reaktion.
+Give an example of a chemical reaction.
+举例说明化学反应。
 
 Välj tre av begreppen och förklara dem.
+Choose three of the terms and explain them.
+选择三个术语并加以解释。
 
 atom, kondensera, konservera, legering, lösning, återvinna, termoplast.
+atom, condense, preserve, alloy, solution, recycle, thermoplastic.
+原子、凝结、保存、合金、溶液、回收、热塑性塑料。
 
 Dra streck mellan orden och rätt förklaring.
+Draw a line between the words and the correct explanation.
+在词语和正确解释之间画一条线。
 
 Kemist. När ämnen sätts ihop och bildar andra ämnen.
+Chemist. When substances are put together to form other substances.
+化学家。 当物质放在一起形成其他物质时。
 
 Alkemist. De som studerar och forskar om olika ämnen.
+Alchemist. Those who study and research different substances.
+炼金术士。 研究不同物质的人。
 
 Kemisk reaktion. Ämnen som finns tillsammans utan att bilda nytt ämne.
+Chemical reaction. Substances that exist together without forming a new substance.
+化学反应。 共同存在而不形成新物质的物质。
 
 Blandning. De som förr försökte förstå sig på olika ämnen.
+Mixture. Those who used to try to understand different substances.
+混合物。 试图了解不同物质的人。
 
 Varför konserverar man mat?
+Why do we preserve food?
+我们为什么要保存食物？
 
 P 2
 
 Vad borde man gjort med avfallet istället för att slänga det i soppåsen?
+What should have been done with the waste instead of throwing it in the bin?
+应该如何处理这些垃圾而不是扔进垃圾桶？
 
 Varför är det bra att sortera avfall?
+Why is it good to sort waste?
+为什么垃圾分类有好处？
 
 Varför blir sockerkakan platt om man inte har bakpulver?
+Why does the sponge cake go flat without baking powder?
+为什么没有发酵粉的海绵蛋糕会变平？
 
 Hur kan man skydda föremål från att rosta?
+How can you protect objects from rusting?
+如何保护物体不生锈？
 
 Varför tror du att det är viktigt att det finns bra rostskydd?
+Why do you think it is important to have good rust protection?
+为什么说做好防锈很重要？
 
 Varför är plast är ett så vanligt material idag? Förklara!
+Why is plastic such a common material today? Explain!
+为什么塑料是当今如此常见的材料？解释一下！
 
 Hur kan natur som ligger långt bort från en stad och från jordbruksmark ändå påverkas av människans utsläpp?
+How can nature that is far away from a city and from agricultural land still be affected by human emissions?
+远离城市和农田的大自然如何仍然受到人类排放物的影响？
 
 Ge exempel på en kemiupptäckt som du tycker har lett till att vi har ett lite lättare och bättre liv. 
+Give an example of a chemical discovery that you think has made our lives a little easier and better. 
+举例说明你认为使我们的生活变得更轻松、更美好的化学发现。
 
 Förklara också varför du tycker det.
+Also explain why you think so.
+并解释为什么你这么认为。
 
 P 3
 
 Facit till Diagnos 1.
+Facts for Diagnosis 1.
+诊断事实 1.
 
 Grundämne: ett ämne som består av samma slags atomer.
+Element: a substance made up of the same kind of atoms.
+元素：由同类原子构成的物质。
 
 Exempel: silver, guld, järn, koppar, tenn, kol, syre, väte.
+Examples: silver, gold, iron, copper, tin, carbon, oxygen, hydrogen.
+例如：银、金、铁、铜、锡、碳、氧、氢。
 
 Kemisk förening: olika grundämnen som sitter ihop.
+Chemical compound: different elements stuck together.
+化合物：不同的元素粘在一起。
 
 Exempel: koldioxid, vatten. Lösning: Ett ämne löser sig i ett annat.
+Examples: carbon dioxide, water. Solution: one substance dissolves in another.
+例如：二氧化碳、水。溶液：一种物质溶解在另一种物质中。
 
 Exempel: saltvatten, sockervatten.
+Examples: salt water, sugar water.
+例如：盐水、糖水。
 
 Den rostar. Fukt i luften och andra ämnen kan påskynda det.
+It rusts. Moisture in the air and other substances can accelerate it.
+生锈。空气中的水分和其他物质会加速生锈。
 
 En kemisk reaktion. pH värde från 7 till O. baser/basiska ämnen.
+A chemical reaction. pH value from 7 to O. bases/basic substances.
+pH 值从 7 到 O，碱/基本物质。
 
 När järn rostar. När ämnen i bakpulver värms upp och bildar koldioxid så att sockerkakan blir fluffig. 
+When iron rusts. When substances in baking powder heat up and form carbon dioxide to make the cake fluffy. 
+铁生锈时。发酵粉中的物质受热形成二氧化碳，使蛋糕蓬松。
 
 När höstlöven ändrar färg då den gröna färgen bryts ner. 
+When autumn leaves change color as the green color breaks down. 
+当秋叶的绿色分解而变色时。
 
 Växternas fotosyntes. Vid all förbrännig.
+Plant photosynthesis. During all combustion.
+植物的光合作用。在所有燃烧过程中。
 
 Atom: Allt är uppbyggt av små delar som kallas för atomer.
+Atom: Everything is made up of small parts called atoms.
+原子：万物都是由称为原子的小部件组成的。
 
 Kondensera: När ett ämne övergår från gas till flytande.
+Condensation: When a substance changes from a gas to a liquid.
+凝结：物质从气体变成液体。
 
 Konservera: Knep för att lagra maten längre tid utan att den förstörs, t.ex. salta, torka, röka eller tillsätta syror.
+Preserving: Tricks to keep food longer without spoiling it, such as salting, drying, smoking or adding acids.
+保存：使食物保存更长时间而不变质的技巧，如加盐、烘干、熏制或加酸。
 
 Legering: Bildas när man blandar metaller för att få fram andra egenskaper. 
+Alloy: formed when metals are mixed together to obtain different properties. 
+合金：金属混合以获得不同特性时形成的合金。
 
 Det kan vara för att få ett starkare material som när järn och kol blir stål. 
+It can be to make a stronger material, such as when iron and carbon become steel. 
+这可能是为了制造更坚固的材料，如铁和碳变成钢。
 
 Eller koppar och zink som blir mässsing, som leder ljud bättre och används till att göra instrument.
+Or copper and zinc become brass, which conducts sound better and is used to make instruments.
+或者铜和锌变成黄铜，黄铜的传导性更好，可用于制造乐器。
 
 Lösning: en blandning där man inte kan se de olika delarna.
+Solution: a mixture where you can't see the different parts.
+溶液：看不到不同部分的混合物。
 
 Återvinna: att använda något igen, som att smälta ner en aluminiumburk och göra nya saker.
+Recycle: to use something again, like melting down an aluminum can and making new things.
+回收：再次使用某样东西，比如把铝罐熔化后制造新的东西。
 
 Termoplast: plast som går att smälta ner och forma om.
+Thermoplastic: plastic that can be melted down and reshaped.
+热塑性塑料：可以熔化并重新塑形的塑料。
 
 Kemist: De som studerar och forskar om olika ämnen.
+Chemist: those who study and research different substances.
+化学家：研究不同物质的人。
 
 Alkemist: De som förr försökte förstå sig på olika ämnen.
+Alchemist: those who used to try to understand different substances.
+炼金术士：曾经试图了解不同物质的人。
 
 Kemisk reaktion: När ämnen sätts ihop och bildar andra ämnen.
+Chemical reaction: When substances come together to form other substances.
+化学反应：当物质聚集在一起形成其他物质时。
 
 Blandning: Ämnen som finns tillsammans utan att bilda nytt ämne.
+Mixture: Substances that exist together without forming a new substance.
+混合物：一起存在而不形成新物质的物质。
 
 För att kunna lagra maten längre. 
+To be able to store food for longer. 
+能够更长久地储存食物。
 
 Det kan vara för att kunna transportera mat eller kunna spara mat för att äta senare på året när man inte kan odla.
+It could be to transport food or to save food to eat later in the year when you can't grow it.
+这可能是为了运输食物，也可能是为了保存食物，以便在一年中无法种植时食用。
 
 Fundera. I uppgift 8-13 kan eleverna visa att de förstår och kan använda kemiska begrepp. 
+Thinking. In tasks 8-13, students can show that they understand and can use chemical concepts. 
+思考。在任务 8-13 中，学生可以证明他们理解并能够使用化学概念。
 
-De kan visa om de kan argumentera och ta ställning i frågor som rör en hållbar utveckling och diskutera kring hur miljön påverkas av människans resursbehov. 
+De kan visa om de kan argumentera och ta ställning i frågor som rör en hållbar utveckling 
+They can show whether they can argue and take a position on issues related to sustainable development  
+他们可以证明自己是否能够就与可持续发展有关的问题进行争论并采取立场，
 
-De kan visa att de förstår att upptäckter inom kemi har gjort att vi fått ett lättare och bättre liv, men att naturlagen ”ingenting försvinner, allt finns kvar” innebär att ämnen vi släpper ut inte försvinner utan finns kvar i andra föreningar och påverkar omgivningen på olika sätt.
+och diskutera kring hur miljön påverkas av människans resursbehov. 
+and discuss how the environment is affected by human needs for resources.
+讨论人类对资源的需求如何影响环境。
+
+De kan visa att de förstår att upptäckter inom kemi har gjort att vi fått ett lättare och bättre liv, 
+They can show that they understand that discoveries in chemistry have given us an easier and better life, 
+他们可以表明，他们理解化学发现给我们带来了更便捷、更美好的生活，
+
+men att naturlagen ”ingenting försvinner, allt finns kvar” innebär att ämnen vi släpper ut inte försvinner 
+but that the natural law "nothing disappears, everything remains" means that substances we emit do not disappear
+但 "无物消失，万物留存 "的自然法则意味着我们排放的物质不会消失
+
+utan finns kvar i andra föreningar och påverkar omgivningen på olika sätt.
+but remain in other compounds and affect the environment in different ways.
+，而是会残留在其他化合物中，并以不同的方式影响环境。
 
 Sorterat och lämnat in det så att det kan återvinnas igen.
+Sorted and returned it so it can be recycled again.
+分类并上交，以便再次回收。
 
 Batteriet i batteriholk, äppelskruttet i kompost, aluminiumburken i metallåtervinningen och tidningen till pappersåtervinning.
+The battery in the battery holder, the apple core in the compost, the aluminum can in the metal recycling and the newspaper in the paper recycling.
+电池放在电池盒里，苹果核放在堆肥里，铝罐放在金属回收处，报纸放在纸张回收处。
 
 Argument för avfallssortering kan vara: Minska utvinningen av jordens resurser (gruvor, dagbrott, skövling etc.).
+Arguments in favor of waste sorting can be: Reduce the extraction of the earth's resources (mines, quarries, deforestation, etc.).
+支持垃圾分类的理由有：减少对地球资源的开采（矿山、露天采矿、森林砍伐等）
 
 Jordens resurser är inte oändliga utan kan ta slut. 
+The earth's resources are not infinite and may run out. 
+地球资源不是无限的，可能会枯竭
 
 Naturen på platser där det finns brott och gruvor påverkas. 
+Nature in places where there are quarries and mines is affected. 
+在有采石场和矿山的地方，自然会受到影响。
 
 Det går åt mindre energi att återanvända en produkt eller återvinna material jämfört med att ta fram nytt material och tillverka en ny produkt. 
+It takes less energy to reuse a product or recycle materials than to produce new materials and manufacture a new product. 
+与生产新材料和制造新产品相比，重复使用产品或回收材料所需的能源更少。
 
 Vissa produkter innehåller farliga ämnen som gör skada om de kommer ut i miljön. 
+Some products contain hazardous substances that cause harm if released into the environment. 
+有些产品含有有害物质，如果释放到环境中会造成危害。
 
-Avfall som samlas in och inte kan återvinnas som material kan istället återvinnas som energi genom att förbrännas och blir värme och el.
+Avfall som samlas in och inte kan återvinnas som material 
+Waste that is collected and cannot be recycled as material 
+收集到的废物如果不能作为材料回收利用
+
+kan istället återvinnas som energi genom att förbrännas och blir värme och el.
+can instead be recovered as energy by burning it to produce heat and electricity.
+，可以通过燃烧产生热量和电能作为能源回收利用。
 
 I bakpulvret finns ämnen som i värmen av ugnen omvandlas till koldioxid. 
+The baking powder contains substances that are converted to carbon dioxide in the heat of the oven. 
+发酵粉中含有的物质在烤箱的热量作用下会转化为二氧化碳。
 
 Det är en kemisk reaktion. 
+This is a chemical reaction. 
+这是一种化学反应。
 
 Bubblorna eller lufthålen i kakan innehåller koldioxid och gör att kakan ”växer”.
+The bubbles or air holes in the cake contain carbon dioxide and make the cake "grow".
+蛋糕中的气泡或气孔含有二氧化碳，使蛋糕 "长大"。
 
 Man kan måla, smörja med olja eller täcka ytan med annan metall som inte rostar lika lätt.
+You can paint, lubricate with oil or cover the surface with another metal that does not rust as easily.
+您可以在表面喷漆、涂油或用其他不易生锈的金属覆盖。
 
 Det är kostsamt att material rostar. Det kräver att man underhåller, lagar eller byter ut.
+The rusting of materials is costly. It requires maintenance, repair or replacement.
+材料生锈代价高昂。它需要维护、修理或更换。
 
 Rost kan orsaka skador så att t.ex. vatten läcker in.
+Rust can cause damage such as water leakage.
+生锈会造成损坏，如漏水。
 
 Plast kan ha många olika egenskaper och är därför mycket användbart. 
+Plastic can have many different properties and is therefore very useful. 
+塑料有许多不同的特性，因此非常有用。
 
 Den går att forma och tillsätta olika ämnen för att få fram olika egenskaper. 
+It can be shaped and different substances can be added to achieve different properties. 
+它可以模塑，可以添加不同的物质来实现不同的特性。
 
 Plast är dessutom en bra isolator eftersom den inte leder elektricitet eller värme. 
+Plastic is also a good insulator as it does not conduct electricity or heat. 
+塑料还具有良好的绝缘性，因为它不会导电或导热。
 
-Plast kan vara mjukt och genomskinligt som termoplast, men också hårt och slitstarkt som härdplast. 
+Plast kan vara mjukt och genomskinligt som termoplast, 
+Plastics can be soft and transparent like thermoplastics, 
+塑料可以像热塑性塑料一样柔软透明，
 
-Plast finns i våra hem, i t.ex. köksredskap och datorskärmar, och används inom industri, sjukvård och fordonstillverkning.
+men också hårt och slitstarkt som härdplast. 
+but also hard and durable like thermosets. 
+也可以像热固性塑料一样坚硬耐用。
+
+Plast finns i våra hem, i t.ex. köksredskap och datorskärmar, 
+Plastics are found in our homes, such as kitchen utensils and computer screens,
+塑料在我们的家中随处可见，如厨房用具和电脑屏幕，
+
+och används inom industri, sjukvård och fordonstillverkning.
+and are used in industry, healthcare and vehicle manufacturing.
+也可用于工业、医疗保健和汽车制造。
 
 Utsläpp från staden kan vara avgaser från industrier och bilar (eldning av fossila bränslen).
+Emissions from the city can be exhaust gases from industries and cars (burning fossil fuels).
+城市的排放物可能是工业和汽车（燃烧化石燃料）产生的废气。
 
 När de gaserna stiger upp i luften kan de lösas i vatten. 
+When these gases rise into the air, they can dissolve in water. 
+当这些气体上升到空气中时，会溶于水。
 
 Då bildas svavelsyra och salpetersyra (starka syror) i regnet. 
+This forms sulphuric and nitric acid (strong acids) in the rain. 
+这就在雨中形成了硫酸和硝酸（强酸）。
 
 De försurade regnmolnen kan färdas långt bort innan de regnar ner. 
+The acidified rain clouds can travel far away before they rain down. 
+酸化的雨云在降雨前会飘到很远的地方。
 
 På åkermarkerna kan marken gödslas och besprutas. 
+In arable fields, the soil can be fertilized and sprayed. 
+在耕地中，土壤可以施肥和喷洒农药。
 
 De ämnena kan rinna ner i marken och ut i diken och vidare. 
+These substances can run off into the soil and into ditches and beyond. 
+这些物质会流入土壤、沟渠和其他地方。
 
 Att man dikar ut marken kan även påverka hur mycket vatten det finns i markerna runt omkring.
+Draining the land can also affect the amount of water in the surrounding land.
+土地排水也会影响周围土地的水量。
 
 Om skog skövlats för att göra åkermarker kan det ha påverkat naturen.
+If forests have been cleared to make arable land, this may have affected nature.
+如果为了开垦耕地而砍伐森林，可能会对自然造成影响。
 
 Här bör svaret visa förståelse för att kunskaper inom kemi kan leda till att levnadsvillkoren blir bättre. 
+Here the answer should show an understanding that knowledge of chemistry can lead to better living conditions. 
+在这里，答案应说明学生了解化学知识可以改善生活条件。
 
 Förklaringen kan göras med exempel på hur det varit utan upptäckten eller innan den gjordes.
+The explanation can be made with examples of what it would have been like without the discovery or before it was made.
+可以举例说明如果没有化学发现或在化学发现之前，生活会是什么样子。
