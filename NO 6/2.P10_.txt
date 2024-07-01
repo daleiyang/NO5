@@ -92,6 +92,7 @@ Midnattssol fotograferad under flera timmar. Solen är ovanför horisonten under
 Midnight sun photographed over several hours. The sun is above the horizon throughout the day.
 午夜太阳拍摄了几个小时。太阳全天都在地平线以上。
 
+
 P 011
 
 Årstider
@@ -145,6 +146,7 @@ For a period of time, the sun does not reach above the horizon even in the middl
 Att det är mörkt hela dygnet kallas midvintermörker.
 This 24-hour darkness is called midwinter darkness.
 这种 24 小时的黑暗被称为仲冬黑暗。
+
 
 P 012
 
@@ -206,6 +208,7 @@ The sun gives off heat and light, but it also throws out charged particles.
 Det kallas för solstormar, solvindar och soleruption.
 These are called solar storms, solar winds and solar flares.
 这些粒子被称为太阳风暴、太阳风和太阳耀斑。
+
 
 P 013
 
@@ -308,3 +311,264 @@ Therefore, the temperature changes a lot between night and day, from -150"C to +
 Månens faser. Nymånen. Halvmånene i kommande. fullmåne. Halvmåne i avtagande. Nedan.
 The phases of the moon. The new moon. Crescent moons in waxing. full moon. Crescent moon in waning. descending.
 月相.  新月. 满月。新月。下图
+
+
+P 014
+
+Planeter
+Planets
+行星
+
+Både på morgonen och på kvällen syns ibland en stark ljuspunkt på himlen, som en stjärna. 
+Both in the morning and in the evening, a bright point of light is sometimes visible in the sky, like a star. 
+无论清晨还是傍晚，天空中有时都会出现一个明亮的光点，就像一颗星星。
+
+Den kallas för morgonstjärnan eller aftonstjärnan. Men det är ingen stjärna vi ser, utan planeten Venus. 
+It is called the morning star or the evening star. But it's not a star we see, but the planet Venus. 
+它被称为晨星或晚星。但我们看到的不是星星，而是金星。
+
+Det är den planet som ligger närmast jorden.
+It is the closest planet to Earth.
+它是离地球最近的行星。
+
+Planeter är himlakroppar som roterar runt en stjärna. 
+Planets are celestial bodies that rotate around a star. 
+行星是围绕恒星旋转的天体。
+
+Solen är den stjärna som vår egen planet, jorden, rör sig runt. 
+The Sun is the star around which our own planet, Earth, moves. 
+太阳就是我们的行星地球所围绕的恒星。
+
+Vissa planeter kan vi se på natthimlen utan stjärnkikare. 
+We can see some planets in the night sky without binoculars.
+我们不用望远镜就能在夜空中看到一些行星。
+
+Vi upplever det som att de lyser, men de kan inte lysa av sig själva. 
+We perceive them as shining, but they cannot shine by themselves. 
+我们觉得它们在发光，但它们本身并不能发光。
+
+Att de syns och ser ut att lysa beror på att de reflekterar solens strålar, precis som månen gör.
+They are visible and appear to glow because they reflect the sun's rays, just like the moon does.
+它们之所以能被看到并发出光芒，是因为它们能反射太阳光，就像月亮一样。
+
+Mars kallas den röda planeten.Det är järnoxid (rost) som ger den rödaktiga färgen. 
+Mars is called the red planet, and it is iron oxide (rust) that gives it its reddish color. 
+火星被称为红色行星，它的红色是由氧化铁（铁锈）形成的。
+
+De inre små planeterna
+The inner small planets
+内部小行星
+
+Jorden är en av åtta planeter i vårt solsystem. 
+Earth is one of eight planets in our solar system. 
+地球是太阳系中的八大行星之一。
+
+Flera av planeterna har månar som roterar runt dem, precis som jorden. 
+Several of the planets have moons that rotate around them, just like Earth. 
+其中有几颗行星有卫星围绕它们旋转，就像地球一样。
+
+Närmast solen shurrar den minsta planeten, Merkurius. 
+Closest to the Sun is the smallest planet, Mercury. 
+离太阳最近的是最小的行星--水星。
+
+Utanför den finns Venus och jorden, därefter Mars. 
+Beyond it are Venus and Earth, then Mars. 
+在它之外是金星和地球，然后是火星。
+
+Dessa fyra planeter har flera likheter: de är ungefär lika stora, de består av sten och metall och de har en fast yta som man kan gå på. 
+These four planets have several similarities: they are about the same size, they are made of rock and metal, and they have a solid surface that you can walk on. 
+这四颗行星有几个相似之处：大小差不多，由岩石和金属构成，表面坚固，可以在上面行走。
+
+Mars är den planet som är mest lik jorden.
+Mars is the planet that is most similar to Earth.
+火星是与地球最相似的行星。
+
+Där finns till exempel områden med isar.
+For example, it has areas of ice.
+例如，它有冰的区域。
+
+MERKURIUS. VENUS. JORDEN. MARS. JUPITER. SATURNUS. URANUS NEPTUNUS
+MERCURY. VENUS. EARTH. MARS. JUPITER. SATURN. URANUS NEPTUNE
+火星 金星 土星 火星 土星 土星 天王星 海王星
+
+Avstånd till solen.  Omloppstid, år. Storlek. Massa. Antal månar
+Distance to the sun.  Orbital period, years. Size of the planet. mass Number of moons
+到太阳的距离  轨道周期（年 行星的大小 卫星质量 卫星数量
+
+i förhållande till jorden. Antal månar ändras när nya upptäcks.
+in relation to the Earth. Number of moons changes when new ones are discovered.
+与地球的关系。发现新卫星时，卫星数量会发生变化。
+
+
+P 015
+De yttre stora planeterna
+The outer major planets
+外围大行星
+
+Utanför Mars kretsar jätteplaneterna Jupiter, Saturnus, Uranus och Neptunus. 
+Outside Mars, the giant planets Jupiter, Saturn, Uranus and Neptune orbit.
+在火星之外，还有木星、土星、天王星和海王星等大行星环绕运行。
+
+Alla är stora gasklot. De har ingen fast yta, men troligen har de en fast kärna i mitten. 
+All are large balls of gas. They have no solid surface, but they probably have a solid core in the middle. 
+它们都是由气体组成的大球。它们没有固体表面，但中心可能有一个固体核心。
+
+Planeten Jupiter har nästan 80 månar i olika storlekar. Runt planeten Saturnus kan man se flera ringar -
+The planet Jupiter has almost 80 moons of different sizes. Around the planet Saturn you can see several rings -
+木星有近 80 颗大小不一的卫星。在土星周围，你可以看到几个星环--
+
+det är is, grus och stenblock som snurrar runt planeten.
+ice, gravel and boulders spinning around the planet.
+冰环、砾石环和巨石环。
+
+Asteroider
+Asteroids
+小行星
+
+Runt solen kretsar också mängder av stenblock i olika storlekar. De kallas för asteroider. 
+There are also lots of boulders of different sizes orbiting the Sun. They are called asteroids. 
+还有许多大小不一的巨石围绕着太阳运行。它们被称为小行星。
+
+Mellan planeterna Mars och Jupiter finns ett område med särskilt mycket asteroider, ett så kallat asteroidbälte.
+Between the planets Mars and Jupiter is an area with a particularly large number of asteroids, known as the asteroid belt.
+在火星和木星之间有一个小行星特别多的区域，被称为小行星带。
+
+Förr i tiden trodde man att asteroiderna var rester av en planet som exploderat, men nu är man ganska säker på att de aldrig har suttit ihop. 
+In the past, asteroids were thought to be the remnants of an exploded planet, but now we are fairly sure that they were never together. 
+过去，人们认为小行星是行星爆炸后的残余物，但现在我们可以肯定，它们从来就没有在一起过。
+
+Ibland kan asteroider komma i närheten av jordens bana och till och med träffa jorden. 
+Sometimes asteroids can come close to the Earth's orbit and even hit the Earth. 
+有时，小行星会接近地球轨道，甚至撞击地球。
+
+Sjön Siljan i Dalarna är faktiskt en vattenfylld krater från ett asteroidnedslag för 400 miljoner år sedan.
+Lake Siljan in Dalarna is actually a water-filled crater from an asteroid impact 400 million years ago.
+达拉纳的西尔扬湖实际上是 4 亿年前小行星撞击地球后形成的一个充满水的陨石坑。
+
+Saturnus är en stor gasplanet. Ringarna runt planeten är is och sten som roterar runt den.
+Saturn is a large gas planet. The rings around the planet are ice and rock rotating around it.
+土星是一颗大型气体行星。行星周围的星环是围绕它旋转的冰和岩石。
+
+För över 50 000 år sedan slog en asteroid ner på jorden i Arizona, USA.
+More than 50 000 years ago, an asteroid hit the Earth in Arizona, USA.
+5 万多年前，一颗小行星撞击了位于美国亚利桑那州的地球。
+
+Kratern som bildades har en diameter på 1,3 kilometer och är cirka 108 meter djup.
+The crater that formed has a diameter of 1.3 kilometers and is about 108 meters deep.
+形成的陨石坑直径为 1.3 公里，深约 108 米。
+
+
+P 016
+
+Kometer
+Comets
+彗星
+
+En komet är ett stort klot av is och sten som ofta rör sig i en avlång bana runt solen. 
+A comet is a large ball of ice and rock that often moves in an oblong orbit around the Sun. 
+彗星是由冰和岩石组成的大球，通常以长圆形轨道围绕太阳运行。
+
+När kometen är nära solen förångas isen. Ångan syns då som ett vitt suddigt hölje, som en svans på kometen. 
+When the comet is close to the Sun, the ice evaporates. The steam is then visible as a white blurry envelope, like a tail on the comet. 
+当彗星接近太阳时，冰会蒸发。蒸发后的彗星会呈现出白色的模糊包膜，就像彗尾一样。
+
+Varje komet döps efter sin upptäckare och 1996 fick vi för första gången en komet uppkallad efter en svensk - Lagerkvists komet.
+Each comet is named after its discoverer and in 1996, for the first time, we had a comet named after a Swede - Lagerkvist's comet.
+每颗彗星都以发现者的名字命名，1996 年，我们迎来了第一颗以瑞典人名字命名的彗星--拉格奎斯特彗星。
+
+Eftersom kometer rör sig runt solen blir de synliga från jorden flera gånger. 
+Because comets move around the Sun, they are visible from Earth several times. 
+由于彗星围绕太阳运动，从地球上可以多次看到它们。
+
+Det kan gå väldigt lång tid emellan, men man kan räkna ut när det ska ske. 
+There can be a very long time between them, but you can calculate when it will happen. 
+它们之间的间隔时间可能很长，但你可以计算出彗星出现的时间。
+
+Den mest kända kometen, Halleys komet, sågs senast år 1986. Nästa gång den kommer att bli synlig är 2061.
+The most famous comet, Halley's Comet, was last seen in 1986. The next time it will be visible is in 2061.
+最有名的彗星哈雷彗星最后一次出现是在 1986 年。下一次看到它是在 2061 年。
+
+Kometen Hale-Bopp kunde ses från jorden under 18 månader 1996-97.
+Comet Hale-Bopp was visible from Earth for 18 months in 1996-97.
+1996-97 年，从地球上可以看到海尔-波普彗星长达 18 个月。
+
+En komet rundar solen.
+A comet orbiting the Sun.
+绕太阳运行的彗星
+
+Meteorer och meteoriter
+Meteors and meteorites
+流星和陨石
+
+Ibland tror vi oss se stjärnfall — att en liten stjärna faller nedåt på himlen. 
+Sometimes we think we see shooting stars - a small star falling down in the sky. 
+有时我们会以为自己看到了流星--一颗小星星在天空中向下坠落。
+
+Men det vi ser är inte stjärnor, det är rymdstenar som brinner upp när de faller genom jordens atmosfär. 
+But what we see are not stars, they are space rocks that burn up as they fall through the Earth's atmosphere. 
+但我们看到的并不是星星，而是在穿过地球大气层时燃烧起来的太空岩石。
+
+Det kan till exempel vara rester av en asteroid som krockat och slagits sönder. 
+For example, they could be the remains of an asteroid that has crashed and broken up. 
+例如，它们可能是小行星碰撞后碎裂的残骸。
+
+Sådana rymdstenar kallas för meteorer. Meteorerna har en enorm hastighet men när de närmar sig jorden bromsas de in av atmosfären. 
+Such space rocks are called meteors. Meteors have tremendous speed, but as they approach Earth they are slowed down by the atmosphere. 
+这种太空岩石被称为流星。流星速度极快，但在接近地球时会被大气层减速。
+
+Då hettas de upp och börjar brinna, precis som en tändsticka gör ni drar den mot askens plån. 
+They then heat up and start to burn, just as a match does when you strike it against the ash. 
+然后，它们会升温并开始燃烧，就像火柴碰到灰烬一样。
+
+Meteorer är särskilt vanliga under höster och vintern. Då kommer de ofta i skurar, meteorskurar, ibland flera i minuten. 
+Meteors are particularly common in the fall and winter. They often come in showers, meteor showers, sometimes several a minute. 
+流星在秋冬季节特别常见。流星常常以流星雨的形式出现，有时一分钟就有好几颗。
+
+Stora meteorer hinner inte alltid brinna upp i luften, utan träffar jordens yta. Då kallas de för meteoriter.
+Large meteors don't always have time to burn up in the air, but hit the Earth's surface. They are then called meteorites.
+大型流星并不总是有时间在空中燃烧，而是会撞击地球表面。它们被称为陨石。
+
+
+P 017
+
+Galaxer
+Galaxies
+星系
+
+I universum finns många galaxer i olika former. I varje galax finns miljarder stjärnor och solsystem. 
+The Universe contains many galaxies of different shapes. Each galaxy contains billions of stars and solar systems. 
+宇宙由许多形状各异的星系组成，每个星系都包含数十亿颗恒星和太阳系。
+
+Vårt solsystem ligger i ytterkanten på galaxen Vintergatan. 
+Our solar system is located at the outer edge of the Milky Way galaxy. 
+我们的太阳系位于银河系的外缘。
+
+Ibland kan man se som ett vitt band på himlen med stjärnor som lyser starkare. 
+Sometimes you can see a white band in the sky with stars shining brighter. 
+有时，你会看到天空中有一条白色的带子，上面的星星更加闪亮。
+
+Det man ser då är mitten på vår galax, Vintergatan. 
+What you see then is the center of our galaxy, the Milky Way. 
+这就是银河系的中心。
+
+Det engelska namnet på Vintergatan är the Milky Way, ”mjölkvägen”.
+The Milky Way is the English name for the Milky Way.
+银河是银河系的英文名称。
+
+Stjärnor
+恒星
+
+En stjärna är ett lysande klot av het gas, bland annat väte och helium. 
+A star is a luminous ball of hot gas, including hydrogen and helium. 
+恒星是由氢和氦等炽热气体组成的发光球体。
+
+I stjärnans mitt slås väte ihop till helium och då frigörs energi.
+At the center of the star, hydrogen is combined into helium, releasing energy.
+在恒星的中心，氢结合成氦，释放出能量。
+
+Den processen kallas fusion och är det som skapar solens och alla andra stjärnors energi.
+This process is called fusion and is what creates the energy of the Sun and all other stars.
+这个过程叫做核聚变，是太阳和其他所有恒星的能量来源。
+
+Här bor vi! Vintergatan.
+这就是我们生活的地方！银河系
