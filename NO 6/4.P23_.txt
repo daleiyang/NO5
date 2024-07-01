@@ -1,0 +1,202 @@
+P 023
+
+Fundera? När använde du senast information från en satellit?
+Think about it. When did you last use information from a satellite?
+想一想吧。你上一次使用来自卫星的信息是什么时候？
+
+Studera jorden och rymden
+Studying Earth and space
+研究地球和太空
+
+En satellit skickas ofta upp med en bestämd uppgift.
+A satellite is often sent up with a specific task. 
+卫星通常会被送上天执行特定任务。
+ 
+En del satelliter tar bilder av jorden som man sedan studerar och analyserar för att få kunskap om jorden. 
+Some satellites take pictures of the Earth, which are then studied and analyzed to learn about the Earth. 
+有些卫星会拍摄地球照片，然后对照片进行研究和分析，从而了解地球。
+
+På bilderna kan man se detaljer, som gator och hus. 
+The images can show details, such as streets and houses. 
+图像可以显示街道和房屋等细节。
+
+Man kan jämföra bilder för att följa förändringar i naturen, som till exempel smältande glaciärer eller skogar som avverkas.
+Images can be compared to track changes in nature, such as melting glaciers or deforestation.
+通过对比图像可以追踪自然界的变化，如冰川融化或森林砍伐。
+
+En del satelliter används för att spana på andra länder i militärt syfte.
+Some satellites are used to spy on other countries for military purposes. 
+有些卫星用于出于军事目的监视其他国家。
+ 
+Andra används för att titta ännu längre ut i rymden. 
+Others are used to look even further into space. 
+其他卫星则用于观察更远的太空。
+
+På dem finns stora teleskop som kan fotografera avlägsna galaxer. 
+They carry large telescopes that can photograph distant galaxies. 
+它们携带的大型望远镜可以拍摄到遥远的星系。
+
+Det är bättre än att titta genom teleskop från jorden, eftersom moln och annat i atmosfären gör det svårt att se långt.
+This is better than looking through telescopes from Earth, as clouds and other atmospheric conditions make it difficult to see far.
+
+Vädersatelliter
+Weather satellites
+气象卫星
+
+Med satelliter kan man också studera väder. Man kan se hur molnen rör sig och hur högt upp de befinner sig. 
+Satellites can also be used to study weather. You can see how clouds move and how high up they are. 
+卫星还可以用来研究天气。你可以看到云是如何移动的，以及它们有多高。
+
+Man kan också mäta hur fuktig och kall atmosfären är. 
+They can also measure how humid and cold the atmosphere is. 
+它们还可以测量大气层的湿度和冷度。
+
+Alla bilder och all information som satelliterna skickar ner studeras noga av meteorologer, specialister på väder. 
+All the images and information sent down by the satellites are carefully studied by meteorologists, specialists in weather. 
+气象专家会仔细研究卫星发送下来的所有图像和信息。
+
+Då kan de göra en prognos för vädret den närmaste tiden.
+They can then make a forecast for the weather in the near future.
+然后，他们就可以对近期的天气做出预测。
+
+Data från vädersatelliter hjälper meteorologerna att avgöra var och när oväder som stormar och orkaner kommer att dra fram. 
+Data from weather satellites helps meteorologists determine where and when storms and hurricanes will hit. 
+气象卫星提供的数据有助于气象学家确定风暴和飓风袭击的地点和时间。
+
+Sådana prognoser är värdefulla till exempel för den som ska resa på havet.
+Such forecasts are useful, for example, for people traveling by sea.
+例如，这种预报对海上旅行的人很有用。
+
+Kommunikationssatelliter
+Communication satellites
+
+Satelliter kan även användas för kommunikation. 
+Satellites can also be used for communication. 
+卫星也可用于通信。
+
+På jorden finns master och stationer som kan ta emot och skicka signaler mellan varandra. 
+On Earth, there are masts and stations that can receive and send signals between each other. 
+在地球上，有一些桅杆和站台可以相互接收和发送信号。
+
+En satellit kan då fungera som en väldigt hög mast som kan skicka signaler på större avstånd än masterna på marken. 
+A satellite can then act as a very tall mast that can send signals over greater distances than masts on the ground. 
+卫星就像一个很高的桅杆，可以比地面上的桅杆发送更远的信号。
+
+Satelliterna används för datatrafik, telefoni och för att direktsända tv. 
+Satellites are used for data traffic, telephony and live television broadcasting. 
+卫星用于数据通信、电话和电视直播。
+
+Via satelliter är det också möjligt att nå internet på platser där det saknas master och andra nätverk, till exempel ute till havs.
+Satellites also make it possible to access the internet in places where there are no masts or other networks, for example at sea.
+在没有桅杆或其他网络的地方，例如在海上，卫星也能使人们接入互联网。
+
+Idag är det mycket vanligt att ha en GPS i bilen, båten eller mobilen. 
+Today, it is very common to have a GPS in your car, boat or mobile phone. 
+如今，在汽车、船只或移动电话中安装 GPS 已经非常普遍。
+
+GPS står för Global Positioning System — globalt system för positionering, att ange en plats mycket exakt. 
+GPS stands for Global Positioning System - global system for positioning, to indicate a location very precisely. 
+GPS 是全球定位系统（Global Positioning System）的缩写，它是一种全球定位系统，可以非常精确地指示位置。
+
+Det användes allra först inom militären. En GPS tar emot signaler från flera olika satelliter samtidigt. 
+It was first used in the military. A GPS receives signals from several different satellites simultaneously. 
+它最早用于军事领域。GPS 可同时接收来自多个不同卫星的信号。
+
+Genom att kombinera signalerna kan man avgöra exakt var något befinner sig.
+By combining the signals, you can determine exactly where something is.
+将这些信号组合起来，就能确定某物的确切位置。
+
+Satellitbild av en orkan som drar in mot Floridas kust.
+Satellite image of a hurricane approaching the Florida coast.
+飓风逼近佛罗里达海岸的卫星图像。
+
+GPS är vanligt i bilar.
+GPS is common in cars.
+全球定位系统在汽车中很常见。
+
+
+P 024
+
+Upptäckter som förändrade vår världsbild
+Discoveries that changed our worldview
+改变我们世界观的发现
+
+I alla tider har människor spanat ut i världsrymden. 
+Throughout history, humans have gazed into space. 
+古往今来，人们一直在眺望太空。
+
+Månen, solen och stjärnorna väcker många fantasier, men också nyfikenhet kring vår egen plats i allt det stora. 
+The moon, the sun and the stars arouse many fantasies, but also curiosity about our own place in all that is great. 
+月亮、太阳和星星引起了人们的许多幻想，同时也让人们对我们自己在万物中的位置产生了好奇。
+
+Idag är det en självklarhet för oss att jorden är rund, att månen snurrar runt jorden, 
+Today, we take it for granted that the Earth is round, that the Moon revolves around the Earth, 
+今天，我们理所当然地认为地球是圆的，月球绕着地球转
+
+och att både jorden och månen i sin tur snurrar runt solen. 
+and that both the Earth and the Moon revolve around the Sun. 
+地球和月球都绕着太阳转。
+
+Det är lätt för oss att övertygas om allt detta tack vare avancerade instrument, både på jorden och ute i rymden. 
+It is easy for us to be convinced of all this thanks to advanced instruments, both on Earth and in space. 
+由于地球上和太空中的先进仪器，我们很容易相信这一切。
+
+Men så har det inte alltid varit.
+But this was not always the case.
+但事实并非总是如此。
+
+Geocentrisk världsbild
+Geocentric worldview
+地心世界观
+
+En världsbild kan förklaras som människors uppfattningar om jordens plats i förhållande till allt annat. 
+A worldview can be explained as people's perceptions of the place of the Earth in relation to everything else. 
+世界观可以解释为人们对地球相对于其他万物的位置的看法
+
+Genom historien har människan haft flera olika världsbilder.
+Throughout history, humans have had several different worldviews.
+纵观历史，人类有几种不同的世界观。
+
+Redan för flera tusen år sedan lade människor märke till stjärnor som rörde sig över himlen. 
+As early as several thousand years ago, people noticed stars moving across the sky. 
+早在几千年前，人们就注意到星星在天空中移动。
+
+De gamla grekerna döpte dem till vandringsstjärnor, men det de såg var egentligen solsystemets planeter. 
+The ancient Greeks called them wandering stars, but what they really saw were the planets of the solar system. 
+古希腊人称它们为游星，但实际上他们看到的是太阳系的行星。
+
+Ordet planet betyder just ”vandrare”.
+The word planet means 'wanderer'.
+行星一词的意思是 "旅行者"。
+
+Man trodde att planeterna, solen och månen snurrade runt jorden och att stjärnorna satt fast som i ett tak ovanför.
+It was believed that the planets, sun and moon revolved around the Earth and that the stars were stuck like a roof above it.
+人们认为，行星、太阳和月亮围绕着地球旋转，星星就像屋顶一样贴在它们上面。
+
+Att jorden var centrum i världsalltet trodde man ända fram till 1500-talet. 
+The Earth was believed to be the center of the universe until the 16th century. 
+直到 16 世纪，人们一直认为地球是宇宙的中心。
+
+Den här uppfattningen kalllas för en geocentrisk världsbild.
+This view is called a geocentric worldview.
+这种观点被称为地心世界观。
+
+På grekiska betyder ordet geo ”jord” och ordet centrisk betyder ”mitten”.
+In Greek, the word geo means 'earth' and the word centric means 'center'.
+在希腊语中，geo 是 "地球 "的意思，centric 是 "中心 "的意思。
+
+Bilden visar den nyfikna renässansmänniskan som försöker titta ut i världsrymden, 
+The image shows the curious Renaissance man trying to look out into space, 
+图中是好奇的文艺复兴人试图眺望太空的情景、 
+
+utanför himmelssfären där stjärnorna sitter fast. 
+beyond the celestial sphere where the stars are stuck. 
+投向恒星所在的天球之外。
+
+Han letar efter nya sätt att beskriva världen, eftersom han börjat förstå att den gamla modellen inte stämmer.
+He is looking for new ways to describe the world, because he has begun to realize that the old model does not fit.
+他正在寻找描述世界的新方法，因为他开始意识到旧的模式并不合适。
+
+Geocentrisk världsbild med jorden i centrum.
+Geocentric worldview with the Earth at the center.
+以地球为中心的地心世界观。

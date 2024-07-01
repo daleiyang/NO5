@@ -1,3 +1,5 @@
+P 018
+
 Svindlande avstånd
 Dizzying distances
 令人目眩的距离
@@ -312,3 +314,56 @@ Of a rocket's total weight, the fuel is the largest part.
 
 När bränslebehållarna är tomma släpps de från raketen i flera steg.
 When the fuel tanks are empty, they are released from the rocket in several stages.
+当燃料箱中的燃料用完时，它们会分几级从火箭中释放出来。
+
+
+P 022
+
+Instrument för rymdforskning
+Instruments for space research
+用于空间研究的仪器
+
+En satellit är något som rör sig runt en himlakropp. Den kan vara naturlig. 
+A satellite is something that moves around a celestial body. It can be natural. 
+卫星是围绕天体运动的物体。它可以是天然的。
+
+Månen är till exempel en satellit till jorden och jorden är en satellit till solen.
+For example, the Moon is a satellite of the Earth and the Earth is a satellite of the Sun.
+例如，月球是地球的卫星，地球是太阳的卫星。
+
+De rymdsonder som cirkulerar runt jorden är satelliter som människan har konstruerat. 
+The space probes orbiting the Earth are man-made satellites. 
+围绕地球运行的太空探测器是人造卫星。
+
+De bär med sig instrument och är viktiga fö rymdforskningen. 
+They carry instruments and are important for space research. 
+它们携带仪器，对太空研究非常重要。
+
+Det finns flera satelliter på olika avstånd från jorden. 
+There are several satellites at different distances from Earth. 
+有几颗卫星与地球的距离各不相同。
+
+De närmsta befinner sig ungefär 2000 km ovanför jorden. 
+The closest are about 2000 km above the Earth. 
+最近的离地球约 2000 千米。
+
+De som är längst bort är nästan 40 000 km härifrån. 
+The furthest ones are almost 40 000 km away. 
+最远的卫星距离地球将近 4 万公里。
+
+När man tittar upp på himlen en stjärnklar kväll kan man se satelliter utan att ha kikare. 
+When you look up at the sky on a starry night, you can see satellites without binoculars. 
+在繁星闪烁的夜晚仰望星空，不用望远镜也能看到卫星。
+
+De ser ut som små stjärnor som rör sig snabbt över himlen.
+They look like small stars moving quickly across the sky.
+它们看起来就像在天空中快速移动的小星星。
+
+Satelliterna lyser förstås inte av sig själva, de reflekterar solljuset.
+Of course, satellites don't shine by themselves, they reflect sunlight.
+当然，卫星本身不会发光，它们会反射阳光。
+
+Det var på satelliter man började använda solceller. Man ville kunna ladda upp batterier i rymden.
+Solar cells were first used on satellites. They wanted to be able to recharge batteries in space.
+太阳能电池最早是用在卫星上的。他们希望能够在太空中为电池充电。
+

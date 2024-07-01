@@ -1,0 +1,18 @@
+Instruments for space research
+
+A satellite is something that moves around a celestial body. It can be natural. 
+
+For example, the Moon is a satellite of the Earth and the Earth is a satellite of the Sun.
+
+The space probes orbiting the Earth are man-made satellites. 
+
+They carry instruments and are important for space research. 
+There are several satellites at different distances from Earth. 
+The closest are about 2000 km above the Earth. 
+The furthest ones are almost 40 000 km away. 
+When you look up at the sky on a starry night, you can see satellites without binoculars. 
+They look like small stars moving quickly across the sky.
+
+Of course, satellites don't shine by themselves, they reflect sunlight.
+
+Solar cells were first used on satellites. They wanted to be able to recharge batteries in space.

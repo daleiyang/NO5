@@ -1,0 +1,39 @@
+Think about it. When did you last use information from a satellite?
+
+Studying Earth and space
+
+A satellite is often sent up with a specific task. 
+Some satellites take pictures of the Earth, which are then studied and analyzed to learn about the Earth. 
+The images can show details, such as streets and houses. 
+Images can be compared to track changes in nature, such as melting glaciers or deforestation.
+
+Some satellites are used to spy on other countries for military purposes. 
+Others are used to look even further into space. 
+They carry large telescopes that can photograph distant galaxies. 
+This is better than looking through telescopes from Earth, as clouds and other atmospheric conditions make it difficult to see far.
+
+Weather satellites
+
+Satellites can also be used to study weather. You can see how clouds move and how high up they are. 
+They can also measure how humid and cold the atmosphere is. 
+All the images and information sent down by the satellites are carefully studied by meteorologists, specialists in weather. 
+They can then make a forecast for the weather in the near future.
+Data from weather satellites helps meteorologists determine where and when storms and hurricanes will hit. 
+Such forecasts are useful, for example, for people traveling by sea.
+
+Communication satellites
+
+Satellites can also be used for communication. 
+On Earth, there are masts and stations that can receive and send signals between each other. 
+A satellite can then act as a very tall mast that can send signals over greater distances than masts on the ground. 
+Satellites are used for data traffic, telephony and live television broadcasting. 
+Satellites also make it possible to access the internet in places where there are no masts or other networks, for example at sea.
+
+Today, it is very common to have a GPS in your car, boat or mobile phone. 
+GPS stands for Global Positioning System - global system for positioning, to indicate a location very precisely. 
+It was first used in the military. A GPS receives signals from several different satellites simultaneously. 
+By combining the signals, you can determine exactly where something is.
+
+Satellite image of a hurricane approaching the Florida coast.
+
+GPS is common in cars.
