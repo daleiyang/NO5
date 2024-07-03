@@ -1,0 +1,20 @@
+Circular motion
+
+The sledgehammer in the ring is spinning faster and faster. She holds her sledgehammer tightly. 
+She wants to spin around as fast as she can. Soon it will happen: 
+She will let go of the sledgehammer and it will continue straight ahead and land far away from the ring. 
+The faster she spins, the more force she has to use to hold the sledgehammer. 
+That force is in the direction of the arm towards the center of the ring. 
+It is the same force that is present in all circular movements.
+
+If it disappears, the sledgehammer continues straight ahead, so when the sledgehammer thrower lets go, the sledgehammer will continue straight ahead from where she let go.
+
+When you drive a car, you should be grateful that there is a force that keeps the car on the road when cornering. 
+That force comes from the friction between the tires and the road surface. 
+The curve is part of a circle, so it is a circular motion.
+
+If that force is suddenly released, like when the sledgehammer drops its hammer, the car goes straight ahead and probably into the ditch. 
+This can happen, for example, if there is ice on the road, as ice reduces the friction between the road surface and the tires.
+
+The red arrows show the force acting on the car in the curve, which helps to keep the car on the road. 
+The black arrow shows the direction of the car if it slips on the ice patch.
