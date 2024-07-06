@@ -19,3 +19,21 @@ A counterforce, such as friction, acts on something that moves. Sometimes you be
 When you swim and push the water backwards, it is the counterforce of the water that makes you move forward.
 When a rocket takes off, the same thing happens: the burning gas fuel is pushed downwards and the counterforce lifts the rocket upwards.
 
+Support surface. 
+
+For an object to be stable, its center of gravity must be directly above the support surface, otherwise the object will tip. 
+When you ride a unicycle, you have such a small support surface that it is easy to wobble.
+This puts your center of gravity outside the support surface. This is why it is difficult to ride a unicycle without falling. 
+
+counteracting force. gravitational force
+
+The apple is affected by a counteracting force from the hand. Without it, the apple would fall through the hand.
+The gravitational force, of course, pulls on every little part of the apple. 
+To show how it acts, draw an arrow of force starting from the center of the apple, the apple's center of gravity. 
+
+Counterforce. force.
+
+If you are sitting in a boat and want to push it off the dock, you push against the edge of the dock. 
+It is the counterforce that makes the boat move.
+
+Translated with DeepL.com (free version)
