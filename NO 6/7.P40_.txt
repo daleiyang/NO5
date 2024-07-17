@@ -347,7 +347,7 @@ It can reproduce by dividing in half, but also by mating with another paramecium
 
 Svampdjur och nässeldjur
 Fungi and cnidarians
-真菌和刺胞动物
+菌类和刺胞动物
 
 Den stora skillnaden mellan växter och djur är att växterna genom fotosyntesen kan bilda näringsämnen. 
 The main difference between plants and animals is that plants can produce nutrients through photosynthesis. 
@@ -359,7 +359,7 @@ Animals, on the other hand, cannot produce their own food. They have to eat othe
 
 Några små, enkelt uppbyggda flercelliga djur som utvecklades tidigt var svampdjur. 
 Some small, simple multicellular animals that evolved early on were sponges. 
-早期进化出的一些小型、简单的多细胞动物是海绵。
+早期进化出的一些小型、简单的多细胞动物是海绵动物。
 
 De filtrerade vatten för att få i sig näring.
 They filtered water to get nutrients.
