@@ -1,0 +1,360 @@
+P 036
+
+Cirkelrörelse
+Circular motion
+圆周运动
+
+Släggkastaren i ringen snurrar fortare och fortare. Hon håller hårt i sin slägga. 
+The sledgehammer in the ring is spinning faster and faster. She holds her sledgehammer tightly. 
+圈中的大锤越转越快。她紧握大锤。
+
+Hon vill snurra runt så fort hon kan. Snart ska det hända: 
+She wants to spin around as fast as she can. Soon it will happen: 
+她想以最快的速度转一圈。很快就会实现： 
+
+Hon ska släppa taget om släggan och den ska fortsätta rakt fram och landa långt bort från ringen. 
+She will let go of the sledgehammer and it will continue straight ahead and land far away from the ring. 
+她将放开大锤，大锤将继续笔直向前，落在离圆环很远的地方
+
+Ju fortare hon snurrar, desto större kraft måste hon använda för att hålla i släggan. 
+The faster she spins, the more force she has to use to hold the sledgehammer. 
+她转得越快，她握住大锤的力量就越大。
+
+Den kraften går i armens riktning mot centrum av ringen. 
+That force is in the direction of the arm towards the center of the ring. 
+这个力的方向是手臂朝向擂台中心的方向。
+
+Det är samma kraft som finns i alla cirkelrörelser.
+It is the same force that is present in all circular movements.
+所有圆周运动中都存在这种力。
+
+Om den försvinner så fortsätter släggan rakt fram, så när släggkastaren släpper taget kommer släggan fortsätta rakt fram från där hon släppte taget.
+If it disappears, the sledgehammer continues straight ahead, so when the sledgehammer thrower lets go, the sledgehammer will continue straight ahead from where she let go.
+如果这个力消失了，大锤就会继续直线前进，所以当掷锤者松手时，大锤会从她松手的地方继续直线前进。
+
+När du åker bil ska du vara tacksam för att det finns en kraft som håller bilen på vägen i kurvorna. 
+When you drive a car, you should be grateful that there is a force that keeps the car on the road when cornering. 
+当你驾驶汽车时，你应该庆幸在转弯时有一种力能使汽车保持在道路上。
+
+Den kraften kommer från friktionen mellan däcken och vägbanan. 
+That force comes from the friction between the tires and the road surface. 
+这个力来自轮胎和路面之间的摩擦力
+
+Kurvan är en del av en cirkel och det handlar alltså om en cirkelrörelse.
+The curve is part of a circle, so it is a circular motion.
+弯道是圆的一部分，因此是圆周运动。
+
+Om den kraften plötsligt släpper, ungefär som när släggkastaren släpper sin slägga, åker bilen rakt fram och förmodligen ner i diket.
+If that force is suddenly released, like when the sledgehammer drops its hammer, the car goes straight ahead and probably into the ditch. 
+如果突然释放这种力，就像大锤放下锤子一样，汽车就会直冲前方，很可能冲进沟里。
+
+Det kan till exempel hända om det är is på vägen, eftersom isen minskar friktionen mellan vägbanan och däcken.
+This can happen, for example, if there is ice on the road, as ice reduces the friction between the road surface and the tires.
+例如，如果路面结冰，这种情况就会发生，因为冰会减小路面和轮胎之间的摩擦力。
+
+De röda pilarna visar den kraft bilen påverkas av i kurvan och som hjälper till att hålla kvar bilen på vägen. 
+The red arrows show the force acting on the car in the curve, which helps to keep the car on the road. 
+红色箭头表示弯道中作用在汽车上的力，有助于汽车保持在道路上行驶。
+
+Den svarta pilen visar bilens riktning om den halkar på isfläcken.
+The black arrow shows the direction of the car if it slips on the ice patch.
+黑色箭头表示汽车在冰面上打滑时的方向。
+
+
+P 037
+
+Tyngdpunkt
+Center of gravity
+重心
+
+Varför är det svårt att hålla balansen när du står på ett ben eller cyklar på en enhjuling? 
+Why is it difficult to keep your balance when standing on one leg or riding a unicycle? 
+为什么单腿站立或骑独轮车时很难保持平衡？
+
+Jo, det beror på att du då har en väldigt liten stödyta mot underlaget. 
+Well, it's because you have a very small support surface against the ground. 
+是的，这是因为基材上的支撑面非常小。
+
+För att inte tippa måste du placera din egen tyngdpunkt väldigt exakt, precis ovanför stödytan. 
+To avoid tipping, you need to position your center of gravity very precisely, just above the support surface. 
+为了不翻倒，您必须非常精确地将自己的重心放置在支撑表面的上方。
+
+Alla föremål har en tyngdpunkt. 
+All objects have a center of gravity. 
+所有物体都有一个重心。
+
+Om ett föremål har enkel form och är gjort av ett och samma material, till exempel en tegelsten, ligger tyngdpunkten precis mitt i. 
+If an object has a simple shape and is made of the same material, for example a brick, the center of gravity is right in the middle. 
+如果一个物体具有简单的形状并且由一种相同的材料制成，例如一块砖，那么重心就在中间。
+
+Tyngdpunkten är den punkt i föremålet där gravitationskraften drar. 
+The center of gravity is the point in the object where the gravitational force pulls.
+重心是物体中重力作用的点。
+
+Inom fysiken vill man ibland visa vilka krafter som påverkar ett föremål. 
+In physics, we sometimes want to show the forces that affect an object. 
+在物理学中，您有时想要展示哪些力影响物体。
+
+Det gör man genom att rita ut en kraftpil som utgår från den tänkta tyngdpunkten.
+This is done by drawing a force arrow that starts from the imaginary center of gravity.
+这是通过从想象的重心开始绘制力箭头来完成的。
+
+Kraft och motkraft
+Force and counterforce
+作用力和反作用力
+
+Du står med ett äpple i handen. 
+You are standing with an apple in your hand. 
+你站着，手里拿着一个苹果。
+
+Släpper du äpplet så faller det till marken på grund av jordens gravitationskraft. 
+If you let go of the apple, it falls to the ground because of the Earth's gravitational force. 
+如果你让苹果掉下来，它会由于地球引力而落到地上。
+
+Den kraften drar i äpplet även om du håller i det. 
+This force pulls on the apple even if you hold it. 
+即使你握住苹果，这个力也会拉住它。
+
+Att äpplet inte faller inte beror på att du håller i det med en lika stor, uppåtriktad kraft, en motverkande kraft.
+The apple doesn't fall because you are holding it with an equal, upward force, a counteracting force.
+苹果没有落下是因为你用相等的、向上的力、相反的力握住它。
+
+På något som rör sig verkar en motkraft, till exempel friktionskraft. Ibland har du nytta av motkraften. 
+A counterforce, such as friction, acts on something that moves. Sometimes you benefit from the counterforce. 
+运动的物体会受到反作用力的作用，例如摩擦力。有时你会从反作用力中受益。
+
+När du simmar och puttar vattnet bakåt är det vattnets motkraft som får dig att komma framåt.
+When you swim and push the water backwards, it is the counterforce of the water that makes you move forward.
+当你游泳并将水向后推时，水的反作用力使你向前移动。
+
+När en raket startar händer samma sak: det brinnande gasbränslet pressas neråt och motkraften lyfter raketen uppåt.
+When a rocket takes off, the same thing happens: the burning gas fuel is pushed downwards and the counterforce lifts the rocket upwards.
+当火箭发射时，会发生同样的事情：燃烧的气体燃料被向下推，反作用力将火箭升起。
+
+Stödyta. 
+Support surface. 
+支撑面。
+
+Föratt ett föremål ska stå stadigt måste tyngdpunkten finnas rakt över stödytan, annars tippar föremålet. 
+For an object to be stable, its center of gravity must be directly above the support surface, otherwise the object will tip. 
+要使物体稳定，其重心必须在支撑面的正上方，否则物体就会倾斜。
+
+När du cyklar enhjuling har du en så liten stödyta att det är lätt att vingla till.
+When you ride a unicycle, you have such a small support surface that it is easy to wobble.
+当你骑独轮车时，你的支撑面很小，很容易晃动。
+
+Då hamnar din tyngdpunkt utanför stödytan. Därför är det svårt att cykla enhjuling utan att ramla. 
+This puts your center of gravity outside the support surface. This is why it is difficult to ride a unicycle without falling. 
+这就使你的重心位于支撑面之外。这就是为什么骑独轮车很难不摔倒的原因。
+
+motverkande kraft. gravitationskraft
+counteracting force. gravitational force
+反作用力。重力
+
+Äpplet påverkas av en motverkande kraft från handen. Om inte den fanns så skulle äpplet falla genom handen.
+The apple is affected by a counteracting force from the hand. Without it, the apple would fall through the hand.
+苹果受到来自手的反作用力的影响。如果没有它，苹果就会从手中掉落。
+
+Gravitationskraften drar förstås i varje liten del av äpplet. 
+The gravitational force, of course, pulls on every little part of the apple. 
+当然，引力会拉动苹果的每一个小部分。
+
+För att visa hur den påverkar ritar man en kraftpil som utgår från mitten på äpplet, äpplets tyngdpunkt. 
+To show how it acts, draw an arrow of force starting from the center of the apple, the apple's center of gravity. 
+为了说明它是如何作用的，请从苹果的中心，也就是苹果的重心，画出一个力的箭头。
+
+motkraft. kraft.
+Counterforce. force.
+反作用力。力。
+
+Om du sitter i en båt och vill skjuta ut den från bryggan så trycker du mot bryggkanten. 
+If you are sitting in a boat and want to push it off the dock, you push against the edge of the dock. 
+如果你坐在船上，想把船推离码头，你就会推向码头的边缘。
+
+Det är motkraften som får båten att ge sig iväg.
+It is the counterforce that makes the boat move.
+正是反作用力使船移动。
+
+
+P 038
+
+Olika krafter
+Different forces
+不同的力量
+
+När en FORMEL 1-BIL startar gasar föraren och bilen nästan stegrar sig. 
+When a FORMULA 1 car starts, the driver accelerates and the car almost rises. 
+当 FORMULA 1 赛车启动时，驾驶员会加速，赛车几乎升起。
+
+Accelerationen är enorm de första sekunderna när bilen går från stillastående till över 100 km/h. 
+Acceleration is huge in the first few seconds as the car goes from standstill to over 100 km/h. 
+最初几秒钟的加速度非常大，因为赛车会从静止加速到时速 100 公里以上。
+
+De bilarna klarar dessutom av att bromsa in på några sekunder. 
+These cars can also brake in a matter of seconds. 
+这些赛车还能在几秒钟内制动。
+
+Det är en stor motkraft på föraren som måste sitta ordentligt fastspänd.
+This is a major counterforce on the driver, who must be properly restrained.
+这对驾驶员来说是一个巨大的反作用力，必须对驾驶员进行适当的约束。
+
+En FALLSKÄRMSHOPPARE kastar sig ut från flygplanet och faller rakt ner. 
+A PARACHUTE jumper ejects from the aircraft and falls straight down. 
+跳伞者从飞机上弹射而出，然后直接坠落。
+
+Det kallas för fritt fall. Det är jordens gravitationskraft som drar fallskärmshopparen ner mot marken. 
+This is called free fall. It is the earth's gravitational force that pulls the parachutist down towards the ground. 
+这就是所谓的自由落体。地球引力将跳伞者拉向地面。
+
+När man faller så länge kommer farten inte att öka hela tiden. 
+When you're falling for so long, your speed won't keep increasing.
+当你长时间下落时，你的速度不会一直增加。
+
+Luften bromsar nämligen upp och man når en så kallad gränshastighet. 
+This is because the air slows down and you reach a so-called limit speed. 
+这是因为空气会减慢你的速度，使你达到所谓的极限速度。
+
+Fallskärmshopparen kan alltså inte falla snabbare än en viss hastighet. 
+This means that the parachutist cannot fall faster than a certain speed. 
+这意味着跳伞者的下落速度不能超过一定的速度。
+
+Så fort skärmen fälls ut ökar luftmotståndet och då minskar hastigheten.
+As soon as the parachute deploys, the air resistance increases and the speed decreases.
+降落伞一打开，空气阻力就会增加，速度就会降低。
+
+VELODROMCYKLING är en cykelsport med lätta cyklar utan broms. Banan är oval och lutad.
+VELODROME CYCLING is a cycling sport using lightweight bicycles without brakes. The track is oval and inclined.
+VELODROME CYCLING（椭圆形自行车）是一项使用轻型自行车的自行车运动，不带制动器。赛道呈椭圆形倾斜状。
+
+Kraften mellan cyklisten och banan är då lika stor som kraften in mot cirkelns mitt.
+The force between the cyclist and the track is then equal to the force towards the center of the circle.
+骑车人与赛道之间的力等于向圆心方向的力。
+
+I BADMINTON ska man slå iväg en fjäderboll över ett nät till motspelaren. 
+IN BADMINTON, you have to hit a shuttlecock over a net to your opponent. 
+在羽毛球运动中，您必须将毽子越过球网击向对手。
+
+En badmintonboll är lätt,men med slaget kan man få iväg den i en enorm hastighet.
+A badminton ball is light, but with the stroke you can get it away at an enormous speed.
+羽毛球很轻，但只要用力一击，就能以极快的速度将球击出。
+
+
+P 039
+
+Begrepp
+Concepts
+概念
+
+accelerera: att öka hastigheten
+accelerate: to increase speed
+加速：提高速度
+
+cirkelrörelse: då något snurrar runt en centrumpunkt med en kraft som verkar in mot mitten, centrum
+circular motion: when something spins around a center point with a force acting towards the center
+圆周运动：当物体在作用于中心点的力的作用下绕中心点旋转时
+
+friktionskraft: kraften mellan två ytor som gnids mot varandra
+friction force: the force between two surfaces rubbing against each other
+摩擦力：两个表面相互摩擦的力
+
+fritt fall: att något faller fritt ner utan motstånd
+free fall: when something falls freely without resistance
+自由落体运动：物体在没有阻力的情况下自由下落
+
+gravitationskraft: dragningskraften mellan två kroppar, men ordet används oftast för jordens dragningskraft
+gravitational force: the force of attraction between two bodies, but the word is most often used for the gravitational force of the Earth
+引力：两个物体之间的吸引力，但这个词最常用于地球的引力
+
+hastighet: den sträcka man kommer på en viss tid, ofta uttryckt som meter per sekund(m/s) eller kilometer per timme (km/h)
+speed: the distance you travel in a given time, often expressed as meters per second (m/s) or kilometers per hour (km/h)
+速度：一定时间内行驶的距离，通常用米/秒（m/s）或公里/小时（km/h）表示
+
+hastighetsmätare: ett instrument som visar hastigheten
+speedometer: an instrument that measures speed
+速度计：测量速度的仪器
+
+kraft: något som påverkar något annat att röra sig eller ändra form
+force: something that causes something else to move or change shape
+力：使其他物体移动或改变形状的东西
+
+medelhastighet: medelvärdet av hastigheten som till exempel en bil har hållit under en resa
+average speed: the mean value of the speed maintained by, for example, a car during a journey
+平均速度 "指汽车等在行驶过程中保持的速度的平均值
+
+motkraft: kraft som motverkar en annan kraft när något rör sig
+counterforce: force that counteracts another force when something moves
+反作用力：在物体运动时抵消另一作用力的力
+
+Newton (N): enhet för kraft
+Newton (N): unit of force
+牛顿（N）：力的单位
+
+rörelse: att något flyttar sig
+'motion' means the movement of something
+运动 "指事物的运动
+
+stödyta: den yta som ett föremål delar upp sin vikt på. 
+supporting surface: the surface on which an object distributes its weight.
+支撑面：物体分散重量的表面。
+
+För en kloss är det golvytan mot klossens undersida, för en stol är golvytan mellan stolens ben också en del av stödytan.
+For a block it is the floor surface towards the bottom of the block, for a chair the floor surface between the legs of the chair is also part of the supporting surface
+对于积木来说，支撑面就是积木底部的地面；对于椅子来说，椅子腿之间的地面也是支撑面的一部分。
+
+tidvatten: förändring av havsnivån mellan högvatten (flod) och lågvatten (ebb)
+tide: change in sea level between high tide (flood) and low tide (ebb)
+潮汐：高潮（洪水）和低潮（退潮）之间海平面的变化
+
+tyngdpunkt: mitten av ett föremåls massa
+center of gravity: the middle of an object's mass
+重心：物体质量的中部
+
+Kan du nu?
+
+Vad är medelhastighet?
+What is average speed?
+什么是平均速度？
+
+Vad kallas det när något ökar i hastighet?
+What is it called when something increases in speed?
+速度增加时叫什么？
+
+Vad menas med fritt fall?
+What is meant by free fall?
+什么叫自由落体？
+
+Två personer hoppar ner från ett flygplan. Vem når marken först? Välj alternativ och motivera.
+Two people jump out of an airplane. Who reaches the ground first? Choose options and give reasons.
+两个人从飞机上跳下。谁先到达地面？请选择选项并说明理由。
+
+a) Den som väger mest.
+a) The one who weighs the most.
+a) 最重的人。
+
+b) Den som väger minst.
+b) The one who weighs the least.
+b) 重量最小的那个
+
+c) De faller lika snabbt och når marken samtidigt.
+c) They fall at the same speed and reach the ground at the same time.
+c) 他们以相同的速度下落，同时到达地面。
+
+Vad är en kraft? Förklara med exempel.
+What is a force? Explain with examples.
+什么是力？请举例说明。
+
+Vad kallas kraften som håller dig kvar på marken?
+What is the force that keeps you on the ground called?
+使你保持在地面上的力叫什么？
+
+Vad menas med tidvatten?
+What is meant by a tide?
+什么叫潮汐？
+
+Ge exempel på när man vill ha så lite friktion som möjligt.
+Give examples of when you want as little friction as possible.
+举例说明什么情况下需要尽可能小的摩擦力？
+
+Ge exempel på när man vill ha mycket friktion.
+Give examples of when you want a lot of friction.
+举例说明什么情况下需要很大的摩擦力。

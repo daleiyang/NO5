@@ -1,0 +1,39 @@
+Fundera? När använde du senast information från en satellit?
+
+Studera jorden och rymden
+
+En satellit skickas ofta upp med en bestämd uppgift. 
+En del satelliter tar bilder av jorden som man sedan studerar och analyserar för att få kunskap om jorden. 
+På bilderna kan man se detaljer, som gator och hus. 
+Man kan jämföra bilder för att följa förändringar i naturen, som till exempel smältande glaciärer eller skogar som avverkas.
+
+En del satelliter används för att spana på andra länder i militärt syfte. 
+Andra används för att titta ännu längre ut i rymden. 
+På dem finns stora teleskop som kan fotografera avlägsna galaxer. 
+Det är bättre än att titta genom teleskop från jorden, eftersom moln och annat i atmosfären gör det svårt att se långt.
+
+Vädersatelliter
+
+Med satelliter kan man också studera väder. Man kan se hur molnen rör sig och hur högt upp de befinner sig. 
+Man kan också mäta hur fuktig och kall atmosfären är. 
+Alla bilder och all information som satelliterna skickar ner studeras noga av meteorologer, specialister på väder. 
+Då kan de göra en prognos för vädret den närmaste tiden.
+Data från vädersatelliter hjälper meteorologerna att avgöra var och när oväder som stormar och orkaner kommer att dra fram. 
+Sådana prognoser är värdefulla till exempel för den som ska resa på havet.
+
+Kommunikationssatelliter
+
+Satelliter kan även användas för kommunikation. 
+På jorden finns master och stationer som kan ta emot och skicka signaler mellan varandra. 
+En satellit kan då fungera som en väldigt hög mast som kan skicka signaler på större avstånd än masterna på marken. 
+Satelliterna används för datatrafik, telefoni och för att direktsända tv. 
+Via satelliter är det också möjligt att nå internet på platser där det saknas master och andra nätverk, till exempel ute till havs.
+
+Idag är det mycket vanligt att ha en GPS i bilen, båten eller mobilen. 
+GPS står för Global Positioning System — globalt system för positionering, att ange en plats mycket exakt. 
+Det användes allra först inom militären. En GPS tar emot signaler från flera olika satelliter samtidigt. 
+Genom att kombinera signalerna kan man avgöra exakt var något befinner sig.
+
+Satellitbild av en orkan som drar in mot Floridas kust.
+
+GPS är vanligt i bilar.

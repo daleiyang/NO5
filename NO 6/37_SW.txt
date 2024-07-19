@@ -1,0 +1,37 @@
+Tyngdpunkt
+
+Varför är det svårt att hålla balansen när du står på ett ben eller cyklar på en enhjuling? 
+Jo, det beror på att du då har en väldigt liten stödyta mot underlaget. 
+För att inte tippa måste du placera din egen tyngdpunkt väldigt exakt, precis ovanför stödytan. Alla föremål har en tyngdpunkt. 
+Om ett föremål har enkel form och är gjort av ett och samma material, till exempel en tegelsten, ligger tyngdpunkten precis mitt i. 
+Tyngdpunkten är den punkt i föremålet där gravitationskraften drar. 
+Inom fysiken vill man ibland visa vilka krafter som påverkar ett föremål. 
+Det gör man genom att rita ut en kraftpil som utgår från den tänkta tyngdpunkten.
+
+Kraft och motkraft
+
+Du står med ett äpple i handen. 
+Släpper du äpplet så faller det till marken på grund av jordens gravitationskraft. 
+Den kraften drar i äpplet även om du håller i det. 
+Att äpplet inte faller inte beror på att du håller i det med en lika stor, uppåtriktad kraft, en motverkande kraft.
+
+På något som rör sig verkar en motkraft, till exempel friktionskraft. Ibland har du nytta av motkraften. 
+När du simmar och puttar vattnet bakåt är det vattnets motkraft som får dig att komma framåt.
+När en raket startar händer samma sak: det brinnande gasbränslet pressas neråt och motkraften lyfter raketen uppåt.
+
+Stödyta. 
+
+Föratt ett föremål ska stå stadigt måste tyngdpunkten finnas rakt över stödytan, annars tippar föremålet. 
+När du cyklar enhjuling har du en så liten stödyta att det är lätt att vingla till.
+Då hamnar din tyngdpunkt utanför stödytan. Därför är det svårt att cykla enhjuling utan att ramla. 
+
+motverkande kraft. gravitationskraft
+
+Äpplet påverkas av en motverkande kraft från handen. Om inte den fanns så skulle äpplet falla genom handen.
+Gravitationskraften drar förstås i varje liten del av äpplet. 
+För att visa hur den påverkar ritar man en kraftpil som utgår från mitten på äpplet, äpplets tyngdpunkt. 
+
+motkraft. kraft.
+
+Om du sitter i en båt och vill skjuta ut den från bryggan så trycker du mot bryggkanten. 
+Det är motkraften som får båten att ge sig iväg.

@@ -1,0 +1,369 @@
+P 018
+
+Svindlande avstånd
+Dizzying distances
+令人目眩的距离
+
+Avståndet mellan jorden och månen är 384 000 kilometer. Det är ungefär lika långt som tio varv runt jorden. 
+The distance between the Earth and the Moon is 384 000 kilometers. That's about as far as ten revolutions around the Earth. 
+地球和月球之间的距离是 384 000 公里。这相当于绕地球十圈那么远。
+
+Allt annat i universum ligger så lång bort att det blir meningslöst att använda enheter kilometer. 
+Everything else in the universe is so far away that using units of kilometers becomes meaningless. 
+宇宙中的其他一切都如此遥远，以至于使用公里为单位毫无意义。
+
+Avstånden i universum är nämligen enormt stora.
+This is because the distances in the universe are enormous.
+这是因为宇宙中的距离非常遥远。
+
+Tvärs över hela universum är det säkert hundra tusen miljarder kilometer. 
+Across the entire universe, there are probably a hundred thousand billion kilometers. 
+在整个宇宙中，大概有 1 万亿公里。
+
+Om man skriver det med siffror blir det ett tal med minst 23 siffror.
+If you write it in numbers, it becomes a number with at least 23 digits.
+如果把它写成数字，就会变成一个至少有 23 位数的数字。
+
+För att kunna göra avstånden begripliga behöver vi använda andra enheter.
+To make the distances comprehensible, we need to use other units.
+为了让人们理解这些距离，我们需要使用其他单位。
+
+Ljusår
+Light years
+光年
+
+Den högsta hastigheten som finns är ljusets hastighet, 300 000 kilometer per sekund (km/s). 
+The highest speed available is the speed of light, 300 000 kilometers per second (km/s). 
+目前最高的速度是光速，每秒 300 000 公里（km/s）。
+
+On man kunde skicka en ljusstråle runt jorden skull; det bara ta en tiondels sekund för den att komma runt. 
+You could send a beam of light around the Earth; it would only take a tenth of a second for it to get around. 
+你可以发送一束光绕地球一周，它只需要十分之一秒就能绕地球一周。
+
+Därför använder man enheten ljusår för att beskriva långa avstånd. 
+This is why light years are used to describe long distances. 
+这就是为什么用光年来描述长距离。
+
+Ett ljusår är den sträcka som ljuset hinner färdas på ett helt år, ungefär 950 miljarder mil.
+A light year is the distance light can travel in a year, about 950 billion miles.
+一光年是光在一年中能走过的距离，大约为 9 500 亿公里。
+
+Lite kortare avstånd kan man mäta i ljustimmar, ljusminuter eller ljussekunder. 
+Shorter distances can be measured in light-hours, light-minutes or light-seconds. 
+较短的距离可以用光时、光分或光秒来测量。
+
+Det tar åtta minuter för solens strålar att nå jorden. Avståndet mellan solen och jorden är alltså 8 ljusminuter.
+It takes eight minutes for the sun's rays to reach the Earth. So the distance between the Sun and the Earth is 8 light-minutes.
+太阳光到达地球需要 8 分钟。因此，太阳和地球之间的距离是 8 光分。
+
+Mellan månen och jorden är avståndet 1,3 ljussekunder, eftersom det tar 1,3 sekunder för ljuse att färdas den sträckan.
+The distance between the Moon and the Earth is 1.3 light seconds, as it takes 1.3 seconds for light to travel that distance.
+月球和地球之间的距离是 1.3 光秒，因为光走完这个距离需要 1.3 秒。
+
+förutom.  vintergatans.  ytterkanten. ljustimmar. ljusminuter. ljussekunder.
+In addition to.  The Milky Way.  Outer edge.  Light-hours.  Light-minutes.  Light seconds.
+除了.  银河.  外缘.  光时.  光分。光秒。
+
+
+P 019
+
+Att mäta avstånd
+Measuring distances
+测量距离
+
+För att mäta avstånd i rymden skickar man ut starka ljussignaler med till exempel laser. 
+To measure distances in space, strong light signals are sent out, for example by laser. 
+为了测量太空中的距离，需要发出强烈的光信号，例如激光信号。
+
+Signalerna studsar på himlakroppen och kommer tillbaka. Eftersom vi vet hur snabbt ljuset rör sig kan vi då räkna ut avståndet.
+The signals bounce off the celestial body and come back. Since we know how fast the light is traveling, we can then calculate the distance.
+信号从天体反弹回来。由于我们知道光的传播速度，因此可以计算出距离。
+
+Ett annat sätt att bestämma större avstånd är att ta bilder med teleskop. 
+Another way to determine larger distances is to take pictures with a telescope. 
+另一种确定较大距离的方法是用望远镜拍照。
+
+Då tar man bilder på samma del av himlen vid olika tidpunkter och jämför sedan bilderna. 
+This involves taking pictures of the same part of the sky at different times and then comparing the images. 
+这包括在不同的时间拍摄天空同一区域的照片，然后将图像进行比较。
+
+Eftersom man känner till avståndet till vissa av himlakropparna kan man räkna ut avståndet till andra,
+Knowing the distances to some of the celestial bodies, we can calculate the distances to others,
+知道了一些天体的距离，我们就可以计算出其他天体的距离、
+
+mer avlägsna, genom att se hur de har rört sig i förhållande till varandra och till jorden. 
+more distant ones, by seeing how they have moved in relation to each other and to the Earth. 
+通过观察天体之间以及天体与地球之间的运动关系，我们就可以计算出与其他更遥远天体的距离。
+
+Med de allra största teleskopen har astronomerna kunnat se himlakroppar som ligger 10 miljarder ljusår bort.
+With the largest telescopes, astronomers have been able to see celestial bodies 10 billion light years away.
+利用最大的望远镜，天文学家已经能够看到 100 亿光年以外的天体。
+
+Rymdteleskopet Hubble används för rymdforskning. Det sändes upp år 1990 och rör sig i en bana 600 km ovanför jordytan.
+The Hubble Space Telescope is used for space research. Launched in 1990, it orbits 600 km above the Earth's surface.
+哈勃太空望远镜用于太空研究。它于 1990 年发射升空，在距离地球表面 600 公里的轨道上运行。
+
+Det här teleskopet i Kalifornien, USA, var det största som fanns när det byggdes för mer än hundra år sedan.
+This telescope in California, USA, was the largest in existence when it was built more than a century ago.
+这台望远镜位于美国加利福尼亚州，一个多世纪前建成时是现存最大的望远镜。
+
+Det används fortfarande för att studera universum.
+It is still used to study the universe.
+它现在仍被用来研究宇宙。
+
+Himlakroppars storlek
+The size of celestial bodies
+天体的大小
+
+Det är alltså svårt att förstå de stora avstånden i universum. 
+It's thus difficult to understand the vast distances in the universe. 
+了解宇宙中的遥远距离是很困难的。
+
+Lika svårt är det att förstå hur stora himlakropparna är. 
+Equally difficult is understanding how big the celestial bodies are. 
+了解天体有多大也同样困难。
+
+Är jorden större än månen? Hur stor är solen? Hur liten är jorden i solsystemet?
+Is the Earth bigger than the Moon? How big is the Sun? How small is the Earth in the solar system?
+地球比月球大吗？太阳有多大？地球在太阳系中有多小？
+
+Ja, månen är betydligt mindre än jorden. Det skulle behövas 50 månklot för att fylla upp jordklotet. 
+Yes, the Moon is much smaller than the Earth. It would take 50 moon orbs to fill up the Earth. 
+是的，月球比地球小得多。50 个月球才能填满地球。
+
+Men skillnaden mellan jorden och solen är mycket, mycket större än så. 
+But the difference between the Earth and the Sun is much, much bigger than that. 
+但地球和太阳之间的差距要比这大得多。
+
+Eftersom solen är så långt bort ser den liten ut när man tittar upp på himlen. 
+Because the sun is so far away, it looks small when you look up at the sky. 
+因为太阳离我们很远，所以当你仰望天空时，它看起来很小.
+
+Men för att fylla upp solen skulle det behövas mer än en miljon jordklot!
+But to fill up the Sun, you would need more than a million Earths!
+但是要填满太阳，你需要超过一百万个地球！
+
+
+P 020
+
+Människan upptäcker rymden
+Man discovers space
+
+Människan har länge drömt om att färdas i rymden och landa på månen eller på andra himlakroppar. 
+Humans have long dreamed of traveling through space and landing on the Moon or other celestial bodies. 
+人类一直梦想着遨游太空，登陆月球或其他天体。
+
+För att kunna lämna jorden måste man färdas med mycket hög fart. 
+To leave Earth, you need to travel at very high speed. 
+要离开地球，就必须以极快的速度旅行。
+
+En rymdfarkost måste kunna nå hastigheten 40 000 km/h. 
+A spacecraft must be able to reach speeds of 40 000 km/h. 
+宇宙飞船必须能够达到每小时 4 万公里的速度。
+
+Strävan efter nya kunskaper om rymden skapade tidigare hård konkurrens mellan olika länder.
+In the past, the quest for new knowledge about space created fierce competition between countries.
+过去，对太空新知识的探索在各国之间引发了激烈的竞争。
+
+Rymdresor
+Space travel
+太空旅行
+
+Under flera år pågick en kapplöpning mellan USA och dåvarande Sovjetunionen om vem som skulle bli först med att skicka upp människor i rymden. 
+For years, there was a race between the United States and the then Soviet Union to be the first to send humans into space. 
+多年来，美国和当时的苏联一直在争先恐后地将人类送入太空。
+
+Det här var efter andra världskriget, när spänningen och osäkerheten mellan dessa båda länder var stor. 
+This was after the Second World War, when tensions and uncertainty between these two countries were high. 
+这是在第二次世界大战之后，当时这两个国家之间的关系非常紧张和不确定。
+
+De tävla de om äran i att vara mest framstående inom rymdforskning, men båda ville också använda rymdfarkoster för att spionera på varandra.
+They were competing for the honor of being the most advanced in space research, but both also wanted to use spacecraft to spy on each other.
+两国都在争夺太空研究领域最先进的荣誉，但也都想利用航天器来监视对方。
+
+År 1957 skickade Sovjetunionen upp en satellit i jordens omloppsbana. 
+In 1957, the Soviet Union launched a satellite into Earth orbit. 
+1957 年，苏联向地球轨道发射了一颗卫星。
+
+Satelliten hette Sputnik 2 och ombord fanns hunden Lajka.
+The satellite was called Sputnik 2 and on board was Laika the dog.
+这颗卫星被称为 "人造卫星 2 号"，卫星上有一只名叫 "拉伊卡 "的狗。
+
+Hon blev en av de första levande varelserna som gjorde en resa i rymden. 
+She became one of the first living creatures to travel into space. 
+它成为第一批遨游太空的生物之一。
+
+Satelliten var inte byggd för att kunna komma tillbaka till jorden igen, och Lajka dog av värme och stress efter några timmar.
+The satellite was not built to come back to Earth again, and Lajka died of heat and stress after a few hours.
+这颗卫星并不是为了再次返回地球而制造的，拉伊卡在几个小时后死于高温和压力。
+
+Fyra år senare, 1961, gjordes den första rymdresan av en människa.
+Four years later, in 1961, the first space flight was made by a human being.
+四年后的 1961 年，人类首次进行了太空旅行。
+
+Det var ryssen Jurij Gagarin som åkte ett varv runt jorden. 
+It was the Russian Yuri Gagarin who orbited the Earth. 
+俄罗斯人尤里-加加林绕地球飞行了一圈。
+
+Det tog 108 minuter och han kom välbehållen tillbaka ner.
+It took 108 minutes and he came back down safely.
+历时 108 分钟，他安全返回。
+
+Rymdfarare
+Space traveler
+太空旅行者
+
+Den som åker utanför atmosfären i en rymdfarkost kallas kosmonaut eller astronaut. 
+Anyone who goes outside the atmosphere in a spacecraft is called a cosmonaut or astronaut. 
+任何乘坐航天器在大气层外旅行的人都被称为宇航员或太空人。
+
+Båda namnen är från grekiskan. Ordet kosmonaut betyde ”universumseglare; och används i Ryssland. 
+Both names are from the Greek. The word cosmonaut means 'sailor of the universe' and is used in Russia. 
+这两个名称都来自希腊语。宇航员的意思是 "宇宙水手"，在俄罗斯使用。
+
+I USA säger man istället astronaut, ”stjärnseglare”.
+In the United States, the term astronaut is used instead, 'star sailor'.
+在美国，则使用宇航员一词，即 "星际水手"。
+
+En astronaut eller kosmonaut ärutbildad i fysik och teknik. 
+An astronaut or cosmonaut is trained in physics and engineering. 
+宇航员或宇航员接受过物理和工程方面的培训。
+
+Han eller hon måste också ha god hälsa och bra kondition för att klara av en rymdfärd.
+He or she must also be in good health and fitness to be able to go into space.
+他或她还必须身体健康，能够进入太空。
+
+År 2006 kom för första gången en svensk person upp i rymden. 
+In 2006, a Swedish person went into space for the first time. 
+2006 年，瑞典人首次进入太空。
+
+Astronauten Christer Fuglesang skickades upp till den internationella rymdstationen ISS. 
+Astronaut Christer Fuglesang was sent up to the International Space Station (ISS). 
+宇航员克里斯特-福格莱桑（Christer Fuglesang）被送上了国际空间站（ISS）。
+
+Sammanlagt var han uppe i rymden i 26 dagar och 17 timmar.
+He spent a total of 26 days and 17 hours in space.
+他总共在太空中待了 26 天 17 小时。
+
+
+P 021
+
+Det här är det första fotspåret av människan på månen.
+This is the first human footprint on the Moon.
+这是人类在月球上留下的第一个脚印。
+
+Det sattes när Apollo 11 landade där 1969. 
+It was made when Apollo 11 landed there in 1969. 
+它是 1969 年阿波罗 11 号登陆月球时留下的。
+
+Människans fotspår på månen
+Human footprints on the Moon
+人类在月球上的足迹
+
+Den första människan som gick på månen var amerikanen Neil Armstrong. 
+The first man to walk on the Moon was the American Neil Armstrong. 
+第一个在月球上行走的人是美国人尼尔-阿姆斯特朗。
+
+Månlandningen och den första månpromenaden skedde 1969 och direktsändes på tv över hela världen. 
+The moon landing and the first moon walk took place in 1969 and was televised live around the world. 
+登月和首次月球行走发生在 1969 年，全世界的电视都进行了现场直播。
+
+När Armstrong satte ner sin fot på månen yttrade han de berömdavrden: ”Ett litet steg för en människa, men ett stort steg för mänskligheten”.
+When Armstrong set foot on the Moon, he famously said: "One small step for man, one giant leap for mankind".
+当阿姆斯特朗踏上月球时，他说了一句名言："人类的一小步，人类的一大步"。
+
+Rymdkapplöpningen mellan USA och Sovjetunionen upphörde så småningom och idag samarbetar länderna istället.
+The space race between the US and the Soviet Union eventually ended and today the countries cooperate instead.
+美国和苏联之间的太空竞赛最终结束了，如今两国开始合作。
+
+Man har kopplat samman sina farkoster uppe i rymden och byggt gemensamma rymdstationer. 
+They have linked their vehicles in space and built joint space stations. 
+他们将太空飞行器连接起来，并建立了联合空间站。
+
+Sedan år 2000 rör sig den internationella rymdstationen ISS i omloppsbana runt jorden. 
+Since 2000, the International Space Station (ISS) has been orbiting the Earth. 
+自 2000 年以来，国际空间站（ISS）一直围绕地球运行。
+
+Den är alltid bemannad och där kan astronauter från hela världen bedriva viktig forskning.
+It is always manned and astronauts from around the world can conduct important research there.
+它始终有人驻守，来自世界各地的宇航员可以在那里进行重要的研究。
+
+Rymdforskningen går framåt hela tiden. 
+Space research is moving forward all the time. 
+太空研究一直在向前发展。
+
+Vi drömmer fortfarande om att besöka andra planeter. 
+We still dream of visiting other planets. 
+我们仍然梦想着访问其他星球。
+
+För att lära sig mer skickar man upp obemannade rymdfarkoster, så kallade rymdsonder. 
+To learn more, unmanned spacecraft, known as space probes, are being sent up. 
+为了了解更多信息，我们不断将被称为太空探测器的无人飞船送上太空。
+
+Flera sonder har skickats till Mars för att studera planetens yta. 
+Several probes have been sent to Mars to study the planet's surface. 
+已有多个探测器被送往火星，研究火星表面。
+
+Bilden visar ett foto från Mars.
+The image shows a photo from Mars.
+图为火星照片。
+
+Av en rakets totala vikt är bränslet den största delen. 
+Of a rocket's total weight, the fuel is the largest part.
+在火箭的总重量中，燃料是最大的部分。
+
+När bränslebehållarna är tomma släpps de från raketen i flera steg.
+When the fuel tanks are empty, they are released from the rocket in several stages.
+当燃料箱中的燃料用完时，它们会分几级从火箭中释放出来。
+
+
+P 022
+
+Instrument för rymdforskning
+Instruments for space research
+用于空间研究的仪器
+
+En satellit är något som rör sig runt en himlakropp. Den kan vara naturlig. 
+A satellite is something that moves around a celestial body. It can be natural. 
+卫星是围绕天体运动的物体。它可以是天然的。
+
+Månen är till exempel en satellit till jorden och jorden är en satellit till solen.
+For example, the Moon is a satellite of the Earth and the Earth is a satellite of the Sun.
+例如，月球是地球的卫星，地球是太阳的卫星。
+
+De rymdsonder som cirkulerar runt jorden är satelliter som människan har konstruerat. 
+The space probes orbiting the Earth are man-made satellites. 
+围绕地球运行的太空探测器是人造卫星。
+
+De bär med sig instrument och är viktiga fö rymdforskningen. 
+They carry instruments and are important for space research. 
+它们携带仪器，对太空研究非常重要。
+
+Det finns flera satelliter på olika avstånd från jorden. 
+There are several satellites at different distances from Earth. 
+有几颗卫星与地球的距离各不相同。
+
+De närmsta befinner sig ungefär 2000 km ovanför jorden. 
+The closest are about 2000 km above the Earth. 
+最近的离地球约 2000 千米。
+
+De som är längst bort är nästan 40 000 km härifrån. 
+The furthest ones are almost 40 000 km away. 
+最远的卫星距离地球将近 4 万公里。
+
+När man tittar upp på himlen en stjärnklar kväll kan man se satelliter utan att ha kikare. 
+When you look up at the sky on a starry night, you can see satellites without binoculars. 
+在繁星闪烁的夜晚仰望星空，不用望远镜也能看到卫星。
+
+De ser ut som små stjärnor som rör sig snabbt över himlen.
+They look like small stars moving quickly across the sky.
+它们看起来就像在天空中快速移动的小星星。
+
+Satelliterna lyser förstås inte av sig själva, de reflekterar solljuset.
+Of course, satellites don't shine by themselves, they reflect sunlight.
+当然，卫星本身不会发光，它们会反射阳光。
+
+Det var på satelliter man började använda solceller. Man ville kunna ladda upp batterier i rymden.
+Solar cells were first used on satellites. They wanted to be able to recharge batteries in space.
+太阳能电池最早是用在卫星上的。他们希望能够在太空中为电池充电。
+

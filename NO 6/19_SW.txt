@@ -1,0 +1,29 @@
+Att mäta avstånd
+
+För att mäta avstånd i rymden skickar man ut starka ljussignaler med till exempel laser. 
+
+Signalerna studsar på himlakroppen och kommer tillbaka. Eftersom vi vet hur snabbt ljuset rör sig kan vi då räkna ut avståndet.
+
+Ett annat sätt att bestämma större avstånd är att ta bilder med teleskop. 
+
+Då tar man bilder på samma del av himlen vid olika tidpunkter och jämför sedan bilderna. 
+
+Eftersom man känner till avståndet till vissa av himlakropparna kan man räkna ut avståndet till andra,
+mer avlägsna, genom att se hur de har rört sig i förhållande till varandra och till jorden. 
+Med de allra största teleskopen har astronomerna kunnat se himlakroppar som ligger 10 miljarder ljusår bort.
+
+Rymdteleskopet Hubble används för rymdforskning. Det sändes upp år 1990 och rör sig i en bana 600 km ovanför jordytan.
+
+Det här teleskopet i Kalifornien, USA, var det största som fanns när det byggdes för mer än hundra år sedan.
+Det används fortfarande för att studera universum.
+
+Himlakroppars storlek
+Det är alltså svårt att förstå de stora avstånden i universum. 
+Lika svårt är det att förstå hur stora himlakropparna är. 
+Är jorden större än månen? Hur stor är solen? Hur liten är jorden i solsystemet?
+Ja, månen är betydligt mindre än jorden. Det skulle behövas 50 månklot för att fylla upp jordklotet. 
+Men skillnaden mellan jorden och solen är mycket, mycket större än så. 
+Eftersom solen är så långt bort ser den liten ut när man tittar upp på himlen. 
+Men för att fylla upp solen skulle det behövas mer än en miljon jordklot!
+
+solen jorden

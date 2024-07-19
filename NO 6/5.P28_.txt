@@ -1,0 +1,628 @@
+P 028
+
+Rörelse och kraft
+Movement and power
+运动与力量
+
+Kan månen dra i haven på jorden?
+Can the moon pull the oceans on Earth?
+月球能拉动地球上的海洋吗？
+
+Varför har fotbollskor dobbar?
+Why do football boots have studs?
+为什么足球鞋上有钉子？
+
+Faller stora stenar snabbare än små?
+Do big rocks fall faster than small ones?
+大石头比小石头落得快吗？
+
+Varför snurrar släggkastaren runt inna hon kastar iväg sin slägga?
+Why does the sledgehammer thrower spin around before throwing her sledgehammer?
+为什么掷大锤的人在掷出大锤之前要转一圈？
+
+VI ÄR SÅ vana vid hur vissa saker är, att vi inte tänker på varför det är så. 
+WE ARE SO used to the way some things are, that we don't think about why that is. 
+我们已经习惯了某些事物的存在方式，所以不会去想为什么会这样。
+
+Som att en sten man kastar rakt upp i luften snart kommer ner igen. 
+Like a stone thrown straight up in the air will soon come down again. 
+就像一块石头直直地抛向空中，很快又会落下来。
+
+Men varför ramlar stenen ner? Varför fortsätter den inte rakt ut i rymden istället? 
+But why does the stone fall down? Why doesn't it continue straight into space instead? 
+但石头为什么会落下来呢？为什么它不直接进入太空呢？
+
+Om du åker skridskor har du säkert känt den härliga känslan av att kunna glida jättelångt på isen. 
+If you're an ice skater, you've probably experienced that wonderful feeling of being able to glide for miles on the ice. 
+如果你是溜冰爱好者，你可能体验过在冰面上滑行数英里的美妙感觉。
+
+Men oavsett hur mycket fart du tar, så stannar du till slut. Varför då?
+But no matter how fast you go, you eventually stop. So why stop?
+但无论你滑得多快，最终都会停下来。那么，为什么要停下来呢？
+
+Mål
+Goals
+目标
+
+När du har arbetat med det här kapitlet ska du
+After working on this chapter, you should
+学习完本章后，你应该
+
+veta vad som menas med en rörelse genom att ge exempel på hastighet, acceleration och fritt fall
+know what is meant by a movement by giving examples of speed, acceleration and free fall
+通过举例说明速度、加速度和自由落体运动，了解运动的含义
+
+kunna ge exempel på krafter som påverkar dig i vardagen
+be able to give examples of forces that affect you in everyday life
+能够举例说明日常生活中对你产生影响的力
+
+kunna förklara gravitationskraft med exempel
+be able to explain gravitational force with examples
+能够举例解释重力
+
+veta vad som menas med tyngdpunkt och stödyta
+know what is meant by center of gravity and support surface
+知道重心和支撑面的含义
+
+kunna förklara friktionskraft med exempel
+be able to explain friction force with examples
+能够举例解释摩擦力
+
+kunna förklara vad en cirkelrörelse är
+be able to explain what a circular motion is
+能够解释什么是圆周运动
+
+känna till att krafter och rörelser kan mätas.
+know that forces and motions can be measured.
+认识到力和运动是可以测量的。
+
+
+P 030
+
+Rörelse
+Movement
+运动
+
+En motionär joggar förbi dig, en bil passerar ett övergångsställe. En fågel dyker efter något på marken. 
+A jogger jogs past you, a car passes a pedestrian crossing. A bird dives for something on the ground. 
+一个慢跑者从你身边慢跑而过，一辆汽车驶过人行横道。一只鸟儿俯冲向地上的东西。
+
+Du cyklar i en behaglig fart samtidigt som jorden snurrar runt solen och roterar runt sin egen axel.
+You ride your bike at a comfortable speed while the earth spins around the sun and rotates on its own axis.
+你以舒适的速度骑着自行车，地球绕着太阳自转。
+
+Allt rör sig. Rörelse betyder att något flyttar på sig på något sätt.
+Everything is moving. Movement means that something is moving in some way.
+一切都在运动。运动是指某物以某种方式在移动。
+
+Hastighet
+Speed
+速度
+
+En cykeltur runt sjön tar kanske två timmar. Vilken fart cyklar du med? 
+A bike ride around the lake takes maybe two hours. What speed do you cycle at? 
+环湖骑车可能需要两个小时。你骑车的速度是多少？
+
+För att svara på den frågan måste du veta hur långt det är runt sjön. 
+To answer that question, you need to know how far it is around the lake. 
+要回答这个问题，你需要知道环湖有多远。
+
+Låt säga att det är 30 km. Då cyklar du 30 km på 2 timmar. Det blir 15 km på en timme, det vill säga 15 km/h.
+Let's say it's 30 km. Then you cycle 30 km in 2 hours. That's 15 km in one hour, or 15 km/h.
+假设是 30 公里。那么您在 2 小时内骑行 30 公里。也就是说，1 小时骑 15 千米，即 15 千米/小时。
+
+När man anger hur fort något rör sig så kallas det fart eller hastighet. 
+When you indicate how fast how fast something is moving, it is called speed or velocity. 
+当您表示某物的速度有多快时，它被称为速度或速率。
+
+Cyklar du lika fors hela tiden? Troligen inte. 
+Do you cycle as fast all the time? Probably not. 
+你骑自行车的速度一直都是这么快吗？可能不会。
+
+Du bromsar in vid vägkorsningar och farten i nerförsbacke eller på en raksträcka. 
+You slow down at junctions and speed up when going downhill or on a straight stretch. 
+你会在路口减速，在下坡或直道上加速。
+
+Farten 15 km/h är alltsa ett genomsnittligt värde, en medelfart eller en medelhastighet.
+The speed of 15 km/h is therefore an average value, an average speed or an average speed.
+因此，每小时 15 公里的速度是一个平均值、平均速度或平均速度。
+
+Enheter för hastighet
+Units of speed
+速度单位
+
+Hastigheter anges alltid med en enhet för sträcka/tid. De vanligaste enheterna är kilometer per timme (km/h) eller meter per sekund (m/s). 
+Speeds are always expressed in distance/time units. The most common units are kilometers per hour (km/h) or meters per second (m/s). 
+速度总是用距离/时间单位表示。最常用的单位是公里/小时（km/h）或米/秒（m/s）。
+
+När man kör bil anges hastigheten i km/h på hastighetsmätaren och på vägskyltar. 
+When driving a car, the speed is indicated in km/h on the speedometer and on road signs. 
+驾驶汽车时，速度表和路标上的速度单位是公里/小时。
+
+Vanliga hastighetsbegränsningar är 100 km/h på motorväg, 60 km/h på mindre vägar och 30 km/h utanför skolor och i villaområden.
+Common speed limits are 100 km/h on highways, 60 km/h on minor roads and 30 km/h outside schools and in residential areas.
+常见的限速为高速公路 100 公里/小时，小路 60 公里/小时，学校外和居民区 30 公里/小时。
+
+Acceleration
+Acceleration
+加速
+
+Racerbilarna står alldeles stilla på startlinjen. Pang! Startskottet smäller. 
+The race cars stand still on the starting line. Bang! The starting gun goes off. 
+赛车在起跑线上静止不动。砰 发令枪响。
+
+Efter ett par sekunder är hastigheten över 100 km/h och efter ytterligare några sekunder är alla bilar uppe i hastigheter över 300 km/h. 
+After a few seconds the speed is over 100 km/h and after a few more seconds all cars are up to speeds over 300 km/h. 
+几秒钟后，速度超过每小时 100 公里，再过几秒钟，所有赛车的速度都超过每小时 300 公里。
+
+Att öka sin hastighet kallas för att accelerera. Att bromsa in kallas i stället för att retardera.
+Increasing your speed is called accelerating. Decelerating is called decelerating instead.
+提高速度称为加速。减速则称为减速。
+
+Hastighetsmätaren visar att bilen kör i 120 km/h. 
+The speedometer shows that the car is traveling at 120 km/h. 
+车速表显示汽车以每小时 120 公里的速度行驶。
+
+En cykel kan accelerera i nerförsbacke.
+A bicycle can accelerate downhill.
+自行车可以在下坡时加速。
+
+Usain Bolt har sprungit 100 meter på 9,58 sekunder. Det motsvarar hastigheten 38 km/h.
+Usain Bolt has run 100 meters in 9.58 seconds. This corresponds to a speed of 38 km/h.
+尤塞恩-博尔特在 9.58 秒内跑完 100 米。这相当于每小时 38 千米的速度。
+
+
+P 031
+
+Fritt fall
+Free fall
+自由落体
+
+Den italienske vetenskapsmannen Galileo Galilei levde för 400 år sedan.
+Italian scientist Galileo Galilei lived 400 years ago. 
+意大利科学家伽利略-伽利莱生活在 400 年前。
+ 
+Han undersökte hur hastigheten ändrades hos ett föremål som fick falla fritt ner. 
+He investigated how the speed of an object changed when it was allowed to fall freely. 
+他研究了物体自由下落时速度的变化。
+
+Den rörelsen kallas för fritt fall. Det sägs att han stod högst upp i lutande tornet i Pisa och lät olika tunga föremål falla samtidigt. 
+This movement is called free fall. It is said that he stood at the top of the Leaning Tower of Pisa and allowed various heavy objects to fall simultaneously. 
+这种运动被称为自由落体运动。据说，他站在比萨斜塔顶端，让各种重物同时下落。
+
+Han kom fram till det häpnadsväckande resultatet att alla dessa föremål även landade samtidigt. 
+He came up with the astonishing result that all these objects also landed at the same time. 
+他得出了一个惊人的结果：所有这些物体也同时落地。
+
+Tidigare trodde man att tunga föremål föll snabbare än lätta.
+Previously, it was thought that heavy objects fell faster than light ones.
+在此之前，人们认为重物比轻物下落得更快。
+
+Galilei mätte också hur snabbt ett fallande föremål accelererade. Det visade sig att hastigheten ökar lika mycket för varje sekund det faller. 
+Galileo also measured how fast a falling object accelerated. It turned out that the speed increases equally for every second it falls. 
+伽利略还测量了下落物体的加速度。结果发现，物体每下落一秒钟，速度就会增加一倍。
+
+Det betyder att accelerationen för ett föremål som faller fritt är lika stor hela tiden. Den kallas för tyngdacceleration.
+This means that the acceleration of a free-falling object is the same all the time. This is called gravitational acceleration.
+这意味着自由落体的加速度在任何时候都是相同的。这就是所谓的重力加速度。
+
+I många nöjesparker finns åkattraktioner som kallas Fritt fall. 
+In many amusement parks there are rides called Free Fall. 
+在许多游乐园里，都有名为 "自由落体 "的游乐设施。
+
+Man åker ner med hög hastighet, men det är inte något fritt fall eftersom man inte faller fritt ner.
+You go down at high speed, but it's not a free fall because you don't free fall.
+你会高速坠落，但这不是自由落体，因为你不是自由落体。
+
+SEGELFISKEN är förmodligen världens snabbaste fisk. Den kan simma i hela 110 km/h. 
+The sailfish is probably the fastest fish in the world. It can swim at 110 km/h. 
+旗鱼可能是世界上速度最快的鱼。它能以每小时110公里的速度游动 
+
+Det matchar det snabbaste djuret på land. 
+That matches the fastest animal on land. 
+与陆地上最快的动物不相上下 
+
+Segelfisken lever i tropiska vatten och använder sin ryggfena till att driva ihop fiskstim när den jagar.
+The sailfish lives in tropical waters and uses its dorsal fin to herd schools of fish when hunting.
+旗鱼生活在热带水域，捕食时用背鳍驱赶鱼群。
+
+GEPARDEN springer korta sträckor med hastigheten 120 km/h. De är så snabba i starten att de skulle kunna springa ifrån en racerbil.
+The cheetah runs short distances at speeds of 120 km/h. They are so fast at the start that they could outrun a racing car.
+猎豹以每小时 120 公里的速度进行短距离奔跑。它们在起跑时速度极快，可以超过一辆赛车。
+
+Men geparder är inte speciellt uthålliga och kan bara hålla så hög hastighet i ungefär 500 meter.
+But cheetahs don't have much stamina and can only maintain this speed for about 500 meters.
+但猎豹的耐力并不强，只能将这一速度保持 500 米左右。
+
+PILGRIMSFALKEN är världens snabbaste fågel. Den kan nå en hastighet på 320 km/h när den dyker. 
+The PILGRIMSFALK is the fastest bird in the world. It can reach speeds of 320 km/h when it dives. 
+飞燕是世界上速度最快的鸟。它俯冲时的时速可达 320 公里。
+
+Det gör att den är det snabbaste djuret av alla. 
+That makes it the fastest animal of all. 
+这使它成为速度最快的动物。
+
+Med den enorma hastigheten dyker den ner på sitt byte som dör direkt av smällen.
+At this enormous speed, it dives down on its prey, which dies instantly from the impact.
+它以如此快的速度俯冲向猎物，猎物在撞击中当场死亡。
+
+
+P 032
+
+Vad är en kraft?
+Gravitational force
+什么是力？
+
+Hur får man något att röra sig framåt, stanna eller ändra riktning? 
+How do you make something move forward, stop or change direction? 
+如何让物体前进、停止或改变方向？
+
+För det behövs en kraft. Krafter finns alltid och överallt. 
+For that you need a force. Forces are always and everywhere. 
+这就需要一种力。力无处不在。
+
+Man kan säga att en kraft drar i något eller skjuter på. 
+You could say that a force pulls or pushes something.
+可以说，力会拉或推某个东西。
+
+För att någonting ska accelerera eller bromsa in måste föremålet påverkas av en kraft.
+For something to accelerate or decelerate, it needs to be affected by a force.
+物体要加速或减速，就需要受到力的影响。
+
+Vi kan inte se en kraft, men vi kan se resultatet av den.
+We can't see a force, but we can see the result of it.
+我们看不到力，但可以看到力的结果。
+
+Vissa krafter kan påverka ett föremål på avstånd.
+Some forces can affect an object from a distance.
+有些力可以从远处影响物体。
+
+Gravitationskraft
+Gravitational force
+引力
+
+Hur kraft och rörelse hänger ihop kom en engelsk vetenskapsman på i slutet av 1600-talet. Han hette Isaac Newton. 
+The relationship between force and motion was discovered by an English scientist in the late 17th century. His name was Isaac Newton. 
+力与运动之间的关系是由一位英国科学家在 17 世纪末发现的。他的名字叫艾萨克-牛顿。
+
+Det berättas att Newton satt under ett äppelträd och funderade på varför äpplena föll mot marken. 
+It is said that Newton sat under an apple tree and wondered why apples fell to the ground.
+据说，牛顿坐在一棵苹果树下，想知道为什么苹果会掉到地上。
+
+Han upptäckte alltså inte att allt faller till marken, det visste man förstås sedan tidigare. 
+He didn't discover that everything falls to the ground, as that was already known.
+他并没有发现所有东西都会落地，因为人们已经知道了这一点。
+
+Hans viktiga upptäckt var att samma typ av kraft som drar äpplet till jorden också håller himlakropparna i sina banor. 
+His important discovery was that the same kind of force that pulls the apple to the ground also keeps the celestial bodies in their orbits. 
+他的重要发现是，把苹果拉到地上的同一种力也使天体保持在自己的轨道上。
+
+Vi kallar den här kraften för dragningskraft eller gravitationskraft.
+We call this force gravitational attraction or gravity.
+我们称这种力为引力或万有引力。
+
+Gravitationskraften har avgörande betydelse för vårt liv på jorden.
+Gravity is crucial to our life on Earth.
+引力对我们在地球上的生活至关重要。
+
+Den gör att vi håller oss kvar på jorden och att ett föremål som vi tappar ramlar ner på marken. 
+It keeps us on Earth and ensures that an object we drop falls to the ground. 
+它使我们留在地球上，并确保我们掉落的物体落到地面上。
+
+Allt som väger något påverkas av gravitationskraften. Hur stor kraften är beror på hur mycket något väger.
+Anything that weighs something is affected by gravity. The amount of force depends on how much something weighs.
+任何重物都会受到重力的影响。重力的大小取决于物体的重量。
+
+I dag använder vi Newtons namn som enhet för kraft. 
+Today we use Newton's name as the unit of force. 
+今天，我们使用牛顿的名字作为力的单位。
+
+Om du väger 48 kg så påverkar jorden dig med en gravitationskraft på ungefär 480 Newton, som också skrivs 480 N.
+If you weigh 48 kg, the Earth affects you with a gravitational force of about 480 Newtons, also written 480 N.
+如果你重 48 千克，地球对你的引力约为 480 牛顿，也写作 480N。
+
+Isaac Newton funderade på varför äpplena föll mot marken.
+Isaac Newton wondered why the apples fell to the ground.
+艾萨克-牛顿想知道为什么苹果会掉到地上。
+
+En kraft kan också få något att ändra form.
+A force can also make something change shape.
+力还可以使物体改变形状。
+
+Fundera
+Think about it
+想一想
+
+? Hur märker man att krafter finns när man tappar något, när man spelar tennis eller när man slår på en boxboll?
+? How do you notice that forces are present when you drop something, when you play tennis or when you hit a boxing ball?
+? 当你摔东西、打网球或击打拳击时，如何识别力的存在？
+
+
+P 033
+
+Eftersom gravitationskraften ”drar” kroppar mot varandra, kallas den ibland för dragningskraft. 
+Because the force of gravity 'pulls' bodies towards each other, it is sometimes called the force of attraction. 
+由于万有引力会将物体 "拉 "向对方，因此有时也被称为吸引力。
+
+Den kan också kallas för tyngdkraft.
+It can also be called gravity.
+它也可以称为重力。
+
+Solsystemets krafter
+Forces of the solar system
+太阳系的力
+
+Gravitationskraften verkar mellan två kroppar, hur små och lätta de än är.
+The gravitational force acts between two bodies, no matter how small and light they are. 
+引力作用于两个物体之间，无论它们多么小、多么轻。
+
+Men för att kraften ska märkas måste minst en av dem vara väldigt stor och tung. 
+But for the force to be felt, at least one of them must be very large and heavy. 
+但要感受到引力，其中至少有一个物体必须非常大、非常重。
+
+Jorden är tillräckligt stor och tung för att gravitationskraften ska bli märkbar. 
+The Earth is big and heavy enough for the gravitational force to be felt. 
+地球又大又重，足以让人感受到引力。
+
+Jorden påverkar månen med en gravitationskraft som håller månen i en nästan cirkelrund bana runt jorden. 
+The Earth affects the Moon with a gravitational force that keeps the Moon in an almost circular orbit around the Earth. 
+地球以引力影响月球，使月球保持在几乎环绕地球的轨道上。
+
+Solen är en jätte i vårt solsystem och påverkar alla himlakroppar i solsystemet. 
+The Sun is a giant in our solar system and influences all the celestial bodies in the solar system. 
+太阳是太阳系中的巨人，影响着太阳系中的所有天体。
+
+Med gravitationskraften håller solen alla sina planeter i bestämda banor.
+With its gravitational pull, the Sun keeps all its planets in specific orbits.
+太阳以其引力将所有行星保持在特定的轨道上。
+
+Alla kroppar påverkar varandra med gravitationskraft. 
+All bodies influence each other with gravitational force. 
+所有天体都在引力的作用下相互影响。
+
+Ju närmare kropparna är och ju större de är, desto större är gravitationskraften mellan dem. 
+The closer the bodies are and the bigger they are, the greater the gravitational force between them. 
+距离越近、体积越大的天体之间的引力就越大。
+
+Stenarna påverkas mer av jordens gravitationskraft än av varandras, eftersom jorden är så stor. Därför ligger de stilla.
+The rocks are more affected by the Earth's gravitational pull than by each other's, because the Earth is so big. This is why they are stationary.
+岩石受地球引力的影响比受彼此引力的影响更大，因为地球太大了。这就是它们静止不动的原因。
+
+Tidvatten
+Tides
+潮汐
+
+Månen är vår närmaste himlakropp. Den påverkar oss med sin gravitationskraft på ett märkbart sätt. 
+The Moon is our closest celestial body. It affects us with its gravitational pull in a noticeable way.
+月球是离我们最近的天体。它的引力对我们有明显的影响。
+
+Kraften är så stor att den försöker forma om jorden. 
+The force is so strong that it tries to reshape the Earth. 
+它的引力如此强大，以至于试图重塑地球。
+
+Jordskorpan är hård och stabil och behåller sin form, men vattnet i haven påverkas. 
+The Earth's crust is hard and stable and keeps its shape, but the water in the oceans is affected. 
+地球的地壳坚硬稳定，保持着自己的形状，但海洋中的水却受到了影响。
+
+Vi märker det knappast i haven kring Sverige, bland annat på grund av att vi inte har så djupa hav.
+We hardly notice it in the seas around Sweden, partly because we don't have very deep seas.
+在瑞典附近的海域，我们几乎察觉不到这种影响，部分原因是我们没有很深的海域。
+
+Men lite längre söderut, som i Storbritannien eller Frankrike, sjunker havet undan och kommer tillbaka två gånger varje dygn. 
+But a little further south, like in the UK or France, the sea recedes and comes back twice a day.
+但在更南边一点的地方，比如英国或法国，海水每天会退潮两次。
+
+Det kallas för tidvatten.
+This is called a tide.
+这就是所谓的潮汐。
+
+När vattnet stiger kallas det flod och när vattnet sjunker undan kallas det ebb. 
+When the water rises, it is called a flood and when the water recedes, it is called an ebb. 
+水位上涨时称为洪水，水位退去时称为退潮
+
+Som mest kan skillnaden i vattenståndet mellan ebb och flod vara mer än tio meter. 
+At most, the difference in water level between ebb and flood can be more than 10 meters. 
+退潮和洪水之间的水位差最多可超过 10 米。
+
+På flera ställen på jorden kan vattnet i hamnar och kanaler försvinna helt vid lågvatten så att båtarna ligger kvar på en torr botten. 
+In many parts of the world, the water in ports and canals can disappear completely at low tide, leaving boats on a dry bottom. 
+在世界许多地方，港口和运河中的水在退潮时会完全消失，船只只能停在干涸的河底。
+
+Därför är det viktigt för fiskare, fritidsseglare och sjömän att känna till när det blir ebb och flod.
+It is therefore important for fishermen, recreational sailors and seafarers to know when the tide is out.
+因此，对于渔民、休闲水手和海员来说，了解退潮时间非常重要。
+
+För att informera och undvika olyckor har man mätt vattenståndet under ett antal år och gjort tabeller som ger tider för ebb och flod och tillhörande vattenstånd.
+To inform and avoid accidents, water levels have been measured over a number of years and tables have been drawn up giving the times of ebb and flood and the associated water levels.
+为了提供信息和避免事故，多年来一直对水位进行测量，并绘制了退潮和洪水时间及相关水位的表格。
+
+
+P 034
+
+Friktionskraft
+Frictional force
+摩擦力
+
+Det finns fler krafter än gravitationskraften. En av de krafter som vi både behöver och ibland vill bli av med är friktionskraften. 
+There are more forces than gravity. One of the forces that we both need and sometimes want to get rid of is the force of friction. 
+除了重力，还有更多的力。我们既需要，有时又想摆脱的一种力就是摩擦力。
+
+Det är kraften mellan två ytor som gnids mot varandra. Friktionskraften bromsar, men kan också hjälpa ett föremål att få fart. 
+It is the force between two surfaces rubbing against each other. The friction force slows down, but can also help an object gain speed. 
+它是两个表面之间的摩擦力。摩擦力会减慢物体的速度，但也能帮助物体提高速度。
+
+Hur stor friktionen är beror bland annat på underlaget och omgivningen.
+The amount of friction depends on factors such as the surface and the environment.
+摩擦力的大小取决于表面和环境等因素。
+
+Nästan alla ytor är ojämna. På vissa ytor känner man det tydligt, som till exempel sandpapper eller betong.
+Almost all surfaces are uneven. On some surfaces, such as sandpaper or concrete, you can feel it clearly.
+几乎所有的表面都是不平整的。在某些表面上，例如砂纸或混凝土，你可以清楚地感觉到。
+
+Andra ytor kan kännas mer lena och släta, som till exempel is, slipade stenar eller glas. 
+Other surfaces may feel smoother, such as ice, polished stones or glass. 
+表面越不平整，摩擦力就越大。在冰面上比在水泥地上更容易滑动。
+
+Ju mer ojämn en yta är, desto större blir friktionen. Det går lättare att glida på is än på betong.
+The more uneven a surface is, the greater the friction. It is easier to slide on ice than on concrete.
+表面越不平整，摩擦力就越大。在冰面上比在水泥地上更容易滑动。
+
+Ibland vill man minska friktionen
+Sometimes you want to reduce friction
+有时您想减少摩擦
+
+Om du har paddlat kajak någon gång, vet du hur lätt man kan öka farten med några få paddeltag.
+If you've ever kayaked, you know how easily you can increase your speed with just a few strokes.
+如果您划过皮划艇，您就会知道只需划动几下就能轻松提高速度。
+
+För att det ska bli så vill man ha så lite friktion som möjligt under båten.
+To make this happen, you want as little friction as possible under the boat.
+要做到这一点，您需要尽可能减少船底的摩擦力。
+
+Därför bygger man båtar med smal undersida och spetsig för, så att de ska skära genom vågorna och glida fram på vattnet så smidigt som möjligt.
+That's why they build boats with narrow bottoms and pointed prows, so they cut through the waves and glide through the water as smoothly as possible.
+这就是为什么他们要把船造得底部窄、船头尖，这样它们就能穿过海浪，尽可能平稳地在水中滑行。
+
+När du cyklar är det lätt att känna friktionen som luftmotståndet ger.
+When you ride a bike, it's easy to feel the friction caused by air resistance.
+当你骑自行车时，很容易感受到空气阻力造成的摩擦。
+
+Motvind ökar friktionen ännu mer. Tävlingscyklister har hjälmar som är specialbyggda för att minska luftmotståndet.
+Headwinds increase friction even more. Competitive cyclists wear helmets that are specially designed to reduce drag.
+逆风会进一步增加摩擦力。竞技自行车运动员佩戴的头盔就是为减少阻力而专门设计的。
+
+På is glider du lättare med skridskor än med skor. 
+On ice, you glide more easily with skates than with shoes. 
+在冰面上，穿溜冰鞋比穿鞋更容易滑行。
+
+Kontaktytan med isen blir mycket mindre med skridskornas blad, och dessutom är skridskobladet blankt och hårt. 
+The contact area with the ice is much smaller with the blade of the skates, and the blade is shiny and hard. 
+溜冰鞋的鞋刃与冰面的接触面积要小得多，而且溜冰鞋的鞋刃又亮又硬。
+
+Då blir friktionen mot isen mindre. För att få bättre glid på skidor kan du lägga valla på skidornas undersida.
+This reduces friction against the ice. To improve the glide of your skis, you can put wax on the underside of your skis.
+这就减少了与冰面的摩擦。为了提高滑雪板的滑行性能，您可以在滑雪板底部打蜡。
+
+Curling är en sport som man utövar på isen. Spelet går ut på att få en speciell sten att glida på isen och stanna i boet, mitt i cirkeln. 
+Curling is a sport played on ice. The object of the game is to make a special stone slide on the ice and stay in the nest, in the center of the circle. 
+冰壶是一项在冰上进行的运动。比赛的目的是让一块特殊的石头在冰上滑动，并停留在圆圈中心的窝里。
+
+Spelarna får sopa med kvastar framför stenen för att styra den och få den att glida längre. 
+Players sweep brooms in front of the stone to guide it and make it slide further. 
+运动员用扫帚在石头前方扫动，以引导它滑得更远。
+
+Curlingspelarna har dessutom skor med glidsula.
+Curlers also wear shoes with a non-slip sole.
+冰壶运动员还要穿防滑鞋底的鞋子。
+
+
+
+P 035
+
+Ibland vill man öka friktionen
+Sometimes you want to increase friction
+有时需要增加摩擦力
+
+I skidspårets uppförsbacke vill man ha mycket friktion för att slippa halka bakåt. 
+When skiing uphill, you want a lot of friction to avoid slipping backwards. 
+在上坡滑雪时，您需要增加摩擦力以避免后滑。
+
+Därför lägger man en annan slags valla mitt på skidan, precis under foten. 
+So you put a different kind of wax in the middle of the ski, just under your foot. 
+因此，您需要在滑雪板的中央，也就是您的脚下涂上不同的蜡。
+
+När man går uppför tynger man ner skidan där och får fäste.
+When you go uphill, you weigh the ski down there and get a grip.
+上坡时，滑雪板就会在那里受力，从而获得抓地力。
+
+När man ska bromsa med bilen vill man också ha mycket friktion. Man vill kunna stanna så fort som möjligt.
+When braking with the car, you also want a lot of friction. You want to be able to stop as quickly as possible.
+汽车制动时，你也需要大量的摩擦力。你希望能够尽快停下来。
+
+För att slippa halka och glida på hala vägar kan man skapa mer friktion med vinterdäck som ger bättre fäste mot vägen. 
+To avoid slipping and sliding on slippery roads, you can create more friction with winter tires that provide better grip on the road. 
+为了避免在湿滑的路面上打滑，您可以使用冬季轮胎来产生更大的摩擦力，使轮胎在路面上有更好的抓地力。
+
+Vinterdäcken har större mönsterdjup, en ojämn yta som griper fast i snö och is. 
+Winter tires have more tread depth, an uneven surface that grips snow and ice. 
+冬季轮胎的胎面深度更大，表面凹凸不平，可以抓牢冰雪。
+
+Vissa däck har dubbar av metall som ger ännu bättre grepp på riktigt hala vägar.
+Some tires have metal studs that provide even better grip on really slippery roads.
+有些轮胎带有金属钉，在非常湿滑的路面上能提供更好的抓地力。
+
+Man kan även ha dubbar på skorna för att inte halka när man är ute och går på vintern. 
+You can also wear studs on your shoes to prevent slipping when walking in winter. 
+您也可以在鞋子上打上鞋钉，防止冬天走路时打滑。
+
+Fotbollsskor har ett slags stift eller spikar, dobbar, för att ge bra grepp på gräsplanen. 
+Football boots have a kind of studs or spikes, called studs, to provide good grip on the pitch. 
+足球鞋上有一种称为 "鞋钉 "的钉子或鞋钉，可以在球场上提供良好的抓地力。
+
+Med bra grepp kan man göra snabba stopp, byta riktning och få fäste för att springa efter bollen.
+With good grip, you can make quick stops, change direction and gain traction to run after the ball.
+有了良好的抓地力，您就可以快速停球、改变方向并获得抓地力来追球。
+
+Utan friktion
+Without friction
+没有摩擦力
+
+Vi har svårt att tänka oss en värld utan friktion. 
+We find it hard to imagine a world without friction. 
+我们很难想象一个没有摩擦力的世界。
+
+Om det inte fanns någon friktion skulle man fortsätta glida hela tiden när man väl fått fart. 
+If there was no friction, you would keep sliding all the time once you gained speed. 
+如果没有摩擦力，一旦速度加快，你就会一直滑动。
+
+Men det skulle inte gå att få fart eftersom man inte skulle ha något fäste. 
+But you wouldn't be able to gain speed because you would have no grip. 
+但你无法获得速度，因为你没有立足点。
+
+Ja, du hör själv att det är mycket svårt att tänka sig.
+Yes, you hear yourself that it is very hard to imagine.
+是的，你听到自己说这很难想象。
+
+I universums vakuum finns det ingen friktion. Det finns ingen luft eller något annat som stoppar upp.
+In the vacuum of the universe, there is no friction. There is no air or anything else to stop it.
+在宇宙真空中，没有摩擦。没有空气或其他任何东西来阻止它。
+
+Bollen skulle fortsätta framåt i all evighet om det inte fanns någon kraft som bromsade den. 
+The ball would continue to move forward forever if there was no force to slow it down. 
+如果没有任何力量使球减速，它就会一直运动下去。
+
+Friktionskraften här består av luftmotstånd och friktion mot underlaget.
+The frictional force here is made up of air resistance and friction against the surface.
+这里的摩擦力包括空气阻力和表面摩擦力。
+
+När kontaktytor rör sig mot varandra omvandlas friktionen till energi i form av värme. 
+When contact surfaces move against each other, friction is converted into energy in the form of heat. 
+当接触面相互运动时，摩擦力会以热能的形式转化为能量。
+
+Man utnyttjar den värmen när man tänder en tändsticka. Det lättantändliga ämnet på tändstickan gnids mot ett skrovligt plån. 
+You use this heat when you light a match. The flammable substance on the match is rubbed against a rough surface.
+当你点燃火柴时，就利用了这种热量。火柴上的易燃物与粗糙的表面摩擦。
+
+Friktionen skapar gnistor som tänder stickan.
+The friction creates sparks that light the match.
+摩擦产生的火花点燃了火柴。
+
+För att öka friktionen har vinterdäck till bilar större mönsterdjup eller dubbar. 
+To increase friction, winter car tires have larger tread depths or studs. 
+为了增加摩擦力，冬季汽车轮胎的胎面深度或胎钉更大。
+
+På däck till traktorer kan man istället sätta på snökedjor.
+Tractor tires can be fitted with snow chains instead.
+拖拉机轮胎则可安装雪链。
+
+Fundera
+Think about it
+想想看
+
+Om du gnuggar dina händer mot varandra blir de varma.
+If you rub your hands together, they get warm.
+如果您将双手放在一起摩擦，它们会变热。
+
+?Vad tror du det kan vara för kraft?
+?What do you think the force might be
+您认为力可能是多少？

@@ -1,0 +1,39 @@
+Center of gravity
+
+Why is it difficult to keep your balance when standing on one leg or riding a unicycle? 
+Well, it's because you have a very small support surface against the ground. 
+To avoid tipping, you need to position your center of gravity very precisely, just above the support surface. All objects have a center of gravity. 
+If an object has a simple shape and is made of the same material, for example a brick, the center of gravity is right in the middle. 
+The center of gravity is the point in the object where the gravitational force pulls. 
+In physics, we sometimes want to show the forces that affect an object. 
+This is done by drawing a force arrow that starts from the imaginary center of gravity.
+
+Force and counterforce
+
+You are standing with an apple in your hand. 
+If you let go of the apple, it falls to the ground because of the Earth's gravitational force. 
+This force pulls on the apple even if you hold it. 
+The apple doesn't fall because you are holding it with an equal, upward force, a counteracting force.
+
+A counterforce, such as friction, acts on something that moves. Sometimes you benefit from the counterforce. 
+When you swim and push the water backwards, it is the counterforce of the water that makes you move forward.
+When a rocket takes off, the same thing happens: the burning gas fuel is pushed downwards and the counterforce lifts the rocket upwards.
+
+Support surface. 
+
+For an object to be stable, its center of gravity must be directly above the support surface, otherwise the object will tip. 
+When you ride a unicycle, you have such a small support surface that it is easy to wobble.
+This puts your center of gravity outside the support surface. This is why it is difficult to ride a unicycle without falling. 
+
+counteracting force. gravitational force
+
+The apple is affected by a counteracting force from the hand. Without it, the apple would fall through the hand.
+The gravitational force, of course, pulls on every little part of the apple. 
+To show how it acts, draw an arrow of force starting from the center of the apple, the apple's center of gravity. 
+
+Counterforce. force.
+
+If you are sitting in a boat and want to push it off the dock, you push against the edge of the dock. 
+It is the counterforce that makes the boat move.
+
+Translated with DeepL.com (free version)
