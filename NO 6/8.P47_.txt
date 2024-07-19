@@ -5,8 +5,8 @@ Life on land
 陆地上的生命
 
 Det första livet på land var växterna, till exempel lummer och ormbunksliknande växter som växte i strandkanter. 
-The first life on land was plant life, such as the bulrushes and fern-like plants that grew on the edges of beaches. 
-陆地上最早的生命是植物，如生长在海岸线上的牛筋草和蕨类植物。
+The first life on land was plant life, such as the Lycophyte and fern-like plants that grew on the edges of beaches. 
+陆地上最早的生命是植物，如生长在海岸线上的狼尾草属植物(石蒜科)和蕨类植物。
 
 Först när det fanns växter på land blev det möjligt för djur att leva där. 
 Only when there were plants on land did it become possible for animals to live there. 
@@ -22,7 +22,7 @@ Arthropods were the first animals to live above the water surface.
 
 Det var till exempel hoppstjärtar, skorpioner och spindeldjur. 
 These included springtails, scorpions and arachnids. 
-这些动物包括弹簧虫、蝎子和蛛形纲动物。
+这些动物包括跳虫、蝎子和蛛形纲动物。
 
 Förutom att vara först på land var leddjuren även först i luften som flygande insekter.
 As well as being first on land, arthropods were also first in the air as flying insects.
@@ -73,7 +73,7 @@ It was similar to the newts found in ponds today, although much larger.
 它类似于今天池塘里的蝾螈，不过要大得多。
 
 Uppe på land fanns också groddjur med muskulösa bakben, som gjorde att de kunde hoppa fort och bra.
-Up on land, there were also amphibians with muscular hind legs, which allowed them to jump fast and well.
+Up on land, there were also amphibians with muscular hind legs, which made them to jump fast and well.
 在陆地上，还有一些两栖动物的后腿肌肉发达，可以跳得又快又好。
 
 En del av groddjuren hade giftkörtlar i huden som försvar. 
@@ -93,7 +93,7 @@ They are also cartilaginous fish and their sharp teeth are part of the skin of t
 它们也是软骨鱼类，锋利的牙齿是下颌皮肤的一部分。
 
 Tänderna kan sitta i flera lager, och växer ut igen om de går av. 
-The teeth can be multi-layered, and grow back if they break off. 
+The teeth can be multi-layered, and grow out if they break off. 
 牙齿可以是多层的，如果断裂了还可以重新长出来。
 
 Huden på hajar är täckt av små taggar, så även om huden ser len ut är den sträv som sandpapper. 
@@ -101,8 +101,8 @@ The skin of sharks is covered in tiny spines, so although the skin looks smooth,
 鲨鱼的皮肤上覆盖着细小的刺，因此虽然皮肤看起来很光滑，但却像砂纸一样粗糙。
 
 PADDA. Det finns groddjur än idag. Paddor tillhör groddjuren, precis som grodor och salamandrar.
-PADDA. Amphibians still exist today. Toads belong to the amphibians, just like frogs and salamanders.
-两栖动物 两栖动物至今仍然存在。蟾蜍和青蛙、蝾螈一样属于两栖动物。
+toad. Amphibians still exist today. Toads belong to the amphibians, just like frogs and salamanders.
+蟾蜍. 两栖动物至今仍然存在。蟾蜍和青蛙、蝾螈一样属于两栖动物。
 
 Paddan har giftkörtlar i ryggen som hindrar rovdjuren från att bita i den. 
 Toads have poison glands in their backs that prevent predators from biting them. 
@@ -114,7 +114,7 @@ But snakes can handle the poison and can eat toads.
 
 Fossil av lummerväxt. 
 Lycophyte fossil. 
-叶绿体化石 
+狼尾草属植物(石蒜科)化石 
 
 
 P 048
@@ -359,11 +359,11 @@ This is how kangaroos and other marsupials still function today.
 
 Både näbbdjuren och pungdjuren är alltså kvarlevor av de däggdjur som levde för många miljoner år sedan.
 So both platypuses and marsupials are the remains of mammals that lived many millions of years ago.
-因此，鸭嘴兽和有袋类动物都是生活在几百万年前的哺乳动物的遗骸。
+因此，鸭嘴兽和有袋类动物都是生活在几百万年前的哺乳动物的遗留。
 
 Ett avtryck från förfäderna
-An ancestral footprint
-祖先的足迹
+An ancestral imprint
+祖先的印记
 
 För ungefär 3,5 miljoner år sedan vandrade tre människoliknande varelser över en flodbädd i nuvarande Tanzania. 
 About 3.5 million years ago, three human-like creatures walked across a riverbed in present-day Tanzania. 
@@ -386,7 +386,7 @@ The footprints were then transformed into fossilized imprints.
 脚印变成了化石。
 
 Därför kan vi än idag se dessa avtryck, som förmodligen är de äldsta bevarade spåren av människoliknande varelser. 
-This is why we can still see these footprints today, which are probably the oldest surviving traces of human-like creatures. 
+This is why we can still see these footprints today, which are probably the oldest preserved traces of human-like creatures. 
 这就是为什么我们今天还能看到这些脚印，它们可能是现存最古老的类人生物的痕迹。
 
 Eftersom de gick upprätt på bakbenen kunde de lätt se och upptäcka faror i det höga gräset, 

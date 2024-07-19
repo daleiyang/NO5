@@ -75,7 +75,7 @@ In the Lascaux cave in France, there are cave paintings made almost 20000 years 
 在法国的拉斯科洞穴中，有将近 2 万年前的洞穴壁画。
 
 Bilder av djur är vanliga motiv.
-Images of animals are common motifs.
+Images of animals are common motive.
 动物形象是常见的主题。
 
 
@@ -114,8 +114,8 @@ Linnaeus' system has survived. Even today, both plant and animal species are nam
 林奈的系统一直沿用至今。直到今天，植物和动物物种都是用这种方法命名的。
 
 Vaccinium vitis-idaea. Vaccinium myrtillus
-Lingonberry. European blueberry
-越橘. 欧洲蓝莓.
+Vaccinium Lingonberry. Vaccinium blueberry
+蔓越莓 越橘.  蔓越莓 蓝莓.
 
 Blåbärssläktet heter Vaccinium på latin. Det består av flera arter. 
 The blueberry genus is called Vaccinium in Latin. It consists of several species. 
@@ -385,9 +385,9 @@ Fröväxter.    Blomväxter.          Barrväxter.
 Seed plants. flowering plants. coniferous plants.   
 种子植物.      开花植物.              针叶植物.                       
 
-Kärlväxter.          Lummer.       Fräken.          Ormbunke. 
-vascular plants.  Lycophyte.    Horsetails .    Ferns. 
-维管植物.             鳞叶植物.      马尾草.           蕨类植物
+Kärlväxter.          Lummer.                          Fräken.          Ormbunke. 
+vascular plants.  Lycophyte.                       Horsetails .    Ferns. 
+维管植物.             狼尾草属植物(石蒜科).      马尾草.           蕨类植物
 
 Växter.  Mossa.    Alger.  Lav.       Svampar.
 plants.  Mosses.  algae.  Lichen.   Fungi.

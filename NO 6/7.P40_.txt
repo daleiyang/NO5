@@ -440,6 +440,8 @@ Bläckfiskar tillhör djurgruppen blötdjur.
 Cephalopods belong to the mollusc group of animals. 
 头足类属于软体动物。
 
+Bläckfiskar头足纲动物是软体动物头足纲的任何成员，如乌贼、章鱼、墨鱼或鹦鹉螺。这些专属于海洋的动物的特点是身体两侧对称、头部突出、有一组由原始软体动物足改良而成的臂或触手。
+
 Till skillnad från de vanligaste nutida bläckfiskarna hade de första bläckfiskarna ett rörliknande skal. 
 Unlike the most common modern cephalopods, the first cephalopods had a tube-like shell. 
 与最常见的现代头足纲动物不同，最早的头足纲动物有一个管状的壳。
