@@ -1,0 +1,34 @@
+P 044 045
+
+Nv är det dags att testa
+
+Bestäm dig först för hur du ska dokumentera dina tester.
+Ta hjälp av listan. Du kan välja att kombinera olika sätt att dokumentera testerna.
+
+1. Jag väljer att dokumentera mina tester på följande sätt:
+
+Jag tänker dokumentera testerna genom att anteckna och fotografera.
+
+2. Hur gick det under testerna?
+
+Test 1
+
+1. Resultat för produkt 1:
+
+2. Resultat för produkt 2:
+
+Test 2
+
+Resultat för produkt 1:
+
+Resultat för produkt 2:
+
+3. Vilka likheter och skillnader finns det mellan produkterna?
+Vilken av produkterna kan du rekommendera till andra utifrån dina testresultat
+
+Jag ger produkt 1:
+Jag ger produkt 2:
+
+Jag visste väl att jag hade rätt!
+Mina gympaskor är snyggare,luktar bättre och sitter bättre på.
+Den enda nackdelen är att de är dyrare än brorsans gympaskor.

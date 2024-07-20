@@ -1,0 +1,34 @@
+P 043
+
+Bestäm hur du ska testa dina produkter
+
+För att kunna jämföra dina två produkter på ett rättvist sätt måste du genomföra tester på dem.
+
+1. Vilka test passar det att göra på dina produkter? 
+Ta hjälp av listan och/eller kom på några egna test. 
+
+Test 1
+Hur ska testet gå till? 
+Test 2
+Hur ska testet gå till?
+
+2. Innan du gör testerna så kan du fundera på hur du tror att det kommer gå för produkterna under testningen.
+
+Så här gissar jag att det kommer gå för produkt 1 i test 1. (Test 1)
+Så här gissar jag att det kommer gå för produkt 2 i test 1.
+
+Så här gissar jag att det kommer gå för produkt 1 i test 2.(Test 2)
+Så här gissar jag att det kommer gå för produkt 2 i test 2.
+
+Tips på test!
+Smaktest
+Dofttest
+Ljudtest
+Hur-känns-de-på-test
+Hållbarhets-test
+Användarvänlighets-test
+Fungerar den-test
+Miljövänlighets-test
+
+Resultatet av dofttestet visar att efter en veckas konstant användning luktar brorsans skor inte rosor precis.
+Mina luktar något bättre.

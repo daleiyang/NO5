@@ -1,0 +1,26 @@
+P 042
+
+Välj två produkter att jämföra
+
+Tänk dig att du ska vara programledare för ett konsumentprogram och visa tittarna vilken av två produkter som är bäst.
+
+1. Bestäm dig för vilka produkter du vill jämföra.
+Ta hjälp av förslagen i rutan om du vill.
+
+Jag vill jämföra två ... med varandra.
+
+2. Varför vill du jämföra dessa produkter? 
+
+Jag ska jämföra mina gympaskor med min brors.
+Jag vill veta vilket par Som håller bäst.
+
+3. Beskriv nu dina produkter så noga du kan. Fyll i tabellen.
+
+Produkt 1: Produkt 2:
+
+Används till 
+Utseende
+Material
+vikt
+Pris
+Övrigt
