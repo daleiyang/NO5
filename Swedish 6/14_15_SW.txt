@@ -1,0 +1,35 @@
+P 014 015
+
+Samla information om bok och författare
+
+Välj en bok som du har läst och vill redovisa för dina kamrater.
+Innan du redovisar måste du förbereda vad du ska säga.
+
+Börja med att ta reda på fakta om boken. Skriv på raderna.
+
+Titel:
+
+Författare:
+
+Utgivningsår:
+
+Förlag:
+
+Eventuell illustratör:
+
+Vad är det för typ av bok/berättelse? Ta hjälp av rutan om du vill.
+
+Rita eller klistra in en bild av omslaget eller författaren.
+
+Förslag på typ av bok/berättelse:
+Deckare, skräck, Äventyr, Klassiker, Kärlek, Historisk, Fantasy, Reality, Saga, Science Fiction, Djur. 
+
+Ta reda på fakta om författaren. Skriv på raderna.
+
+Ålder:
+
+Bosatt:
+
+Har bland annat skrivit:
+
+Annan rolig, spännande eller intressant fakta om författaren:
