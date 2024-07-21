@@ -1,6 +1,12 @@
 P 044 045
 
-Nv är det dags att testa
+Nu är det dags att testa
+
+Sätt att dokumentera:
+fotografera
+filma
+anteckna
+rita
 
 Bestäm dig först för hur du ska dokumentera dina tester.
 Ta hjälp av listan. Du kan välja att kombinera olika sätt att dokumentera testerna.
@@ -32,3 +38,4 @@ Jag ger produkt 2:
 Jag visste väl att jag hade rätt!
 Mina gympaskor är snyggare,luktar bättre och sitter bättre på.
 Den enda nackdelen är att de är dyrare än brorsans gympaskor.
+
