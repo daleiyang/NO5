@@ -36,7 +36,7 @@ Bedömningsskalan
 
 Mål - Skriva
 
-Jag kan: Påbörjat Uppnått Utvecklat  Välutvecklat
+Jag kan: Påbörjat, Uppnått,   Utvecklat,   Välutvecklat
 
 Planera och skriva en debattartikel med dess typiska struktur,
 
