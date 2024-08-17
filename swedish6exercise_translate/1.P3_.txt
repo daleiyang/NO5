@@ -1,0 +1,973 @@
+P 003
+
+Innehåll		
+Contents		
+内容		
+		
+Stavning 4 		
+Spelling 4 		
+拼写 4 		
+		
+Skillnad på sj-ljud och tj-ljud 4 		
+Difference between sj-sound and tj-sound 4 		
+sj 音和 tj 音的区别 4 		
+		
+K-ljudet före s ocht 6 		
+The K sound before s and t 6 		
+s 和 t 前的 K 音 6 		
+		
+Dubbelteckning 8 		
+Double sign 8 		
+双符号 8 		
+		
+Stava vanliga ord 10 		
+Spelling common words 10 		
+常见单词的拼写 10 		
+		
+Ord som ofta stavas fel 12 		
+Words that are often misspelled 12 		
+经常拼写错误的单词 12 		
+		
+Ordkunskap 14		
+Word knowledge 14		
+单词知识 14		
+		
+Stam och ändelse 14		
+Stem and ending 14		
+词干和词尾 14		
+		
+Prefix och suffix 16		
+Prefixes and suffixes 16		
+前缀和后缀 16		
+		
+Initialord och förkortningar 18		
+Initial words and abbreviations 18		
+首字母和缩写 18		
+		
+Var eller vart? 20 		
+Where or where? 20 		
+哪里或在哪里？20 		
+		
+En eller än? 22		
+One or than? 22		
+一个还是比？22		
+		
+Liknelser och metaforer 24 		
+Similes and metaphors 24 		
+比喻和隐喻 24 		
+		
+Ordklasser 26 		
+Word classes 26 		
+词类 26 		
+		
+Substantiv 26		
+Nouns 26		
+名词 26		
+		
+Verb 28		
+Verbs 28		
+动词 28		
+		
+Adjektiv 30		
+Adjectives 30		
+形容词 30		
+		
+Pronomen 32		
+Pronouns 32		
+代词 32		
+		
+Prepositioner 34		
+Prepositions 34		
+介词 34		
+		
+Adverb 36		
+Adverbs 36		
+副词 36		
+		
+Konjunktioner 38		
+Conjunctions 38		
+连接词 38		
+		
+Satslära 40		
+Theorem proving 40		
+定理证明 40		
+		
+Subjekt och predikat 40		
+Subjects and predicates 40		
+主语和谓语 40		
+		
+Mer om subjekt och predikat 42		
+More about subjects and predicates 42		
+关于主语和谓语的更多信息 42		
+		
+Objekt 44		
+Objects 44		
+宾语 44		
+		
+Adverbial 46		
+Adverbials 46		
+副词 46		
+		
+Huvudsats och bisats 48		
+Main clause and subordinate clause 48		
+主句和从句 48		
+		
+Bind samman satser 50		
+Linking clauses 50		
+连接分句 50		
+		
+Språkbruk 52		
+Language usage 52		
+语言使用 52		
+		
+Idiomatiska uttryck 52 		
+Idiomatic expressions 52 		
+成语表达 52 		
+		
+Fint eller fult språk? 54		
+Fine or foul language? 54		
+好话还是粗话？54		
+		
+Minoritetsspråk 56		
+Minority languages 56		
+少数民族语言 56		
+		
+Språkhistoria 58		
+History of languages 58		
+语言的历史 58		
+		
+De första skriftspråken 58		
+The first written languages 58		
+最早的书面语言 58		
+		
+Det feniciska alfabetet 60		
+The Phoenician alphabet 60		
+腓尼基字母 60		
+		
+De grekiska och latinska alfabeten 62		
+The Greek and Latin alphabets 62		
+希腊字母和拉丁字母 62		
+		
+Runskrift 64		
+Runic writing 64		
+符文书写 64		
+
+
+P 004
+
+Stavning		
+Spelling		
+拼写		
+		
+Skillnad på sj-ljud och tj-ljud		
+Difference between sj-sound and tj-sound		
+sj 音和 tj 音的区别		
+		
+Läs nyhetsartikeln.		
+Read the news article.		
+阅读新闻报道。		
+		
+Ringa in alla ord som har sj-ljud i sig.		
+Circle all the words that have sh sounds in them.		
+圈出所有带 sh 音的单词。		
+		
+Stryk under alla ord som har tj-ljud i sig.		
+Underline all the words that have ch sounds in them.		
+在所有带 ch 音的单词下划线。		
+		
+Ungdomar hyllade Gerd		
+Young people paid tribute to Gerd		
+年轻人向格尔德致敬		
+		
+De två fjortonåringarna, som i förra veckan var nära att  ka med ett garage när de kälke, hyllade på fredagen sin räddare.		
+The two fourteen-year-olds, who last week almost fell into a garage while sledding, paid tribute to their savior on Friday.		
+上周，两名 14 岁的孩子在玩雪橇时差点掉进车库，周五，他们向救命恩人致敬。		
+		
+Vera och Hadi besökte i går sin räddare, Gerd Fridh, 67 år. 		
+Vera and Hadi visited their savior, Gerd Fridh, 67, yesterday. 		
+维拉和哈迪昨天拜访了他们的救命恩人、67 岁的格尔德-弗里德（Gerd Fridh）。		
+		
+Med sig hade de en låda gelehallon samt en bukett med tjugofem rosor.		
+They brought a box of jelly raspberries and a bouquet of twenty-five roses.		
+他们带来了一盒覆盆子果冻和一束 25 朵玫瑰。		
+		
+-vi skäms över det vi gjorde, säger Hadi generat.		
+-“We're ashamed of what we did,” Hadi says embarrassed.		
+-哈迪尴尬地说："我们为自己的所作所为感到羞愧。		
+		
+Han syftar på situationen då de åkte alldeles för fort med kälken nerför stjälkvägen.		
+He is referring to the situation when they were going way too fast with the toboggan down the stalk road.		
+他指的是他们驾驶雪橇在秸秆路上行驶时速度过快的情况。		
+		
+- Vi chansade och det slutade med en krasch, säger Vera som fortfarande har lite ont i käken efter olyckan.		
+- “We took a chance and ended up crashing,” says Vera, whose jaw still hurts a bit after the accident.		
+ - 维拉说：“我们抱着侥幸心理，结果撞车了，”事故发生后，她的下巴还有点疼。		
+		
+Tack för att du var så skicklig med käppen och räddade oss, säger Hadi.		
+Thank you for being so good with the stick and saving us, says Hadi.		
+“哈迪说："谢谢你们这么熟练地使用木棍，救了我们。 		
+		
+Gerd Fridh, dagen till ära klädd i en tjusig kjol, vill inte tala om något hjältedåd. hon blir rörd av gåvorna.		
+Gerd Fridh, dressed in a fancy skirt for the occasion, doesn't want to talk about any heroics.		
+格尔德-弗里德（Gerd Fridh）穿着华丽的裙子出席活动，她不想谈论英雄主义，但她被这些礼物感动了。		
+		
+-vilka generösa barn, svarar hon och kysser både hadi och vera på kinden.		
+-“What generous children,” she replies, kissing both Hadi and Vera on the cheek.		
+-她亲吻了哈迪和薇拉的脸颊，说："多么慷慨的孩子啊。		
+		
+Sedan bjuder hon dem på tjeckiska kakor och körsbärssaft.		
+Then she offers them Czech cookies and cherry juice.		
+然后，她向他们赠送了捷克饼干和樱桃汁。		
+		
+Kerstin sköld		
+Kerstin Sköld		
+记者		
+		
+journalist sjököpings-Posten.		
+journalist sjököpings-Posten.		
+邮报》记者。		
+		
+Hur många sj-ljud och tj-ljud hittade du? 		
+How many sj-sounds and tj-sounds did you find? 		
+您找到了多少个 sj 音和 tj 音？		
+		
+Skriv i rutorna.		
+Write in the boxes.		
+请写在方框内。		
+		
+Sj-ljudet stavas oftast med sj eller sk: sju, skärm.		
+The sj-sound is most often spelled with sj or sk: seven, screen.		
+sj 音最常与 sj 或 sk 一起拼写：7、屏幕。		
+		
+Sj-ljudet kan också stavas med skj-, stj-, sh-, sch-,ch-, g-, si-, ssi-, ti-, ssj- och -ge: 		
+The sj-sound can also be spelled with skj-, stj-, sh-, sch-, ch-, g-, si-, ssi-, ti-, ssj- and -ge: 		
+sj 音还可以拼成 skj-、stj-、sh-、sch-、ch-、g-、si-、ssi-、ti-、ssj- 和 -ge： 		
+		
+skjuta, stjäla, shop, schema, chans, geni, explosion, missionär, station, hyssja, bagage.		
+shoot, steal, shop, scheme, chance, genius, explosion, missionary, station, hustle, luggage.		
+射击、偷窃、商店、阴谋、机会、天才、爆炸、传教士、车站、喧嚣、行李。		
+		
+Tj-ljudet stavas oftast med tj eller k: tjugo, kilometer.		
+The tj sound is most often spelled with tj or k: twenty, kilometer.		
+tj 音最常与 tj 或 k 拼写：20、公里/千米。		
+		
+tj -ljud Fd Tj-ljudet kan också stavas med kj eller ch: kjol, chili.		
+tj sound Fd The Tj sound can also be spelled with kj or ch: skirt, chili.		
+tj 音 Fd Tj 音也可拼成 kj 或 ch：裙子, 辣椒。		
+		
+Vissa ord är svåra att skilja om de är sj- eller tj-ljud:		
+Some words are difficult to distinguish whether they are sj or tj sounds:		
+有些单词很难区分是 sj 音还是 tj 音：		
+		
+stjärna-kärna, skjuta-tjuta.		
+star-core, push-pull.		
+星形-核心，推-拉		
+
+
+P005
+
+Sj-ljud eller tj-ljud? Välj rätt ord och skriv in ordet i luckorna.
+Sj-sound or tj-sound? Choose the right word and write it in the blanks.
+Sj音还是tj音？选择正确的单词并写在空白处。
+
+skälla
+动词
+1. 发出狗发出的声音： Doggy
+2.(日常）激烈地（通常是大声地）质问、批评和/或训斥某个人（因为他/她不听话、疏忽等原因）
+3. 对某人表示侮辱
+
+källa
+名词
+发音：ˈɕɛl:a
+1.
+(physical geography, hydrology) place where groundwater breaks through the earth's surface
+(自然地理、水文） 地下水突破地表的地方
+2.
+place where something arises or arises
+事物产生或产生的地方
+3. 
+verifiable origin of a claim
+可核实的说法来源
+4. 
+(vector analysis) point where the divergence of a vector field is positive
+(向量分析） 向量场 发散为正的点
+
+sköt
+1. 
+Noun, Shot
+名词，捕捞鲱鱼的网
+2. 
+Verb， Shot
+动词， 射击
+
+tjöt
+1.
+verb, Emitting strong shrill sounds
+发出强烈尖锐的声音
+2. 
+verb,  (everyday) crying
+哭泣
+
+ chock
+1. shock, 震惊
+
+tjock
+1. thick， 厚的
+
+skär
+1. 动词， cut, 切
+
+kär
+1. 形容词，dear, 亲爱的，可爱的
+
+
+Sluta                        på mig!
+	skälla/källa
+stop        on me
+停止        对我
+
+De drack vatten ur en kall 
+                             skälla/källa 
+They drank water from a cold 
+他们从一个冷的    喝水
+
+
+Barnen grät och               när de inte fick mer godis.
+                  sköt/tjöt
+The children cried and      when they didn't get any more sweets.
+孩子们哭和   ，当他们没有得到更多的糖果的时候。
+
+De              fram en ny stol som gästen fick sitta på.
+    sköt/tjöt
+They       forward/in front of a new chair the guest got sit on.
+他们在客人做的椅子前 
+
+Hon tog en                 skiva bröd med smör och ost.
+             chock/tjock
+She took a                  slice of bread with butter and cheese.
+她拿了一                      片涂了黄油和奶酪的面包。
+
+Han fick en                när han fick se såret på sin kind.
+             chock/tjock
+He got                      when he saw the wound on his cheek.
+他                              当他看到自己脸颊上的伤口时，
+
+Han var hemligt              i sin klasskompis.
+                           skär/kär
+He was secretly              by his classmate.
+他被他的同学秘密地   
+
+Kvinnan bar alltid en               klänning.
+	                    skär/kär
+The woman always wore a      dress.
+这个女人总是穿着                    裙子。
+
+Hur stavas sj-orden? Skriv hela ordet på raden.
+How are the sj-words spelled? Write the whole word on the line.
+sj-words 如何拼写？将整个单词写在横线上。
+
+Kryssa av i listan i kanten. Där finns de stavningar du kan använda.
+Check the list in the margin. There are the spellings you can use.
+在空白处打勾。这是您可以使用的拼写。
+
+
+P 006
+
+
+K-ljudet före s och t		
+The k-sound before s and t		
+s 和 t 前的 k 音		
+		
+Läs löpsedlarna och ringa in alla ord med k-ljud framför s och stryk under alla ord med k-ljud framför t.		
+Read the slips and circle all the words with the k sound before s and underline all the words with the k sound before t.		
+阅读单词，圈出所有在 s 之前有 k 音的单词，在 t 之前有 k 音的单词下划线。		
+		
+Skriv dem i rätt kolumn.		
+Write them in the correct column.		
+将它们写在正确的一栏中。		
+		
+Boxare stoppade slagsmål，Räddade livet på expedit.		
+Boxer stopped fight，Saved clerk's life.		
+拳击手停止了打斗，救了店员一命。		
+		
+Tropiskt klimat i natt, Det är inte naturligt, säger forskarna.		
+Tropical climate tonight, It's not natural, scientists say.		
+今晚的热带气候，科学家说这不是自然现象。		
+		
+Blekt lopp av mästaren Sextonåring vann SM! Fantastiskt kaxigt, jublar tränaren.		
+Pale race of the champion Sixteen-year-old won the SM! Fantastically cocky, cheers the coach.		
+苍白的冠军赛，16 岁的他赢得了 SM！极其自大地，教练欢呼。		
+		
+k-ljudet framför s		
+the k sound before the s		
+s 前的 k 音		
+		
+k-ljudet framför t		
+the k-sound before t		
+t 前的 k 音		
+		
+K-ljudet framför s stavas oftast med bokstaven x: lax.		
+The k-sound before s is usually spelled with the letter x: salmon.		
+s 前的 k 音通常用字母 x 拼成：salmon（鲑鱼）。		
+		
+I en del lånord stavas ljudet med c eller cc: tics, accelerera.		
+In some long words, the sound is spelled with c or cc: tics, accelerate.		
+在一些长单词中，该音拼成 c 或 cc：声响, 加速。		
+		
+I sammansatta ord finns tre olika sätt att stava k-ljudet framför s: 		
+In compound words, there are three different ways of spelling the k sound before s: 		
+在复合词中，s 前的 k 音有三种不同的拼写方式： 		
+		
+gs som i dagstidning, ks som i riksnyhet och cks som i olyckshändelse.		
+gs as in newspaper, ks as in national news and cks as in accident.		
+报纸中的 gs、国家新闻中的 ks 和事故中的 cks。		
+		
+K-ljudet framför t stavas på fyra olika sätt: 		
+The k sound before t is spelled in four different ways: 		
+t 前的 k 音有四种不同的拼法： 		
+		
+gt som i tråkigt, ggt som i snyggt, kt som i rikt, och ckt som i ryckt.		
+gt as in boring, ggt as in nice, kt as in rich, and ckt as in jerky.		
+boring（无聊）中的 gt，nice（漂亮）中的 ggt，rich（富有）中的 kt，以及 jerky（生涩）中的 ckt。		
+
+
+P 007
+
+Fyll i x, gs, ks eller cks i stället för *.		
+Fill in x, gs, ks or cks instead of *.		
+用 x、gs、ks 或 cks 代替 *。		
+		
+Skriv hela ordet på raden.		
+Write the whole word on the line.		
+将整个单词写在横线上。		
+
+by*or 
+le*ikon
+ta*i 
+refle*
+da*ljus 
+ri*dag
+oly*händelse 
+ma*imal
+
+Fyll i g, ck, k eller gg i stället för *.		
+Fill in g, ck, k or gg instead of *.		
+填入 g、ck、k 或 gg，而不是 *。		
+		
+Skriv hela ordet på raden.		
+Write the whole word on the line.		
+将整个单词写在横线上。		
+
+mysi*t 
+omty*t
+Try*t
+Ste*t
+try*t 
+praktis*t
+naturli*t 
+sky*t
+
+Lös ordflätan.		
+Solve the word braid.		
+解决单词辫子。		
+		
+blixt,         pjäxor, vaccin,   lax,        slagsmål, köksbord		
+lightning, boots,  vaccine, salmon, fight,        kitchen table		
+闪电、      靴子、  疫苗、    鲑鱼、   战斗、      灶台		
+		
+Möbel		
+Furniture		
+家具		
+		
+Skor till skidor		
+Shoes for skiing		
+滑雪鞋		
+		
+Fisk 		
+Fish 		
+鱼 		
+		
+Tas som skydd 		
+Taken as protection 		
+作为保护 		
+		
+Kan arg hamna i		
+Can get angry in		
+可以在		
+		
+Syns vid åska		
+Visible during thunderstorms		
+雷雨时可见		
+		
+Vad blir ordet i de skuggade rutorna?		
+What will be the word in the shaded boxes?		
+阴影框中的单词是什么？		
+
+
+P 008
+
+Dubbelteckning		
+Double-spacing		
+双倍行距		
+		
+Stryk under alla ord som är dubbeltecknade i artikeln.		
+Underline any words that are double-spaced in the article.		
+在文章中双倍行距的单词下划线。		
+		
+Hunden Rocky får pris		
+Rocky the dog wins award		
+小狗洛奇获奖		
+		
+Hunden Rocky, som räddade en man från att drunkna i älven, får Sjököpings-Postens En sann hjälte-priset på 10000 kronor.		
+Rocky the dog, who saved a man from drowning in the river, receives Sjököpings-Posten's A true hero prize of SEK 10,000.		
+在河中救起一名溺水者的小狗洛奇获得了《Sjököpings-Posten》颁发的 10,000 瑞典克朗的 “真正的英雄奖”。		
+		
+Jag är jätteglad, säger taxens matte Fia Gran. Vi firade i går med tunna revbensspjäll. 		
+I am very happy, says the dachshund's mother Fia Gran. We celebrated yesterday with thin ribs. 		
+腊肠狗的妈妈菲娅-格兰（Fia Gran）说，我非常高兴。我们昨天用排骨庆祝了一下。		
+		
+Det är Rockys favoritmat.		
+It is Rocky's favorite food.		
+这是洛奇最喜欢的食物。		
+		
+Prispengarna kommer väl till pass. 		
+The prize money will come in handy. 		
+奖金会派上用场的。		
+		
+Nästa vecka ska nämligen Rocky åka på träni i dressyr tillsammans med sin husse.		
+Next week, Rocky will go on a dressage training course together with his master.		
+下周，洛奇将和主人一起参加盛装舞步比赛。		
+		
+Målet är att så gom ställa upp i tävlingar och förhoppningsvis vinna.		
+The goal is to compete in competitions and hopefully win.		
+我们的目标是参加比赛，希望能获胜。		
+		
+Mannen, som Rocky räddade, mår efter omständigheterna bra men hälsar att han inte tänker hoppa i och simma i älven igen.		
+The man, whom Rocky rescued, is doing well after the circumstances but says that he does not intend to jump in and swim in the river again.		
+被洛奇救起的那名男子在经历了这一切之后，情况已经好转，但他表示不打算再跳进河里游泳了。		
+		
+GUNNAR FRIBERG		
+GUNNAR FRIBERG		
+古纳尔-弗里贝格		
+		
+Sjököpings-Posten		
+Sjököpings-Posten		
+邮报		
+		
+Hur många ord med dubbelteckning hittade du?		
+How many words with double stress did you find?		
+你找到了多少个双字母单词？		
+		
+Efter kort vokal dubbeltecknar man konsonanten: mall, buss, vasst, kallt.		
+After a short vowel you double the consonant: mall, bus, sharp, cold.		
+在短元音后，辅音要加倍：mall、bus、sharp、cold。		
+		
+Om man endast hör ett ljud efter den korta vokalen skriver man två konsonanter: ratt, till.		
+If you only hear one sound after the short vowel, write two consonants: ratt, till.		
+如果在短元音后只听到一个音，则写两个辅音：ratt、till。		
+		
+Det finns flera undantag till regeln om dubbelteckning:		
+There are several exceptions to the double consonant rule:		
+双辅音规则有几个例外：		
+		
+Småord som slutar på n dubbeltecknas inte: han, hon, den.		
+Small words ending in n are not doubled: han, hon, den.		
+以 n 结尾的小单词不写双辅音：han、hon、den。		
+		
+Ord som slutar på konsonanten m dubbeltecknas inte: kam, dum, rum.		
+Words ending in the consonant m are not doubled: kam, dum, rum.		
+以辅音 m 结尾的单词不加倍：kam、dum、rum。		
+		
+Undantag: damm, lamm och ramm.		
+Exceptions: damm, lamm and ramm.		
+例外情况：damm、lamm 和 ramm。		
+		
+Man dubbeltecknar inte heller konsonanterna j och x: paj, ax.		
+Also, the consonants j and x are not doubled: paj, ax.		
+辅音 j 和 x 也不加倍：paj、ax。		
+
+
+P 009
+Hur många konsonanter ska det vara vid *?		
+How many consonants should there be in *?		
+* 应该有几个辅音？		
+		
+Inom parentes ser du vilken konsonant du ska välja.		
+In brackets you can see which consonant to choose.		
+您可以在括号中选择辅音。		
+		
+Skriv ordet på raden.		
+Write the word on the line.		
+将单词写在横线上。		
+
+
+he*a (m) 
+du*a (m)
+ha*(j)
+tri"*a (l)
+hi* (m)
+ka*a (j)
+du* (m) 
+ho* (n)
+hy*a (l)
+he*e (n)
+
+Välj minst två av orden och skriv en mening där orden finns med.		
+Choose at least two of the words and write a sentence that includes them.		
+选择至少两个单词并写一个包含它们的句子。		
+		
+Hjälp journalisten Gunnar Friberg att skriva rätt ord i sina rubriker.		
+Help journalist Gunnar Friberg to write the right words in his headlines.		
+帮助记者 Gunnar Friberg 在他的标题中写出正确的单词。		
+		
+Välj bland orden i rutan.		
+Choose from the words in the box.		
+从方框中的单词中选择。		
+		
+Medelålders par lurades att köpa en flygande  Mata/matta.		
+Middle-aged couple were tricked into buying a flying mat.		
+中年夫妇被骗购买飞行垫。		
+		
+Hunden markerade med ett   skal/skall var skatten låg gömd                          		
+The dog marked with a shell where the treasure was hidden                          		
+用贝壳标记藏宝地点的狗                          		
+		
+Utbrytarkungen fast i sin egen burr/bur		
+The escapee king trapped in his own cage		
+逃跑的国王被困在自己的笼子里		
+		
+Bolag fällde hundratals   talar/tallar   i Sjököpingsskogen		
+Company cut down hundreds of talar/pine trees in Sjököpingsskogen		
+公司在斯约科平斯高原砍伐了数百棵松树		
+		
+Rocky  van/vann   SM i dressyr		
+Rocky won the Swedish Championship in dressage		
+洛基赢得瑞典盛装舞步锦标赛冠军		
+
+
+P 010
+
+Stava vanliga ord		
+Spelling common words		
+拼写常见单词		
+		
+Hl Läs artikeln och lär dig stava de understrukna orden.		
+Read the article and learn how to spell the underlined words.		
+阅读文章，学习如何拼写划线单词。		
+		
+Hjälpsamma elever belönade		
+Helpful students rewarded		
+乐于助人的学生受到奖励		
+		
+De tre elever som i förra veckan hjälpte en äldre dam att hitta hem fick i går sin belöning.		
+The three students who helped an elderly lady find her way home last week were rewarded yesterday.		
+上周帮助一位老太太找到回家路的三名小学生昨天获得了奖励。		
+		
+Vi fick ett meddelande om att vi var välkomna på fest, berättar Asmin, 13 år.		
+“We got a message that we were welcome at a party,” says 13-year-old Asmin.		
+“13 岁的阿斯敏（Asmin）说："我们收到了一条信息，说欢迎我们参加一个聚会。		
+		
+Det var den äldre kvinnan, Beata Snöblad, som hade bjudit hem eleverna. 		
+It was the elderly woman, Beata Snöblad, who had invited the students home. 		
+邀请学生们回家的是一位名叫 Beata Snöblad 的老妇人。		
+		
+Hon hade förberett en middag med en överraskning till efterrätt. 		
+She had prepared a dinner with a surprise for dessert. 		
+她为学生们准备了晚餐和惊喜甜点。		
+		
+Beata berättade att hon tyvärr börjat bli förvirrad på senaste tiden och därför gått vilse när hon skulle hem.		
+Beata said that unfortunately she had started to get confused lately and therefore got lost on her way home.		
+Beata 说，不幸的是，她最近开始犯迷糊，因此在回家的路上迷路了。		
+		
+Det har aldrig hänt förut!		
+This has never happened before!		
+这种情况以前从未发生过！		
+		
+Nu vill hon tacka barnen för vad de har gjort och berättar att hon framöver alltid ska ta med sig telefonen när hon går ut.		
+Now she wants to thank the children for what they have done and says that in future she will always take her phone with her when she goes out.		
+现在，她要感谢孩子们所做的一切，并表示以后出门一定会带着手机。		
+		
+Jag kan ju inte räkna med att få sådan hjälp varje gång jag hamnar i knipa.		
+I can't count on getting help like that every time I get into trouble.		
+“我不能指望每次遇到困难都能得到这样的帮助。		
+		
+		
+KERSTIN SKÖLD, Sjököpings-Posten		
+KERSTIN SKÖLD, Sjököpings-Posten		
+克尔斯廷-斯科尔德（KERSTIN SKÖLD），《邮报》（Sjököpings-Posten		
+		
+Be en kamrat välja ut sex stycken av de understrukna orden och läsa dem högt.		
+Ask a friend to choose six of the underlined words and read them aloud.		
+请朋友选出六个划线单词并大声朗读。		
+		
+Skriv orden på raderna.		
+Write the words on the lines.		
+将单词写在横线上。		
+
+
+P 011
+
+Välj rätt ord att skriva på raden. Välj bland orden i rutan.		
+Choose the right word to write on the line. Choose from the words in the box.		
+选择正确的单词写在横线上。从方框中的单词中选择。		
+		
+Försök att inte tjuvkika när du skriver orden.		
+Try not to peek when you write the words.		
+写单词时尽量不要偷看。		
+		
+Asmin och Henryhade      att komma iväg.		
+Asmin and Henry had to get going.		
+阿斯敏和亨利必须出发了。		
+		
+De var sena eftersom Freja inte hade någon		
+They were late because Freya had no one.		
+他们迟到了，因为弗莱娅没人陪。		
+		
+Hon tog det lugnt och              långsamt             sina två vänner.		
+She took it easy and slowly her two friends.		
+她慢慢地走着，慢慢地看着她的两个朋友。		
+		
+Asmin och Henry försökte gå så          som möjligt.		
+Asmin and Henry tried to walk as as possible.		
+阿斯敏和亨利尽量走着。		
+		
+De ville inte bli sena till Beatas middag. 		
+They didn't want to be late for Beata's dinner. 		
+他们不想在贝阿塔的晚宴上迟到 		
+		
+—- Skynda dig, Freja, sa Asmin. 		
+-- Hurry up, Freya, said Ashmin. 		
+快点，芙蕾雅，阿斯敏说。		
+		
+Dags att få upp farten och             dig av dina länga ben! 		
+Time to get up and get off your long legs! 		
+该起床了，迈开你的长腿！		
+		
+- Ni kan inte               hur fort jag ska gå, svarade Freja surt. 		
+- You don't know how fast I'll go, Freya replied sourly. 		
+你不知道我会走多快，芙蕾雅冷冷地回答。		
+		
+Tänk på att jag är                av oss tre.		
+Remember, I am one of us three.		
+记住，我是我们三个中的一个。		
+		
+— Du är en månad äldre än jag. Du är tretton år och 2 månader!		
+- You are a month older than me. You are thirteen years and 2 months!		
+- 你比我大一个月。你今年 13 岁零 2 个月！		
+		
+Till slut var de framme hos Beata. Nästan i tid.		
+Finally they arrived at Beata's house. Almost in time.		
+他们终于到了贝阿塔的家。几乎来得及。		
+		
+—- Där är ni! sa Beata. Jag trodde ni hade                  någonstans.		
+-- There you are! said Beata. I thought you had somewhere to go.		
+你在这儿！贝亚塔说。我还以为你们要去哪儿呢		
+		
+—- Ja, vi blev fast i Frejas långsamhet, skrattade Henry. Men nu är vi här!		
+-- Yes, we got caught up in Freya's slowness, laughed Henry. But now we're here!		
+是啊，我们被弗莱娅的慢吞吞给耽误了，亨利笑着说。但现在我们到了		
+		
+gick		
+walked		
+到了		
+		
+bredvid		
+next to		
+下一个		
+		
+använda		
+use		
+用		
+		
+bestämma		
+decide		
+决定		
+		
+bråttom		
+in a hurry		
+匆忙		
+		
+snabbt		
+quickly		
+很快		
+		
+äldst		
+oldest		
+最老		
+		
+fastnat		
+stuck		
+卡住		
+		
+brådska		
+haste		
+匆忙		
+		
+Bokstäverna har hamnat huller om buller i dessa vanliga ord.		
+The letters have been jumbled up in these common words.		
+这些常见单词中的字母被打乱了。		
+		
+Skriv dem i rätt ordning på raden.		
+Write them in the correct order on the line.		
+请将它们按正确的顺序写在横线上。		
+		
+åckos 
+rävld
+aorrbbe 
+enpöp
+veriSge 
+Itisplötg
+negom 
+lardgi
+
+
+P 012
+
+Ord som ofta stavas fel		
+Words that are often misspelled		
+经常拼写错误的单词		
+		
+1. Läs notisen och lär dig stava de understrukna orden.		
+1. read the note and learn how to spell the underlined words.		
+1. 阅读注释，学会拼写划线单词。		
+		
+Hjältarna i Sjököpings FF		
+The heroes of Sjököpings FF		
+斯雪平 FF 的英雄们		
+		
+På lörd fördes en stor i ling på Stora torget i Sjököping till förmån för de ungdomar som inte har råd att idrotta.		
+On Saturday, a big event was held on the main square in Sjököping for the benefit of young people who cannot afford to play sport.		
+上周六，在雪平市的主广场上举行了一场大型活动，旨在帮助那些没有钱参加体育运动的年轻人。		
+		
+Bakom detta noggrant planerade projekt står två unga hjältar i Sjököpings FF, Caesar Florin och Joanna Qvist. 		
+Behind this carefully planned project are two young heroes of Sjököpings FF, Caesar Florin and Joanna Qvist. 		
+在这个精心策划的项目背后，是 Sjököpings FF 的两位年轻英雄--凯撒-弗罗林（Caesar Florin）和乔安娜-奎维斯特（Joanna Qvist）。		
+		
+Från en uppbyggd scen uppträdde hiphopartisten Archie til publikens stora förtjusning, 		
+From a constructed stage, hip-hop artist Archie performed to the delight of the audience, 		
+在搭建的舞台上，嘻哈艺术家阿奇为观众带来了精彩的表演、 		
+		
+som sjöng med och studsade i takt till musiken. 		
+who sang along and bounced to the music. 		
+在搭建的舞台上，嘻哈歌手 Archie 为观众带来了精彩的表演，观众们跟着音乐一起唱，一起跳。		
+		
+Det fanns även möjlighet för de mindre barnen att prova på cirkus, hoppborg och elektriska experiment. 		
+There were also opportunities for younger children to try out the circus, bouncy castle and electrical experiments. 		
+年幼的孩子们也有机会尝试马戏表演、充气城堡和电气实验。		
+		
+På det hela taget var det en mycket lyckad tillställning.		
+All in all, it was a very successful event.		
+总之，这是一次非常成功的活动。		
+		
+Dessutom fick klubben in över 15000 kronor som kommer att gå till de barn och ungdomar som inte har råd att idrotta.		
+In addition, the club raised over SEK 15,000, which will be donated to children and young people who cannot afford to play sport.		
+此外，俱乐部还募集到了 15,000 多克朗的善款，这些善款将捐赠给那些没有钱参加体育活动的儿童和青少年。		
+		
+2. Välj bland de understrukna orden i tidningsnotisen ovan och skriv dem i luckorna.		
+2. Choose from the underlined words in the newspaper article above and write them in the blanks.		
+2. 从上面报纸文章中划线的词语中选择一个写在空白处。		
+		
+Artisten uppträdde på en stor		
+The artist was performing at a big		
+这位艺术家在一个大型		
+		
+Hon hade 	planerat sin födelsedagsfest.	
+She had planned her birthday party.		
+她策划了自己的生日派对。		
+		
+I skolan har vi ett spännande 		där vi ska göra flera
+In school, we have an exciting one where we will do several		
+在学校，我们有一个令人兴奋的生日派对，我们将做几个		
+		
+		
+		om vilka ämnen som leder elektricite		
+		about which subjects lead electricity
+		关于哪些科目会导致电
+
+Till vår stora 		visade det sig att vår klass vunnit första pris i en kunskapstävling.
+To our delight, it turned out that our class had won first prize in a knowledge competition.		
+让我们高兴的是，我们班在知识竞赛中获得了一等奖。		
+		
+Våra hem är fyllda av 	produkter som diskmaskiner, datorer och mobiltelefoner.	
+Our homes are filled with products like dishwashers, computers and cell phones.		
+我们的家里充满了洗碗机、电脑和手机等产品。		
+		
+3. Vilka understrukna ord från texten använde du inte i uppgift 2? Skriv dem på raden.		
+3. Which underlined words from the text did you not use in task 2? Write them on the line.		
+3. 您在任务 2 中没有用到课文中哪些划线词语？把它们写在横线上。		
+
+
+P 013
+
+4.Lös ordflätan.		
+4.Solve the word braid.		
+4.解决单词 “辫子”。
+1.   C
+2.  R
+3.      P
+4.     L
+5.    D
+6.       M
+7.E
+
+		
+		
+2. finns i kokbok		
+2. found in cookbook		
+2. 在烹饪书中找到		
+		
+4. motsats till glad		
+4. opposite of happy		
+4. 快乐的反义词		
+		
+5. löser brott		
+5. solves crimes		
+破案		
+		
+7. får lampan att lysa		
+7. makes the lamp shine		
+让灯发光		
+		
+Vad blir ordet i de skuggade rutorna? 		
+What is the word in the shaded boxes? 		
+阴影框中的单词是什么？		
+		
+Här bredvid ser du några vanliga ord som ofta stavas fel.		
+Here are some common words that are often misspelled.		
+下面是一些经常拼写错误的常见单词。		
+		
+Skriv meningar med så många av orden som möjligt.		
+Write sentences using as many of the words as possible.		
+请尽可能多地使用这些单词写句子。		
+		
+noggrann   		
+careful   		
+小心   		
+		
+noggrant		
+carefully		
+小心		
+		
+förresten  		
+by the way  		
+顺便  		
+		
+absolut		
+absolutely		
+绝对		
+		
+expedition 		
+expedition 		
+考察 		
+		
+regissör		
+director		
+导演		
+		
+berättelse 		
+story 		
+故事 		
+		
+faktiskt		
+in fact		
+事实上		

@@ -1,4 +1,4 @@
-P 006 007
+P 006
 
 Read and reflect
 
@@ -25,6 +25,9 @@ She liked me anyway.
 There wasn't really much difference between being together and not being together. 
 I hung out less with my best friend Ruben and more with Beata (although Ruben was usually there anyway). 
 The big difference is that you kiss. 
+
+P 007
+
 Before I had kissed a girl, I didn't understand what the big deal was. 
 I thought kissing and making out mostly seemed like a waste of time, which could be spent on more important things. 
 After my first kiss, I thought the exact opposite. 
@@ -46,6 +49,9 @@ A big, hairy, hideous spider with long legs.
 If you get bitten by a tarantula, you die.
 Or rather: first you suffer terrible pain - then you die. 
 Need I say that I hate spiders? 
+
+P 008
+
 I once read in the newspaper about some spiders that had been accidentally trapped in a container in South America. 
 The container was loaded onto a boat that went all the way across the Atlantic, towards Sweden. 
 For weeks, the spiders were trapped in the dark, getting angrier and angrier. 
@@ -65,6 +71,8 @@ Although it was Sunday, a long line of cars stretched towards Södermalm, the ex
 Beata said nothing, she carried the glass packet pressed tightly against her jacket. 
 At the bridge we turned towards Tantolunden. 
 In the summer the park was packed every day. Now it was almost empty.
+
+P 009
 
 Some old men and women sat on a bench drinking beer. 
 A guy in a hoodie walked his dog and a baby waddled around with his tired dad in tow. 
@@ -90,6 +98,8 @@ I realized that they were entrances to the park rats' tunnels.
 Beata had told me that the rats came out at night.
 They ate things that people left behind when they had a picnic. 
 On warm summer evenings, the park was full of garbage that no one had taken care of. 
+
+P 010
 
 If there was a heaven for rats, it was Tantolunden.
 
