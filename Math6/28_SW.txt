@@ -1,0 +1,36 @@
+28
+
+vw Mer om division
+
+KORT DIVISION
+
+Ibland finns det inte tillräckligt många siffror i täljaren för att divisionen ska
+kunna slutföras. Då kan man lägga till så många nollor som man behöver efter
+decimaltecknet.
+
+5 sier 7 ental dividerat med 5 är 1 ental.
+= Resten 2 blir minnessiffra.
+
+3 Kom ihåg att ta med decimaltecknet när du passerar det.
+ÅL x 23 tiondelar dividerat med 5 är 4 tiondelar.
+Z = E 4 Resten 3 blir minnessiffra.
+
+Lägg till en nolla efter trean. Det förändrar inte talets värde.
+30 hundradelar dividerat med 5 är 6 hundradelar.
+Svaret är rimligt eftersom 5 går lite mer än en gång i 7.
+
+DIVISION MED 10, 100 OCH 1 000
+
+När ett tal divideras med till exempel 10, så får alla siffror i talet ett 10 gånger
+Ag
+mindre värde. Låt oss som exempel se på divisionen OT
+
+Siffrorna flyttar lika många steg åt höger som
+det är nollor i 10, det vill säga ett steg.
+
+2 = 2,35 eller 23.510 2
+
+En division kan skrivas med ett vågrätt eller ett snett divisionstecken.
+
+1.5 MER OM DIVISION
+

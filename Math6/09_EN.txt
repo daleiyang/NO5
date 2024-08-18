@@ -1,0 +1,102 @@
+COMPARE NUMBERS
+
+
+
+The further to the right on a number line a number is, the bigger the number is.
+
+
+
+For example, 2 is a bigger number than -3 and -5 is a smaller number than -1.
+
+
+
+We can write it like this:
+
+
+
+2>-3 
+
+
+
+The sign > means “is greater than”. .
+
+
+
+-5<-1
+
+
+
+The < sign means “is less than”
+
+
+
+The < and > signs are examples of inequality signs.
+
+
+
+NUMBERS IN DECIMAL FORM
+
+
+
+In a pole vault competition, Armand Duplantis jumped 6.15 m. 
+
+
+
+The number 6.15 is an example of a number in decimal form. 
+
+
+
+We read the number as “six whole and fifteen hundredths” or “six point fifteen”.
+
+
+
+The numbers 1 and 5 after the decimal point are called decimals.
+
+
+
+PLACE VALUES
+
+
+
+The place value of a digit depends on its place in the number, its position. 
+
+
+
+Such a number system is called a position system.
+
+
+
+An old event in athletics is the mile run. 
+
+
+
+This is 1609.344 m long. In that number, the digit 6 has the value 600 and the digit 3 has the value 0.3.
+
+
+
+thousandth digit that has the value 1 * 1000 = 1000
+
+
+
+hundredth digit that has the value 6 * 100 = 600
+
+
+
+tens digit having the value 0 * 10 = 0
+
+
+
+one-digit number with the value 9 * 1 = 9
+
+
+
+tenth digit having the value 3 * 0.1 = 0.3
+
+
+
+hundredths digit having the value 4 * 0.01 = 0.04
+
+
+
+thousandth digit having the value 4 * 0.001 = 0.004
+

@@ -1,0 +1,71 @@
+Olika sorters tal
+
+
+
+NATURLIGA TAL 
+
+
+
+Det finns tio siffror: 0, 1, 2, 3, 4, 5, 6, 7, 8 och 9. 
+
+
+
+Av siffrorna kan vi bilda hur många tal som helst.
+
+
+
+Talet 0 och de positiva heltalen bildar tillsammans de naturliga talen:
+
+
+
+0,1,2,3,4,5,6,7,8,9,10,11,12,13...
+
+
+
+Av de naturliga talen kallar vi 0, 2, 4, 6, 8, 10, 12... för jämna tal och
+
+
+
+1,3, 5, 7,9, 11, 13... för udda tal. De jämna talen är delbara med 2.
+
+
+
+NEGATIVA TAL
+
+
+
+Det finns också negativa tal. 
+
+
+
+Till vardags förekommer de till exempel i samband med temperatur. 
+
+
+
+Här ser du två termometrar. 
+
+
+
+Den vänstra visar temperaturen -10  och den högra visar 20 
+
+
+
+På en tallinje finns de negativa talen till vänster om 0. 
+
+
+
+Talen ökar i värde när man rör sig åt höger på tallinjen. 
+
+
+
+Talen minskar i värde när man rör sig åt vänster.
+
+
+
+negativa tal,  positiva tal
+
+
+
+De naturliga talen och de negativa hela talen bildar tillsammans de hela talen. 
+
+

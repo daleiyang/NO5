@@ -1,0 +1,46 @@
+24
+
+a) 5-27,9 b) 64-16 ce) 15-37
+
+EE
+cd
+Ar
+=E
+LJ
+cc
+
+Skriv talet med flest siffror överst.
+
+För att kontrollera att decimaltecknet står på
+
+rätt plats kan du göra en överslagsräkning.
+
+5: 30 = 150. Alltså är svaret 139,5.
+=
+
+Först multiplicerar du 64 med 6.
+Sedan räknar du 1- 64. Du ska då börja på en ny rad.
+Eftersom 1:an är tiotalssiffra, så är det egentligen
+10:64 = 640 som du räknar ut. Sätt därför ut en nolla
+längst till höger, under 4:an innan du börjar räkna:
+
+1:4= 4 och1:6=6.
+
+Till slut utför du additionen.
+
+Du räknar på samma sätt även om det finns decimaler bland
+faktorerna. Decimaltecknen behöver du till en början inte bry
+dig om när du multiplicerar.
+
+Börja med att multiplicera 37 med 5. Därefter sätter du ut en
+nolla under 5:an och multiplicerar sedan 1 med 37. Avsluta
+med att addera de båda leden.
+
+Produkten har lika många decimaler som det finns samman-
+lagt i faktorerna. Här har produkten två decimaler.
+
+Svar: a) LI b-FO24 AE TS visa din uppställning.
+
+1.4 MER OM MULTIPLIKATION
+
+Skriv svar.

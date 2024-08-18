@@ -1,0 +1,103 @@
+JÄMFÖRA TAL
+
+
+
+Ju längre åt höger på en tallinje ett tal finns, desto större är alltså talet.
+
+
+
+Till exempel är 2 ett större tal än -3 och -5 är ett mindre tal än —1.
+
+
+
+Vi kan skriva det så här:
+
+
+
+2>-3 
+
+
+
+Tecknet > betyder ”är större än”. .
+
+
+
+-5<-1
+
+
+
+Tecknet < betyder ”är mindre än”
+
+
+
+Tecknen < och > är exempel på olikhetstecken.
+
+
+
+TAL I DECIMALFORM
+
+
+
+Vid en tävling i stavhopp hoppade Armand Duplantis 6.15 m. 
+
+
+
+Talet 6.15 är ett exempel på ett tal i decimalform. 
+
+
+
+Vi läser talet som ”sex hela och femton hundradelar” eller ”sex komma femton”.
+
+
+
+Siffrorna 1 och 5 efter decimaltecknet kallas decimaler.
+
+
+
+PLATSVÄRDEN
+
+
+
+En siffras platsvärde beror på vilken plats siffran har i talet, vilken position den har. 
+
+
+
+Ett sådant talsystem kallas för ett positionssystem.
+
+
+
+En gammal gren i friidrott är löpning en engelsk mil. 
+
+
+
+En sådan är 1609.344 m lång. I det talet har siffran 6 värdet 600 och siffran 3 har värdet 0.3.
+
+
+
+tusentalssiffra  som har värdet 1 * 1000 = 1000
+
+
+
+hundratalssiffra som har värdet 6 * 100 = 600
+
+
+
+tiotalssiffra som har värdet 0 * 10 = 0
+
+
+
+entalssiffra som har värdet 9 * 1= 9
+
+
+
+tiondelssiffra som har värdet 3 * 0.1 = 0.3
+
+
+
+hundradelssiffra som har värdet 4 * 0.01 = 0.04
+
+
+
+tusendelssiffra som har värdet 4 * 0.001 = 0.004
+
+

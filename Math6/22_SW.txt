@@ -1,0 +1,37 @@
+22
+
+«a Mer om multiplikation
+
+MULTIPLIKATION MED UPPSTÄLLNING
+
+I det här avsnittet repeterar vi multiplikation med uppställning. Det som är
+nytt är multiplikation där båda faktorerna har fler siffror än en. Låt oss titta
+på multiplikationen 31 - 27.
+
+SÅ Först multiplicerar du 31 med 7.
+71-31 =217
+
+Sedan räknar du 2 - 31. Du ska då börja på en ny rad.
+
+Eftersom 2:an är tiotalssiffra så är det egentligen 20 - 31 = 620
+som du räknar ut. Sätt därför ut en nolla längst till höger,
+under 7:an innan du börjar räkna:
+
+2-1=20och2-3=6
+Därefter adderar du de båda leden.
+
+Även om en eller båda faktorerna har decimaler så räknar man på samma sätt.
+Men vi väntar med att sätta ut decimaltecknet tills multiplikationen är klar.
+
+Börja med att multiplicera 28 med 4. Därefter sätter du
+ut en nolla under 2:an och multiplicerar 28 med 1.
+å JE us Avsluta med att addera de båda leden.
+
+,
+
+Produkten har lika många decimaler som det finns
+3 9 SS sammanlagt i faktorerna. Här har produkten en
+IR decimal.
+
+1.4 MER OM MULTIPLIKATION
+

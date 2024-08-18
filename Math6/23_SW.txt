@@ -1,0 +1,36 @@
+MULTIPLIKATION MED 10, 100 OCH 1 000
+
+När ett tal multipliceras med till exempel 100, så får alla siffror i talet 100 gånger
+så stort värde. Låt oss som exempel titta på multiplikationen 100 - 2,35. Bilden
+visar att siffran 2 flyttas från positionen för ental till positionen för hundratal.
+Lika många steg flyttar övriga siffror i talet.
+
+KAPITEL 1
+
+N S
+32 >
+5 Ö ve
+FS
+SS Se SS
+SR RA NS
+
+2,5 :
+ee
+
+100:=2,55= 235
+
+Ibland behöver man fylla på med nollor efter den sista decimalen när man
+ska multiplicera med till exempel 1 000.
+
+3 ÖS
+3 0 a
+- SS 3 CS SS
+FER
+
+ERE
+
+1000-8,4 = 1000 -8,400 = 8400 8 FOO
+
+23
+
+1.4 MER OM MULTIPLIKATION

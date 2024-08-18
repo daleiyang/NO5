@@ -1,0 +1,953 @@
+P 003
+
+FÖRORD
+FOREWORD
+前言
+
+Så här använder du Matematik Gamma
+How to use Mathematics Gamma
+如何使用数学 GAMMA
+
+MATEMATIK GAMMA innehåller fem kapitel som i sin tur är uppdelade i avsnitt.
+MATHEMATICS GAMMA contains five chapters, which in turn are divided into sections.
+MATHEMATICS GAMMA 包含五个章节，每个章节又分为若干部分。
+
+I avsnitten finns uppgifter på tre nivåer i ökande svårighetsgrad. 
+The sections contain tasks at three levels of increasing difficulty. 
+这些章节包含难度依次递增的三个级别的任务。
+
+Med hjälp av din lärare väljer du en nivå som passar dig. 
+With the help of your teacher, you choose a level that suits you. 
+在老师的帮助下，您可以选择适合自己的级别。
+
+Du kan arbeta på olika nivåer i olika avsnitt eller kapitel. 
+You can work at different levels in different sections or chapters. 
+您可以在不同章节中完成不同难度的任务。
+
+Om du tycker att NIVÅ ETT är för svår kan du börja arbeta i GAMMA BAS med enklare uppgifter. 
+If you find LEVEL ONE too difficult, you can start working in GAMMA BASE with easier tasks. 
+如果您觉得第一级太难，您可以从 GAMMA BASE 开始学习较简单的任务。
+
+Om du vill ha fler och svårare uppgifter efter NIVÅ TRE kan du fortsätta i GAMMA UTMANING.
+If you want more and more difficult tasks after LEVEL THREE, you can continue in GAMMA CHALLENGE.
+如果您想在第三级之后完成更多更难的任务，可以继续在 GAMMA 挑战 中进行。
+
+Vid uppgifter där det är lämpligt att använda miniräknare finns en miniräknarmarkering.
+Tasks where it is appropriate to use a calculator have a calculator marker.
+适合使用计算器的任务都有计算器标记。
+
+Kapitlen innehåller:
+Chapters include:
+章节包括
+
+Ingress — En kort diagnos som visar vad du redan kan och kan hjälpa dig att välja nivå. 
+Ingress - A short diagnosis that shows what you already know and can help you choose a level. 
+入口 - 简要诊断，显示您已掌握的知识，帮助您选择级别。
+
+Här finns också en lista med matematiska begrepp ur kapitlet.
+There is also a list of mathematical concepts from the chapter.
+本章还列出了数学概念。
+
+Teori och exempel 
+Theory and examples 
+理论和示例 
+
+I alla avsnitt finns teori som förklarar och exempel som visar hur uppgifter kan lösas och redovisas.
+All sections include theory to explain and examples to show how tasks can be solved and presented.
+所有章节都包含理论解释和示例，说明如何解决和展示任务。
+
+Kommunikationsrutor 
+Communication boxes 
+交流框 
+
+I många av exemplen finns rutor där vi har skrivit vad du kan tänka på för att redovisa dina lösningar på ett bra sätt.
+-In many of the examples, there are boxes where we have written what you can think about to present your solutions in a good way. 
+在许多示例中，我们都在方框中写明了您可以思考的问题，以便以一种好的方式展示您的解决方案。
+
+Vi kallar dessa för K-rutor.
+We call these K-boxes.
+我们称之为 K 框。
+
+Aktiviteter — Praktiska uppgifter att lösa i par eller i grupp.
+Activities - Practical tasks to solve in pairs or in groups.
+活动 - 两人或小组合作完成的实际任务。
+
+Ledtrådar — Till en del uppgifter finns det ledtrådar som du kan ta hjälp av. 
+Clues - For some tasks, there are clues that you can use to help you. 
+线索 - 对于某些任务，我们会提供一些线索来帮助你。
+
+Dessa uppgifter är markerade med L.
+These tasks are marked with an L.
+这些任务用 L 标记。
+
+Par- eller gruppuppgifter 
+Pair or group tasks 
+两人或小组任务 
+
+— uppgifter som kan vara bra att först fundera själv på och sedan prata med andra om. 
+tasks that you might find useful to think about on your own first and then talk about with others.
+您可能会发现先自己思考，然后与他人讨论是非常有用的。
+
+Dessa uppgifter är markerade med *.
+These tasks are marked with *.
+这些任务标有 * 号。
+
+När du har gjort Blandade uppgifter och en Diagnos går du vidare till Träna eller Utveckla.
+Once you have done Mixed Tasks and a Diagnosis, move on to Practice or Develop.
+完成 “混合任务 ”和 “诊断 ”后，继续 “练习 ”或 “发展”。
+
+Fokus på hjälper dig att utveckla en eller ett par långsiktiga mål i matematik i taget.
+Focus on helps you develop one or two long-term math goals at a time.
+专注于帮助你一次制定一到两个长期数学目标。
+
+Kapitlen avslutas med en Sammanfattning av centrala begrepp och metoder.
+The chapters end with a Summary of key concepts and methods.
+各章结尾均有关键概念和方法小结。
+
+Efter kapitel 5 finns ett Facit som du kan använda för att kontrollera dina svar.
+After Chapter 5, there is a Worksheet that you can use to check your answers.
+第 5 章后有一张工作表，你可以用来检查自己的答案。
+
+Sist i boken kan du arbeta med Programmeringsövningar, utan att använda dator.
+At the end of the book you can work with Programming exercises, without using a computer.
+在本书的最后，您可以在不使用电脑的情况下进行编程练习。
+
+Lennart, Christina, Kristina, Conny och Kerstin
+Lennart, Christina, Kristina, Conny and Kerstin
+伦纳特、克里斯蒂娜、克里斯蒂娜、康妮和凯尔斯廷
+
+P 004, 005
+
+Taluppfattning och huvudräkning
+Number sense and head counting
+数感和心算
+
+Olika sorters tal:
+Different types of numbers:
+不同类型的数字
+
+Addition och subtraktion med tal i decimalforn
+Addition and subtraction with numbers in decimal form
+小数加减法
+
+Multiplikation och division med tal i decimalform
+Multiplication and division with numbers in decimal form
+小数形式的乘法和除法
+
+Mer om multiplikation
+More on multiplication
+关于乘法的更多信息
+
+Mer om division
+More about division
+关于除法的更多内容
+
+Multiplikation och division med stor tal
+Multiplication and division with large numbers
+大数的乘除运算
+
+Binära talsystemet ...
+Binary number system ...
+二进制数制
+
+Blandade uppgifter
+Mixed tasks
+混合任务
+
+Träna Taluppfattning och huvudräkning
+Practicing number sense and mental arithmetic
+练习数感和心算
+
+Utveckla Taluppfattning och huvudräkning
+Developing number sense and mental arithmetic
+发展数感和心算
+
+Fokus på
+Focus on
+重点
+
+Sammanfattning
+Summarizing
+总结
+
+Bråk och procent
+Fractions and percentages
+分数和百分比
+
+Räkna med bråk
+Counting with fractions
+分数计数
+
+Bråkform och blandad form
+Fraction and mixed form
+分数和混合形式
+
+Bråkform och decimalform
+Fraction and decimal form
+分数和小数形式
+
+Beräkna delen från bråkform
+Calculating the part from fraction form
+计算分数形式的部分
+
+Procent
+Percentages
+百分数
+
+sannolikhet
+probability
+概率
+
+beräkna delen från procentform
+calculate the part from percentage form
+用百分数形式计算部分
+
+blandade uppgifter
+mixed data
+混合数据
+
+Träna Bråk och procent
+Exercise Fractions and percent
+练习分数和百分比
+
+Utveckla Bråk och procent
+Developing fractions and percent
+发展分数和百分数
+
+fokus på
+focus on
+重点
+
+Sammanfattning
+Summarizing
+总结
+
+Samband, uttryck och ekvationer
+Relationships, expressions and equations
+关系、表达式和方程式
+
+Proportionalitet 
+Proportionality 
+比例 
+
+Kombinatorik
+Combinatorics
+组合学
+
+Numeriska uttryck 
+Numerical expressions 
+数字表达式 
+
+Algebraiska uttryck 
+Algebraic expressions 
+代数表达式 
+
+Mer om algebraiska uttryck
+More about algebraic expressions
+关于代数表达式的更多信息
+
+Mönster 
+Patterns 
+模式 
+
+Ekvationer
+Equations
+方程
+
+Blandade uppgifter
+Mixed tasks
+混合任务
+
+Träna samband, uttryck och ekvationer
+Practicing relationships, expressions and equations
+练习关系、表达式和方程
+
+Utveckla samband, uttryck och ekvationer
+Developing relationships, expressions and equations
+发展关系、表达式和方程
+
+fokus på
+Focus on
+重点
+
+Sammanfattning
+Summarizing
+总结
+
+Geometri
+Geometry
+几何
+
+Geometriska objekt 
+Geometric objects 
+几何对象 
+
+Vinklar
+Angles
+角度
+
+Spegling och symmetri 
+Reflection and symmetry 
+反射和对称 
+
+Längd och skala
+Length and scale
+长度和比例
+
+Omkrets
+Perimeter
+周长
+
+Area och volym
+Area and volume
+面积和体积
+
+Blandade uppgifter
+Mixed tasks
+混合任务
+
+Träna Geometri
+Practicing Geometry
+练习几何
+
+Utveckla Geometri
+Developing Geometry
+发展几何
+
+Fokus på
+Focus on
+重点
+
+Sammanfattning
+Summarizing
+总结
+
+Med sikte på framtiden
+Looking to the future
+展望未来
+
+Taluppfattning och tals användning 
+Number sense and number use 
+数感和数字运用 
+
+Algebra
+Algebra
+代数
+
+Geometri
+Geometry
+几何
+
+Samband och förändring
+Relationships and change
+关系与变化
+
+Sannolikhet och statistik
+Probability and statistics
+概率与统计
+
+Problemlösning
+Problem solving
+解决问题
+
+Fokus på
+Focus on
+重点
+
+Ledtrådar
+Clues
+线索
+
+Fäcit
+Facts and figures
+事实与数字
+
+Programmeringsövningar 
+Programming exercises 
+编程练习 
+
+Begreppsregister
+Glossary of terms
+术语表
+
+Bildförteckning
+List of images
+图片列表
+
+
+P 006 007
+
+KAN DU DET HÄR?		
+DO YOU KNOW THIS?		
+你知道吗？		
+		
+Hur mycket är siffran 8 värd i talet 23,85?		
+How much is the number 8 worth in the number 23.85?		
+数字 8 在 23.85 中值多少？		
+		
+A: åtta ental B: åtta tiondelar C: åtta hundradelar D: åtta tusendelar		
+A: eight ones B: eight tenths C: eight hundredths D: eight thousandths		
+A: 八个一 B: 八个十 C: 八个百 D: 八个千		
+		
+Vilket tal får du om entalssiffran och hundradelssiffran byter plats i talet 0,572?		
+What number do you get if the ones digit and the hundredths digit swap places in the number 0.572?		
+如果数字 0.572 中的一位数和百位数交换位置，你会得到什么数？		
+		
+Vilket tal är x om x + 100 = 450?		
+What number is x if x + 100 = 450?		
+如果 x + 100 = 450，x 是多少？		
+		
+Vilket tal är x om 0.54/x = 0,09?		
+What number is x if 0.54/x = 0.09?		
+如果 0.54/x = 0.09，x 是多少？		
+		
+Taluppfattning och huvudräkning		
+Number sense and head counting		
+数感和头数		
+		
+BEGREPP vilka begrepp känner du till sedan tidigare? Kan du beskriva dem?		
+CONCEPTS What concepts do you already know? Can you describe them?		
+概念 你已经知道哪些概念？你能描述它们吗？		
+		
+naturliga tal		
+natural numbers		
+自然数		
+		
+jämna tal		
+even numbers		
+偶数		
+		
+udda tal		
+odd numbers		
+奇数		
+		
+negativa tal		
+negative numbers		
+负数		
+		
+hela tal		
+whole numbers		
+整数		
+		
+olikhetstecken		
+inequality sign		
+不等号		
+		
+decimalform		
+decimal form		
+小数形式		
+		
+decimaler		
+decimals		
+小数		
+		
+position		
+position		
+位置		
+		
+platsvärde		
+place value		
+位值		
+		
+term		
+term		
+项		
+		
+summa differens		
+sum difference		
+和差		
+		
+faktor		
+factor		
+因数		
+		
+produkt		
+product		
+积		
+		
+täljare		
+numerator		
+分子		
+		
+nämnare		
+denominator		
+分母		
+		
+kvot		
+ratio		
+比率		
+		
+förkortning		
+abbreviation		
+缩写		
+		
+tiosystemet		
+the decimal system		
+十进制		
+		
+binära talsystemet		
+binary number system		
+二进制数制		
+		
+talbas		
+number base		
+数基		
+
+
+P 008
+
+Olika sorters tal
+Different kinds of numbers
+不同类型的数字
+
+NATURLIGA TAL 
+NATURAL NUMBERS 
+自然数 
+
+Det finns tio siffror: 0, 1, 2, 3, 4, 5, 6, 7, 8 och 9. 
+There are ten numbers: 0, 1, 2, 3, 4, 5, 6, 7, 8 and 9. 
+有十个数字：0、1、2、3、4、5、6、7、8 和 9。
+
+Av siffrorna kan vi bilda hur många tal som helst.
+We can make any number out of these digits.
+我们可以用这些数字组成任何数字。
+
+Talet 0 och de positiva heltalen bildar tillsammans de naturliga talen:
+The number 0 and the positive integers together form the natural numbers:
+数字 0 和正整数共同组成自然数：
+0,1,2,3,4,5,6,7,8,9,10,11,12,13...
+
+Av de naturliga talen kallar vi 0, 2, 4, 6, 8, 10, 12... för jämna tal och
+Of the natural numbers, we call 0, 2, 4, 6, 8, 10, 12... even numbers and
+在自然数中，我们把 0、2、4、6、8、10、12......称为偶数，把
+
+1,3, 5, 7,9, 11, 13... för udda tal. De jämna talen är delbara med 2.
+1,3, 5, 7,9, 11, 13... for odd numbers. The even numbers are divisible by 2.
+1,3, 5, 7,9, 11, 13... 为奇数。偶数能被 2 整除。
+
+NEGATIVA TAL
+NEGATIVE NUMBERS
+负数
+
+Det finns också negativa tal. 
+There are also negative numbers. 
+还有负数。
+
+Till vardags förekommer de till exempel i samband med temperatur. 
+In everyday life, they occur, for example, in connection with temperature. 
+例如，在日常生活中，它们与温度有关。
+
+Här ser du två termometrar. 
+Here you see two thermometers. 
+这里有两个温度计。
+
+Den vänstra visar temperaturen -10  och den högra visar 20 
+The left one shows the temperature -10 and the right one shows 20 
+左边的显示温度-10，右边的显示温度 20。
+
+På en tallinje finns de negativa talen till vänster om 0. 
+On a number line, the negative numbers are to the left of 0. 
+在数线上，负数位于 0 的左边。
+
+Talen ökar i värde när man rör sig åt höger på tallinjen. 
+The numbers increase in value as you move to the right on the number line. 
+在数线上，负数在 0 的左边。
+
+Talen minskar i värde när man rör sig åt vänster.
+The numbers decrease in value as you move to the left.
+数字向左移动时数值减小。
+
+negativa tal,  positiva tal
+negative numbers, positive numbers
+负数、正数
+
+De naturliga talen och de negativa hela talen bildar tillsammans de hela talen. 
+The natural numbers and the negative integers together form the integers. 
+自然数和负整数共同组成整数。
+
+P 009
+
+JÄMFÖRA TAL
+COMPARE NUMBERS
+比较数字
+
+Ju längre åt höger på en tallinje ett tal finns, desto större är alltså talet.
+The further to the right on a number line a number is, the bigger the number is.
+在数线上越靠右的数字越大。
+
+Till exempel är 2 ett större tal än -3 och -5 är ett mindre tal än —1.
+For example, 2 is a bigger number than -3 and -5 is a smaller number than -1.
+例如，2 比 -3 大，而 -5 比 -1 小。
+
+Vi kan skriva det så här:
+We can write it like this:
+我们可以这样写
+
+2>-3 
+
+Tecknet > betyder ”är större än”. .
+The sign > means “is greater than”. .
+符号 > 表示 “大于”。.
+
+-5 < -1
+Tecknet < betyder ”är mindre än”
+The < sign means “is less than”
+< 符号表示 “小于”。
+
+Tecknen < och > är exempel på olikhetstecken.
+The < and > signs are examples of inequality signs.
+< 和 > 符号是不等号的示例。
+
+TAL I DECIMALFORM
+NUMBERS IN DECIMAL FORM
+十进制数
+
+Vid en tävling i stavhopp hoppade Armand Duplantis 6.15 m. 
+In a pole vault competition, Armand Duplantis jumped 6.15 m. 
+在撑杆跳高比赛中，Armand Duplantis 跳了 6.15 米。
+
+Talet 6.15 är ett exempel på ett tal i decimalform. 
+The number 6.15 is an example of a number in decimal form. 
+数字 6.15 就是一个十进制数字的例子。
+
+Vi läser talet som ”sex hela och femton hundradelar” eller ”sex komma femton”.
+We read the number as “six whole and fifteen hundredths” or “six point fifteen”.
+我们读作 “6 整 15 百分之一 ”或 “6 点 15”。
+
+Siffrorna 1 och 5 efter decimaltecknet kallas decimaler.
+The numbers 1 and 5 after the decimal point are called decimals.
+小数点后面的数字 1 和 5 称为小数。
+
+PLATSVÄRDEN
+PLACE VALUES
+位值
+
+En siffras platsvärde beror på vilken plats siffran har i talet, vilken position den har. 
+The place value of a digit depends on its place in the number, its position. 
+一位数的位值取决于它在数字中的位置。
+
+Ett sådant talsystem kallas för ett positionssystem.
+Such a number system is called a position system.
+这样的数制称为位制。
+
+En gammal gren i friidrott är löpning en engelsk mil. 
+An old event in athletics is the mile run. 
+田径比赛中的一个古老项目是一英里跑。
+
+En sådan är 1609.344 m lång. I det talet har siffran 6 värdet 600 och siffran 3 har värdet 0.3.
+This is 1609.344 m long. In that number, the digit 6 has the value 600 and the digit 3 has the value 0.3.
+长度为 1609.344 米。在这个数字中，数字 6 的值是 600，数字 3 的值是 0.3。
+
+tusentalssiffra  som har värdet 1 * 1000 = 1000
+thousandth digit that has the value 1 * 1000 = 1000
+千位数的数值是 1 * 1000 = 1000
+
+hundratalssiffra som har värdet 6 * 100 = 600
+hundredth digit that has the value 6 * 100 = 600
+百位数的数值是 6 * 100 = 600
+
+tiotalssiffra som har värdet 0 * 10 = 0
+tens digit having the value 0 * 10 = 0
+十位数，其数值为 0 * 10 = 0
+
+entalssiffra som har värdet 9 * 1= 9
+one-digit number with the value 9 * 1 = 9
+数值为 9 * 1 = 9 的个位数
+
+tiondelssiffra som har värdet 3 * 0.1 = 0.3
+tenth digit having the value 3 * 0.1 = 0.3
+十位数的数值为 3 * 0.1 = 0.3
+
+hundradelssiffra som har värdet 4 * 0.01 = 0.04
+hundredths digit having the value 4 * 0.01 = 0.04
+十位数的数值为 4 * 0.01 = 0.04
+
+tusendelssiffra som har värdet 4 * 0.001 = 0.004
+thousandth digit having the value 4 * 0.001 = 0.004
+千位数的数值为 4 * 0.001 = 0.004
+
+
+P 010
+
+Vilket värde har siffran 3 i följande tal?
+What is the value of the digit 3 in the following numbers?
+在下列数字中，数字 3 的值是多少？
+
+a) 23 b) 8356  C)1.36
+
+I talet 731 står siffran 3  på tiotalssiffrans plats.  
+In the number 731, the digit 3 is in the tens place.  
+在数字 731 中，数字 3 位于十位。 
+
+Siffran har därför värdet  3*10 =30.  
+The number therefore has the value 3*10 =30.  
+因此，这个数的值是 3*10 =30。 
+
+I talet 8 356 står siffran 3 på hundratalssiffrans plats.
+In the number 8 356, the digit 3 is in the hundreds place.
+在数字 8356 中，数字 3 位于百位。
+
+Siffran har därför värdet 3*100 = 300.
+The number therefore has the value 3*100 = 300.
+因此，该数的值为 3*100 = 300。
+
+I talet 1,36 står siffran 3 på tiondelssiffrans plats.
+In the number 1.36, the digit 3 is in the tenth place.
+在数字 1.36 中，数字 3 位于十位。
+
+Siffran har därför värdet 3*0.1= 0.3.
+The number therefore has the value 3*0.1= 0.3.
+因此，该数的值为 3*0.1=0.3。
+
+Svar: a) 30  b) 300 c) 0.3
+
+1 Skriv talen med siffror. 
+1 Write the numbers with digits. 
+1 写出带有数位的数字。
+
+a) sjuhundraelva b) niotusen etthundra  c) tjugotvåtusen femtio
+a) seven hundred and eleven b) nine thousand one hundred c) twenty two thousand fifty
+a) 七百一十一 b) 九千一百 c) 二万二千五百
+
+2 Vilket olikhetstecken passar mellan talen, < eller >?
+2 Which inequality sign fits between the numbers, < or >?
+2 数字 < 或 > 之间哪个不等号合适？
+
+a) 1 ? 0.9 b) 0,5 ? 0.499 c) 0,031 ? 0,301
+
+3 Vilken siffra är tiotalssiffra i talen?
+3 Which digit is the tenth digit in the numbers?
+3 数字的第 10 位是哪个数字？
+
+a) 725 b) 5213 c) 78.9 d) 268.5
+
+4 Använd siffrorna i rutan och skriv 
+4 Using the numbers in the box, write 
+4 用方框中的数字 5 7 2 8  写出 
+
+a) etttal som är så nära 6000 som möjligt. 
+a) a number that is as close to 6000 as possible. 
+a) 一个尽可能接近 6000 的数字。
+
+b) ett udda tal som är så litet som möjligt.
+b) an odd number that is as small as possible.
+b) 一个尽可能小的奇数。
+
+5 Skriv talen med siffror i decimalform. 
+5 Write the numbers in decimal form. 
+5 用十进制形式写出这些数。
+
+a) fem tiondelar b) fem hundradelar 
+a) five tenths b) five hundredths 
+a) 十分之五 b) 百分之五 
+
+c) fem tusendelar d) femton hundradelar 
+c) five thousandths d) fifteen hundredths 
+c) 千分之五 d) 十分之十五 
+
+6 Vilken blir temperaturen om den 
+6 What will be the temperature if it 
+6 如果温度 
+
+a) stiger med 5 b) sjunker med 5 
+a) rises by 5 b) falls by 5 
+a) 上升 5 b) 下降 5 
+
+7 Vilket olikhetstecken passar mellan talen, < eller > ? 
+7 Which inequality sign fits between the numbers, < or > ? 
+7 数字 < 或 > 之间哪个不等号合适？
+
+a) 4 ? -2 	b) -3 ? 0 	c) -19 ? -20
+
+
+P 011
+
+8 Hur mycket högre värde har 5:an än 2:an i talet 5 283? Förklara hur du tänker.
+8 How much higher is the 5 than the 2 in the number 5 283? Explain your thinking.
+8 在数字 5 283 中，5 比 2 高多少？解释你的想法。
+
+9 Vilket tal tänker jag på?
+9 Which number am I thinking of?
+9 我在想哪个数字？
+
+- Talet är större än 10 men mindre än 30.
+- The number is greater than 10 but less than 30.
+- 该数大于 10 但小于 30。
+
+Talet är ett udda naturligt tal.
+The number is an odd natural number.
+该数是奇数自然数。
+
+Summan av talets siffror är 8.
+The sum of the digits of the number is 8.
+该数的数位之和是 8。
+
+10 = Vilket är nästa tal?
+10 = What is the next number?
+10 = 下一个数是什么？
+
+a) 7  4  1  -2 ?
+b): -9 -5 -1 3 ?
+
+11. Låt tiondelssiffran byta plats med tiotalssiffran i talet 83.57.
+11 Let the tenth digit swap places with the tenth digit in the number 83.57.
+11 让数字 83.57 中的十位数与十位数交换位置。
+
+Vilket tal får du då?
+What number do you get then?
+得到什么数？
+
+12 a) Ge exempel på ett tal som är större än I men mindre än 1.1.
+12 a) Give an example of a number greater than I but less than 1.1.
+12 a) 举例说明一个大于 I 但小于 1.1 的数。
+
+b) Hur många sådana tal finns det? Förklara hur du tänker.
+b) How many such numbers are there? Explain your thinking.
+b) 这样的数有多少个？解释你的想法。
+
+13 Vilket olikhetstecken passar mellan talen, < eller >?
+13 Which inequality sign fits between the numbers, < or >?
+13 数字 < 或 > 之间哪个不等号合适？
+
+a) 3?-5 	b) -1 ? 0  	c) -4 ? 7
+d) 0,291 ? 0.219 		e) 0,19 ? 0,189 	f) 1,499 ? 1.5
+
+14 Vilken blev temperaturen?
+14 What was the temperature?
+14 当时的温度是多少？
+
+Temp. var      Temp. sjönk
+Temp. was Temp. decreased Temp. became
+温度降低 温度升高
+
+15 Addera talen med en tiondel. Vilka tal får du då?
+15 Add the numbers by one tenth. What numbers do you get?
+15 将这些数字相加十分之一。得到什么数字？
+
+a) 0.6 b) 2.35 c) 0.809 d) 0.911
+
+
+P 012
+
+16 Du kliver in i en hiss på våning -1. Till vilken våning kommer du om du
+16 You enter an elevator on floor -1. To which floor do you go if you
+16 您从 -1 层进入电梯。如果您
+
+a) åker nedåt två våningar 
+a) go down two floors 
+a) 下两层 
+
+b) åker uppåt fem våningar
+b) go up five floors
+b) 上升五层
+
+17 Vilka tal pekar pilarna på?
+17 Which numbers do the arrows point to?
+17 箭头指向哪个数字？
+
+18 Vilket tal ligger mitt emellan talen?
+18 Which number is in the middle of the numbers?
+18 数字中间是哪个数字？
+
+a) -1 och 15 b) 5 och 10 c) -8 och 0 d) 4 och -2 
+
+19 — Förklara varför 1 är ett större tal än —5.
+19 - Explain why 1 is a bigger number than -5.
+19 - 解释为什么 1 比 -5 大。
+
+20 Vilket tal saknas?
+20 Which number is missing?
+20 缺少哪个数？
+
+a) 5 2 -1 ? 7      b) -10 -6 ? 2 6
+
+
+21 Vilka tal pekar pilarna på? 
+21 Which numbers do the arrows point to? 
+21 箭头指向哪些数字？
+
+22 Vad kommer det att stå i sifferfönstret om vi adderar med
+22 What will it say in the number window if we add by
+22 在数字窗口中，如果我们用
+
+a) en tiondel
+a) one tenth
+a) 十分之一
+
+b) en hundradel
+b) one hundredth
+b) 一百
+
+c) en tusendel
+c) one thousandth
+c) 千分之一
+
+23 Vilka tal ska stå istället för m?
+23 Which numbers should be written instead of m?
+23 哪些数字应该写成 m？
+
+a) 7127=7000 + m + 20 + 7  b) 12,89 = 10 +2 + m + 0,09
+
+28 24 Alma säger att -5 är ett naturligt tal. Stämmer det? Förklara hur du tänker.
+28 24 Alma says that -5 is a natural number. Is this true? Explain your thinking.
+28 24 阿尔玛说-5 是一个自然数。这是真的吗？请解释您的想法。
+
+P 013
+
+25 Vilka värden saknas?
+25 Which values are missing?
+25 缺少哪些数值？
+
+Temp.var Temp.sjönk, Temp.steg, Temp.blev
+Temp.was Temp.fell, Temp.rose Temp.became
+曾经的温度, 温度下降了, 温度升高了, 温度变成了
+
+26. Avståndet mellan A och C är en fjärdedel av avståndet mellan A och B. Vilket tal är C? 
+26 The distance between A and C is a quarter of the distance between A and B. What number is C? 
+26 A 和 C 之间的距离是 A 和 B 之间距离的四分之一。C 是什么数？
+
+27. Vilket tal ligger mitt emellan talen?
+27. Which number is in the middle of the numbers?
+27.哪个数在数字中间？
+
+a) 0,1 och 0,15 b) -7 och 3 c) -11 och -18 d) 0,11 och 0,116
+
+28. Under en vecka i oktober var medeltemperaturen i Kiruna 
+28. During one week in October, the average temperature in Kiruna was 
+28.在十月的一周内，基律纳的平均气温是 
+
+2. Tabellen visar temperaturen måndag-lördag. Vilken temperatur var det på söndagen? 
+2. The table shows the temperature Monday-Saturday. What was the temperature on Sunday? 
+表中显示的是周一至周六的气温。周日的气温是多少？
+
+29. Den högsta temperatur som uppmätts i Sverige är 38,0 ”C i Ultuna 1933. 
+29. The highest temperature measured in Sweden is 38.0"C in Ultuna in 1933. 
+瑞典测得的最高气温是 1933 年在乌尔图纳测得的 38.0 摄氏度。
+
+Hur många grader lägre temperatur är det än temperaturen i Death Valley 2020?
+How many degrees lower is that temperature than the temperature in Death Valley in 2020?
+该温度比 2020 年死亡谷的温度低多少度？
+
+sommaren 2020 uppmättes temperaturen 54.4 i Death valley, USA.
+In the summer of 2020, the temperature measured 54.4 in Death valley, USA.
+2020 年夏天，美国死亡谷的气温为 54.4 摄氏度。
+
+Det är troligtvis den högsta temperatur som uppmätts på  jorden. 
+It is probably the highest temperature measured on Earth. 
+这可能是地球上测得的最高温度。
+
+Den lägsta temperatur som någonsin uppmätts är -89.2 C. 
+The lowest temperature ever measured is -89.2 C. 
+测得的最低温度为零下 89.2 摄氏度。
+
+Temperaturen uppmättes 1983 vid Sydpolen.
+The temperature was measured in 1983 at the South Pole.
+该温度是 1983 年在南极测得的。
+
+30. Den lägsta temperatur som uppmätts vid en svensk väderstation är -52,6 i Lappland år 1966. 
+30. The lowest temperature measured at a Swedish weather station is -52.6 in Lapland in 1966. 
+30. 瑞典气象站测得的最低气温是 1966 年在拉普兰测得的-52.6 摄氏度。
+
+Hur många grader högre temperatur är det än temperaturen vid Sydpolen 1983?
+How many degrees higher is that than the temperature at the South Pole in 1983?
+这比 1983 年南极的气温高多少度？
