@@ -1,118 +1,261 @@
-72
+nation 
 
-N
-nation 8
-nomad 6
 
-[0]
 
-offentlig sektor 22,
-25120)
+nomad 
 
-offentligt 22, 23
 
-omsorg 36
 
-opposition 35
+offentlig sektor 
 
-P
 
-Partiprogram 18
-polis 56, 62
-Politiker 11, 17, 46
-politiska block 28
-politiskt parti 20
-privat 22, 23
-propaganda 48
-Proposition 41, 43
 
-R
-regéring 40
-region 32
-regler 59
-reklam 48
-religionsfrihet 15
+offentligt
+
+
+
+omsorg 
+
+
+
+opposition 
+
+
+
+Partiprogram 
+
+
+
+polis
+
+
+
+Politiker
+
+
+
+politiska block
+
+
+
+politiskt parti
+
+
+
+privat
+
+
+
+propaganda
+
+
+
+Proposition
+
+
+
+regéring 
+
+
+
+region
+
+
+
+regler
+
+
+
+reklam
+
+
+
+religionsfrihet
+
+
+
 representativ
-demokrati 17
-resurser 26
-riksdag 21, 33, 38
-Romarriket 61
-räddningstjänst 37
-ränta 27
-rättegång 62, 65
-rösträtt 15
 
-S
 
-samhällskunskap 8
+demokrati
 
-samhällstjänst 67, 69
 
-självförsörjning 6
 
-skatt 22, 24,25, 28,
+resurser
 
-29
 
-skola 37
 
-skräckvälde 13
+riksdag
 
-skyddstillsyn 67
 
-Socialdemokraterna
-28
 
-socialtjänst 36, 65, 68
+Romarriket
 
-soffliggare 20
 
-solidaritet 28
 
-stad 7
+räddningstjänst
 
-stat 8, 39
 
-statschef 41
 
-statsminister 40
+ränta
 
-straffmyndig 68
+
+
+rättegång
+
+
+
+rösträtt
+
+
+
+samhällskunskap
+
+
+
+samhällstjänst
+
+
+
+självförsörjning
+
+
+
+skatt
+
+
+
+skola 
+
+
+
+skräckvälde 
+
+
+
+skyddstillsyn 
+
+
+
+Socialdemokraterna 
+
+
+
+socialtjänst
+
+
+
+soffliggare
+
+
+
+solidaritet
+
+
+
+stad
+
+
+
+stat
+
+
+
+statschef
+
+
+
+statsminister
+
+
+
+straffmyndig 
+
+
 
 än
 
-tjänsteman 41
-tryckfrihet 15, 50
-tull 44
 
-u
-upphovsrätt 53
 
-Vv
-val 13, 14, 17, 20, 38
-valhemlighet 21
-valkampanj 19
-valsedel 19
-vana 59
+tjänsteman
 
-vittne 63
-väljare 21
 
-Vänsterpartiet 28
-världssamhället 8
 
-XY
+tryckfrihet
 
-yttrandefrihet 15, 50
-A
 
-åklagare 62, 63, 65
-åsiktsfrihet 15
-åsiktsförtryck 13
-åtal 62, 65, 68
-åtalad 63
 
-Ö
-överklaga 63
-övervakare 66
+tull
+
+
+
+uupphovsrätt
+
+
+
+val
+
+
+
+valhemlighet
+
+
+
+valkampanj
+
+
+
+valsedel
+
+
+
+vana 
+
+
+
+vittne 
+
+
+
+väljare
+
+
+
+Vänsterpartiet
+
+
+
+världssamhället
+
+
+
+yttrandefrihet
+
+
+
+åklagare
+
+
+
+åsiktsfrihet
+
+
+
+åsiktsförtryck
+
+
+
+åtal
+
+
+
+åtalad
+
+
+
+överklaga
+
+
+
+övervakare
 
