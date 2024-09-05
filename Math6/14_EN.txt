@@ -1,0 +1,77 @@
+Addition and subtraction with numbers in decimal form
+
+
+
+ADDITION AND SUBTRACTION
+
+
+
+In this section we review how to do calculations with addition and subtraction. 
+
+
+
+Some tasks can be solved with mental arithmetic, while others will be easier to solve with a table.
+
+
+
+Others
+
+
+
+Addition Subtraction
+
+
+
+4,9 + 3,2 = 8,1 11,6 - 8,7 = 2,9
+
+
+
+term term sum term term term difference
+
+
+
+a) 47,8 +8,35 b) 46,03 - 13,58
+
+
+
+a) 47 80 Write the terms to the same number of decimal places before doing the calculation.
+
+
+
+To see if the answer is reasonable, you can do an extrapolation. 
+
+
+
+You will get 50 + 10 = 60. The answer is therefore reasonable.
+
+
+
+b) 46,03 - 13,58
+
+
+
+3 hundredths minus 8 hundredths is not possible, so you have to convert down.
+
+
+
+Change down 1 singular to 10 tenths.
+
+
+
+Then change down I of these tenths to hundredths.
+
+
+
+Answers: a) 56.15, b) 32.45
+
+
+
+1.2 ADDITION AND SUBTRACTION WITH NUMBERS IN DECIMAL FORM
+
+
+
+Show your calculation.
+
+
+
+Write your answer.
