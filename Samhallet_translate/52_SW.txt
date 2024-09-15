@@ -1,5 +1,3 @@
-52
-
 Tänk Kritiskt
 
 Bara för att vi har massor av information omkring
@@ -38,6 +36,6 @@ budskapet sant?
 
 WWW är en förkortning av
 "World Wide Web", som betyder
-"det världsomfattande natet".
+"det världsomfattande nätet".
 Nästan två miljarder människor
 över hela jorden använder nätet.

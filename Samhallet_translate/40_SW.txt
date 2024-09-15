@@ -1,5 +1,3 @@
-40
-
 Regeringen
 
 De partier som har majoritet i riksdagen har makten i sin
@@ -30,6 +28,12 @@ Socialministerns
 uppgift är att sköta
 vård och omsorg.
 
+Justitieministern
+har ansvar för
+polis, domstolar
+och fängelser.
+
+
 Regeringen lämnar förslag
 
 Riksdagen har alltid många frågor att ta tag i. En av rege-
@@ -42,16 +46,13 @@ dagen. I riksdagen diskuterar politikerna från de olika parti-
 erna regeringens förslag. Därefter röstar riksdagen om den
 ska stödja förslaget eller inte.
 
-JIustitieministern
-har ansvar för
-polis, domstolar
-och fängelser.
+
 
 Fler ministrar
 
-Skolminister |
+Skolminister 
 Miljöminister
 
-Utrikesminister |
+Utrikesminister 
 Försvarsminister
 Kulturminister

@@ -1,18 +1,16 @@
 Internet
 
 För ungefär tjugo år sedan uppfanns en teknik som gjorde
-SN det möjligt att koppla samman världens datorer i ett stort
-S nätverk — så föddes internet. Internet ger oss fantastiska möj-
-Et ligheter att söka information och träffa nya vänner. Samtidigt
-ÄN
-
+det möjligt att koppla samman världens datorer i ett stort
+nätverk — så föddes internet. Internet ger oss fantastiska möj-
+ligheter att söka information och träffa nya vänner. Samtidigt
 är det några saker som du verkligen måste ha koll på:
 
-Tänk KritisKb vem som helst kan skriva saker på nätet,
+Tänk Kritiskt: vem som helst kan skriva saker på nätet,
 så det är extra viktigt att använda de kritiska frågorna är
 ovanför, om du inte vill bli lurad. Kolla källan!
 
-Skydda personliga uppgifter Det mesta som
+Skydda personliga uppgifter: Det mesta som
 
 du gör på nätet kan spåras. Det går att se vilka webb-
 
@@ -23,8 +21,7 @@ dig själv så kan den lätt spridas och kopieras. Lämna
 inte ut bilder, din adress eller andra personliga uppgif-
 ter till människor som du inte känner!
 
-I
-SN Upphovsrätt Texter, musik, filmer och
+Upphovsrätt: Texter, musik, filmer och
 bilder på nätet kan faktiskt ägas av någon annan.
 Om du laddar hem film, bilder eller spel, så måste
 du vara säker på att det verkligen är lagligt att göra
@@ -32,15 +29,11 @@ det. Använder du någon annans text för att göra ett
 skolarbete ska du alltid ange var texten kommer ifrån
 vem som har skrivit den.
 
-4
-
-SKydda datorn När du kopierar bilder, spel och andra filer
+SKydda datorn: När du kopierar bilder, spel och andra filer
 så kan det följa med små program som kan skada din dator, eller
 som används för att spionera på vad du gör på nätet. Använd ett
 virusprogram, och kopiera inte filer från okända webbplatser.
 
 Litar du på information som du hittar på nätet?
 Vad Kan du göra för att Kolla om det som står är sant?
-
-53
 

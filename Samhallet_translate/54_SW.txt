@@ -1,5 +1,3 @@
-54
-
 Nätet - på gott och ont
 
 Nästan alla elever på Lövstaskolan använder datorn varje dag.
@@ -14,6 +12,15 @@ tycker att de lägger för mycket tid
 på nätet. Under en vecka gör de
 följande saker på nätet:
 
+Skolarbete: 39%
+Lyssna på musik: 15%
+Spela spel: 24%
+
+Se på film 29%
+Chatta: 41%
+
+Skicka e-post: 21%
+
 Internet i världen
 
 Nästan två miljarder människor
@@ -22,31 +29,22 @@ länder saknar många en dator.
 Andel av folket som använder
 internet i:
 
-Skolarbete: 39 946
-Lyssna på musik: 15 96
-Spela spel: 24 4
+Sverige: 89%
+Turkiet: 35%
+Kina: 30%
+Bangladesh 0,4%
+Egypten 21%
+Somalia: 1%
+Irak: 1%
 
-Se på film 29 246
-Chatta: 41 24
-
-Skicka e-post: 21 946
-
-Sverige: 89 4
-Turkiet: 35 4
-Kina: 30 H
-Bangladesh 0,4 246
-Egypten 21 4
-Somalia: 1946
-Irak: 196
-
-USA: 76 H
-Brasilien: 36 9
+USA: 76%
+Brasilien: 36%
 
 Wing Yi håller kontakten med sin gamla farmor i Kina,
 
 som just har skaffat internet.
 
-— Men regeringen i Kina stoppar mycket information som
+ Men regeringen i Kina stoppar mycket information som
 de inte gillar. Om man skriver något dåligt om regeringen,
 så kan man råka illa ut, berättar Wing Yi. Det går faktiskt att
 använda nätet för att spionera på människor, och kontrollera

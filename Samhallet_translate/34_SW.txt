@@ -1,5 +1,3 @@
-34
-
 Kiruna kommun
 är lika stor som
 Skåne, Blekinge
@@ -14,7 +12,7 @@ i Sveriges 290 kommuner får därför rösta fram sina egna
 lokala politiker. Politikerna bestämmer sedan över gemen-
 samma frågor inom kommunens gränser.
 
-KommunfullmäkKtige
+Kommunfullmäktige
 
 Ungefär en gång i månaden samlas de valda politikerna i
 kommunfullmäktige för att diskutera och ta beslut. Fullmäk-
@@ -31,12 +29,13 @@ I kommunfullmäktige fattas besluten enligt majoritets-
 principen. För att ett förslag ska vinna måste det alltså få
 minst hälften av rösterna.
 
-Politiker
-Namn Yta Invånare | ifullmäktige
-j Soho 188 km? | 830 000 | 101
-Bjurholm . 316 är 7 2 500 -
-Kiruna 19447 km: 23 000 45
-Sundbyberg 9 kmz2 38 000 51
+Namn,		Yta,		Invånare,	Politiker ifullmäktige
+Stockholm	188 km2		830000		101
+Bjurholm	1316 km2	2500		31
+Kiruna		19447 km2	23000		45
+Sundbyberg	9 km2		38000		51
+
+Kiruna kommun är lika stor som skåne, blekinge och halland tillsammans!
 
 Fullmakt
 Fullmakt betyder att

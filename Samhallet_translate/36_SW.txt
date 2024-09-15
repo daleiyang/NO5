@@ -1,5 +1,3 @@
-36
-
 Kommunernas
 uppgifter
 
@@ -24,11 +22,11 @@ Socialtjänsten tar också hand om barn och
 ungdomar som har problem i sin familj eller som
 riskerar att börja med droger eller brott.
 
-Kommun Antal anställda
-Stockholm 40300
-Hen ;
-i Kiruna AJ RÅ 867 LAR Zz : |
-i (Sundbyberg 1700 R
+Kommun,  Antal anställda
+Stockholm  40300
+Bjurholm   256
+Kiruna     1867
+Sundbyberg 1700 
 
 Socialtjänstens
 uppgifter brukar
