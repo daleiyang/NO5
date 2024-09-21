@@ -1,0 +1,299 @@
+P 001
+
+ENKEL Teknik 21
+SIMPLE Technology 21
+简易技术 21
+
+Hållfasta och stabila konstruktioner
+Durable and stable structures
+持久稳定的结构
+
+När man bygger hus, broar, järnvägar, kraftverksdammar och även möbler,
+When building houses, bridges, railways, power plant dams and even furniture,
+在建造房屋、桥梁、铁路、电站大坝甚至家具时、
+
+måste de vara stabila konstruktioner och samtidigt ha bra hållfasthet.
+they must be stable structures and at the same time have good strength.
+它们必须是稳定的结构，同时具有良好的强度。
+
+Att något är hållfast, betyder att materialet klarar bra av, om det trycks på det eller om det dras i materialet.
+Strength means that the material can withstand pressure or being pulled by the material.
+强度意味着材料能够承受压力或被材料拉动。
+
+Det ska alltså vara hållbart.
+It must therefore be durable.
+因此，材料必须经久耐用。
+
+Hållbara material
+Durable materials
+耐用材料
+
+Man använder olika material, beroende på vad man ska bygga. 
+Different materials are used, depending on what you are building. 
+根据建筑内容的不同，会使用不同的材料。
+
+Ofta väljs material efter vad konstruktionen får lov att kosta i pengar.
+Materials are often chosen according to the cost of the structure.
+材料的选择通常取决于结构的成本。
+
+I byggkonstruktioner är vanliga material trä och metaller, 
+Common materials used in construction are wood and metals, 
+建筑中常用的材料有木材和金属、 
+
+men även naturmaterial som betong, tegel, porslin, gips och glas. 
+but also natural materials such as concrete, brick, porcelain, plaster and glass. 
+此外还有混凝土、砖、瓷器、石膏和玻璃等天然材料。
+
+Dessa material är tillverkade av sten och lera och har hög hållfasthet och tål även värme bra.
+These materials are made of stone and clay and have high strength and heat resistance.
+这些材料由石头和粘土制成，具有高强度和耐热性。
+
+Även en del syntetiska material, som alltså är framtagna på konstgjord väg, är användbara. 
+Some synthetic materials, which are man-made, are also useful. 
+一些人造材料也很有用。
+
+Främst då gummi och olika plaster. 
+Mainly rubber and various plastics. 
+这些材料主要是橡胶和各种塑料。
+
+Dessa material är billiga att framställa. 
+These materials are cheap to produce. 
+这些材料生产成本低廉。
+
+De kan även ha egenskapen, att vara elastiska, alltså töjbara.
+They can also have the property of being elastic, i.e. stretchable.
+它们还具有弹性，即可拉伸的特性。
+
+Öresundsbron
+The Öresund Bridge
+厄勒海峡大桥
+
+Fackverk
+Trusses
+桁架
+
+När man till exempel bygger broar, vill man bygga stabilt, men ändå spara på material, eftersom en bro är en väldigt dyr konstruktion.
+When building bridges, for example, you want to build sturdily, but still save on materials, because a bridge is a very expensive structure.
+例如，在建造桥梁时，既要坚固耐用，又要节省材料，因为桥梁是一种非常昂贵的结构。
+
+Genom att bygga med balkar av metall, får man en stabil konstruktion, som dessutom släpper igenom vinden.
+By building with metal beams, you get a stable structure, which also lets the wind through.
+通过使用金属梁来建造桥梁，就能获得既稳定又能让风通过的结构。
+
+En sådan byggteknik kallas för fackverk. 
+This construction technique is called trussing. 
+这种建筑技术被称为桁架结构。
+
+Eiffeltornet i Paris är byggt med fackverksteknik.
+The Eiffel Tower in Paris is built using truss technology.
+巴黎的埃菲尔铁塔就是采用桁架技术建造的。
+
+
+P 002
+
+ENKEL Teknik 22
+SIMPLE Technology 22
+简单技术 22
+
+Hållbara former
+Durable shapes
+耐用的形状
+
+När man vill bygga stabilt, är det viktigt att man bygger konstruktioner med hållbara former. 
+When you want to build stably, it is important to build structures with durable shapes. 
+在建造坚固的建筑时，采用耐用的形状是非常重要的。
+
+De vanligaste formerna är bågen, triangeln och röret.
+The most common shapes are the arch, triangle and tube.
+最常见的形状是拱形、三角形和管形。
+
+Bågen är särskilt bra, om man det är en tung konstruktion. 
+The arch is particularly good if it is a heavy structure. 
+如果是重型结构，拱形尤其适用。
+
+Bågen användes tidigt i gamla kyrkobyggnader.
+The arch was used early on in old church buildings.
+拱形很早就用于古老的教堂建筑。
+
+Triangeln är en mycket stabil form.
+The triangle is a very stable shape.
+三角形是一种非常稳定的形状。
+
+Triangeln är framförallt vanlig i fackverk.
+The triangle is especially common in trusses.
+三角形在桁架中尤为常见。
+
+Röret har en rund form och är lika stark åt alla håll. 
+The tube has a round shape and is equally strong in all directions. 
+圆管的形状在各个方向上都同样坚固。
+
+Röret används när man bygger vindkraftverk och olika torn.
+The tube is used when building wind turbines and various towers.
+在建造风力涡轮机和各种塔架时都会用到管形结构。
+
+Broar
+Bridges
+桥梁
+
+De allra första broarna byggdes antagligen, för att man skulle kunna ta sig över något vattendrag eller kanske över ett stup. 
+The very first bridges were probably built to allow people to cross a river or perhaps a cliff. 
+最早的桥梁可能是为了让人们跨越河流或悬崖而建造的。
+
+Sådana broar var enkla och bestod av trädgrenar, plank och stenar.
+Such bridges were simple and consisted of tree branches, planks and stones.
+这种桥很简单，由树枝、木板和石头组成。
+
+Romarna byggde tidigt stabila broar och akvedukter av sten, med hjälp av konstruktioner i bågar.
+Early Romans built sturdy bridges and stone aqueducts, using arched structures.
+早期的罗马人使用拱形结构建造了坚固的桥梁和石制渡槽。
+
+En akvedukt användes som en vattenledning. 
+An aqueduct was used as a water conduit. 
+渡槽被用作输水管道。
+
+Alltså en slags bro för att transportera vatten.
+In other words, a kind of bridge to transport water.
+换句话说，这是一种运水的桥梁。
+
+Triangeln
+The triangle
+三角形
+
+bågen
+the arch
+拱形
+
+Röret
+The pipe
+管道
+
+Romersk akvedukt i södra Frankrike
+Roman aqueduct in southern France
+法国南部的罗马渡槽
+
+
+P 003
+
+ENKEL Teknik 23
+SIMPLE Technology 23
+简易技术 23
+
+Olika typer av broar
+Different types of bridges
+不同类型的桥梁
+
+På den här sidan kan du se några exempel på några olika slags broar.
+On this page you can see some examples of different types of bridges.
+在本页中，您可以看到一些不同类型桥梁的例子。
+
+Kan du se vilka hållbara former, man har använt i de olika broarna?
+Can you see what durable forms have been used in the different bridges?
+你能看出不同的桥梁采用了哪些耐用的形式吗？
+
+Valvbron är en äldre typ av bro. Den byggdes av sten. 
+The arch bridge is an older type of bridge. It was made of stone. 
+拱桥是一种比较古老的桥梁。它由石头制成。
+
+Romarna byggde många broar och akvedukter på detta sätt. 
+The Romans built many bridges and aqueducts in this way. 
+罗马人用这种方式建造了许多桥梁和渡槽。
+
+Balkbron är den äldsta typen av bro, som förr bestod av stockar. 
+The girder bridge is the oldest type of bridge, which used to be made of logs. 
+梁桥是最古老的桥梁类型，过去用原木制成。
+
+Idag är balkarna av stål eller armerad betong.
+Today, the beams are made of steel or reinforced concrete.
+如今，梁是用钢或钢筋混凝土制成的。
+
+Fackverksbron är oftast byggd av fackverk av stål. 
+Truss bridges are usually built with steel trusses. 
+桁架桥通常使用钢桁架。
+
+Bågbron är en bro där de bärande delarna är formade som en båge.
+The arch bridge is a bridge where the load-bearing parts are shaped like an arch.
+拱桥是一种承重部分形状像拱的桥梁。
+
+Hängbron hänger i tjocka kablar av stål. 
+The suspension bridge is suspended by thick steel cables. 
+悬索桥由粗大的钢缆悬挂。
+
+Kablarna i sin tur är upphängda i stora torn som kallas för pyloner. 
+The cables in turn are suspended from large towers called pylons. 
+钢缆又悬挂在称为塔架的大型塔上。
+
+Snedkabelbron är en typ av hängbro. 
+The cable-stayed bridge is a type of suspension bridge. 
+斜拉桥是悬索桥的一种。
+
+Men brons kablar är snett spända direkt från pylonerna till olika platser på bron.
+However, the cables of the bridge are obliquely strung directly from the pylons to different locations on the bridge.
+但桥上的钢索是从桥塔斜拉到桥上的不同位置。
+
+
+P 004
+
+ENKEL Teknik 24
+Simple technology 24
+简单技术 24
+
+KONSTRUKTION - Brobygge
+CONSTRUCTION - Bridge building
+建筑 - 造桥
+
+Det här behöver du: ritpapper, tejp, sytråd, sax
+What you need: drawing paper, tape, sewing thread, scissors
+所需物品：画纸、胶带、缝纫线、剪刀
+
+1. Här gäller det att bygga den längsta bron mellan två bänkar eller två bord.
+1. The aim is to build the longest bridge between two benches or two tables.
+1. 目的是在两张长凳或两张桌子之间搭一座最长的桥。
+
+2. Ni får bara använda er av 20 papper, tejp, tråd, sax och en nål.
+2. You can only use 20 pieces of paper, tape, thread, scissors and a needle.
+2. 只能使用 20 张纸、胶带、缝纫线、剪刀和一根针。
+
+Bron får bara tejpas fast i ett av borden eller i en bänk.
+The bridge can only be taped to one of the tables or benches.
+桥只能绑在其中一张桌子或长凳上。
+
+3. Vem konstruerar den mest stabila och hållfasta bron?
+3. Who will build the most stable and durable bridge?
+3. 谁搭的桥最稳固、最耐用？
+
+Kan du svara på dessa frågor?
+Can you answer these questions?
+你能回答这些问题吗？
+
+1. Vilka material är vanliga när man bygger olika konstruktioner?
+1. What materials are commonly used to build different structures?
+1. 通常用什么材料来建造不同的结构？
+
+2. Nämn några naturmaterial som är tillverkade av sten och lera.
+2. Name some natural materials that are made from stone and clay.
+2. 说出一些由石头和粘土制成的天然材料。
+
+3. Vad menas med att ett material är elastiskt?
+3. What does it mean that a material is elastic?
+3. 什么叫有弹性的材料？
+
+4. Vilka fördelar har fackverkstekniken?
+4. What are the advantages of the truss technique?
+4. 桁架技术有哪些优点？
+
+5. Nämn tre hållbara former?
+5. Name three durable forms?
+5. 请说出三种耐久形式？
+
+6. Vad är en akvedukt?
+6. What is an aqueduct?
+6. 什么是渡槽？
+
+7. Vad heter dessa tre typer av broar?
+7. What are these three types of bridges called?
+7. 这三种桥叫什么？
+
+Tengnäs Läromedel          Kopieringsunderlag Art nr 517
+Tengnäs Learning Materials Copy sheet Art. no. 517
+腾格纳斯学习材料 第 517 号复印纸
+
