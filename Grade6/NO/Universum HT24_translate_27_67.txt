@@ -1,42 +1,68 @@
 P 027
 
 Månen lyser inte av sig själv. När solen lyser på månen reflekteras solens ljus. 
-
-
+The moon does not shine by itself. When the sun shines on the moon, the sun's light is reflected. 
+月亮不会自己发光。当太阳照在月亮上时，太阳的光芒会被反射出来。
 
 Under en månad ser månen ut på olika sätt. 
+During a month, the Moon looks different. 
+在一个月中，月亮看起来会有所不同。
+
 Ibland kommer jorden i vägen mellan solen och månen. 
+Sometimes the Earth gets in the way between the Sun and the Moon. 
+有时，地球会挡在太阳和月亮之间。
+
 Då når inte solens strålar hela månen. 
+Then the sun's rays do not reach the whole moon. 
+这样太阳光就无法照射到整个月球。
+
 En del av månen blir skuggad.
+Part of the moon is shadowed.
+月亮的一部分就会被遮住。
+
 
 
 P 029
 
 MÅNENS FASER
-Åt vilket håll hittar vi so
+PHASES OF THE MOON
+月相, 月食
+
+Åt vilket håll hittar vi solen?
+Which way do we find the sun?
+太阳在哪个方向？
+
 
 P 030
 
-SOLFÖRMÖRKELSE OCH
-
-MÅNFÖRMÖRKELSE
-böllorttorkelse
+SOLFÖRMÖRKELSE OCH MÅNFÖRMÖRKELSE
+SOLAR ECLIPSE AND LUNAR ECLIPSE
+日食和月食
 
 Månförmörkelse
+Lunar eclipse
+月食
 
-När solen, jorden och
-månen ligger i rad, och
-jorden är i mitten. Jordens
-skugga träffar månen som
-därmed blir förmörkad,
-helt eller delvis.
+När solen, jorden och månen ligger i rad, och jorden är i mitten. 
+When the sun, earth and moon are in a row, and the earth is in the middle. 
+当太阳、地球和月亮排成一排，地球位于中心时。
 
-Inträffar när månen
-passerar mellan jorden och
-solen och dessa ligger i en
-rät linje, och då solen är
-helt eller delvis skymd för
-betraktare från jorden.
+Jordens skugga träffar månen som därmed blir förmörkad, helt eller delvis.
+The Earth's shadow hits the Moon, causing it to be partially or completely eclipsed.
+地球的影子击中月球，导致月球部分或全部被食。
+
+Solförmörkelse 
+Solar eclipse 
+日食 
+
+Inträffar när månen passerar mellan jorden och solen och dessa ligger i en rät linje, 
+Occurs when the Moon passes between the Earth and the Sun and they are in a straight line, 
+当月球经过地球和太阳之间，且两者在一条直线上时发生、 
+
+och då solen är helt eller delvis skymd för betraktare från jorden.
+and when the Sun is partially or completely obscured from view from Earth.
+从地球上看，太阳部分或完全被遮住。
+
 
 P 031
 
