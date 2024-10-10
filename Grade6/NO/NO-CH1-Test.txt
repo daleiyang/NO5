@@ -120,176 +120,514 @@ our closest neighbor in space, moving around the Earth
 我们在太空中的近邻，围绕地球运动
 
 månförmörkelse, lunar eclipse, 月食
-Svar:
 När solen, jorden och månen ligger i rad, och jorden är i mitten. 
+When the Sun, Earth and Moon are in a row, and the Earth is in the middle. 
+当太阳、地球和月亮排成一线，且地球位于中间时。 
+
 Jordens skugga träffar månen som därmed blir förmörkad, helt eller delvis.
+The Earth's shadow hits the Moon, causing it to be partially or completely eclipsed.
+地球的影子投射到月球上，导致月球部分或完全被遮蔽。
 
 nebulosa, nebula, 星云
-Svar:
-Namnet kommer från latinets nebula, som betyder moln
-Inuti nebulosorna bildas mindre gasklot som dras samma av gravitationen.
+Nebulosor är stora moln av stoft och gas som finns i galaxerna. 
+Nebulae are large clouds of dust and gas found in galaxies. 
+星云是星系中的大型尘埃和气体云。
+
+Där bildas stjärnor som sedan kan lysa i flera miljarder år.
+They form stars that can then shine for billions of years.
+它们形成的恒星可以闪耀数十亿年。
 
 Neptunus, Neptune, 海王星
+Planeten Neptunus är en gasplanet och den yttersta planeten i solsystemet. 
+Neptune is a gas planet and the outermost planet in the solar system. 
+海王星是一颗气态行星，也是太阳系最外层的行星。
 
 neutronstjärna, neutron star, 中子星
-Svar:
-En kompakt himlakropp i mitten av en supernova. Kan bildas när en stor stjärna dör.
+En kompakt himlakropp i mitten av en supernova. 
+A compact celestial body at the center of a supernova. 
+位于超新星中心的紧凑天体。
+
+Kan bildas när en stor stjärna dör.
+Can form when a large star dies.
+可在一颗大恒星死亡时形成。
 
 omloppsbana, orbit, 轨道
+Den väg som en himlakropp eller ett objekt tar i universum kallas för en omloppsbana.
+The route that a celestial body or object takes in the universe is called an orbit.
+天体或者物体在宇宙间运行的路线叫轨道。
 
 röd jätte, red giant, 红巨星
-Svar:
-Röd jätte: En röd jätte är slutfasen på en stjärnas liv, 
+När stjärnan blir gammal och bränslet i den börjar ta slut sväller den upp.
+When the star gets old and runs out of fuel, it swells up.
+当恒星变老，燃料耗尽，它就会膨胀起来。
+
+Temperaturen sjunker och då blir stjärnas färg rödaktig.
+The temperature drops and the star's color turns reddish.
+温度下降，恒星的颜色变红。
+
+Stjärnan har blivit en röd jätte.
+The star has become a red giant.
+恒星变成了红巨星。
 
 satellit, satellite, 卫星
+En satellit är något som roterar kring en himlakropp.
+A satellite is something that rotates around a celestial body.
+卫星是围绕天体旋转的物体。
+
+Rymdsond som cirkulerar kring jorden är en satellit.
+A space probe orbiting the Earth is a satellite.
+围绕地球运行的太空探测器就是卫星。
+
+Jorden har naturliga satelliter, månen.
+The Earth has natural satellites, the Moon.
+地球有天然卫星--月球。
 
 Saturnus, Saturn, 土星
+Planeten Saturnus är den andra av de stora gasplaneterna i det yttre solsystemet. 
+The planet Saturn is the second of the large gas planets in the outer solar system. 
+土星是外太阳系中第二大气体行星。
+
+Planeten är speciellt känd för de vackra ringar som omger den.
+It is especially known for the beautiful rings that surround it.
+它因美丽的星环环绕而闻名于世。
 
 skottår, leap year, 闰年
+Ett skottår är ett år med 366 dagar i stället för 365, vart 4:e år tillkommer det en extra dag i februari.
+A leap year is a year with 366 days instead of 365, with an extra day added every 4 years in February.
+闰年是指一年有 366 天，而不是 365 天，每 4 年在二月增加一天。
+
+Dagen lägges till eftersom ett år egentligen inte innehåller 365, utan 365,25 dagar. 
+The day is added because a year does not actually contain 365, but 365.25 days. 
+之所以增加一天，是因为一年实际上并不包含 365 天，而是 365.25 天。
+
+Genom att vart fjärde år lägga till en dag extra till det året så kan man lösa detta problem.
+By adding an extra day to the year every four years, this problem can be solved.
+通过每四年在一年中多加一天，就可以解决这个问题。
 
 skugga, shadow, 阴影
+Ibland kommer jorden i vägen mellan solen och månen. 
+Sometimes the Earth gets in the way between the Sun and the Moon. 
+有时，地球会挡在太阳和月亮之间。
+
+Då når inte solens strålar hela månen. 
+Then the sun's rays do not reach the whole moon. 
+这样太阳光就无法照射到整个月球。
+
+En del av månen blir skuggad.
+Part of the moon is shadowed.
+月亮的一部分就会被遮住。
 
 sol, sun, 太阳
+Den stjärna som jorden kretsar kring är solen.
+The star around which the Earth revolves is the Sun.
+地球围绕旋转的恒星是太阳
 
 solförmörkelse, solar eclipse, 日食
-Svar:
 Inträffar när månen passerar mellan jorden och solen och dessa ligger i en rät linje, 
+Occurs when the Moon passes between the Earth and the Sun and they are in a straight line, 
+当月球经过地球和太阳之间，且两者在一条直线上时发生、 
+
 och då solen är helt eller delvis skymd för betraktare från jorden.
+and when the Sun is partially or completely obscured from view from Earth.
+从地球上看，太阳部分或完全被遮住。
 
 solsystem, solar system, 太阳系
+Solsystemet har åtta planeter, och jorden är en av dem.
+The solar system has eight planets, and Earth is one of them.
+太阳系有八颗行星，地球是其中之一。
+
+I vårt solsystem finns också kometer, meteorer, asteroider och andra planeters månar.
+Our solar system also includes comets, meteors, asteroids and the moons of other planets.
+我们的太阳系还包括彗星、流星、小行星和其他行星的卫星。
 
 solur, sundial, 日晷
+Ett uråldrigt mänskligt tidtagningsinstrument som mätte tiden med hjälp av solens skugga.
+An ancient human timekeeping instrument that measured time using the shadow of the sun.
+人类古代利用太阳的影子测得时刻的一种计时仪器。
 
 stjärna, star, 恒星
-Svar:
-En stjärna föds i enorma gasmoln och rymdstoft som kallas nebulosor.
-I en fusion slås atomer samman. Väte slås ihop till helium i stjärnans mitt och energi frigörs
+En stjärna är ett lysande klot av het gas, bland annat väte och helium. 
+A star is a luminous ball of hot gas, including hydrogen and helium. 
+恒星是由氢和氦等炽热气体组成的发光球体。
 
 supernova, supernova, 超新星
-Svar:
-Av stjärnor som är mycket större än vår sol bildas inte någon röd jätte.
-När bränslet börjar ta slut i en sådan stjärna blossar den istället upp till en röd superjätte och exploderar till en supernova.
+Om det är en stor stjärna blir det ingen röd jätte när stjärna är på väg mot sitt slut. 
+If it is a big star, it will not be a red giant when the star is about to end. 
+如果是一颗大恒星,当它即将终结时,它不会变成红巨星。 
+
+Då blossar den upp och lyser mycket starkt.
+It will flare up and shine very brightly.
+它会突然爆发,发出非常耀眼的光芒。
+
+De yttre delarna kastas ut i rymden och i mitten blir en kompakt himlakropp. 
+The outer parts are thrown out into space and the center becomes a compact celestial body. 
+外层物质被抛入太空,中心变成一个紧凑的天体。 
+
+Atomerna ligger så tätt att en bit stor som en sockerbit kan väga som 100 miljoner bilar.
+The atoms are so dense that a piece the size of a sugar cube can weigh as much as 100 million cars.
+原子非常密集,一块糖块大小的物质可能重达一亿辆汽车。
 
 svart dvärg, black dwarf, 黑矮星
+En svart dvärg är en kvarleva efter en stjärnas kollaps, 
+A black dwarf is a remnant of a star's collapse, 
+黑矮星是恒星坍缩的残余物，
+
+och antas uppstå då en vit dvärg som har kylts tillräckligt för att inte längre kunna sända ut något synligt ljus.
+and is believed to result from a white dwarf that has cooled enough to no longer emit any visible light.
+据说是白矮星冷却到不再发出任何可见光时形成的。
 
 svart hål, black hole, 黑洞
-Svar:
-Riktigt stora stjärnor slutar i kollaps.Hela supernovan dras ihop till en enda punkt.
+Riktigt stora stjärnor slutar i kollaps. 
+Really big stars end in collapse. 
+真正的大恒星以坍缩结束。
 
+Hela supernovan dras ihop till en enda punkt. 
+The whole supernova contracts to a single poin
+整个超新星收缩成一个点。
 
 tidvatten, tides, 潮汐
-Svar:
+Månen och solen spelar en viktig roll för tidvattnet på jorden.
+The Moon and Sun play an important role in the tides on Earth.
+月球和太阳对地球上的潮汐起着重要作用。
+
 Jorden, månen, solen och andra himlakroppar har en dragningskraft mellan sig. 
+The Earth, Moon, Sun and other celestial bodies have a gravitational pull between them. 
+地球、月球、太阳和其他天体之间存在引力。
+
 Dragningskraften/gravitationen påverkar all massa men eftersom vattnet är lättrörligt dras de snabbar mot månen respektive solen.
+The gravitational pull affects all masses, but because water is mobile, they are pulled faster towards the Moon and Sun respectively.
+引力会影响所有物体，但由于水是流动的，它们分别更快地被月球和太阳吸引。
+
 EBB/LÅGVATTEN. FLOD/HÖGVATTEN.
+EBB/LOW WATER. RIVER/HIGH WATER.
+退潮/低水位。涨潮/高水位。
 
 universum, universe, 宇宙
-svar:
-rymden, där vårt solsystem är ett av många
+I universum finns många galaxer i olika former. I varje galax finns miljarder stjärnor och solsystem. 
+The Universe contains many galaxies of different shapes. Each galaxy contains billions of stars and solar systems. 
+宇宙由许多形状各异的星系组成，每个星系都包含数十亿颗恒星和太阳系。
 
 Uranus, Uranus, 天王星
+Uranusär den sjundeplanetenfrån solen. 
+Uranus is the seventh planet from the Sun. 
+天王星是太阳的第七颗行星。
+
+Uranus är en så kallad ”gasjätte” och har därför ingen fast yta.
+Uranus is a so-called 'gas giant' and therefore has no solid surface
+天王星是所谓的 “气体巨行星”，因此没有固体表面。
+
+Majoriteten av planeten består av vatten, metan och ammoniak.
+The majority of the planet is made up of water, methane and ammonia.
+该行星的大部分由水、甲烷和氨组成。
 
 vakuum, vacuum, 真空
-Svar:
 I rymden finns inget lufttryck, det är tomrum - det finns ingenting. Detta kallas vakuum.
-
+In space there is no air pressure, it is a vacuum - there is nothing. This is called a vacuum.
+太空中没有气压，是真空--什么都没有。这就是所谓的真空。
 
 Venus, Venus, 金星
+Venus är en av de fyra jordplaneterna i solsystemet, vilket betyder att det är en stenig kropp som jorden. 
+Venus is one of the four terrestrial planets in the solar system, meaning it is a rocky body like Earth. 
+金星是太阳系中的四颗类地行星之一，这意味着它和地球一样是一个岩石天体。
+
+Det liknar jorden i storlek och massa, och beskrivs ofta som jordens "syster" eller "tvilling".
+It is similar to Earth in size and mass, and is often described as Earth's 'sister' or 'twin'.
+它的大小和质量与地球相似，经常被描述为地球的 “姐妹 ”或 “双胞胎”。
 
 Vintergatan, Milky Way, 银河系
-Svar:
-En galax är uppbyggd av miljarder stjärnor och solsystem.Vår galax kallas Vintergatan.
+En galax är uppbyggd av miljarder stjärnor och solsystem.
+A galaxy is made up of billions of stars and solar systems.
+一个星系由数十亿颗恒星和太阳系组成。
+
+Vår galax kallas Vintergatan.
+Our galaxy is called the Milky Way.
+我们的星系叫做银河系。
 
 vit dvärg, white dwarf, 白矮星
-Svar:
-Det är en stjärna som är döende och kan inte omvandla någon energi och därför blir den svalare och svalare.
+Det är en stjärna som är döende och kan inte omvandla någon energi och därför blir den svalare och svalare. 
+It is a star that is dying and cannot convert any energy and so it gets cooler and cooler. 
+这是一颗正在死亡的恒星，无法转换任何能量，因此温度越来越低。
 
+När en stjärna blir gammal utvidgar de sig och driver all deras gas ut i rymden. 
+When a star gets old they expand and expel all their gas into space. 
+当恒星变老时，它们会膨胀并将所有气体排入太空。
+
+Det kan gå långsamt eller snabbt det beror på hur stora de är. 
+This can be slow or fast depending on how big they are. 
+膨胀的速度有快有慢，这取决于恒星的大小。
+
+Det som blir kvar är en rest i centrum. 
+What remains is a remnant at the center. 
+剩下的就是中心的残余物。
+
+Hos vissa stjärnor blir denna rest en vit dvärg, vita dvärgar lyser vitt.
+In some stars this remnant becomes a white dwarf, white dwarfs shine white.
+在某些恒星中，这个残余物会变成白矮星，白矮星会发出白色的光芒。
 
 världsbild, world view, 世界观
+En världsbild kan förklaras som människors uppfattningar om jordens plats i förhållande till allt annat. 
+A worldview can be explained as people's perceptions of the place of the Earth in relation to everything else. 
+世界观可以解释为人们对地球相对于其他万物的位置的看法
 
 år, year, 年
-Svar:
-den tid det tar för jorden att snurra ett varv runt solen
+Den tid det tar för jorden att snurra ett varv runt solen kallar vi ett år. Det tar 365 dagar.
+The time it takes for the Earth to make one revolution around the Sun is called a year. It takes 365 days.
+地球绕太阳转一圈的时间称为一年。一年需要 365 天。
 
 årstid, season, 季节
-Svar:
-ett fjärdedels varv runt solen
+Jordaxeln lutar lite i förhållande till banan runt solen.
+The Earth's axis is slightly tilted in relation to its orbit around the Sun.
+相对于绕太阳的轨道，地轴略微倾斜.
+
+Det är den lutningen som ger oss årstider. I den del av banan där norra halvklotet lutar in mot solen, är det sommar hos oss. 
+It is this tilt that gives us seasons. In the part of the orbit where the northern hemisphere is tilted towards the sun, it is summer for us. 
+正是这种倾斜给我们带来了四季。在北半球向太阳倾斜的轨道部分，对我们来说是夏天。
+
+Då är det samtidigt vinter på södra halvklotet. När norra halvklotet lutar bort från solen blir det tvärtom, då har vi vinter. 
+At the same time, it is winter in the Southern Hemisphere. When the northern hemisphere is tilted away from the sun, it is the other way around, and we have winter. 
+与此同时，南半球则是冬天。当北半球偏离太阳时，则相反，我们迎来了冬天。
 
 varför jordens atmosfär är så viktig för livet på jorden.
 why the Earth's atmosphere is so important for life on Earth.
 为什么地球大气层对地球上的生命如此重要。
 
+Runt jorden finns ett luftlager, atmosfären. Där finns gaser som är nödvändiga för livet på jorden. Atmosfären skyddar oss också.
+Around the Earth is a layer of air, the atmosphere. It contains gases that are essential for life on Earth. The atmosphere also protects us.
+地球周围有一层空气，即大气层。它含有地球生命所必需的气体。大气层还保护着我们.
+
+Den håller kvar värmen vid jordens yta och jämnar ut temperaturskillnader mellan dag och natt.
+It retains heat at the Earth's surface and evens out temperature differences between day and night.
+它将热量保留在地球表面，平衡昼夜温差。
+
 vad en världsbild, geocentrisk och heliocentrisk, är och hur den har förändrats genomtiderna.
 what a worldview, geocentric and heliocentric, is and how it has changed over time.
 什么是世界观，地心说和日心说，以及随着时间的推移它是如何变化的。
+
+världsbild：En världsbild kan förklaras som människors uppfattningar om jordens plats i förhållande till allt annat. 
+worldview：A worldview can be explained as people's perceptions of the place of the Earth in relation to everything else. 
+世界观：可以解释为人们对地球相对于其他万物的位置的看法
+
+geocentric: Att jorden var centrum i världsalltet trodde man ända fram till 1500-talet. 
+geocentric: The Earth was believed to be the center of the universe until the 16th century. 
+地心说: 直到 16 世纪，人们一直认为地球是宇宙的中心。
+
+världsbilden： att solen är det som finns i centrum. 
+heliocentric：the sun is at the center. 
+日心说：太阳位于中心。
+
+Att jorden var centrum i världsalltet trodde man ända fram till 1500-talet. 
+The Earth was believed to be the center of the universe until the 16th century. 
+直到 16 世纪，人们一直认为地球是宇宙的中心。
+
+Runt 1500-talet trodde Kopernikus, Kepler och Galileo att solen befann sig i centrum.
+Around the 16th century, Copernicus, Kepler and Galileo believed that the sun was at the center.
+16 世纪左右，哥白尼，开普勒和伽利略认为太阳位于中心。
+
+Det var inte förrän 1992 som den katolska kyrkan erkände den heliocentriska teorin.
+It was not until 1992 that the Catholic Church recognized the heliocentric theory.
+直到1992年，天主教会才承认日心说。
 
 hur dag blir natt.
 how day becomes night.
 白昼是如何变成黑夜的？
 
+Jorden roterar runt sin axel. När den sida som är vänd mot solen vänder ryggen mot solen blir dag natt.
+The earth rotates on its axis. When the side facing the sun turns away from the sun, day turns into night.
+地球绕着地轴旋转，当面向太阳的一面背向太阳时，白天就变成了黑夜。
+
+
 och nämna några planeter som finns i vårt solsystem.
 and name some planets that are in our solar system.
 说出太阳系中一些行星的名称。
+
+MERKURIUS. VENUS. JORDEN. MARS. JUPITER. SATURNUS. URANUS NEPTUNUS
+MERCURY. VENUS. EARTH. MARS. JUPITER. SATURN. URANUS NEPTUNE
+火星 金星 土星 火星 土星 土星 天王星 海王星
 
 vad som skiljer de 4 inre planeterna från de 4 yttre planeterna i vårt solsystem.
 what distinguishes the 4 inner planets from the 4 outer planets in our solar system.
 太阳系中四颗内行星与四颗外行星的区别。
 
+INRE PLANETERNA.
+INNER PLANETS.
+内行星。
+
+Stenplaneter (fast yta). Består av sten och metall.
+Rocky planets (solid surface). Consist of rock and metal.
+岩石行星（固体表面）. 由岩石和金属组成。
+
+De är mindre.
+They are smaller.
+体积较小。
+
+Få månar (totalt 3 st) Bara jorden och mars har månar
+Few moons (3 in total) Only Earth and Mars have moons
+卫星较少（共 3 颗） 只有地球和火星有卫星
+
+Inga ringar.
+No rings.
+没有星环
+
+Kortare omloppsbana.
+Shorter orbits.
+轨道较短。
+
+YTTRE PLANETERNA.
+OUTER PLANETS.
+外行星。
+
+Gasplaneter (gasjättar) Består av fast kärna men ingen fast yta.
+Gas planets (gas giants) Consist of solid core but no solid surface.
+气态行星（气态巨行星） 由固体核心组成，但没有固体表面。
+
+De är större.
+They are larger.
+体积较大。
+
+Många fler månar (totalt ca 200st)
+Many more moons (about 200 in total)
+卫星较多（共约 200 颗）
+
+Består av ringar. Ringarna består av grus, is och stenblock.
+Consist of rings. Rings consist of gravel, ice and boulders.
+由星环组成。环由砾石、冰和巨石组成。
+
+Längre omloppsbana.
+Longer orbit.
+轨道较长
+
 ge exempel på några himlakroppar i universum och hur de rör sig.
 give examples of some celestial bodies in the universe and how they move.
 举例说明宇宙中的一些天体及其运动方式。
+
+Kometer：ofta rör sig i en avlång bana runt solen. 
+Comets：often moves in an oblong orbit around the Sun. 
+彗星：通常以长圆形轨道围绕太阳运行。
+
+Meteorer och meteoriter：det är rymdstenar som brinner upp när de faller genom jordens atmosfär. 
+Meteors and meteorites：they are space rocks that burn up as they fall through the Earth's atmosphere. 
+流星和陨石：他们是穿过地球大气层时燃烧起来的太空岩石。
+
+Asteroider：Runt solen kretsar också mängder av stenblock i olika storlekar.
+Asteroids：There are also lots of boulders of different sizes orbiting the Sun.
+小行星：还有许多大小不一的巨石围绕着太阳运行
+
+månarna: kretsar kring en planet.
+the moons: orbiting a planet.
+卫星：围绕行星运行。
 
 varför vi har årstider. (Använd begrepp jordaxel).
 why we have seasons (use concept of earth axis).
 为什么会有季节（使用地轴的概念）。
 
+Jordaxeln lutar lite i förhållande till banan runt solen. 
+The Earth's axis is slightly tilted in relation to its orbit around the Sun. 
+相对于绕太阳的轨道，地轴略微倾斜。
+
+Det är den lutningen som ger oss årstider. I den del av banan där norra halvklotet lutar in mot solen, är det sommar hos oss. 
+It is this tilt that gives us seasons. In the part of the orbit where the northern hemisphere is tilted towards the sun, it is summer for us. 
+正是这种倾斜给我们带来了四季。在北半球向太阳倾斜的轨道部分，对我们来说是夏天。
+
+Då är det samtidigt vinter på södra halvklotet. När norra halvklotet lutar bort från solen blir det tvärtom, då har vi vinter. 
+At the same time, it is winter in the Southern Hemisphere. When the northern hemisphere is tilted away from the sun, it is the other way around, and we have winter. 
+与此同时，南半球则是冬天。当北半球偏离太阳时，则相反，我们迎来了冬天。
+
 relationen mellan solen, månen och jorden.
 the relationship between the sun, moon and earth.
 太阳、月亮和地球之间的关系。
-Svar:
+
 Månen är en satellit till jorden och jorden är en satellit till solen. 
+The moon is a satellite of the earth, which is a satellite of the sun.
+月球是地球的卫星，地球是太阳的卫星。
+
 månen snurrar runt jorden, och att både jorden och månen i sin tur snurrar runt solen.
+The moon orbits the earth, which in turn orbits the sun, along with the moon.
+月球围绕地球旋转，而地球和月球又都围绕太阳旋转。
 
 begrepp; dygn, månad, år, årstid och skottår.
 concepts of day, month, year, season and leap year.
 日、月、年、季节和闰年的概念。
-Svar:
+
 dygn: den tid det tar för jorden att snurra ett varv runt sin egen axel, 24 timmar 
+day: the time it takes for the Earth to spin one revolution around its own axis, 24 hours 
+日：地球绕其轴线旋转一周所需的时间，24小时
+
 månad: den tid det tar för månen att snurra ett varv runt jorden
+month: the time it takes the moon to make one revolution around the Earth
+月：月球绕地球旋转一周所需的时间
+
 år: den tid det tar för jorden att snurra ett varv runt solen
+year: the time it takes for the Earth to complete one revolution around the Sun
+年：地球绕太阳旋转一周所需的时间
+
 årstid: ett fjärdedels varv runt solen
+season: one quarter of a revolution around the sun
+季：绕太阳旋转的四分之一
+
 skottår: När en extra dag i kalendern vart fjärde år, Dessa år kallas skottår och då har februari 29 dagar.
+leap year: When an extra day is added to the calendar every four years, these years are called leap years and then February has 29 days.
+闰年：每四年在日历上增加一天，这些年份被称为闰年，二月有29天。
 
 vilket mått som används för att mäta avstånd i rymden och förklara vad det innebär.
 what metric is used to measure distance in space and explain what it means.
 用什么度量衡来测量空间距离，并解释其含义。
-Svar:
+
 ljusår, Ett ljusår är den sträcka som ljuset hinner färdas på ett helt år, ungefär 950 miljarder mil.
+light year, A light year is the distance that light can travel in a year, approximately 950 billion miles.
+光年，光年是光在一整年中所能走过的距离，约为 9 500 亿英里。
 
 vad en satellit är.
 what a satellite is.
 什么是卫星？
-Svar: 
-En satellit är något som rör sig runt en himlakropp. Den kan vara naturlig, och satelliter är som människan har konstruerat
 
+En satellit är något som rör sig runt en himlakropp. Den kan vara naturlig, och satelliter är som människan har konstruerat
+A satellite is something that moves around a celestial body. It can be natural, and satellites are man-made
+卫星是围绕天体运动的物体。卫星可以是天然的，也可以是人造的。
 
 användningsområden för satelliter. (Använd begrepp omloppsbana).
 uses of satellites (use the concept of orbit).
 卫星的用途（使用轨道的概念）
-Svar:
-De rymdsonder som cirkulerar runt jorden är satelliter som människan har konstruerat. 
+
+De rymdsonder som cirkulerar runt jorden är satelliter som människan har konstruerat.
+The space probes orbiting the Earth are man-made satellites. 
+环绕地球运行的空间探测器是人造卫星。
+ 
 De bär med sig instrument och är viktiga fö rymdforskningen. 
+They carry instruments and are important for space research. 
+它们携带仪器，对空间研究非常重要。
+
 Studera jorden och rymden, till exemple, tar bilder av jorden att få kunskap om jorden, i militärt syfte,
+Studying Earth and space, for example, taking pictures of the Earth to gain knowledge about the Earth, for military purposes,
+研究地球和太空，例如为军事目的拍摄地球照片，以获得有关地球的知识、
+
 att titta ännu längre ut i rymden, 
-Vädersatelliter
-Kommunikationssatelliter, GPS
+to look even further into space, 
+为更深入地探索太空、
+
+Vädersatelliter， Kommunikationssatelliter, GPS
+weather satellites， communication satellites, GPS
+气象卫星、通信卫星、全球定位系统
 
 Välja utifrån olika källor som handlar om hur teknik kan påverka beskrivningen av solsystemet och vilka källor som handlar om hur religion och kultur kan påverka.
 Choose from different sources about how technology can influence the description of the solar system and which sources about how religion and culture can influence.
 寻找关于“技术的进步如何影响人们对太阳系的描述”的资料，其中哪份资料能够体现出宗教和文化在其中的影响？
-Svar:
+
 Att jorden var centrum i världsalltet trodde man ända fram till 1500-talet. 
+The Earth was believed to be the center of the universe until the 16th century. 
+在 16 世纪之前，人们一直认为地球是宇宙的中心。
+
 Den här uppfattningen kalllas för en geocentrisk världsbild.
+This view is called a geocentric worldview.
+这种观点被称为地心世界观。
+
 men det var först på 1500-talet som de flesta började accepterade Heliocentrisk världsbild
+But it wasn't until the 16th century that most people began to accept the heliocentric worldview.
+但直到 16 世纪，大多数人才开始接受 “日心说 ”的世界观。
+
 Den polske astronomen Nicolaus Kopernikus gjorde noggranna beräkningar av planeternas rörelse. 
+The Polish astronomer Nicolaus Copernicus made accurate calculations of planetary motion. 
+波兰天文学家 Nicolaus Kopernikus 对行星运动进行了精确的计算。
+
 Inom den katolska kyrkan tyckte man inte om dessa idéer. 
+The Catholic Church did not like these ideas.
+天主教会并不喜欢这些观点。
