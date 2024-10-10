@@ -1,0 +1,230 @@
+Asteroid, Asteroid, 小行星
+Runt solen kretsar också mängder av stenblock i olika storlekar. De kallas för asteroider.
+There are also lots of boulders of different sizes orbiting the Sun. They are called asteroids.
+还有许多大小不一的巨石围绕着太阳运行。它们被称为小行星。
+
+astronaut, astronaut, 宇航员
+Den som åker utanför atmosfären i en rymdfarkost kallas kosmonaut eller astronaut. 
+Anyone who goes outside the atmosphere in a spacecraft is called a cosmonaut or astronaut. 
+任何乘坐航天器在大气层外旅行的人都被称为宇航员或太空人。
+
+astronomi, astronomy, 天文学
+en forskare som undersöker rymden
+a scientist who studies space
+天文学家：研究太空的科学家
+
+atmosfär, atmosphere, 大气层
+Runt jorden finns ett luftlager, atmosfären.
+Around the Earth is a layer of air, the atmosphere.
+地球周围有一层空气，即大气层。
+
+Big Bang, Big Bang, 宇宙大爆炸
+den stora explosion då man tror att universum bildades
+the big explosion when the universe is thought to have formed
+宇宙形成时的大爆炸
+
+dygn, day, 日
+Det är den tid det tar för jorden att röra sig ett varv kring sin egen axel, jordaxeln. Denna cykel kallas för en dag.
+The period of time it takes the Earth to make one full rotation on its axis is 24 hours. This cycle is called a day.
+地球绕自己的地轴运动一圈所需的时间是24小时，这个周期叫做一天。
+
+fusion, fusion, 核聚变
+I stjärnans mitt slås väte ihop till helium och då frigörs energi. Den processen kallas fusion .
+At the center of the star, hydrogen is combined into helium, releasing energy. This process is called fusion.
+在恒星的中心，氢结合成氦，释放出能量。这个过程叫做核聚变。
+
+galax, galaxy, 星系
+I universum finns många galaxer i olika former. I varje galax finns miljarder stjärnor och solsystem. 
+The Universe contains many galaxies of different shapes. Each galaxy contains billions of stars and solar systems. 
+宇宙由许多形状各异的星系组成，每个星系都包含数十亿颗恒星和太阳系。
+
+himlakroppar, celestial bodies, 天体
+Till himlakroppar hör planeter, månar och asteroider
+celestial bodies include  planets, moons and asteroids
+天体：行星、卫星和小行星
+
+jordaxel, earth axis, 地轴
+jordens egen axel, den tänkta linje mellan polerna som jorden snurrar runt.
+the Earth's own axis, the imaginary line between the poles around which the Earth revolves
+地球自身的轴线，地球围绕其旋转的两极之间的假想线
+
+Jupiter, Jupiter, 木星
+Jupiter är en stor boll av gas. Den har ingen fast yta, men kan ha en fast kärna i centrum.
+Jupiter is a large ball of gas. It has no solid surface, but may have a solid core at its center.
+木星是一个由气体组成的大球。它没有固体表面，但中心可能有一个固体核心。
+
+Planeten Jupiter har nästan 80 månar i olika storlekar. 
+The planet Jupiter has almost 80 moons of different sizes. 
+木星有近 80 颗大小不一的卫星。
+
+Runt planeten Saturnus kan man se flera ringar - ice, gravel and boulders spinning around the planet.
+Around the planet Saturn you can see several rings - ice, gravel and boulders spinning around the planet.
+在土星周围，你可以看到几个星环 - 冰、砾石和巨石围绕着行星旋转。
+
+komet, comet, 彗星
+En komet är ett stort klot av is och sten som ofta rör sig i en avlång bana runt solen. 
+A comet is a large ball of ice and rock that often moves in an oblong orbit around the Sun. 
+彗星是由冰和岩石组成的大球，通常以长圆形轨道围绕太阳运行。
+
+kosmonaut, cosmonaut, 宇航员
+Den som åker utanför atmosfären i en rymdfarkost kallas kosmonaut eller astronaut. 
+Anyone who goes outside the atmosphere in a spacecraft is called a cosmonaut or astronaut. 
+任何乘坐航天器在大气层外旅行的人都被称为宇航员或太空人。
+
+ljusår, light years, 光年
+Ett ljusår är den sträcka som ljuset hinner färdas på ett helt år, ungefär 950 miljarder mil.
+A light year is the distance light can travel in a year, about 950 billion miles.
+一光年是光在一年中能走过的距离，大约为 9 500 亿公里。
+
+Mars, Mars, 火星
+Mars är den planet som är mest lik jorden.
+Mars is the planet that is most similar to Earth.
+火星是与地球最相似的行星。
+
+Mars kallas den röda planeten.Det är järnoxid (rost) som ger den rödaktiga färgen. 
+Mars is called the red planet, and it is iron oxide (rust) that gives it its reddish color. 
+火星被称为红色行星，它的红色是由氧化铁（铁锈）形成的。
+
+Merkurius, Mercury, 水星
+Närmast solen shurrar den minsta planeten. 
+Closest to the Sun is the smallest planet. 
+离太阳最近的是最小的行星。
+
+meteor, meteor, 流星
+det är rymdstenar som brinner upp när de faller genom jordens atmosfär. 
+they are space rocks that burn up as they fall through the Earth's atmosphere. 
+他们是在穿过地球大气层时燃烧起来的太空岩石。
+
+meteorit, meteorite, 陨石
+Stora meteorer hinner inte alltid brinna upp i luften, utan träffar jordens yta. Då kallas de för meteoriter.
+Large meteors don't always have time to burn up in the air, but hit the Earth's surface. They are then called meteorites.
+大型流星并不总是有时间在空中燃烧，而是会撞击地球表面。它们被称为陨石。
+
+midnattssol, midnight sun, 午夜太阳 
+I norra Sverige, norr om polcirkeln, är solen uppe dygnet runt mitt i sommaren. 
+In northern Sweden, north of the Arctic Circle, the sun is up 24 hours a day in the middle of summer. 
+在北极圈以北的瑞典北部，盛夏时节太阳一天 24 小时不落。
+
+Det kallas midnattssol. Under vinterhalvåret är det tvärtom. 
+This is called the midnight sun. During the winter months, it is the other way around. 
+这就是所谓的午夜太阳。冬季则相反。
+
+månad, month, 月
+den tid det tar för månen att snurra ett varv runt jorden
+the time it takes for the moon to make one revolution around the Earth
+月球绕地球一周的时间
+
+måne, moon, 月亮
+vår närmaste granne i rymden, rör sig runt jorden
+our closest neighbor in space, moving around the Earth
+我们在太空中的近邻，围绕地球运动
+
+månförmörkelse, lunar eclipse, 月食
+
+nebulosa, nebula, 星云
+
+Neptunus, Neptune, 海王星
+
+neutronstjärna, neutron star, 中子星
+
+omloppsbana, orbit, 轨道
+
+röd jätte, red giant, 红巨星
+
+satellit, satellite, 卫星
+
+Saturnus, Saturn, 土星
+
+skottår, leap year, 闰年
+
+skugga, shadow, 阴影
+
+sol, sun, 太阳
+
+solförmörkelse, solar eclipse, 日食
+
+solsystem, solar system, 太阳系
+
+solur, sundial, 日晷
+
+stjärna, star, 恒星
+
+supernova, supernova, 超新星
+
+svart dvärg, black dwarf, 黑矮星
+
+svart hål, black hole, 黑洞
+
+tidvatten, tides, 潮汐
+
+universum, universe, 宇宙
+
+Uranus, Uranus, 天王星
+
+vakuum, vacuum, 真空
+
+Venus, Venus, 金星
+
+Vintergatan, Milky Way, 银河系
+
+vit dvärg, white dwarf, 白矮星
+
+världsbild, world view, 世界观
+
+år, year, 年
+
+årstid, season, 季节
+
+
+varför jordens atmosfär är så viktig för livet på jorden.
+why the Earth's atmosphere is so important for life on Earth.
+为什么地球大气层对地球上的生命如此重要。
+
+vad en världsbild, geocentrisk och heliocentrisk, är och hur den har förändrats genomtiderna.
+what a worldview, geocentric and heliocentric, is and how it has changed over time.
+什么是世界观，地心说和日心说，以及随着时间的推移它是如何变化的。
+
+hur dag blir natt.
+how day becomes night.
+白昼是如何变成黑夜的？
+
+och nämna några planeter som finns i vårt solsystem.
+and name some planets that are in our solar system.
+说出太阳系中一些行星的名称。
+
+vad som skiljer de 4 inre planeterna från de 4 yttre planeterna i vårt solsystem.
+what distinguishes the 4 inner planets from the 4 outer planets in our solar system.
+太阳系中四颗内行星与四颗外行星的区别。
+
+ge exempel på några himlakroppar i universum och hur de rör sig.
+give examples of some celestial bodies in the universe and how they move.
+举例说明宇宙中的一些天体及其运动方式。
+
+varför vi har årstider. (Använd begrepp jordaxel).
+why we have seasons (use concept of earth axis).
+为什么会有季节（使用地轴的概念）。
+
+relationen mellan solen, månen och jorden.
+the relationship between the sun, moon and earth.
+太阳、月亮和地球之间的关系。
+
+
+begrepp; dygn, månad, år, årstid och skottår.
+concepts of day, month, year, season and leap year.
+日、月、年、季节和闰年的概念。
+
+vilket mått som används för att mäta avstånd i rymden och förklara vad det innebär.
+what metric is used to measure distance in space and explain what it means.
+用什么度量衡来测量空间距离，并解释其含义。
+
+vad en satellit är.
+what a satellite is.
+什么是卫星？
+
+användningsområden för satelliter. (Använd begrepp omloppsbana).
+uses of satellites (use the concept of orbit).
+卫星的用途（使用轨道的概念）
+
+Välja utifrån olika källor som handlar om hur teknik kan påverka beskrivningen av solsystemet och vilka källor som handlar om hur religion och kultur kan påverka.
+Choose from different sources about how technology can influence the description of the solar system and which sources about how religion and culture can influence.
+寻找关于“技术的进步如何影响人们对太阳系的描述”的资料，其中哪份资料能够体现出宗教和文化在其中的影响？

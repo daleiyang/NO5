@@ -419,7 +419,7 @@ The planet Jupiter has almost 80 moons of different sizes. Around the planet Sat
 
 det är is, grus och stenblock som snurrar runt planeten.
 ice, gravel and boulders spinning around the planet.
-冰环、砾石环和巨石环。
+冰、砾石和巨石围绕着行星旋转。
 
 Asteroider
 Asteroids
