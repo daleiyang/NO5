@@ -120,16 +120,26 @@ our closest neighbor in space, moving around the Earth
 我们在太空中的近邻，围绕地球运动
 
 månförmörkelse, lunar eclipse, 月食
+Svar:
+När solen, jorden och månen ligger i rad, och jorden är i mitten. 
+Jordens skugga träffar månen som därmed blir förmörkad, helt eller delvis.
 
 nebulosa, nebula, 星云
+Svar:
+Namnet kommer från latinets nebula, som betyder moln
+Inuti nebulosorna bildas mindre gasklot som dras samma av gravitationen.
 
 Neptunus, Neptune, 海王星
 
 neutronstjärna, neutron star, 中子星
+Svar:
+En kompakt himlakropp i mitten av en supernova. Kan bildas när en stor stjärna dör.
 
 omloppsbana, orbit, 轨道
 
 röd jätte, red giant, 红巨星
+Svar:
+Röd jätte: En röd jätte är slutfasen på en stjärnas liv, 
 
 satellit, satellite, 卫星
 
@@ -142,39 +152,68 @@ skugga, shadow, 阴影
 sol, sun, 太阳
 
 solförmörkelse, solar eclipse, 日食
+Svar:
+Inträffar när månen passerar mellan jorden och solen och dessa ligger i en rät linje, 
+och då solen är helt eller delvis skymd för betraktare från jorden.
 
 solsystem, solar system, 太阳系
 
 solur, sundial, 日晷
 
 stjärna, star, 恒星
+Svar:
+En stjärna föds i enorma gasmoln och rymdstoft som kallas nebulosor.
+I en fusion slås atomer samman. Väte slås ihop till helium i stjärnans mitt och energi frigörs
 
 supernova, supernova, 超新星
+Svar:
+Av stjärnor som är mycket större än vår sol bildas inte någon röd jätte.
+När bränslet börjar ta slut i en sådan stjärna blossar den istället upp till en röd superjätte och exploderar till en supernova.
 
 svart dvärg, black dwarf, 黑矮星
 
 svart hål, black hole, 黑洞
+Svar:
+Riktigt stora stjärnor slutar i kollaps.Hela supernovan dras ihop till en enda punkt.
+
 
 tidvatten, tides, 潮汐
+Svar:
+Jorden, månen, solen och andra himlakroppar har en dragningskraft mellan sig. 
+Dragningskraften/gravitationen påverkar all massa men eftersom vattnet är lättrörligt dras de snabbar mot månen respektive solen.
+EBB/LÅGVATTEN. FLOD/HÖGVATTEN.
 
 universum, universe, 宇宙
+svar:
+rymden, där vårt solsystem är ett av många
 
 Uranus, Uranus, 天王星
 
 vakuum, vacuum, 真空
+Svar:
+I rymden finns inget lufttryck, det är tomrum - det finns ingenting. Detta kallas vakuum.
+
 
 Venus, Venus, 金星
 
 Vintergatan, Milky Way, 银河系
+Svar:
+En galax är uppbyggd av miljarder stjärnor och solsystem.Vår galax kallas Vintergatan.
 
 vit dvärg, white dwarf, 白矮星
+Svar:
+Det är en stjärna som är döende och kan inte omvandla någon energi och därför blir den svalare och svalare.
+
 
 världsbild, world view, 世界观
 
 år, year, 年
+Svar:
+den tid det tar för jorden att snurra ett varv runt solen
 
 årstid, season, 季节
-
+Svar:
+ett fjärdedels varv runt solen
 
 varför jordens atmosfär är så viktig för livet på jorden.
 why the Earth's atmosphere is so important for life on Earth.
@@ -207,24 +246,50 @@ why we have seasons (use concept of earth axis).
 relationen mellan solen, månen och jorden.
 the relationship between the sun, moon and earth.
 太阳、月亮和地球之间的关系。
-
+Svar:
+Månen är en satellit till jorden och jorden är en satellit till solen. 
+månen snurrar runt jorden, och att både jorden och månen i sin tur snurrar runt solen.
 
 begrepp; dygn, månad, år, årstid och skottår.
 concepts of day, month, year, season and leap year.
 日、月、年、季节和闰年的概念。
+Svar:
+dygn: den tid det tar för jorden att snurra ett varv runt sin egen axel, 24 timmar 
+månad: den tid det tar för månen att snurra ett varv runt jorden
+år: den tid det tar för jorden att snurra ett varv runt solen
+årstid: ett fjärdedels varv runt solen
+skottår: När en extra dag i kalendern vart fjärde år, Dessa år kallas skottår och då har februari 29 dagar.
 
 vilket mått som används för att mäta avstånd i rymden och förklara vad det innebär.
 what metric is used to measure distance in space and explain what it means.
 用什么度量衡来测量空间距离，并解释其含义。
+Svar:
+ljusår, Ett ljusår är den sträcka som ljuset hinner färdas på ett helt år, ungefär 950 miljarder mil.
 
 vad en satellit är.
 what a satellite is.
 什么是卫星？
+Svar: 
+En satellit är något som rör sig runt en himlakropp. Den kan vara naturlig, och satelliter är som människan har konstruerat
+
 
 användningsområden för satelliter. (Använd begrepp omloppsbana).
 uses of satellites (use the concept of orbit).
 卫星的用途（使用轨道的概念）
+Svar:
+De rymdsonder som cirkulerar runt jorden är satelliter som människan har konstruerat. 
+De bär med sig instrument och är viktiga fö rymdforskningen. 
+Studera jorden och rymden, till exemple, tar bilder av jorden att få kunskap om jorden, i militärt syfte,
+att titta ännu längre ut i rymden, 
+Vädersatelliter
+Kommunikationssatelliter, GPS
 
 Välja utifrån olika källor som handlar om hur teknik kan påverka beskrivningen av solsystemet och vilka källor som handlar om hur religion och kultur kan påverka.
 Choose from different sources about how technology can influence the description of the solar system and which sources about how religion and culture can influence.
 寻找关于“技术的进步如何影响人们对太阳系的描述”的资料，其中哪份资料能够体现出宗教和文化在其中的影响？
+Svar:
+Att jorden var centrum i världsalltet trodde man ända fram till 1500-talet. 
+Den här uppfattningen kalllas för en geocentrisk världsbild.
+men det var först på 1500-talet som de flesta började accepterade Heliocentrisk världsbild
+Den polske astronomen Nicolaus Kopernikus gjorde noggranna beräkningar av planeternas rörelse. 
+Inom den katolska kyrkan tyckte man inte om dessa idéer. 
