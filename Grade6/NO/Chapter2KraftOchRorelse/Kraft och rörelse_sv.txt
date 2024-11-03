@@ -1,0 +1,856 @@
+P1: Kraft och rörelse
+
+
+
+P2: Aluminiumburken
+
+
+
+Hur kan burken stå på kanten utan att välta?
+
+
+
+Det här behövs aluminiumburk med fasad kant nedtill en skvätt vatten 
+
+
+
+Gör så här Fyll burken med vatten, inte för mycket och inte för lite.
+
+
+
+Ställ burken på den fasade kanten.
+
+
+
+Lärarstöd
+
+
+
+Detta är ett bra experiment att inleda området krafter och tyngdpunkt med. 
+
+
+
+Det ser lite magiskt ut men allt handlar om att ha koll på tyngdpunkten
+
+
+
+P3: Vad är en kraft?
+
+
+
+Historiska personer
+
+
+
+Krafter
+
+
+
+Gravitationskraft, dragningskraft, tyngdkraft
+
+
+
+Normalkraft, motkraft, tryckkraft, dragkraft
+
+
+
+Tyngdpunkt
+
+
+
+Friktionskraft
+
+
+
+Fritt fall
+
+
+
+Cirkelrörelse, centripetalkraft
+
+
+
+Begrepp
+
+
+
+P4: Vad är en kraft?
+
+
+
+Hur får man något att röra sig framåt, stanna eller ändra riktning?
+
+
+
+Vad är det som gör att du sitter kvar på stolen?
+
+
+
+Det finns olika sorters krafter.
+
+
+
+En kraft går inte att se eller att röra vid med ändå finns den.
+
+
+
+En kraft behövs för att något ska hända, att sätta något i rörelse, för att bromsa ett föremål eller att ändra riktning eller form hos ett föremål.
+
+
+
+Krafter är något som kan både putta och dra i saker.
+
+
+
+P5: Vad är en kraft?
+
+
+
+Vi ritar krafter som pilar. 
+
+
+
+Pilens längd berättar om hur stark kraften är.
+
+
+
+Pilen pekar i den riktning som kraften har.
+
+
+
+Kraftpilar är bara modeller som hjälper oss att förstå och förklara.
+
+
+
+P6: Historiska personer
+
+
+
+Det sägs att Isaac Newton (1642-1727) upptäckte gravitationskraften, dragningskraft på 1660-talet, då ett äpple föll ner i hans huvud.
+
+
+
+Allt som väger något påverkas av dragningskraften.
+
+
+
+Hur stor kraften är beror på hur mycket någon ting väger.
+
+
+
+Idag använder vi Newtons namn som enhet för att mäta kraft. Newton N.
+
+
+
+P7: Mäta kraft
+
+
+
+Allt som väger något påverkas av dragningskraften.
+
+
+
+Hur stor kraften är beror på hur mycket någon ting väger.
+
+
+
+Enhet för att mäta kraft, newton förkortas N.
+
+
+
+För att mäta en kraft kan en dynamometer användas.
+
+
+
+Ju mer kraft du använder för att dra i dynamometern desto längre sträcker sig fjädern. 
+
+
+
+Då kan du läsa av hur mycket kraft du drar med, på skalan.
+
+
+
+P8: Rörelse
+
+
+
+Rörelse innebär att något flyttar på sig på något sätt.
+
+
+
+För att ett föremål ska röra sig framåt, stanna och ändra riktning krävs en kraft.
+
+
+
+Hastighet
+
+
+
+Hur fort någonting rör sig.
+
+
+
+Hastighet mäts med enhet sträcka/tid.
+
+
+
+Det vanligast är ex. km/h eller m/s.
+
+
+
+P9: Acceleration
+
+
+
+När något ökar i hastighet. Ex
+
+
+
+Retadera
+
+
+
+Att minska hastigheten eller bromsa den helt.
+
+
+
+P10: Tröghetslagen
+
+
+
+Ett föremål vill befinna sig i sin ursprungliga form, antingen i vila (när något är helt stilla) eller när något har satts i rörelse. 
+
+
+
+Detta kallas tröghet. Det behövs alltid en kraft för att sätta ett föremål i rörelse. 
+
+
+
+Ju större massa föremålet har desto större kraft behövs för att minska eller öka farten. 
+
+
+
+När du åker hiss, flygplansstart, om en förare bromsar eller svänger, när du åker berg och dalbana. Din kropp vill följa rörelsen.
+
+
+
+En kropp förblir i vila eller likformig rörelse om, och bara om, summan (resultanten) av alla krafter som verkar på kroppen är noll.
+
+
+
+Det finns alltså ett motstånd för att förändra ett föremåls rörelse. 
+
+
+
+Detta innebär att föremål inte kan ändra sin hastighet själv, utan det behövs alltid en kraft för att sätta föremål i rörelse, bromsa det eller få det att ändra riktning. 
+
+
+
+Påverkar inga krafter kommer föremålet att ha samma hastighet och riktning i all oändlighet.
+
+
+
+P11: Hur märker vi av trögheten?
+
+
+
+Sitter du i en bil som tvärbromsar kastas du framåt.
+
+
+
+Det är svårt att stå still i en buss som ökar farten eller bromsar.
+
+
+
+När du åker hiss.
+
+
+
+Åker berg och dalbana.
+
+
+
+P12: Tröghet
+
+
+
+Efter att ha kört med konstant hastighet under raksträcka gör en bil en kraftig vänstersväng. Vad händer med passagerarna?
+
+
+
+Ett annat exempel på tröghet i vardagen är när man är och handlar, och har en fullastad kundvagn med matvaror framför sig. 
+
+
+
+Om kundvagnen står still märker man att det krävs en del kraft för att sätta den i rörelse, 
+
+
+
+och när den väl är i rörelse kan man behöva ta i rejält för att få stopp på den eller få den att svänga. 
+
+
+
+Allt detta är precis i enighet med Newtons första lag; för att förändra en rörelse krävs en kraft
+
+
+
+Tills bilens väggar eller bältena stoppar dem, kommer passagerarnas kroppar enligt Newtons första lag att fortsätta med samma hastighet (vilket inkluderar samma riktning) som innan svängen. 
+
+
+
+Och det kommer de uppleva genom att det i svängen känns som om de kastas mot bilens högra sida. 
+
+
+
+Men det är alltså inte någon kraft som får passagerarna att att röra sig mot bilens högersida, utan bara deras egen massas tröghet.
+
+
+
+Däremot är det definitivt fråga om en kraft som verkar på passagerarna när deras rörelse åt höger stoppas av att de slår emot den högra bildörren och på så vis får samma riktning som bilen
+
+
+P13: Krafter
+
+
+
+Gravitationskraft, dragningskraft, tyngdkraft
+
+
+
+Normalkraft, motkraft, tryckkraft, dragkraft
+
+
+
+Tyngdpunkt
+
+
+
+Friktionskraft
+
+
+
+Tröghetslagen
+
+
+
+Kaströrelse
+
+
+
+Fritt fall
+
+
+
+Cirkelrörelse, centripetalkraft
+
+
+
+P14: Gravitationskraft, dragningskraft, tyngdkraft
+
+
+
+En kraft drar något nedåt.
+
+
+
+P15: Gravitationskraft, dragningskraft, tyngdkraft
+
+
+
+Det spelar ingen roll var på jordklotet du står. Stenen faller rakt ner mot marken. Rakt mot jordklotets mittpunkt.
+
+
+
+Jordklotets tyngpunkt ligger precis i mitten. Det är därför allt dras mot jordens mittpunkt av tyngdkraften.
+
+
+
+Vad skulle hända om det inte fanns tyngdkraft? 
+
+
+
+Jo, jag vet. 
+
+
+
+Då skulle allting sväva runt lite hur som helst i luften. 
+
+
+
+Det kallas för tyngdlöshet.
+
+
+
+Tyngdkraft och dragningskraft är egentligen samma sak. 
+
+
+
+Man brukar säga tyngdkraft när det gäller ett "vanligt" litet föremål som dras mot något mycket större, t.ex. jorden eller en annan planet. 
+
+
+
+Samma princip, gravitation, gäller även för mindre massor. 
+
+
+
+Till exempel dras en astronaut och hans rymdskepp mot varandra enligt exakt samma fysikaliska lag. 
+
+
+
+När bägge föremålen har ungefär samma massa brukar man säga dragningskraft
+
+
+
+P16: Historiska personer
+
+
+
+Galileo Galilei levde för 400 år sedan
+
+
+
+Det sägs att GG gick upp i det lutande tornet i Pisa och genomförde ett experiment. 
+
+
+
+Han undersökte vad som föll snabbas: En kanonkula eller en gevärskula. Resultatet var att de båda föremålen nådde marken samtidigt.
+
+
+
+P17: Fritt fall - experiment
+
+
+
+Släpp pappret (inte vikt) och kulan samtidigt från en höjd, exempelvis en stol. Vad hände? Skriv ner.
+
+
+
+Vik ihop pappret och lägg det i ena tändsticksasken. Lägg kula i den andra asken. Släpp båda samtidigt. Vad hände? Skriv ner.
+
+
+
+Redovisa skillnaden mellan de båda försöken och ge en förklaring.
+
+
+
+P18: Fritt fall
+
+
+
+Om ett föremål släpps från en höjd kommer den falla fritt mot marken, det kallar vi fritt fall. 
+
+
+
+Det är på grund av tyngdkraften som föremålet ”faller”.
+
+
+
+Eftersom luften gör motstånd kommer föremålen falla olika snabbt beroende av ex. hur stor yta föremålet har.
+
+
+
+Ett fallande föremål ökar sin hastighet hela tiden, det kallas tyngdacceleration.
+
+
+
+Om du håller en fjäder och en blykula ovanför marken och släpper dem samtidigt kommer du se att blykulan når marken först. 
+
+
+
+Men är det alltid på detta sätt? Vi upprepar samma försök igen men denna gång gör vi det i två långa glasrör där vi pumpat ur all luft. 
+
+
+
+Vad händer nu? Jo, de faller nu lika fort!
+
+
+
+Faktum är att om ingen luft finns (dvs. om vi har vakuum) så faller alla föremål med samma acceleration, 
+
+
+
+oberoende av material eller form (förutsatt att det sker på samma ställe, för om vi släppt en kula på månen och på jorden från samma avstånd så hade vi fått olika svar på grund av att det är olika gravitation på dessa himlakroppar)
+
+
+
+P19: Kaströrelse
+
+
+
+När du kastar ett föremål kommer den inte att landa rakt under dig.
+
+
+
+Det beror på att du sätter föremålet i rörelse framåt med en kraft samtidigt som tyngdkraften kommer att dra föremålet nedåt.
+
+
+
+När du springer har både du själv och föremålet en hastighet, allt som du bär med dig har samma fart som du själv.
+
+
+
+När du kastar de kommer den att landa en bit framför där du kastade den, eftersom föremålet kommer med en kraft och som också påverkas av tyngdkraften.
+
+
+
+P20: Normalkraft, motkraft
+
+
+
+Vad är det som gör att du sitter kvar på stolen?
+
+
+
+Det är alltså tyngdkraften som gör att du sitter kvar på stolen. 
+
+
+
+Men borde du då inte braka igenom stolen? Tyngdkraften drar ju dig ner mot jorden.
+
+
+
+Anledningen till att stolen inte går sönder är att stolen också har en kraft, en normalkraft.
+
+
+
+Lika stor kraft som drar dig ner mot jorden, lika stor kraft har stolen uppåt mot dig.
+
+
+
+P21: Motkraft, normalkraft
+
+
+
+För varje kraft som verkar på ett föremål, finns det en kraft med motsatt riktning. 
+
+
+
+När båda krafterna är lika stora så är  krafterna i balans och föremålet i jämvikt. 
+
+
+
+Dragningskraft, Gravitionskraft, Tyngdkraft
+
+
+
+P22: Tryckkraft och dragkraft
+
+
+
+Två krafter som vi ofta använder oss av är 
+
+
+
+dragkraft , tryckkraft
+
+
+
+P23: Tyngdpunkt - testa
+
+
+
+Hitta tyngdpunkten.
+
+
+
+Försök balansera kartongbiten på fingret.
+
+
+
+Fäst tyngden i snöret på och hitta tyngdpunkten. Rita ett sträck där du hittar den.
+
+
+
+P24: Tyngdpunkt – hitta tyngdpunkten
+
+
+
+Stå med båda benen på golvet. Din stödyta är på två ställen, en vid varje fot.
+
+
+
+Lyft ena benet och hitta balansen. Fundera på vad händer? Vad behöver du göra för att hitta balansen? 
+
+
+
+Försök balansera och hitta jämvikt.
+
+
+
+Varför är det skillnad på att stå på två ben jämfört med att stå på ett ben?
+
+
+
+Din tyngdpunkt finns ungefär vid din navel. Står du på två ben står du stabilt. 
+
+
+
+Du dras ner från din tyngdpunkt, men från dina fötter verkar normalkrafter uppåt som gör att du är i balans, jämvikt.
+
+
+
+När du lyfter ditt ben kan du märka att du vinglar till lite för att sedan böja din överkropp för att hitta balans, jämvikt. 
+
+
+
+Du flyttar också din tyngdpunkt så att den hamnar ovanför benet.
+
+
+
+P25: Tyngdpunkt
+
+
+
+Låg tyngdpunkt och stor stödyta ger bra balans
+
+
+
+Hög tyngdpunkt och liten stödyta ger dålig balans
+
+
+
+P26: Tyngdpunkt
+
+
+
+Tyngdpunkten är ett mått på hur massa är fördelad.
+
+
+
+Jämvikt är när ett föremål är i balans.
+
+
+
+Alla föremål har en tyngdpunkt. Därifrån drar tyngdkraften saker nedåt.
+
+
+
+Ytan som något står över kallas stödyta.
+
+
+
+Om man knuffar något så att tyngdpunkten ligger utanför stödytan kommer grejen att välta.
+
+
+
+Vill man göra något stabilt ska man se till att tyngdpunkten ligger lågt och att stödytan är stor.
+
+
+
+P27: Friktionskraft
+
+
+
+Två kompisar beslutar sig för att litet noggrannare undersöka olika underlags förmåga att bromsa upp rörelse. 
+
+
+
+De slog iväg en puck med en ishockeyklubba först på asfalt. 
+
+
+
+Sedan på is. 
+
+
+
+Till sist jämförde de ännu resultaten med resultaten från de experiment som de hade utfört i rymden.
+
+
+
+Asfalt - Pucken rör sig bara ett litet stycke Is - Pucken rör sig mycket längre än på asfalten.
+
+
+
+Pucken i rymden. (Emedan det i rymden inte finns några krafter som skulle kunna motverka rörelsen, bromsas pucken inte alls.)
+
+
+
+P28: Friktionskraft
+
+
+
+Kraft mellan två föremål som glider mot varandra
+
+
+
+Friktion är en kraft som bromsar.
+
+
+
+Ingen yta är helt jämn. När ytor rör sig mot varandra så griper ojämnheterna tag i varandra.
+
+
+
+Friktionens storlek beror på:
+
+
+
+ytan på föremålen, skrovlig/ojämn yta      stor friktion och
+
+
+
+massan på föremålet som rör sig, stor massa     stor friktion
+
+
+
+P29: Friktionskraft
+
+
+
+Normalkraft, Tyngdkraft, Kraft personen tillför, Friktionskraft
+
+
+
+P30: Cirkelrörelse, centripetalkraft
+
+
+
+Lassokastaren snurrar fortare och fortare. Hen ska kasta iväg bollen med lassot. 
+
+
+
+Hen vill kasta den så långt som möjligt. Ju mer hen snurra desto mer kraft behöver hen använda för att hålla i lassot. 
+
+
+
+Kraften går i armens riktning mot centrum av ringen. Kraften kallas centripetalkraft.
+
+
+
+Centripetalkraft finns i alla cirkelrörelser.
+
+
+
+När kraften försvinner fortsätter lassot med bollen framåt.
+
+
+
+Centripetalkraft förklaring
+
+
+
+P 31: Centripetalkraft och centrifugal
+
+
+
+P32: Begrepp
+
+
+
+Acceleration
+
+
+
+Balans
+
+
+
+Centripetalkraft
+
+
+
+Cirkelrörelse
+
+
+
+Dragkraft
+
+
+
+Dragningskraft
+
+
+
+Friktionskraft
+
+
+
+Fritt fall
+
+
+
+Gravitationskraft
+
+
+
+Hastighet
+
+
+
+Jämvikt
+
+
+
+Kaströrelse
+
+
+
+Kraft
+
+
+
+Kraftpil
+
+
+
+Motkraft
+
+
+
+Normalkraft
+
+
+
+Retardera
+
+
+
+Riktning
+
+
+
+Stödyta
+
+
+
+Tryckkraft
+
+
+
+Tröghet
+
+
+
+Tyngdkraft
+
+
+
+Tyngdpunkt
+
+
+
+P33: Fallskärmshoppare – En kraft kan dra någonting nedåt.
+
+
+
+Dragkamp – en kraft kan motverka en annan kraft
+
+
+
+Paraply som blåser sönder – En kraft kan ändra form på något
+
+
+
+En pingisboll kommer mot någon som håller upp ett pingisrack – en kraft kan ändra riktning
+
+
+
+Krossad ruta – en kraft kan krossa något
+
+
+
+Fot som sparkar på en boll -  En kraft kan orsaka en rörelse.
+
+
+
+Hund som håller emot,  någon som drar i andra änden av kopplet –  en kraft kan bromsa något.

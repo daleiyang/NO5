@@ -1,0 +1,860 @@
+P1: Kraft och rörelse
+P1: Power and motion
+P1：力量与运动
+
+P2: Aluminiumburken
+P2: The aluminum can
+P2： 铝罐
+
+Hur kan burken stå på kanten utan att välta?
+How can the can stand on its edge without tipping over?
+怎样才能让罐子站在边缘而不翻倒？
+
+Det här behövs aluminiumburk med fasad kant nedtill en skvätt vatten 
+You need an aluminum can with a beveled edge at the bottom and a splash of water 
+您需要一个底部有斜边的铝罐和一瓢水 
+
+Gör så här Fyll burken med vatten, inte för mycket och inte för lite.
+Fill the can with water, not too much and not too little.
+在铝罐里装满水，水不能太多，也不能太少。
+
+Ställ burken på den fasade kanten.
+Place the jar on the beveled edge.
+将罐子放在斜边上。
+
+Lärarstöd
+Teacher support
+教师支持
+
+Detta är ett bra experiment att inleda området krafter och tyngdpunkt med. 
+This is a good experiment to introduce the topic of forces and center of gravity. 
+这是一个介绍力和重心的很好的实验。
+
+Det ser lite magiskt ut men allt handlar om att ha koll på tyngdpunkten
+It looks a bit magical but it's all about keeping track of the center of gravity
+它看起来有点神奇，但其实就是要掌握重心。
+
+P3: Vad är en kraft?
+P3: What is a force?
+P3：什么是力？
+
+Historiska personer
+Historical figures
+历史人物
+
+Krafter
+Forces
+力
+
+Gravitationskraft, dragningskraft, tyngdkraft
+Gravitational force, tensile force, gravity
+引力、拉力、重力
+
+Normalkraft, motkraft, tryckkraft, dragkraft
+Normal force, counter force, push force, pull force
+法向力、反作用力、推力、拉力
+
+Tyngdpunkt
+Center of gravity
+重心
+
+Friktionskraft
+Frictional force
+摩擦力
+
+Fritt fall
+Free fall
+自由落体
+
+Cirkelrörelse, centripetalkraft
+Circular motion, centripetal force
+圆周运动、向心力
+
+Begrepp
+Concepts
+概念
+
+P4: Vad är en kraft?
+P4: What is a force?
+P4：什么是力？
+
+Hur får man något att röra sig framåt, stanna eller ändra riktning?
+How do you make something move forward, stop or change direction?
+如何使物体前进、停止或改变方向？
+
+Vad är det som gör att du sitter kvar på stolen?
+What is it that makes you stay in your chair?
+是什么让你一直坐在椅子上？
+
+Det finns olika sorters krafter.
+There are different kinds of forces.
+力有很多种。
+
+En kraft går inte att se eller att röra vid med ändå finns den.
+A force can't be seen or touched, but it still exists.
+力看不见、摸不着，但它仍然存在。
+
+En kraft behövs för att något ska hända, att sätta något i rörelse, för att bromsa ett föremål eller att ändra riktning eller form hos ett föremål.
+A force is needed to make something happen, to set something in motion, to slow down an object or to change the direction or shape of an object.
+要使某件事情发生、使某件事情运动、使物体减速或改变物体的方向或形状，都需要一种力。
+
+Krafter är något som kan både putta och dra i saker.
+Forces are something that can both push and pull things.
+力既可以推动物体，也可以拉动物体。
+
+P5: Vad är en kraft?
+P5: What is a force?
+P5：什么是力？
+
+Vi ritar krafter som pilar. 
+We draw forces as arrows. 
+我们把力画成箭头。
+
+Pilens längd berättar om hur stark kraften är.
+The length of the arrow tells us how strong the force is.
+箭头的长度告诉我们力的大小。
+
+Pilen pekar i den riktning som kraften har.
+The arrow points in the direction of the force.
+箭头指向力的方向。
+
+Kraftpilar är bara modeller som hjälper oss att förstå och förklara.
+Force arrows are just models to help us understand and explain.
+力的箭头只是帮助我们理解和解释的模型。
+
+P6: Historiska personer
+P6: Historical figures
+P6：历史人物
+
+Det sägs att Isaac Newton (1642-1727) upptäckte gravitationskraften, dragningskraft på 1660-talet, då ett äpple föll ner i hans huvud.
+It is said that Isaac Newton (1642-1727) discovered gravity, the force of attraction, in the 1660s, when an apple fell on his head.
+据说艾萨克-牛顿（1642-1727 年）是在 1660 年代发现万有引力的，当时一个苹果掉在了他的头上。
+
+Allt som väger något påverkas av dragningskraften.
+Anything that weighs something is affected by gravity.
+任何重物都会受到万有引力的影响。
+
+Hur stor kraften är beror på hur mycket någon ting väger.
+The amount of force depends on how much something weighs.
+力的大小取决于物体的重量。
+
+Idag använder vi Newtons namn som enhet för att mäta kraft. Newton N.
+Today we use Newton's name as the unit to measure force. Newton N.
+今天，我们用牛顿的名字作为测量力的单位。牛顿 N
+
+P7: Mäta kraft
+P7: Measuring force
+P7：测量力
+
+Allt som väger något påverkas av dragningskraften.
+Anything that weighs something is affected by the force of gravity.
+任何重物都会受到重力的影响。
+
+Hur stor kraften är beror på hur mycket någon ting väger.
+The amount of force depends on how much something weighs.
+力的大小取决于物体的重量。
+
+Enhet för att mäta kraft, newton förkortas N.
+The unit for measuring force, the newton is abbreviated N.
+力的测量单位牛顿的缩写是 N。
+
+För att mäta en kraft kan en dynamometer användas.
+To measure a force, a dynamometer can be used.
+要测量力，可以使用测力计。
+
+Ju mer kraft du använder för att dra i dynamometern desto längre sträcker sig fjädern. 
+The more force you use to pull the dynamometer, the longer the spring will stretch. 
+拉动测力计的力越大，弹簧就会拉伸得越长。
+
+Då kan du läsa av hur mycket kraft du drar med, på skalan.
+You can then read how much force you are pulling with, on the scale.
+然后，您就可以在刻度上读出拉力的大小。
+
+P8: Rörelse
+P8: Movement
+P8：运动
+
+Rörelse innebär att något flyttar på sig på något sätt.
+Motion means that something moves in some way.
+运动是指物体以某种方式移动。
+
+För att ett föremål ska röra sig framåt, stanna och ändra riktning krävs en kraft.
+For an object to move forward, stop and change direction, a force is required.
+物体前进、停止和改变方向都需要力。
+
+Hastighet
+Velocity
+速度
+
+Hur fort någonting rör sig.
+How fast something is moving.
+物体移动的速度。
+
+Hastighet mäts med enhet sträcka/tid.
+Speed is measured in units of distance/time.
+速度用距离/时间单位来衡量。
+
+Det vanligast är ex. km/h eller m/s.
+The most common is e.g. km/h or m/s.
+最常用的单位是 km/h 或 m/s。
+
+P9: Acceleration
+P9: Acceleration
+P9：加速度
+
+När något ökar i hastighet. Ex
+When something increases in speed. E.g.
+当物体的速度增加时。例如
+
+Retadera
+Retard
+减速
+
+Att minska hastigheten eller bromsa den helt.
+To reduce speed or slow it down completely.
+降低速度或完全减速。
+
+P10: Tröghetslagen
+P10: Law of inertia
+P10：惯性定律
+
+Ett föremål vill befinna sig i sin ursprungliga form, antingen i vila (när något är helt stilla) eller när något har satts i rörelse. 
+An object wants to stay in its original shape, either at rest (when something is completely still) or when something has been set in motion. 
+物体在静止（完全静止）或运动时，都希望保持原来的形状。
+
+Detta kallas tröghet. Det behövs alltid en kraft för att sätta ett föremål i rörelse. 
+This is called inertia. A force is always needed to set an object in motion. 
+这就是惯性。让物体运动总是需要一种力。
+
+Ju större massa föremålet har desto större kraft behövs för att minska eller öka farten. 
+The greater the mass of the object, the greater the force needed to reduce or increase its speed. 
+物体的质量越大，降低或增加其速度所需的力就越大。
+
+När du åker hiss, flygplansstart, om en förare bromsar eller svänger, när du åker berg och dalbana. Din kropp vill följa rörelsen.
+When you ride an elevator, when an airplane takes off, when a driver brakes or turns, when you ride a roller coaster. Your body wants to follow the movement.
+当你乘坐电梯时，当飞机起飞时，当司机刹车或转弯时，当你乘坐过山车时。你的身体想要跟随运动。
+
+En kropp förblir i vila eller likformig rörelse om, och bara om, summan (resultanten) av alla krafter som verkar på kroppen är noll.
+A body remains at rest or in uniform motion if, and only if, the sum (resultant) of all forces acting on the body is zero.
+当且仅当作用在物体上的所有力的总和（结果）为零时，物体才会保持静止或匀速运动。
+
+Det finns alltså ett motstånd för att förändra ett föremåls rörelse. 
+So there is a resistance to change the motion of an object. 
+因此，改变物体的运动存在阻力。
+
+Detta innebär att föremål inte kan ändra sin hastighet själv, utan det behövs alltid en kraft för att sätta föremål i rörelse, bromsa det eller få det att ändra riktning. 
+This means that objects cannot change their speed on their own, but a force is always needed to set them in motion, slow them down or change their direction. 
+这意味着物体无法自行改变速度，而总是需要一种力来使其运动、减速或改变方向。
+
+Påverkar inga krafter kommer föremålet att ha samma hastighet och riktning i all oändlighet.
+If no forces act, the object will have the same speed and direction indefinitely.
+如果没有力的作用，物体将永远保持相同的速度和方向。
+
+P11: Hur märker vi av trögheten?
+P11: How do we notice inertia?
+P11：我们如何认识惯性？
+
+Sitter du i en bil som tvärbromsar kastas du framåt.
+If you are in a car that brakes suddenly, you are thrown forward.
+如果你在一辆突然刹车的汽车里，你会被抛向前方。
+
+Det är svårt att stå still i en buss som ökar farten eller bromsar.
+It is difficult to stand still in a bus that is speeding up or braking.
+在加速或刹车的公共汽车上很难站稳。
+
+När du åker hiss.
+When you ride an elevator.
+乘坐电梯时。
+
+Åker berg och dalbana.
+Riding a roller coaster.
+乘坐过山车。
+
+P12: Tröghet
+P12: Inertia
+P12：惯性
+
+Efter att ha kört med konstant hastighet under raksträcka gör en bil en kraftig vänstersväng. Vad händer med passagerarna?
+After driving at a constant speed in a straight line, a car makes a sharp left turn. What happens to the passengers?
+汽车匀速直线行驶后，向左急转弯。乘客会发生什么情况？
+
+Ett annat exempel på tröghet i vardagen är när man är och handlar, och har en fullastad kundvagn med matvaror framför sig. 
+Another example of inertia in everyday life is when you are shopping and have a fully loaded shopping cart with groceries in front of you. 
+日常生活中惯性的另一个例子是，当你在购物时，前面有一辆满载杂货的购物车。
+
+Om kundvagnen står still märker man att det krävs en del kraft för att sätta den i rörelse, 
+If the trolley is stationary, you notice that it takes some force to get it moving, 
+如果手推车静止不动，你就会意识到要使它移动需要一定的力量、 
+
+och när den väl är i rörelse kan man behöva ta i rejält för att få stopp på den eller få den att svänga. 
+and once it's moving, you may have to push it hard to stop it or make it turn. 
+而一旦它动起来，你可能需要用力才能让它停下来或转弯。
+
+Allt detta är precis i enighet med Newtons första lag; för att förändra en rörelse krävs en kraft
+All this is exactly in accordance with Newton's first law; to change a motion requires a force
+所有这一切都完全符合牛顿第一定律；要改变运动，就需要一个力
+
+Tills bilens väggar eller bältena stoppar dem, kommer passagerarnas kroppar enligt Newtons första lag att fortsätta med samma hastighet (vilket inkluderar samma riktning) som innan svängen. 
+Until the walls of the car or the belts stop them, according to Newton's first law, the passengers' bodies will continue at the same speed (which includes the same direction) as before the turn. 
+根据牛顿第一定律，在车壁或安全带阻止他们之前，乘客的身体将以转弯前的速度（包括相同的方向）继续前进。
+
+Och det kommer de uppleva genom att det i svängen känns som om de kastas mot bilens högra sida. 
+And they will experience this by feeling as if they are being thrown against the right side of the car during the turn. 
+在转弯过程中，乘客会感觉自己被抛向车的右侧。
+
+Men det är alltså inte någon kraft som får passagerarna att att röra sig mot bilens högersida, utan bara deras egen massas tröghet.
+But it is not a force that makes the passengers move towards the right side of the car, but only the inertia of their own mass.
+但是，使乘客向汽车右侧移动的并不是力，而只是他们自身质量的惯性。
+
+Däremot är det definitivt fråga om en kraft som verkar på passagerarna när deras rörelse åt höger stoppas av att de slår emot den högra bildörren och på så vis får samma riktning som bilen
+However, there is definitely a force acting on the occupants when their movement to the right is stopped by them hitting the right car door and thus moving in the same direction as the car
+但是，当乘客撞到右侧车门，从而与汽车同向运动时，肯定有一个力作用在乘客身上，阻止他们向右运动。
+P13: Krafter
+P13: Forces
+P13：力
+
+Gravitationskraft, dragningskraft, tyngdkraft
+Gravitational force, tensile force, gravity
+引力、拉力、重力
+
+Normalkraft, motkraft, tryckkraft, dragkraft
+Normal force, counterforce, pushing force, pulling force
+法向力、反作用力、推力、拉力
+
+Tyngdpunkt
+Center of gravity
+重心
+
+Friktionskraft
+Frictional force
+摩擦力
+
+Tröghetslagen
+Law of inertia
+惯性定律
+
+Kaströrelse
+Throwing motion
+投掷运动
+
+Fritt fall
+Free fall
+自由落体
+
+Cirkelrörelse, centripetalkraft
+Circular motion, centripetal force
+圆周运动、向心力
+
+P14: Gravitationskraft, dragningskraft, tyngdkraft
+P14: Gravitational force, tensile force, gravity
+P14：引力、拉力、重力
+
+En kraft drar något nedåt.
+A force pulls something downwards.
+一种将物体向下拉的力。
+
+P15: Gravitationskraft, dragningskraft, tyngdkraft
+P15: Gravitational force, gravitational pull, gravity
+P15：重力、引力、重力
+
+Det spelar ingen roll var på jordklotet du står. Stenen faller rakt ner mot marken. Rakt mot jordklotets mittpunkt.
+It doesn't matter where on the globe you stand. The rock falls straight down to the ground. Straight to the center of the Earth.
+不管你站在地球仪的哪个位置。石头笔直地落到地面上。直奔地球中心。
+
+Jordklotets tyngpunkt ligger precis i mitten. Det är därför allt dras mot jordens mittpunkt av tyngdkraften.
+The center of gravity of the Earth is right in the middle. That's why everything is pulled towards the center of the Earth by gravity.
+地球的重心就在正中间。这就是为什么万物都被重力拉向地球中心。
+
+Vad skulle hända om det inte fanns tyngdkraft? 
+What would happen if there was no gravity? 
+如果没有重力会怎么样呢？
+
+Jo, jag vet. 
+Well, I know. 
+我知道 
+
+Då skulle allting sväva runt lite hur som helst i luften. 
+Then everything would just float around in the air. 
+那一切都会漂浮在空中 
+
+Det kallas för tyngdlöshet.
+It's called weightlessness.
+这就叫失重
+
+Tyngdkraft och dragningskraft är egentligen samma sak. 
+Gravity and gravity are actually the same thing. 
+重力和引力其实是一回事。
+
+Man brukar säga tyngdkraft när det gäller ett "vanligt" litet föremål som dras mot något mycket större, t.ex. jorden eller en annan planet. 
+Gravity is usually used to refer to an 'ordinary' small object being pulled towards something much larger, such as the Earth or another planet. 
+引力通常是指一个 “普通 ”的小物体被拉向一个大得多的物体，比如地球或其他星球。
+
+Samma princip, gravitation, gäller även för mindre massor. 
+The same principle, gravity, also applies to smaller masses. 
+同样的原理，重力也适用于较小的质量。
+
+Till exempel dras en astronaut och hans rymdskepp mot varandra enligt exakt samma fysikaliska lag. 
+For example, an astronaut and his spaceship are pulled towards each other by exactly the same law of physics. 
+例如，宇航员和他的飞船会被完全相同的物理定律拉向对方。
+
+När bägge föremålen har ungefär samma massa brukar man säga dragningskraft
+When both objects have roughly the same mass, they are said to have gravitational pull
+当两个物体的质量大致相同时，它们被称为具有引力
+
+P16: Historiska personer
+P16: Historical figures
+P16：历史人物
+
+Galileo Galilei levde för 400 år sedan
+Galileo Galilei lived 400 years ago
+伽利略-伽利莱生活在 400 年前
+
+Det sägs att GG gick upp i det lutande tornet i Pisa och genomförde ett experiment. 
+It is said that GG went up the Leaning Tower of Pisa and conducted an experiment. 
+据说伽利略登上比萨斜塔做了一个实验。
+
+Han undersökte vad som föll snabbas: En kanonkula eller en gevärskula. Resultatet var att de båda föremålen nådde marken samtidigt.
+He examined what fell faster: a cannonball or a rifle bullet. The result was that both objects reached the ground at the same time.
+他研究了炮弹和步枪子弹哪个落得更快。结果是两个物体同时落地。
+
+P17: Fritt fall - experiment
+P17: Free fall experiment
+P17：自由落体实验
+
+Släpp pappret (inte vikt) och kulan samtidigt från en höjd, exempelvis en stol. Vad hände? Skriv ner.
+Drop the paper (not folded) and the bullet at the same time from a height, such as a chair. What happened? Write it down.
+将纸（未折叠）和子弹同时从椅子等高处落下。发生了什么？写下来。
+
+Vik ihop pappret och lägg det i ena tändsticksasken. Lägg kula i den andra asken. Släpp båda samtidigt. Vad hände? Skriv ner.
+Fold the paper and put it in one matchbox. Put the ball in the other box. Drop both at the same time. What happened? Write it down.
+将纸折叠后放入一个火柴盒中。将球放入另一个火柴盒。同时扔下两个火柴盒。发生了什么？写下来。
+
+Redovisa skillnaden mellan de båda försöken och ge en förklaring.
+Explain the difference between the two experiments and give an explanation.
+解释两个实验之间的区别，并给出解释。
+
+P18: Fritt fall
+P18: Free fall
+P18：自由落体
+
+Om ett föremål släpps från en höjd kommer den falla fritt mot marken, det kallar vi fritt fall. 
+If an object is dropped from a height, it will fall freely to the ground, we call this free fall. 
+如果一个物体从高处落下，它会自由落到地面，我们称之为自由落体。
+
+Det är på grund av tyngdkraften som föremålet ”faller”.
+It is because of gravity that the object “falls”.
+物体 “下落 ”是由于重力的作用。
+
+Eftersom luften gör motstånd kommer föremålen falla olika snabbt beroende av ex. hur stor yta föremålet har.
+Because of the resistance of the air, objects will fall at different speeds depending on, for example, the surface area of the object.
+由于空气的阻力，物体下落的速度因物体的表面积等因素而不同。
+
+Ett fallande föremål ökar sin hastighet hela tiden, det kallas tyngdacceleration.
+A falling object increases its speed all the time, this is called gravitational acceleration.
+下落物体的速度一直在增加，这就是重力加速度。
+
+Om du håller en fjäder och en blykula ovanför marken och släpper dem samtidigt kommer du se att blykulan når marken först. 
+If you hold a feather and a lead ball above the ground and release them at the same time, you will see that the lead ball reaches the ground first. 
+如果你在地面上方拿着一根羽毛和一个铅球，并同时将它们释放，你会发现铅球最先到达地面。
+
+Men är det alltid på detta sätt? Vi upprepar samma försök igen men denna gång gör vi det i två långa glasrör där vi pumpat ur all luft. 
+But is it always this way? We repeat the same experiment again, but this time we do it in two long glass tubes where we pumped out all the air. 
+但总是这样吗？我们再重复一次同样的实验，但这次我们是在两个长玻璃管中进行的，我们抽掉了管中的所有空气。
+
+Vad händer nu? Jo, de faller nu lika fort!
+What happens now? Well, they now fall just as fast!
+现在会发生什么呢？它们现在下落的速度一样快！
+
+Faktum är att om ingen luft finns (dvs. om vi har vakuum) så faller alla föremål med samma acceleration, 
+In fact, if there is no air (i.e. if we have a vacuum), all objects fall with the same acceleration, 
+事实上，如果没有空气（即真空），所有物体下落的加速度都是一样的、 
+
+oberoende av material eller form (förutsatt att det sker på samma ställe, för om vi släppt en kula på månen och på jorden från samma avstånd så hade vi fått olika svar på grund av att det är olika gravitation på dessa himlakroppar)
+regardless of material or shape (provided it happens in the same place, because if we dropped a ball on the Moon and on the Earth from the same distance, we would get different answers due to the different gravity of these celestial bodies)
+因为如果我们把一个球从同样的距离扔到月球上和地球上，由于这两个天体的引力不同，我们会得到不同的答案。
+
+P19: Kaströrelse
+P19: Throwing motion
+P19：投掷运动
+
+När du kastar ett föremål kommer den inte att landa rakt under dig.
+When you throw an object, it will not land straight under you.
+当你投掷一个物体时，它不会笔直地落在你的脚下。
+
+Det beror på att du sätter föremålet i rörelse framåt med en kraft samtidigt som tyngdkraften kommer att dra föremålet nedåt.
+This is because you are setting the object in motion forward with a force while gravity will pull the object downwards.
+这是因为你用一种力使物体向前运动，而重力会把物体向下拉。
+
+När du springer har både du själv och föremålet en hastighet, allt som du bär med dig har samma fart som du själv.
+When you run, both you and the object have a speed, anything you carry has the same speed as you.
+当你跑步时，你和物体都有一个速度，你携带的任何东西都和你有相同的速度。
+
+När du kastar de kommer den att landa en bit framför där du kastade den, eftersom föremålet kommer med en kraft och som också påverkas av tyngdkraften.
+When you throw it, it will land a bit in front of where you threw it, because the object comes with a force and that is also affected by gravity.
+当你投掷物体时，物体会落在你投掷地点的前方一点，因为物体带有一个力，而这个力也会受到重力的影响。
+
+P20: Normalkraft, motkraft
+P20: Normal force, counterforce
+P20：正向力、反作用力
+
+Vad är det som gör att du sitter kvar på stolen?
+What is it that keeps you sitting on the chair?
+是什么让你坐在椅子上？
+
+Det är alltså tyngdkraften som gör att du sitter kvar på stolen. 
+So it is gravity that keeps you sitting on the chair. 
+所以是重力让你坐在椅子上。
+
+Men borde du då inte braka igenom stolen? Tyngdkraften drar ju dig ner mot jorden.
+But shouldn't you then break through the chair? Gravity is pulling you down towards the ground.
+那你不是应该冲破椅子吗？重力把你拉向地球。
+
+Anledningen till att stolen inte går sönder är att stolen också har en kraft, en normalkraft.
+The reason the chair doesn't break is that the chair also has a force, a normal force.
+椅子不破的原因是椅子也有一个力，一个法向力。
+
+Lika stor kraft som drar dig ner mot jorden, lika stor kraft har stolen uppåt mot dig.
+The same force that pulls you down towards the earth has the same force that pulls the chair up towards you.
+把你向下拉向地球的力与把椅子向上拉向你的力是一样的。
+
+P21: Motkraft, normalkraft
+P21: Counterforce, normal force
+P21：反向力、正常力
+
+För varje kraft som verkar på ett föremål, finns det en kraft med motsatt riktning. 
+For every force acting on an object, there is a force in the opposite direction. 
+作用在物体上的每个力都有一个方向相反的力。
+
+När båda krafterna är lika stora så är  krafterna i balans och föremålet i jämvikt. 
+When both forces are equal, the forces are in balance and the object is in equilibrium. 
+当两个力相等时，力处于平衡状态，物体处于平衡状态。
+
+Dragningskraft, Gravitionskraft, Tyngdkraft
+Tensile force, Gravitational force, Gravity
+拉力、重力、重力
+
+P22: Tryckkraft och dragkraft
+P22: Compressive force and tensile force
+P22：压缩力和拉力
+
+Två krafter som vi ofta använder oss av är 
+Two forces that we often use are 
+我们经常使用的两个力是 
+
+dragkraft , tryckkraft
+tensile force , compressive force
+拉力、压缩力
+
+P23: Tyngdpunkt - testa
+P23: Center of gravity - test
+P23：重心--测试
+
+Hitta tyngdpunkten.
+Find the center of gravity.
+找出重心。
+
+Försök balansera kartongbiten på fingret.
+Try to balance the piece of cardboard on your finger.
+试着用手指平衡纸板。
+
+Fäst tyngden i snöret på och hitta tyngdpunkten. Rita ett sträck där du hittar den.
+Attach the weight to the string and find the center of gravity. Draw a line where you find it.
+将重物拴在绳子上，找到重心。在找到重心的地方画一条线。
+
+P24: Tyngdpunkt – hitta tyngdpunkten
+P24: Center of gravity - find the center of gravity
+P24：重心--找到重心
+
+Stå med båda benen på golvet. Din stödyta är på två ställen, en vid varje fot.
+Stand with both legs on the floor. Your support surface is in two places, one at each foot.
+双腿站立在地板上。你的支撑面有两处，两脚各一处。
+
+Lyft ena benet och hitta balansen. Fundera på vad händer? Vad behöver du göra för att hitta balansen? 
+Lift one leg and find your balance. Think about what is happening? What do you need to do to find your balance? 
+抬起一条腿，保持平衡。想想发生了什么？你需要怎么做才能找到平衡？
+
+Försök balansera och hitta jämvikt.
+Try to balance and find equilibrium.
+试着保持平衡并找到平衡点。
+
+Varför är det skillnad på att stå på två ben jämfört med att stå på ett ben?
+Why is standing on two legs different from standing on one leg?
+为什么双腿站立与单腿站立不同？
+
+Din tyngdpunkt finns ungefär vid din navel. Står du på två ben står du stabilt. 
+Your center of gravity is approximately at your navel. If you stand on two legs, you are stable. 
+你的重心大约在肚脐上。如果你用两条腿站立，你就会很稳定。
+
+Du dras ner från din tyngdpunkt, men från dina fötter verkar normalkrafter uppåt som gör att du är i balans, jämvikt.
+You are pulled down from your center of gravity, but from your feet, normal forces act upwards to keep you in balance, equilibrium.
+你的重心被向下拉，但从你的脚开始，正常的力向上作用，使你保持平衡。
+
+När du lyfter ditt ben kan du märka att du vinglar till lite för att sedan böja din överkropp för att hitta balans, jämvikt. 
+When you lift your leg, you may notice that you wobble a little and then bend your upper body to find balance, equilibrium. 
+当你抬起腿时，你可能会注意到你的身体有一点晃动，然后弯曲上半身以寻求平衡。
+
+Du flyttar också din tyngdpunkt så att den hamnar ovanför benet.
+You also shift your center of gravity so that it is above your leg.
+你也会将重心移到腿的上方。
+
+P25: Tyngdpunkt
+P25: Center of gravity
+P25：重心
+
+Låg tyngdpunkt och stor stödyta ger bra balans
+A low center of gravity and a large support surface provide good balance
+重心低，支撑面大，平衡性好
+
+Hög tyngdpunkt och liten stödyta ger dålig balans
+A high center of gravity and a small support surface result in poor balance
+重心高，支撑面小，平衡性差
+
+P26: Tyngdpunkt
+P26: Center of gravity
+P26：重心
+
+Tyngdpunkten är ett mått på hur massa är fördelad.
+Center of gravity is a measure of how mass is distributed.
+重心是衡量质量分布的一个标准。
+
+Jämvikt är när ett föremål är i balans.
+Equilibrium is when an object is in balance.
+平衡是指物体处于平衡状态。
+
+Alla föremål har en tyngdpunkt. Därifrån drar tyngdkraften saker nedåt.
+All objects have a center of gravity. From there, gravity pulls things downwards.
+所有物体都有一个重心。从那里，重力将物体向下拉。
+
+Ytan som något står över kallas stödyta.
+The surface that something stands over is called the supporting surface.
+物体所处的表面称为支撑面。
+
+Om man knuffar något så att tyngdpunkten ligger utanför stödytan kommer grejen att välta.
+If you push something so that the center of gravity is outside the support surface, the thing will tip over.
+如果你推动某个物体，使其重心超出支撑面，它就会翻倒。
+
+Vill man göra något stabilt ska man se till att tyngdpunkten ligger lågt och att stödytan är stor.
+If you want to make something stable, make sure the center of gravity is low and the supporting surface is large.
+如果你想让东西稳定，确保重心低，支撑面大。
+
+P27: Friktionskraft
+P27: Frictional force
+P27：摩擦力
+
+Två kompisar beslutar sig för att litet noggrannare undersöka olika underlags förmåga att bromsa upp rörelse. 
+Two friends decide to investigate in more detail the ability of different surfaces to slow down movement. 
+两个朋友决定更详细地研究不同表面减缓运动速度的能力。
+
+De slog iväg en puck med en ishockeyklubba först på asfalt. 
+They hit a puck with an ice hockey stick first on asphalt. 
+他们先用冰上曲棍球杆在柏油路面上击打冰球。
+
+Sedan på is. 
+Then on ice. 
+然后在冰面上。
+
+Till sist jämförde de ännu resultaten med resultaten från de experiment som de hade utfört i rymden.
+Finally, they compared the results with those of experiments they had carried out in space.
+最后，他们将结果与在太空中进行的实验进行了比较。
+
+Asfalt - Pucken rör sig bara ett litet stycke Is - Pucken rör sig mycket längre än på asfalten.
+Asphalt - The puck moves only a small distance Ice - The puck moves much further than on the asphalt.
+沥青路面 - 冰球只移动了一小段距离 冰面 - 冰球比在沥青路面上移动得更远。
+
+Pucken i rymden. (Emedan det i rymden inte finns några krafter som skulle kunna motverka rörelsen, bromsas pucken inte alls.)
+The puck in space. (Since in space there are no forces that could counteract the movement, the puck is not slowed down at all.)
+太空中的冰球。(因为在太空中没有任何力可以抵消冰球的运动，所以冰球的速度丝毫没有减慢）。
+
+P28: Friktionskraft
+P28: Frictional force
+P28：摩擦力
+
+Kraft mellan två föremål som glider mot varandra
+Force between two objects sliding against each other
+两个物体之间相互滑动的力
+
+Friktion är en kraft som bromsar.
+Friction is a force that slows down.
+摩擦力是一种减慢速度的力。
+
+Ingen yta är helt jämn. När ytor rör sig mot varandra så griper ojämnheterna tag i varandra.
+No surface is perfectly smooth. When surfaces move against each other, the irregularities grip each other.
+没有任何表面是完全光滑的。当表面相互移动时，不平整的表面会相互抓紧。
+
+Friktionens storlek beror på:
+The amount of friction depends on:
+摩擦力的大小取决于
+
+ytan på föremålen, skrovlig/ojämn yta      stor friktion och
+the surface of the objects, rough/rough surface high friction and
+物体的表面，粗糙/粗糙表面摩擦力大；以及
+
+massan på föremålet som rör sig, stor massa     stor friktion
+the mass of the moving object, large mass, large friction
+运动物体的质量，质量大，摩擦力大
+
+P29: Friktionskraft
+P29: Friction force
+P29: 摩擦力
+
+Normalkraft, Tyngdkraft, Kraft personen tillför, Friktionskraft
+Normal force, Gravity, Force applied by the person, Frictional force
+法向力、重力、人施加的力、摩擦力
+
+P30: Cirkelrörelse, centripetalkraft
+P30: Circular motion, Centripetal force
+P30：圆周运动、向心力
+
+Lassokastaren snurrar fortare och fortare. Hen ska kasta iväg bollen med lassot. 
+The lasso thrower is spinning faster and faster. He is going to throw the ball with the lasso. 
+投掷套索的人越转越快。他要用套索把球扔出去。
+
+Hen vill kasta den så långt som möjligt. Ju mer hen snurra desto mer kraft behöver hen använda för att hålla i lassot. 
+They want to throw it as far as possible. The more they spin, the more force they need to use to hold the lasso. 
+他们想把球扔得越远越好。他们旋转得越快，握住套索所需的力就越大。
+
+Kraften går i armens riktning mot centrum av ringen. Kraften kallas centripetalkraft.
+The force goes in the direction of the arm towards the center of the ring. This force is called centripetal force.
+力的方向是手臂朝向圆环中心。这种力叫做向心力。
+
+Centripetalkraft finns i alla cirkelrörelser.
+Centripetal force is present in all circular movements.
+向心力存在于所有圆周运动中。
+
+När kraften försvinner fortsätter lassot med bollen framåt.
+When the force disappears, the lasso continues with the ball forward.
+当力消失时，套索继续带球向前。
+
+Centripetalkraft förklaring
+Centripetal force explanation
+向心力解释
+
+P 31: Centripetalkraft och centrifugal
+P 31: Centripetal force and centrifugal
+P31：向心力和离心力
+
+P32: Begrepp
+P32: Concepts
+P32：概念
+
+Acceleration
+Acceleration
+加速度
+
+Balans
+Balance
+平衡
+
+Centripetalkraft
+Centripetal force
+向心力
+
+Cirkelrörelse
+Circular motion
+圆周运动
+
+Dragkraft
+Tractive force
+牵引力
+
+Dragningskraft
+Tensile force
+拉力
+
+Friktionskraft
+Frictional force
+摩擦力
+
+Fritt fall
+Free fall
+自由落体
+
+Gravitationskraft
+Gravitational force
+重力
+
+Hastighet
+Velocity
+速度
+
+Jämvikt
+Equilibrium
+平衡
+
+Kaströrelse
+Throwing motion
+投掷运动
+
+Kraft
+Force
+力
+
+Kraftpil
+Force arrow
+力箭
+
+Motkraft
+Counterforce
+反作用力
+
+Normalkraft
+Normal force
+法向力
+
+Retardera
+Decelerate
+减速
+
+Riktning
+Direction of force
+力的方向
+
+Stödyta
+Support surface
+支撑面
+
+Tryckkraft
+Thrust force
+推力
+
+Tröghet
+Inertia
+惯性力
+
+Tyngdkraft
+Gravity force
+重力
+
+Tyngdpunkt
+Center of gravity
+重心
+
+P33: Fallskärmshoppare – En kraft kan dra någonting nedåt.
+P33: Parachutist - A force can pull something downwards.
+P33: 跳伞运动员 - 一种力可以将物体向下拉。
+
+Dragkamp – en kraft kan motverka en annan kraft
+Tug of War - One force can counteract another force
+拔河比赛 - 一种力可以抵消另一种力
+
+Paraply som blåser sönder – En kraft kan ändra form på något
+Umbrella blowing apart - A force can change the shape of something
+雨伞被吹散 - 一种力可以改变物体的形状
+
+En pingisboll kommer mot någon som håller upp ett pingisrack – en kraft kan ändra riktning
+A ping pong ball comes towards someone holding up a ping pong paddle - a force can change direction
+乒乓球朝举着乒乓球架的人飞来--一种力可以改变方向
+
+Krossad ruta – en kraft kan krossa något
+Broken window - a force can break something
+窗户被打破--一种力可以打破东西
+
+Fot som sparkar på en boll -  En kraft kan orsaka en rörelse.
+Foot kicking a ball - A force can cause a movement.
+脚踢球--力可以引起运动。
+
+Hund som håller emot,  någon som drar i andra änden av kopplet –  en kraft kan bromsa något.
+Dog holding back, someone pulling on the other end of the leash - a force can slow something down.
+狗抓着绳子，有人拉着绳子的另一端--力可以使物体减速。
+
+
