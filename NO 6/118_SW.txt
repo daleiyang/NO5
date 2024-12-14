@@ -1,0 +1,260 @@
+akacia 86
+accelerera 30, 31, 32
+acne 112
+albatross 116
+aluminium 65, 70
+anpassning 77
+anrika 67
+
+antilop 87
+apbrödsträd 86
+ara 99
+asteroidbälte 15
+asteroid 15
+astronaut 20
+astronom 9, 19, 25
+atmosfär 13
+
+atom 60
+atomkärna 60
+avel 97
+
+bakterie 43,44
+barkborre 81
+barrskog 80, 81
+befruktning 105, 106,
+107, 110, 111
+bergart 64, 65
+bergkristall 65
+Berzelius, Jakob 61
+betesmark 97
+Big Bang 9
+biobränsle 63
+biologisk mångfald 76
+bladskärarmyra 77
+blodigel 93
+bly 71
+blygdläppar 109
+blötdjur 45,54
+Brachiosaurus 49
+brons 69
+broskfisk 46
+brunbjörn 78, 85
+bröst 113
+bäver 85
+
+118) REGISTER
+
+campos 86
+
+cell 43, 44, 45
+cirkelrörelse 36, 37
+cyanobakterier 43,44
+
+dagbrott 66
+daggmask 80, 82
+Darwin, Charles 52,53
+dia 107
+
+dinosaurie 49,54
+dragningskraft 32
+dront 56
+
+dromedar 95
+
+duva 97
+
+dvala 82
+
+dygn 10, 11
+däggdjur 50, 54, 107
+
+ebb 33
+ekvatorn 90
+eldlus 100
+elefant 86, 87
+elektron 60
+embryo 111
+emu 88
+
+epifyt 93
+Eratosthenes 25
+evolution 52,53
+
+fingerdjur 92
+finnar 112
+fjällripa 79
+fladdermus 83, 90, 93
+flamingo 85
+
+flod 33
+flyggeckoödla 91
+fortplantning 104
+fossil 42
+
+fossila bränslen 63
+foster 111
+
+fotosyntes 43,62
+fridlyst 98
+friktionskraft 34, 35
+fritt fall 31
+
+fusion 17
+fågelskyddsområde 98
+fältspat 65
+färskning 67
+
+ästing 93
+förmänniska 50
+förökning 104, 105
+
+galvanisering 70
+
+galax 17
+
+Galilei, Galileo 25,31
+
+geocentrisk 24
+
+gepard 31, 88
+
+giraff 87
+
+GPS 27
+
+granit 64
+
+gravitationskraft 32,
+323,37
+
+groda 106
+
+groddjur 47, 48
+
+grundämne 60
+
+gruva 66
+
+gräs 86
+
+guld 68
+
+gädda 106
+
+gök 111
+
+haj 46, 47
+harpya 91
+hastighet 30
+havsköldpadda 116
+heliocentrisk 25
+helium 60
+himlakropp 9
+hjord 87
+
+Homo sapiens 51
+honungsmyra 95
+husmask 84
+hårväxt 112
+
+ide 78
+
+idisslare 87
+igelkott 83, 107
+insemination 111
+isbjörn 78
+
+jordaxel 10, 11
+jorden 10, 11, 12,13
+Jupiter 14,15
+
+järn 61, 66, 67, 72
+
+kaktus 94
+kalcium 72
+kalksten 64
+kameleont 92
+kamouflage 78, 81,
+83, 92
+Karlavagnen 8
+kemisk förening 61
+kemiska tecken 61
+klitoris 109
+kloak 107
+kloning 104
+kol 60, 61, 62, 63, 67
+koldioxid 61, 62, 63
+kolibri 92
+komet 16
+konstgödsel 96
+Kopernikus,
+Nicolaus 25
+koppar 69, 72
+koralldjur 44
+kosmonaut 20
+kraft 32,33, 37
+krokodil 84
+krom 72
+kråka 97
+kräftdjur 45,54
+kräldjur 48,54
+kvicksilver 71
+känguru 50, 88
+kärlek 115
+könsceller 105, 108,
+109
+
+leddjur 47, 54
+legering 67
+
+lejon 89
+
+lian 91, 93
+
+Linné, Carl von 52
+livmoder 109, 110
+ljushastighet 18
+ljusminuter 18
+ljussekunder 18
+ljusår 18
+
+lysmask 100
+lövskog 82
+
+magnesium 70, 72
+malm 65
+mammut 56
+Mars 14
+
+masugn 67
+medelfart 30
+medelhastighet 30
+mens 113
+Merkurius 14
+metall 65-72
+meteor 16
+meteorit 16
+midnattssol 10, 11
+midvintermörker 11
+mimikry 100
+mineraler 65
+mobbning 114
+moderkaka 111
+molekyl 60
+motkraft 37
+mygga 85
+
+myr 84
+
+myra 81,89
+myrlejon 100
+myrslok 91
+målbrott 112
+månad 10
+
+månen 13,33
+månens faser 13
+mård 81
+
+mässing 69

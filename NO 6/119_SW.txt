@@ -1,0 +1,201 @@
+nationalpark 98
+natrium 61, 72
+naturreservat 98
+naturtyp 77
+neandertalare 51
+nebulosa 26
+nedbrytning 80, 82,
+84, 90
+nektar 83,92
+Neptunus 14,15
+neutron 60
+neutronstjärna 26
+Newton, Isaac 32
+nickel 71
+noshörning 87, 88, 99
+näshornsfågel 93
+nässeldjur 44,54
+
+odlingsmark 96
+ollon 108
+orangutang 98
+Orion 8
+
+orkidé 90, 91, 93
+
+padda 47
+pampas 86
+parasit 85,93
+parning 107, 108
+partner 77
+penis 108, 110
+pilgiftsgroda 93
+pilgrimsfalk 31
+pingvin 79
+pistill 105
+
+planet 9, 24, 14, 15
+platina 68
+polartrakt 78, 79
+pollen 105
+pollinering 83, 92, 105
+Polstjärnan 8
+prostata 108
+proton 60
+provrörsbefrukt-
+ning 111
+prärie 86
+pubertet 112, 113
+pung 107, 108
+pungdjur 107
+pustan 86
+påfågelöga 83
+
+rafflesia 92
+
+regnskog 90, 91, 92, 93
+retardera 30, 32
+
+revir 81
+riddarskinnbagge 100
+rymdsond 21
+rymdstation 21
+
+råtta 97
+
+röd jätte 26
+
+rörelse 30
+
+sabeltandad tiger 56
+salt 61
+
+samlag 110
+
+satellit 22,23
+Saturnus 14,15
+savann 86, 87, 88, 89
+segelfisk 31
+sekreterarfågel 87
+
+sengångare 91
+silkesapa 77
+silver 68
+sisel 95
+skogshare 79
+skottår 10
+skäggagam 94
+sköldpadda 48, 116
+slida 107, 109
+socker 61
+solen 12
+solsystem 12
+spermie 106, 107, 108,
+110
+spermiedonation 111
+sprutfisk 85
+späckhuggare 116
+stingbug 76
+stjärna 9, 12, 14, 16,
+17, 26
+stjärnbild 8
+stjärnfall 16
+struts 89
+stål 67
+ståndare 105
+stäpp 86, 87, 88, 89
+stödyta 37
+supernova 26
+svampdjur 44,54
+svart hål 26
+svartvit flug-
+snappare 83
+svett 113
+svällkropp 108
+syre 61
+sädesblåsa 108
+sädesledare 108
+sädesvätska 108
+säl 78, 111
+
+tajga 80, 81
+teleskop 9, 18, 23
+tempelhuggorm 91
+termit 89
+
+testikel 108
+tidsperiod 42
+tidvatten 33
+
+tiger 99
+
+titan 71
+
+tjäder 81
+toffeldjur 44
+tofsstjärtfisk 46
+torv 62, 63, 84
+trilobit 45
+
+tulkört 100
+tundra 78, 79
+tvestjärt 116
+tyngdacceleration 31
+tyngdkraft 33
+tyngdpunkt 37
+Tyrannosaurus rex 49
+tångsnälla 111
+
+universum 9
+Uranus 14,15
+urcell 43, 44
+urdjur 44
+urinblåsa 108, 109
+utdöd 57
+
+vagina 109
+vakuum 9
+vandringsstjärna 24
+vattenmiljö 84, 85
+Venus 14
+
+vide 78
+
+Vintergatan 17
+vit dvärg 26
+våtmark 84,85
+vänskap 114
+världsbild 24,25
+väte 60, 61
+växtförädling 97
+växthuseffekt 63
+
+welwitschia 95
+yngel 106
+
+zebra 87, 88
+zink 65, 70, 72
+
+ål 98
+
+år 10,11
+årstid 11
+återvinning 71
+
+ädelmetall 67, 68
+
+ägg 106, 107, 110, 111
+äggdonation 111
+äggledare 109, 111, 113
+äggstock 109
+
+ändtarm 108, 109
+
+ärg 69
+
+öken 94,95
+ökenräv 94
+ökenspringmus 95
+
+REGISTER 119
+
