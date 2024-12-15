@@ -1,54 +1,142 @@
-Anrikning ww
-anrikning
-
-gråberg & Järnmalm
-
-Masugn
-järnmalm
-kalksten koldioxid
-koks (kol)
-
-masugn
-
-slagg
-
-tackjärn
-
-Stål finns överallt, till exempel i broar,
-lyftkranar, plåttak, bilar, hus, termosar
-och verktyg.
-
 Järnmalmen anrikas
 
-I gruvan krossas berget så att man lättare kan sortera bort ste-
-nar som man inte vill ha. Eftersom magnetit är magnetisk kan
-man använda en stor magnet för att sortera ut de delar som
-innehåller magnetit. Stenar som inte innehåller järn fastnar inte
-på magneten. Det här kallas att malmen anrikas.
+
+
+I gruvan krossas berget så att man lättare kan sortera bort stenar som man inte vill ha. 
+
+
+
+Eftersom magnetit är magnetisk kan man använda en stor magnet för att sortera ut de delar som innehåller magnetit. 
+
+
+
+Stenar som inte innehåller järn fastnar inte på magneten. 
+
+
+
+Det här kallas att malmen anrikas.
+
+
 
 Masugnar sorterar
 
-För att få rent järn måste man ta bort syret, oxiden. Detta sker i
-stora heta ugnar som kallas masugnar. Där hettar man upp
-magnetiten tillsammans med kol och kalksten. Då förenar sig
-kolet med syret och bildar gasen koldioxid, som lämnar masug-
-nen. Kvar blir metallen järn, som man tappar ur masugnen i
-smält form. Restprodukter som inte innehåller järn klumpas
-ihop med kalkstenen och kallas slagg.
 
-Det järn man har fått fram nu kallas tackjärn och kan använ-
-das till att gjuta saker. Men ofta vill man ha ett hårdare och smi-
-digare material, som kan användas för att göra bilar, maskiner
-och byggmaterial. Då tar man bort ännu mer kol. Det kallas
-färskning och omvandlar järnet till stål.
+
+För att få rent järn måste man ta bort syret, oxiden. 
+
+
+
+Detta sker i stora heta ugnar som kallas masugnar. 
+
+
+
+Där hettar man upp magnetiten tillsammans med kol och kalksten. 
+
+
+
+Då förenar sig kolet med syret och bildar gasen koldioxid, som lämnar masugnen. 
+
+
+
+Kvar blir metallen järn, som man tappar ur masugnen i smält form. 
+
+
+
+Restprodukter som inte innehåller järn klumpas ihop med kalkstenen och kallas slagg.
+
+
+
+Det järn man har fått fram nu kallas tackjärn och kan användas till att gjuta saker. 
+
+
+
+Men ofta vill man ha ett hårdare och smidigare material, som kan användas för att göra bilar, maskiner och byggmaterial. 
+
+
+
+Då tar man bort ännu mer kol. Det kallas färskning och omvandlar järnet till stål.
+
+
 
 Legeringar
-Det finns ett problem med järn. När det ligger ute i fuktig luft
-eller regn reagerar järnet med syret. Då bildas rost och järnet
-faller sönder. För att förhindra rostangrepp kan man blanda
-järnet med andra metaller. Det blir som ett rostskydd.
 
-När man blandar metaller med varandra eller med andra
-ämnen kallas det för legering. Rostfritt stål är en legering av
-järn och nickel eller järn och krom.
+
+
+Det finns ett problem med järn. 
+
+
+
+När det ligger ute i fuktig luft eller regn reagerar järnet med syret. 
+
+
+
+Då bildas rost och järnet faller sönder. 
+
+
+
+För att förhindra rostangrepp kan man blanda järnet med andra metaller. 
+
+
+
+Det blir som ett rostskydd.
+
+
+
+När man blandar metaller med varandra eller med andra ämnen kallas det för legering. 
+
+
+
+Rostfritt stål är en legering av järn och nickel eller järn och krom.
+
+
+
+Anrikning 
+
+
+
+gråberg
+
+
+
+Järnmalm
+
+
+
+Masugn
+
+
+
+koks (kol)
+
+
+
+kalksten
+
+
+
+järnmalm
+
+
+
+koldioxid
+
+
+
+masugn
+
+
+
+tackjärn
+
+
+
+slagg
+
+
+
+luft
+
+
+
+Stål finns överallt, till exempel i broar, lyftkranar, plåttak, bilar, hus, termosar och verktyg.
 
