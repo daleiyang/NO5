@@ -1,0 +1,92 @@
+Abraham 40, 48, 60, 76.
+Adam 47, 75.
+Advent candle holder 21.
+Altar 10.
+Amen 13.
+Asa gods 144, 146, 147.
+Asa faith 144.
+Asgard 144.
+Aum 139.
+Bar mitzvah 58.
+Bat mitzvah 58.
+Funeral 25, 59, 83, 107, 129.
+The Bible 14.
+Confession 33.
+Brahma 98, 99, 108.
+Wedding 25, 59, 83, 107, 129.
+Buddha 116, 120, 121, 122, 123, 130.
+Buddha Day, Vesak 126.
+Buddhism 116.
+Buddhist faith 130, 131.
+Commandments 61, 62, 63, 67.
+Prayer 12, 73, 86, 89.
+Hanukkah 43, 56.
+Ceremony 6.
+Star of David 41, 138.
+The floating bowls festival, Loi Krathong 127.
+Anointing of the sick 34.
+The Holy Spirit 26.
+Dharma 135.
+Baptism 24, 33, 36, 37.
+The Dove 138.
+Death 140, 141.
+Eden 47.
+Eve 47, 75.
+The Father 26.
+Fasting 72, 87.
+The festival of breaking the fast, Eid al-Fitr 80.
+Fatima's hand 91, 139.
+Five Pillars 86, 87.
+Fig tree 139.
+Freya 147.
+The festival of colors, Holi 104.
+Day of Atonement, Yom Kippur 55.
+Ganesha 100, 101.
+Service 6.
+Halal 72.
+The crescent and the star 139.
+Hebrew 43, 60.
+Hel 147.
+Saints 35.
+Holy 6.
+Hinduism 94.
+Hindu faith 108.
+Horoscope 106.
+Holiday 5.
+Idun 147, 148.
+Icon 37.
+Imam 71, 83.
+Islam 68.
+Ishmael 76, 77.
+Jerusalem 79.
+Jesus 26, 28, 29, 30, 31.
+Jacob 48.
+Joik 151.
+Joseph 48, 49, 50, 51.
+Judaism 40.
+Jewish Passover, Pesach 57.
+Jewish faith 60.
+Christmas 21.
+Nativity scene 21.
+Christmas food 22.
+Kaaba 76, 87.
+Canaan 40, 48.
+Cantor 42, 59.
+Karma 110, 131.
+Castes 111.
+Catholics 32.
+Kippah 45.
+Dome of the Rock 78.
+Monastery 35.
+Confirmation 25, 34.
+Conservative Jews 65.
+Choir 115.
+The Quran 68, 74.
+The Cross 13, 138.
+Kosher 45, 64.
+Krishna 109.
+Christianity 8.
+Christian faith 26.
+Christian holidays 21, 23.
+Crucifix 9, 13.
+Church 8, 9, 10, 11.

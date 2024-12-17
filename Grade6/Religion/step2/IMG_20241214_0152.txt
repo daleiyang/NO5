@@ -1,0 +1,151 @@
+Nirvana = Målet för alla buddhister.
+Nirvana = The goal for all Buddhists.
+涅槃 = 所有佛教徒的目标。
+
+En himmel eller ett sätt att känna och uppleva, ett tillstånd.
+A heaven or a way to feel and experience, a state.
+一种天堂或感受和体验的一种状态。
+
+Offra = Att ge något till Gud.
+Sacrifice = To give something to God.
+牺牲 = 把某物献给上帝。
+
+Predika = När prästen talar om Gud i kyrkan.
+Preach = When the priest talks about God in the church.
+讲道 = 当牧师在教堂里谈论上帝时。
+
+Profet = En person som har fått i uppdrag av en gud att framföra den gudens budskap.
+Prophet = A person tasked by a god to deliver that god's message.
+先知 = 受神委托传达神的讯息的人。
+
+Präst = Den som leder en kristen gudstjänst.
+Priest = The one who leads a Christian service.
+牧师 = 领导基督教礼拜的人。
+
+Den som leder hinduiska ceremonier kallas också för präst.
+The one who leads Hindu ceremonies is also called a priest.
+领导印度教仪式的人也被称为牧师。
+
+Psalm = En religiös kristen sång.
+Psalm = A religious Christian song.
+赞美诗 = 一首宗教基督教歌曲。
+
+Rabbin = Den som talar i synagogan och förklarar den judiska tron.
+Rabbi = The one who speaks in the synagogue and explains the Jewish faith.
+拉比 = 在犹太教堂讲话并解释犹太信仰的人。
+
+Rabbinen är ledaren i synagogan.
+The Rabbi is the leader in the synagogue.
+拉比是犹太教堂的领袖。
+
+Religiös = Att tillhöra en religion.
+Religious = To belong to a religion.
+宗教的 = 属于宗教。
+
+Rökelse = Trästickor doppade i en växtblandning som brinner långsamt.
+Incense = Wooden sticks dipped in a herbal mix that burns slowly.
+香 = 浸入植物混合物中缓慢燃烧的木棒。
+
+Många tycker att röken som bildas luktar gott.
+Many think the smoke produced smells good.
+许多人认为产生的烟闻起来很好。
+
+Sabbat = Den judiska vilodagen.
+Sabbath = The Jewish day of rest.
+安息日 = 犹太人的休息日。
+
+Sakrament = En helig handling och en ceremoni som präster utför.
+Sacrament = A sacred act and a ceremony performed by priests.
+圣事 = 牧师执行的神圣行为和仪式。
+
+Samsara = Evigt kretslopp, det vill säga att allt går i cirklar utan slut.
+Samsara = Eternal cycle, meaning everything goes in circles endlessly.
+轮回 = 永恒的循环，即一切都在无尽的圆圈中运行。
+
+Sed = En sed är en tradition, något man gör på samma sätt varje gång.
+Custom = A custom is a tradition, something done the same way every time.
+习俗 = 一种传统，每次都以相同方式进行的事情。
+
+Själ = En människas personlighet.
+Soul = A person's personality.
+灵魂 = 一个人的个性。
+
+Vissa tror att när kroppen dör så lever själen vidare.
+Some believe that when the body dies, the soul lives on.
+有些人认为当身体死去时，灵魂继续存在。
+
+Sunna = De vanor och traditioner som Muhammed hade.
+Sunna = The habits and traditions that Muhammad had.
+逊奈 = 穆罕默德的习惯和传统。
+
+Symbol = Något som används som ett tecken för något.
+Symbol = Something used as a sign for something.
+符号 = 用作某种征兆的事物。
+
+Ett hjärta är till exempel en symbol för kärlek.
+A heart, for example, is a symbol for love.
+例如，心形是爱情的象征。
+
+Synagoga = Den plats där judar samlas för att hålla gudstjänst.
+Synagogue = The place where Jews gather to hold a service.
+犹太教堂 = 犹太人聚集进行礼拜的地方。
+
+Synda = Att göra något som inte är tillåtet.
+Sin = To do something that is not allowed.
+罪 = 做不允许的事情。
+
+Tempel = En religiös byggnad där man kan be.
+Temple = A religious building where one can pray.
+寺庙 = 可以祈祷的宗教建筑。
+
+Testamente = Något man skriver innan man dör.
+Will = Something one writes before dying.
+遗嘱 = 在死亡前撰写的东西。
+
+Där bestäms bland annat vem som får ärva pengar och annat.
+Among other things, it determines who will inherit money and other things.
+其中规定谁将继承金钱和其他物品。
+
+Tora = Judarnas heliga bok.
+Torah = The Jewish holy book.
+托拉 = 犹太人的圣书。
+
+Tradition = Gemensamma vanor, något man gör på samma sätt varje gång.
+Tradition = Common customs, something done the same way every time.
+传统 = 共同习惯，每次都以相同方式进行的事情。
+
+Uppstå = Att vakna upp från döden.
+Resurrect = To wake up from death.
+复活 = 从死亡中醒来。
+
+Vallfärda = Att resa till en viktig plats.
+Pilgrimage = To travel to an important place.
+朝圣 = 去重要地方旅行。
+
+Vedaböckerna = Heliga böcker för hinduer.
+Vedas = Sacred books for Hindus.
+吠陀经 = 印度教的圣书。
+
+Vigsel = Ceremonin då man gifter sig.
+Wedding = The ceremony when one marries.
+婚礼 = 一个人结婚时的仪式。
+
+Välsignelse = Att får beskydd och hjälp av Gud.
+Blessing = To receive protection and help from God.
+祝福 = 得到上帝的保护和帮助。
+
+Religiös = Att tillhöra en religion och följa de traditioner och högtider som hör till den religionen.
+Religious = To belong to a religion and follow the traditions and holidays associated with that religion.
+宗教 = 属于一个宗教并遵循与之相关的传统和节日。
+
+Troende = En person som tror på Gud.
+Believer = A person who believes in God.
+信徒 = 相信上帝的人。
+
+Högtid = När människor samlas för att fira något speciellt.
+Festival = When people gather to celebrate something special.
+节日 = 人们聚集庆祝某件特别的事情。
+
+Tripitaka = Heliga böcker för buddhister.
+Tripitaka = Sacred books for Buddhists.
+三藏 = 佛教徒的圣书。
