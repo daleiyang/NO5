@@ -1,0 +1,53 @@
+Register
+adel 9, 32
+Adolf Fredrik 24, 25
+Afrika 18
+Almgren 28
+Alströmmer, Jonas 28
+Amerika 18
+Anckarström 33
+Bellman 13, 31
+Bergslagen 12
+Bernadotte, Jean Baptiste 36
+bio 37
+bomull 18
+borgare 9, 12, 32
+bukdvalve 16, 17
+bönder 9, 11, 32
+Dalarna 16, 17
+datorn 37
+Drottningholm 27, 31
+Ekeblad, Eva 29
+Elisabeth, kejsarinna 24
+England 18
+fabriksarbetare 12, 15
+Finland 6, 24, 34
+Frankrike 18, 28, 30
+Fredrik I 6, 8
+Fredriksstens fästning 8
+Gotland 26
+Gripsholms slott 31
+Gustav III, 30--33
+Gustav IV Adolf 34
+Göteborg 12, 19
+hattar 16
+hembränning 32
+Holland 18
+Horn, Arvid 16
+järn 12
+kakelugnen 12, 20
+Karl, hertig 33, 34
+Karl XII 8
+Karl XIV Johan 36
+Kina 5, 19
+kinaporlin 19
+kolonier 18
+koppar 12
+köpmännen 12, 19
+Lappland 26
+Linné, Carl von 26, 27
+Lovisa Ulrika 24, 25
+manufakturer 15
+mössor 16
+Napoleon 34
+Norge 8

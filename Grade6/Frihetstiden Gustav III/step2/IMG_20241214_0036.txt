@@ -1,0 +1,211 @@
+Register  
+Index  
+索引  
+
+adel 9, 32  
+nobility 9, 32  
+贵族 9, 32  
+
+Adolf Fredrik 24, 25  
+Adolf Fredrik 24, 25  
+阿道夫·弗雷德里克 24, 25  
+
+Afrika 18  
+Africa 18  
+非洲 18  
+
+Almgren 28  
+Almgren 28  
+阿尔姆格伦 28  
+
+Alströmmer, Jonas 28  
+Alströmmer, Jonas 28  
+约纳斯·阿尔斯特罗默 28  
+
+Amerika 18  
+America 18  
+美洲 18  
+
+Anckarström 33  
+Anckarström 33  
+安卡斯特伦 33  
+
+Bellman 13, 31  
+Bellman 13, 31  
+贝尔曼 13, 31  
+
+Bergslagen 12  
+Bergslagen 12  
+贝里斯拉根 12  
+
+Bernadotte, Jean Baptiste 36  
+Bernadotte, Jean Baptiste 36  
+让·巴蒂斯特·贝纳多特 36  
+
+bio 37  
+cinema 37  
+电影院 37  
+
+bomull 18  
+cotton 18  
+棉花 18  
+
+borgare 9, 12, 32  
+citizens 9, 12, 32  
+市民 9, 12, 32  
+
+bukdvalve 16, 17  
+abdomen 16, 17  
+腹部 16, 17  
+
+bönder 9, 11, 32  
+farmers 9, 11, 32  
+农民 9, 11, 32  
+
+Dalarna 16, 17  
+Dalarna 16, 17  
+达拉纳 16, 17  
+
+datorn 37  
+the computer 37  
+计算机 37  
+
+Drottningholm 27, 31  
+Drottningholm 27, 31  
+德罗宁霍尔姆 27, 31  
+
+Ekeblad, Eva 29  
+Ekeblad, Eva 29  
+艾娃·埃凯布拉德 29  
+
+Elisabeth, kejsarinna 24  
+Elisabeth, Empress 24  
+伊丽莎白，女皇 24  
+
+England 18  
+England 18  
+英格兰 18  
+
+fabriksarbetare 12, 15  
+factory workers 12, 15  
+工厂工人 12, 15  
+
+Finland 6, 24, 34  
+Finland 6, 24, 34  
+芬兰 6, 24, 34  
+
+Frankrike 18, 28, 30  
+France 18, 28, 30  
+法国 18, 28, 30  
+
+Fredrik I 6, 8  
+Fredrik I 6, 8  
+弗雷德里克一世 6, 8  
+
+Fredriksstens fästning 8  
+Fredriksstens fortress 8  
+弗雷德里克斯滕要塞 8  
+
+Gotland 26  
+Gotland 26  
+哥特兰 26  
+
+Gripsholms slott 31  
+Gripsholms Castle 31  
+格里普斯霍尔姆城堡 31  
+
+Gustav III, 30--33  
+Gustav III, 30--33  
+古斯塔夫三世 30--33  
+
+Gustav IV Adolf 34  
+Gustav IV Adolf 34  
+古斯塔夫四世·阿道夫 34  
+
+Göteborg 12, 19  
+Gothenburg 12, 19  
+哥德堡 12, 19  
+
+hattar 16  
+hats 16  
+帽子 16  
+
+hembränning 32  
+home distillation 32  
+家庭酿酒 32  
+
+Holland 18  
+Holland 18  
+荷兰 18  
+
+Horn, Arvid 16  
+Horn, Arvid 16  
+阿尔维德·霍恩 16  
+
+järn 12  
+iron 12  
+铁 12  
+
+kakelugnen 12, 20  
+tiled stove 12, 20  
+瓷砖炉 12, 20  
+
+Karl, hertig 33, 34  
+Karl, duke 33, 34  
+卡尔，公爵 33, 34  
+
+Karl XII 8  
+Karl XII 8  
+卡尔十二世 8  
+
+Karl XIV Johan 36  
+Karl XIV Johan 36  
+卡尔十四世·约翰 36  
+
+Kina 5, 19  
+China 5, 19  
+中国 5, 19  
+
+kinaporlin 19  
+Chinese porcelain 19  
+中国瓷器 19  
+
+kolonier 18  
+colonies 18  
+殖民地 18  
+
+koppar 12  
+copper 12  
+铜 12  
+
+köpmännen 12, 19  
+the merchants 12, 19  
+商人 12, 19  
+
+Lappland 26  
+Lapland 26  
+拉普兰 26  
+
+Linné, Carl von 26, 27  
+Linné, Carl von 26, 27  
+卡尔·冯·林奈 26, 27  
+
+Lovisa Ulrika 24, 25  
+Lovisa Ulrika 24, 25  
+洛维萨·乌尔丽卡 24, 25  
+
+manufakturer 15  
+manufacturing 15  
+制造 15  
+
+mössor 16  
+caps 16  
+帽子 16  
+
+Napoleon 34  
+Napoleon 34  
+拿破仑 34  
+
+Norge 8  
+Norway 8  
+挪威 8  
