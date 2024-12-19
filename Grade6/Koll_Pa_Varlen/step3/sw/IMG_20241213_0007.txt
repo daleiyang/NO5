@@ -1,0 +1,15 @@
+Tidszoner
+Jordgloben är också indelad i 24 tidszoner.
+En tidszon är ett område på jorden där klockan är precis lika mycket överallt.
+Nollpunkten räknas från den längdgrad som går genom staden Greenwich i England.
+För varje 15:e grad du förflyttar dig åt öster eller väster lägger du till eller drar ifrån en timme för att veta vad klockan är.
+När klockan är 12.00 i Greenwich är den 13.00 i Stockholm och 14.00 i Helsingfors.
+Det är ganska opraktiskt om tiden skiljer sig åt inom ett och samma land.
+Därför följer zongränserna ofta landgränserna.
+Stora länder delas däremot upp i flera tidszoner.
+Ryssland är det land som har flest tidszoner, tio stycken.
+Det betyder att när klockan är 12.00 i Moskva är klockan 21.00 på Kamtjathalvön som ligger långt österut i Ryssland.
+Även USA och Kanada är indelat i flera tidszoner.
+Det skiljer tre timmar mellan New York på USA:s östkust och Los Angeles på USA:s västkust.
+När klockan är 12.00 i Stockholm är klockan lika mycket i Angolas huvudstad Luanda, trots att det skiljer hundratals mil mellan länderna.
+Det beror på att länderna ligger i samma tidszon.

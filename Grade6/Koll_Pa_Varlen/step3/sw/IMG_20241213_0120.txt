@@ -1,0 +1,54 @@
+Tabeller
+Världens största länder
+Land
+Yta km²
+Ryssland (Ryska federationen) 17 000 000
+Kanada 9 970 000
+Kina 9 600 000
+USA 9 500 000
+Brasilien 8 600 000
+Australien 7 700 000
+Indien 3 300 000
+Argentina 2 800 000
+Kazakstan 2 700 000
+Sudan 2 500 000
+Källa: NE
+Världens största städer
+Stad
+Antal invånare 2014
+Shanghai, Kina 16 300 000
+Istanbul, Turkiet 13 800 000
+Buenos Aires, Argentina 13 100 000
+Bombay (Mumbai), Indien 12 500 000
+Moskva, Ryssland 12 000 000
+São Paulo, Brasilien 11 800 000
+Manila, Filippinerna 11 200 000
+Delhi, Indien 11 000 000
+Lagos, Nigeria 10 000 000
+Karachi, Pakistan 9 200 000
+Avser invånarantal inom stadsgränserna.
+Källa: NE
+Världens folkrikaste länder
+Land
+Antal invånare 2013
+Kina 1 364 000 000
+Indien 1 296 000 000
+USA 317 700 000
+Indonesien 251 500 000
+Brasilien 202 800 000
+Pakistan 194 000 000
+Nigeria 177 500 000
+Bangladesh 158 500 000
+Ryssland 143 700 000
+Japan 127 100 000
+Källa: NE
+Världens längsta floder
+Flod
+Längd i km
+Amazonfloden, Sydamerika 7 025
+Nilen, Afrika 6 670
+Chang Jiang (Yang-tse-kiang), Asien 6 300
+Mississippi, Nordamerika 6 020
+Jenisej, Asien 5 540
+Huang He (Gula floden), Asien 5 464
+Källa: NE

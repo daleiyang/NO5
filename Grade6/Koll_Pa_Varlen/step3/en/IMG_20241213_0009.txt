@@ -1,0 +1,14 @@
+Conic projection
+Here, the paper is shaped into a cone placed on the globe.
+Where the cone and globe meet, the map is correctly represented.
+This means that the area around the equator and the northernmost area are best depicted.
+But there are large errors in the area between.
+Round globe or flat disc?
+Already two thousand years ago, geographers knew that the Earth was a round globe.
+They could even calculate the Earth's circumference.
+But during the Middle Ages, the Earth was no longer depicted as a globe.
+Then, the Earth was thought of as a disc, and it was considered dangerous to reach the edge of the Earth's disc.
+With the explorations during the 1500s, the Earth began to be depicted as a globe again.
+More than two thousand years ago, cartographers tried to transfer information from a round globe to a flat map.
+As long as sea voyages were not very long, the lack of precise distances was not a major problem.
+When explorations began and journeys became longer, the old maps also became unusable.

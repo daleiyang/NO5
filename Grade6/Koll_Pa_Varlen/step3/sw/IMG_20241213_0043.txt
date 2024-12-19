@@ -1,0 +1,17 @@
+Befolkningspyramider
+Befolkningspyramider gör det enkelt att jämföra befolkningen i olika länder.
+Pyramiden byggs upp av liggande staplar som visar antalet födda under en femårsperiod.
+På vänster sida visas antalet män och på höger sida antalet kvinnor.
+Det är bra att veta hur många människor som bor i ett land, och deras ålder och kön.
+Då kan man räkna fram hur landets befolkning kommer att utvecklas i framtiden.
+En ökad yngre befolkning betyder att många förskolor och skolor behöver byggas.
+En ökad äldre befolkning betyder att landet måste satsa på åldringsvård.
+Fattigt land: Länder med höga födelsetal har en befolkningspyramid som ser ut så här.
+Den breda basen betyder att det föds många barn i landet.
+Det innebär att befolkningen ökar.
+Den smala toppen visar att det finns få äldre människor.
+Exempel: I Guinea är antalet flickor mellan 0 och 4 år ungefär 700 000.
+Rikt land: I Sverige föds få barn och befolkningen lever längre.
+Pyramiden visar att det finns många äldre människor.
+Eftersom det är få unga i landet, kommer befolkningen att minska framöver.
+Exempel: I Sverige är antalet flickor mellan 0 och 4 år lite fler än 200 000.

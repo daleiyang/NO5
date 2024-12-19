@@ -1,0 +1,63 @@
+Kartprojektioner  
+Map projections  
+地图投影  
+
+Det är svårt att överföra information från en rund glob till en platt karta.  
+It is difficult to transfer information from a round globe to a flat map.  
+很难将信息从一个圆球体转移到一个平面地图上。  
+
+En platt karta ger alltid, på ett eller annat sätt, en felaktig bild av jordytan.  
+A flat map always gives, in one way or another, an incorrect picture of the earth's surface.  
+一个平面地图总是以某种方式呈现地球表面的错误图像。  
+
+Ju större yta som avbildas, desto större blir felen när det gäller avstånd, vinklar och ytor.  
+The larger the area depicted, the greater the errors in terms of distances, angles, and areas.  
+描绘的面积越大，距离、角度和面积方面的错误就越大。  
+
+Därför har världskartor fler fel än en karta över ett litet område.  
+Therefore, world maps have more errors than a map of a small area.  
+因此，世界地图的错误比小区域地图更多。  
+
+Det finns olika metoder som används när jordytan ska avbildas på en karta.  
+There are different methods used when the earth's surface is to be depicted on a map.  
+当地球表面要在地图上描绘时，有不同的方法。  
+
+De kallas kartprojektioner.  
+They are called map projections.  
+它们被称为地图投影。  
+
+Tänk dig att du lägger ett papper på olika sätt över jordgloben och sedan ritar av.  
+Imagine placing a paper in different ways over the globe and then tracing.  
+想象一下你将纸以不同方式放在地球仪上然后描绘。  
+
+Kartans får olika utseende beroende på hur pappret placeras.  
+The map's appearance varies depending on how the paper is placed.  
+地图的外观取决于纸张的放置方式。  
+
+Cylindrisk projektion  
+Cylindrical projection  
+圆柱投影  
+
+Avbildningen blir riktig vid ekvatorn där papperscylindern och globen möter varandra.  
+The depiction is accurate at the equator where the paper cylinder and globe meet.  
+在赤道上，纸筒和地球仪相交的地方，描绘是准确的。  
+
+De länder som är mitt på kartan, längs ekvatorn, ser därför riktiga ut om de jämförs med jordgloben.  
+The countries that are in the middle of the map, along the equator, therefore look correct when compared to the globe.  
+因此，沿赤道位于地图中间的国家在与地球仪相比时显得正确。  
+
+Ju längre mot polerna, desto större felaktigheter uppstår.  
+The further towards the poles, the greater the inaccuracies.  
+越靠近极地，不准确性就越大。  
+
+Områdena nära polerna blir kraftigt förstorade.  
+The areas near the poles become greatly enlarged.  
+靠近极地的区域被大大放大。  
+
+Grönland blir därför alltid större än i verkligheten.  
+Greenland therefore always appears larger than in reality.  
+因此格陵兰岛总是显得比实际大。  
+
+Sverige ser ungefär lika stort ut som Sudan, men i verkligheten är Sudan fem gånger större än Sverige.  
+Sweden appears about as large as Sudan, but in reality, Sudan is five times larger than Sweden.  
+瑞典看起来和苏丹差不多大，但实际上苏丹比瑞典大五倍。  

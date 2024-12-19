@@ -1,0 +1,215 @@
+Tabeller  
+Tables  
+表格  
+
+Världens största länder  
+The world's largest countries  
+世界上最大的国家  
+
+Land   
+Country  
+国家  
+
+Yta km²  
+Area km²  
+面积 平方公里  
+
+Ryssland (Ryska federationen) 17 000 000  
+Russia (Russian Federation) 17,000,000  
+俄罗斯（俄罗斯联邦） 17,000,000  
+
+Kanada 9 970 000  
+Canada 9,970,000  
+加拿大 9,970,000  
+
+Kina 9 600 000  
+China 9,600,000  
+中国 9,600,000  
+
+USA 9 500 000  
+USA 9,500,000  
+美国 9,500,000  
+
+Brasilien 8 600 000  
+Brazil 8,600,000  
+巴西 8,600,000  
+
+Australien 7 700 000  
+Australia 7,700,000  
+澳大利亚 7,700,000  
+
+Indien 3 300 000  
+India 3,300,000  
+印度 3,300,000  
+
+Argentina 2 800 000  
+Argentina 2,800,000  
+阿根廷 2,800,000  
+
+Kazakstan 2 700 000  
+Kazakhstan 2,700,000  
+哈萨克斯坦 2,700,000  
+
+Sudan 2 500 000  
+Sudan 2,500,000  
+苏丹 2,500,000  
+
+Källa: NE  
+Source: NE  
+来源: NE  
+
+Världens största städer  
+The world's largest cities  
+世界上最大的城市  
+
+Stad  
+City  
+城市  
+
+Antal invånare 2014  
+Number of inhabitants 2014  
+2014年人口数量  
+
+Shanghai, Kina 16 300 000  
+Shanghai, China 16,300,000  
+上海，中国 16,300,000  
+
+Istanbul, Turkiet 13 800 000  
+Istanbul, Turkey 13,800,000  
+伊斯坦布尔，土耳其 13,800,000  
+
+Buenos Aires, Argentina 13 100 000  
+Buenos Aires, Argentina 13,100,000  
+布宜诺斯艾利斯，阿根廷 13,100,000  
+
+Bombay (Mumbai), Indien 12 500 000  
+Bombay (Mumbai), India 12,500,000  
+孟买（Mumbai），印度 12,500,000  
+
+Moskva, Ryssland 12 000 000  
+Moscow, Russia 12,000,000  
+莫斯科，俄罗斯 12,000,000  
+
+São Paulo, Brasilien 11 800 000  
+São Paulo, Brazil 11,800,000  
+圣保罗，巴西 11,800,000  
+
+Manila, Filippinerna 11 200 000  
+Manila, Philippines 11,200,000  
+马尼拉，菲律宾 11,200,000  
+
+Delhi, Indien 11 000 000  
+Delhi, India 11,000,000  
+德里，印度 11,000,000  
+
+Lagos, Nigeria 10 000 000  
+Lagos, Nigeria 10,000,000  
+拉各斯，尼日利亚 10,000,000  
+
+Karachi, Pakistan 9 200 000  
+Karachi, Pakistan 9,200,000  
+卡拉奇，巴基斯坦 9,200,000  
+
+Avser invånarantal inom stadsgränserna.  
+Refers to the number of inhabitants within city limits.  
+指城市范围内的人口数量。  
+
+Källa: NE  
+Source: NE  
+来源: NE  
+
+Världens folkrikaste länder  
+The world's most populous countries  
+世界上人口最多的国家  
+
+Land  
+Country  
+国家  
+
+Antal invånare 2013  
+Number of inhabitants 2013  
+2013年人口数量  
+
+Kina 1 364 000 000  
+China 1,364,000,000  
+中国 1,364,000,000  
+
+Indien 1 296 000 000   
+India 1,296,000,000  
+印度 1,296,000,000   
+
+USA 317 700 000  
+USA 317,700,000  
+美国 317,700,000  
+
+Indonesien 251 500 000  
+Indonesia 251,500,000  
+印度尼西亚 251,500,000  
+
+Brasilien 202 800 000  
+Brazil 202,800,000  
+巴西 202,800,000  
+
+Pakistan 194 000 000  
+Pakistan 194,000,000  
+巴基斯坦 194,000,000  
+
+Nigeria 177 500 000  
+Nigeria 177,500,000  
+尼日利亚 177,500,000  
+
+Bangladesh 158 500 000  
+Bangladesh 158,500,000  
+孟加拉国 158,500,000  
+
+Ryssland 143 700 000  
+Russia 143,700,000  
+俄罗斯 143,700,000  
+
+Japan 127 100 000  
+Japan 127,100,000  
+日本 127,100,000  
+
+Källa: NE  
+Source: NE  
+来源: NE  
+
+Världens längsta floder  
+The world's longest rivers  
+世界上最长的河流  
+
+Flod  
+River  
+河流  
+
+Längd i km  
+Length in km  
+长度公里  
+
+Amazonfloden, Sydamerika 7 025  
+Amazon River, South America 7,025  
+亚马逊河，南美洲 7,025  
+
+Nilen, Afrika 6 670  
+Nile, Africa 6,670  
+尼罗河，非洲 6,670  
+
+Chang Jiang (Yang-tse-kiang), Asien 6 300  
+Chang Jiang (Yangtze), Asia 6,300  
+长江（长江），亚洲 6,300  
+
+Mississippi, Nordamerika 6 020  
+Mississippi, North America 6,020  
+密西西比河，北美洲 6,020  
+
+Jenisej, Asien 5 540  
+Yenisei, Asia 5,540  
+叶尼塞河，亚洲 5,540  
+
+Huang He (Gula floden), Asien 5 464  
+Huang He (Yellow River), Asia 5,464  
+黄河，亚洲 5,464  
+
+Källa: NE  
+Source: NE  
+来源: NE  

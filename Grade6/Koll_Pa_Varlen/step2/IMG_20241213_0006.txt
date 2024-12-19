@@ -1,0 +1,99 @@
+Kartografi  
+Cartography  
+制图学  
+
+När du har läst det här kapitlet ska du veta …  
+When you have read this chapter you should know …  
+阅读本章后，你应该知道……  
+
+... hur gradnätet är uppbyggt.  
+... how the grid is constructed.  
+... 经纬网是如何构建的。  
+
+... vad tidszoner är.  
+... what time zones are.  
+... 时区是什么。  
+
+... vad olika Kartprojektioner innebär.  
+... what different map projections mean.  
+... 不同制图投影的含义。  
+
+Det geografiska gradnätet  
+The geographical grid  
+地理经纬网  
+
+För att kunna beskriva var på jorden en plats ligger finns det linjer på jordgloben som går på längden och tvären.  
+To describe where a place is on Earth, there are lines on the globe running lengthwise and crosswise.  
+为了描述地球上某地的位置，地球仪上有纵横交错的线条。  
+
+Tillsammans bildar linjerna ett rutnät.  
+Together, the lines form a grid.  
+这些线条共同构成了一个网格。  
+
+Linjerna som går från Nordpolen till Sydpolen kallas längdgrader och är alla lika långa.  
+The lines running from the North Pole to the South Pole are called longitudes and are all the same length.  
+从北极到南极的线条称为经度，且长度相同。  
+
+Jordgloben täcks av 360 längdgrader.  
+The globe is covered by 360 longitudes.  
+地球仪上覆盖着360条经线。  
+
+Den linje som går strax utanför London, genom staden Greenwich, är den längdgrad som är satt till 0°.  
+The line just outside London, through Greenwich, is the longitude set at 0°.  
+穿过伦敦格林尼治的线是设置为0°的经线。  
+
+Sedan räknar man 180° åt öster och 180° åt väster.  
+Then you count 180° to the east and 180° to the west.  
+然后分别向东和向西计算180°。  
+
+Längdgraderna talar om hur långt öster eller väster om längdgraden 0° en plats ligger.  
+Longitudes indicate how far east or west a location is from the 0° longitude.  
+经度表示某地距离0°经线的东、西距离。  
+
+Längdgraderna kallas även för meridianer.  
+Longitudes are also known as meridians.  
+经度也称为子午线。  
+
+De linjer som går på tvären kallas breddgrader.  
+The lines running crosswise are called latitudes.  
+横向的线被称为纬度。  
+
+Den längsta av linjerna är ekvatorn.  
+The longest of these lines is the equator.  
+这些线中最长的是赤道。  
+
+Den går tvärs över globen där den är som tjockast.  
+It runs across the globe where it is thickest.  
+它横穿地球仪最厚的部分。  
+
+Ekvatorn delar globen i två halvor, norra och södra halvklotet.  
+The equator divides the globe into two halves, the northern and southern hemispheres.  
+赤道将地球分为南、北半球。  
+
+Jordgloben täcks av 180 breddgrader.  
+The globe is covered by 180 latitudes.  
+地球仪上覆盖着180条纬线。  
+
+Ekvatorn är den breddgrad som är satt till 0°.  
+The equator is the latitude set at 0°.  
+赤道是设定为0°的纬线。  
+
+Sedan räknar man 90° åt norr och 90° åt söder.  
+Then you count 90° to the north and 90° to the south.  
+然后分别向北和向南计算90°。  
+
+Breddgraderna talar om hur långt norr eller söder om ekvatorn en plats ligger.  
+Latitudes indicate how far north or south a location is from the equator.  
+纬度表示某地距赤道的南北距离。  
+
+Breddgraderna kallas även för parallellcirklar.  
+Latitudes are also known as parallels.  
+纬度也被称为纬线圈。  
+
+När man beskriver var en plats ligger anger man längdgraden och breddgraden.  
+When describing where a place is located, you specify the longitude and latitude.  
+描述某地位置时须标明经度和纬度。  
+
+Staden Krakow i Polen ligger på 20° östlig längd och 50° nordlig bredd.  
+The city of Krakow in Poland is at 20° east longitude and 50° north latitude.  
+波兰的克拉科夫市位于东经20°和北纬50°。  

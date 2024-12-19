@@ -1,0 +1,25 @@
+Kartografi
+När du har läst det här kapitlet ska du veta …
+... hur gradnätet är uppbyggt.
+... vad tidszoner är.
+... vad olika Kartprojektioner innebär.
+Det geografiska gradnätet
+För att kunna beskriva var på jorden en plats ligger finns det linjer på jordgloben som går på längden och tvären.
+Tillsammans bildar linjerna ett rutnät.
+Linjerna som går från Nordpolen till Sydpolen kallas längdgrader och är alla lika långa.
+Jordgloben täcks av 360 längdgrader.
+Den linje som går strax utanför London, genom staden Greenwich, är den längdgrad som är satt till 0°.
+Sedan räknar man 180° åt öster och 180° åt väster.
+Längdgraderna talar om hur långt öster eller väster om längdgraden 0° en plats ligger.
+Längdgraderna kallas även för meridianer.
+De linjer som går på tvären kallas breddgrader.
+Den längsta av linjerna är ekvatorn.
+Den går tvärs över globen där den är som tjockast.
+Ekvatorn delar globen i två halvor, norra och södra halvklotet.
+Jordgloben täcks av 180 breddgrader.
+Ekvatorn är den breddgrad som är satt till 0°.
+Sedan räknar man 90° åt norr och 90° åt söder.
+Breddgraderna talar om hur långt norr eller söder om ekvatorn en plats ligger.
+Breddgraderna kallas även för parallellcirklar.
+När man beskriver var en plats ligger anger man längdgraden och breddgraden.
+Staden Krakow i Polen ligger på 20° östlig längd och 50° nordlig bredd.

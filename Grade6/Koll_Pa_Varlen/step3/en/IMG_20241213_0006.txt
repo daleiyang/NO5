@@ -1,0 +1,25 @@
+Cartography
+When you have read this chapter you should know …
+... how the grid is constructed.
+... what time zones are.
+... what different map projections mean.
+The geographical grid
+To describe where a place is on Earth, there are lines on the globe running lengthwise and crosswise.
+Together, the lines form a grid.
+The lines running from the North Pole to the South Pole are called longitudes and are all the same length.
+The globe is covered by 360 longitudes.
+The line just outside London, through Greenwich, is the longitude set at 0°.
+Then you count 180° to the east and 180° to the west.
+Longitudes indicate how far east or west a location is from the 0° longitude.
+Longitudes are also known as meridians.
+The lines running crosswise are called latitudes.
+The longest of these lines is the equator.
+It runs across the globe where it is thickest.
+The equator divides the globe into two halves, the northern and southern hemispheres.
+The globe is covered by 180 latitudes.
+The equator is the latitude set at 0°.
+Then you count 90° to the north and 90° to the south.
+Latitudes indicate how far north or south a location is from the equator.
+Latitudes are also known as parallels.
+When describing where a place is located, you specify the longitude and latitude.
+The city of Krakow in Poland is at 20° east longitude and 50° north latitude.

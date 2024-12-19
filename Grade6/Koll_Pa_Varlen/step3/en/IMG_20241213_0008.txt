@@ -1,0 +1,16 @@
+Map projections
+It is difficult to transfer information from a round globe to a flat map.
+A flat map always gives, in one way or another, an incorrect picture of the earth's surface.
+The larger the area depicted, the greater the errors in terms of distances, angles, and areas.
+Therefore, world maps have more errors than a map of a small area.
+There are different methods used when the earth's surface is to be depicted on a map.
+They are called map projections.
+Imagine placing a paper in different ways over the globe and then tracing.
+The map's appearance varies depending on how the paper is placed.
+Cylindrical projection
+The depiction is accurate at the equator where the paper cylinder and globe meet.
+The countries that are in the middle of the map, along the equator, therefore look correct when compared to the globe.
+The further towards the poles, the greater the inaccuracies.
+The areas near the poles become greatly enlarged.
+Greenland therefore always appears larger than in reality.
+Sweden appears about as large as Sudan, but in reality, Sudan is five times larger than Sweden.

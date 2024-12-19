@@ -1,0 +1,78 @@
+World's largest lakes
+Lake
+Area km²
+Maximum depth in meters
+Caspian Sea, Europe/Asia
+374,000
+1,025
+Lake Superior, North America
+82,700
+406
+Lake Victoria, Africa
+69,800
+92
+Lake Huron, North America
+59,600
+229
+Lake Michigan, North America
+58,000
+281
+Aral Sea (shrinking), Asia
+approx. 38,000
+55
+Lake Tanganyika, Africa
+32,900
+1,435
+Lake Baikal, Asia
+31,500
+1,940
+Source: NE
+World's largest islands
+Island
+Area km²
+Greenland, Atlantic
+2,175,600
+New Guinea, Pacific Ocean
+785,000
+Borneo, Pacific Ocean
+755,000
+Madagascar, Indian Ocean
+587,000
+Baffin Island, Atlantic
+507,500
+Sumatra, Indian Ocean
+425,000
+Honshu, Pacific Ocean
+231,100
+Source: NE
+World's highest mountains
+Mountain peak
+Meters above sea level
+Mount Everest, Nepal
+8,848
+K2, Pakistan/China
+8,611
+Kanchenjunga, Nepal/India
+8,586
+Lhotse, Nepal
+8,516
+Makalu, Nepal
+8,463
+Cho Oyu, Nepal
+8,201
+Dhaulagiri, Nepal
+8,167
+Source: NE
+Some of the world's smallest countries
+Country
+Area km²
+Vatican City, Europe
+0.44
+Monaco, Europe
+1.95
+Nauru, Oceania
+21.3
+Tuvalu, Oceania
+26
+San Marino, Europe
+61

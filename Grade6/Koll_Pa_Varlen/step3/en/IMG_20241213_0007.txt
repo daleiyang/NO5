@@ -1,0 +1,15 @@
+Time Zones
+The globe is also divided into 24 time zones.
+A time zone is an area on the earth where the clock is the same everywhere.
+The zero point is calculated from the longitude that passes through the city of Greenwich in England.
+For every 15 degrees you move east or west, you add or subtract an hour to know what time it is.
+When it is 12.00 in Greenwich, it is 13.00 in Stockholm and 14.00 in Helsinki.
+It is quite impractical if the time differs within the same country.
+Therefore, the zone boundaries often follow national borders.
+Large countries, however, are divided into several time zones.
+Russia is the country with the most time zones, ten in total.
+This means that when it is 12.00 in Moscow, it is 21.00 in the Kamchatka Peninsula, which is far east in Russia.
+The USA and Canada are also divided into several time zones.
+There is a three-hour difference between New York on the US East Coast and Los Angeles on the US West Coast.
+When it is 12.00 in Stockholm, it is the same time in Angola's capital Luanda, despite the countries being hundreds of miles apart.
+This is because the countries are in the same time zone.

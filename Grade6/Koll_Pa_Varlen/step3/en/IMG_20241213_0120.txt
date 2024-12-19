@@ -1,0 +1,54 @@
+Tables
+The world's largest countries
+Country
+Area km²
+Russia (Russian Federation) 17,000,000
+Canada 9,970,000
+China 9,600,000
+USA 9,500,000
+Brazil 8,600,000
+Australia 7,700,000
+India 3,300,000
+Argentina 2,800,000
+Kazakhstan 2,700,000
+Sudan 2,500,000
+Source: NE
+The world's largest cities
+City
+Number of inhabitants 2014
+Shanghai, China 16,300,000
+Istanbul, Turkey 13,800,000
+Buenos Aires, Argentina 13,100,000
+Bombay (Mumbai), India 12,500,000
+Moscow, Russia 12,000,000
+São Paulo, Brazil 11,800,000
+Manila, Philippines 11,200,000
+Delhi, India 11,000,000
+Lagos, Nigeria 10,000,000
+Karachi, Pakistan 9,200,000
+Refers to the number of inhabitants within city limits.
+Source: NE
+The world's most populous countries
+Country
+Number of inhabitants 2013
+China 1,364,000,000
+India 1,296,000,000
+USA 317,700,000
+Indonesia 251,500,000
+Brazil 202,800,000
+Pakistan 194,000,000
+Nigeria 177,500,000
+Bangladesh 158,500,000
+Russia 143,700,000
+Japan 127,100,000
+Source: NE
+The world's longest rivers
+River
+Length in km
+Amazon River, South America 7,025
+Nile, Africa 6,670
+Chang Jiang (Yangtze), Asia 6,300
+Mississippi, North America 6,020
+Yenisei, Asia 5,540
+Huang He (Yellow River), Asia 5,464
+Source: NE

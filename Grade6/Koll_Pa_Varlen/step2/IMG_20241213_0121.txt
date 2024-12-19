@@ -1,0 +1,311 @@
+Världens största sjöar  
+World's largest lakes  
+世界上最大的湖泊  
+
+Sjö  
+Lake  
+湖泊  
+
+Yta km²  
+Area km²  
+面积平方公里  
+
+Största djup i meter  
+Maximum depth in meters  
+最大深度（米）  
+
+Kaspiska havet, Europa/Asien  
+Caspian Sea, Europe/Asia  
+里海，欧洲/亚洲  
+
+374 000  
+374,000  
+374,000  
+
+1 025  
+1,025  
+1,025  
+
+Övre sjön, Nordamerika  
+Lake Superior, North America  
+苏必利尔湖，北美  
+
+82 700  
+82,700  
+82,700  
+
+406  
+406  
+406  
+
+Victoriasjön, Afrika  
+Lake Victoria, Africa  
+维多利亚湖，非洲  
+
+69 800  
+69,800  
+69,800  
+
+92  
+92  
+92  
+
+Huronsjön, Nordamerika  
+Lake Huron, North America  
+休伦湖，北美  
+
+59 600  
+59,600  
+59,600  
+
+229  
+229  
+229  
+
+Michigansjön, Nordamerika  
+Lake Michigan, North America  
+密歇根湖，北美  
+
+58 000  
+58,000  
+58,000  
+
+281  
+281  
+281  
+
+Aralsjön (krympande), Asien  
+Aral Sea (shrinking), Asia  
+咸海（正在缩小），亚洲  
+
+ca 38 000  
+approx. 38,000  
+约38,000  
+
+55  
+55  
+55  
+
+Tanganyikasjön, Afrika  
+Lake Tanganyika, Africa  
+坦干依喀湖，非洲  
+
+32 900  
+32,900  
+32,900  
+
+1 435  
+1,435  
+1,435  
+
+Bajkalsjön, Asien  
+Lake Baikal, Asia  
+贝加尔湖，亚洲  
+
+31 500  
+31,500  
+31,500  
+
+1 940  
+1,940  
+1,940  
+
+Källa: NE 
+Source: NE  
+来源：NE  
+
+Världens största öar  
+World's largest islands  
+世界上最大的岛屿  
+
+Ö  
+Island  
+岛屿  
+
+Yta km²  
+Area km²  
+面积平方公里  
+
+Grönland, Atlanten  
+Greenland, Atlantic  
+格陵兰， 大西洋  
+
+2 175 600  
+2,175,600  
+2,175,600  
+
+Nya Guinea, Stilla havet  
+New Guinea, Pacific Ocean  
+新几内亚，太平洋  
+
+785 000  
+785,000  
+785,000  
+
+Borneo, Stilla havet  
+Borneo, Pacific Ocean  
+婆罗洲，太平洋  
+
+755 000  
+755,000  
+755,000  
+
+Madagaskar, Indiska oceanen  
+Madagascar, Indian Ocean  
+马达加斯加，印度洋  
+
+587 000  
+587,000  
+587,000  
+
+Baffinön, Atlanten  
+Baffin Island, Atlantic  
+巴芬岛，大西洋  
+
+507 500  
+507,500  
+507,500  
+
+Sumatra, Indiska oceanen  
+Sumatra, Indian Ocean  
+苏门答腊，印度洋  
+
+425 000  
+425,000  
+425,000  
+
+Honshu, Stilla havet  
+Honshu, Pacific Ocean  
+本州，太平洋  
+
+231 100  
+231,100  
+231,100  
+
+Källa: NE  
+Source: NE  
+来源：NE  
+
+Världens högsta berg  
+World's highest mountains  
+世界上最高的山  
+
+Bergstopp  
+Mountain peak  
+山峰  
+
+Meter över havet  
+Meters above sea level  
+海拔米  
+
+Mount Everest, Nepal  
+Mount Everest, Nepal  
+珠穆朗玛峰，尼泊尔  
+
+8 848  
+8,848  
+8,848  
+
+K2, Pakistan/Kina  
+K2, Pakistan/China  
+乔戈里峰，巴基斯坦/中国  
+
+8 611  
+8,611  
+8,611  
+
+Kanchenjunga, Nepal/Indien  
+Kanchenjunga, Nepal/India  
+干城章嘉峰，尼泊尔/印度  
+
+8 586  
+8,586  
+8,586  
+
+Lhotse, Nepal  
+Lhotse, Nepal  
+洛子峰，尼泊尔  
+
+8 516  
+8,516  
+8,516  
+
+Makalu, Nepal  
+Makalu, Nepal  
+马卡鲁峰，尼泊尔  
+
+8 463  
+8,463  
+8,463  
+
+Cho Oyu, Nepal  
+Cho Oyu, Nepal  
+卓奥友峰，尼泊尔  
+
+8 201  
+8,201  
+8,201  
+
+Dhaulagiri, Nepal  
+Dhaulagiri, Nepal  
+道拉吉里峰，尼泊尔  
+
+8 167  
+8,167  
+8,167  
+
+Källa: NE  
+Source: NE  
+来源：NE  
+
+Några av världens minsta länder  
+Some of the world's smallest countries  
+世界上一些最小的国家  
+
+Land  
+Country  
+国家  
+
+Yta km²  
+Area km²  
+面积平方公里  
+
+Vatikanstaten, Europa  
+Vatican City, Europe  
+梵蒂冈，欧洲  
+
+0,44  
+0.44  
+0.44  
+
+Monaco, Europa  
+Monaco, Europe  
+摩纳哥，欧洲  
+
+1,95  
+1.95  
+1.95  
+
+Nauru, Oceanien  
+Nauru, Oceania  
+瑙鲁， 大洋洲  
+
+21,3  
+21.3  
+21.3  
+
+Tuvalu, Oceanien  
+Tuvalu, Oceania  
+图瓦卢， 大洋洲  
+
+26  
+26  
+26  
+
+San Marino, Europa  
+San Marino, Europe  
+圣马力诺，欧洲  
+
+61  
+61  
+61  

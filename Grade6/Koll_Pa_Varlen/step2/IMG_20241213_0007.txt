@@ -1,0 +1,59 @@
+Tidszoner  
+Time Zones  
+时区  
+
+Jordgloben är också indelad i 24 tidszoner.  
+The globe is also divided into 24 time zones.  
+地球也被划分为24个时区。  
+
+En tidszon är ett område på jorden där klockan är precis lika mycket överallt.  
+A time zone is an area on the earth where the clock is the same everywhere.  
+时区是地球上的一个区域，在这个区域内时间是相同的。  
+
+Nollpunkten räknas från den längdgrad som går genom staden Greenwich i England.  
+The zero point is calculated from the longitude that passes through the city of Greenwich in England.  
+零点是从经过英格兰格林威治市的经线计算的。  
+
+För varje 15:e grad du förflyttar dig åt öster eller väster lägger du till eller drar ifrån en timme för att veta vad klockan är.  
+For every 15 degrees you move east or west, you add or subtract an hour to know what time it is.  
+每移动15度向东或向西，你就加或减去一个小时以知道现在的时间。  
+
+När klockan är 12.00 i Greenwich är den 13.00 i Stockholm och 14.00 i Helsingfors.  
+When it is 12.00 in Greenwich, it is 13.00 in Stockholm and 14.00 in Helsinki.  
+当格林威治时间为12点时，斯德哥尔摩时间为13点，赫尔辛基时间为14点。  
+
+Det är ganska opraktiskt om tiden skiljer sig åt inom ett och samma land.  
+It is quite impractical if the time differs within the same country.  
+如果在同一个国家内时间不同是相当不方便的。  
+
+Därför följer zongränserna ofta landgränserna.  
+Therefore, the zone boundaries often follow national borders.  
+因此，时区边界通常遵循国家边界。  
+
+Stora länder delas däremot upp i flera tidszoner.  
+Large countries, however, are divided into several time zones.  
+然而，大国被划分为几个时区。  
+
+Ryssland är det land som har flest tidszoner, tio stycken.  
+Russia is the country with the most time zones, ten in total.  
+俄罗斯是拥有最多时区的国家，总共有十个。  
+
+Det betyder att när klockan är 12.00 i Moskva är klockan 21.00 på Kamtjathalvön som ligger långt österut i Ryssland.  
+This means that when it is 12.00 in Moscow, it is 21.00 in the Kamchatka Peninsula, which is far east in Russia.  
+这意味着当莫斯科时间为12点时，远在俄罗斯东部的堪察加半岛时间为21点。  
+
+Även USA och Kanada är indelat i flera tidszoner.  
+The USA and Canada are also divided into several time zones.  
+美国和加拿大也被划分为几个时区。  
+
+Det skiljer tre timmar mellan New York på USA:s östkust och Los Angeles på USA:s västkust.  
+There is a three-hour difference between New York on the US East Coast and Los Angeles on the US West Coast.  
+美国东海岸的纽约与西海岸的洛杉矶之间有三个小时的时差。  
+
+När klockan är 12.00 i Stockholm är klockan lika mycket i Angolas huvudstad Luanda, trots att det skiljer hundratals mil mellan länderna.  
+When it is 12.00 in Stockholm, it is the same time in Angola's capital Luanda, despite the countries being hundreds of miles apart.  
+当斯德哥尔摩时间为12点时，安哥拉首都罗安达的时间是相同的，尽管两国相隔数百英里。  
+
+Det beror på att länderna ligger i samma tidszon.  
+This is because the countries are in the same time zone.  
+这是因为这些国家在同一个时区。  
