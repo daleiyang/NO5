@@ -7,7 +7,7 @@ potatoes 28, 29
 priests 9, 32
 the radio 37
 parliament 6, 9, 11, 12, 16, 25, 32
-the court of appeals 9
+the Council of State 9
 Rousseau 25
 Russia 16, 24, 32, 34
 raw material 15

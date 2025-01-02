@@ -54,9 +54,9 @@ borgare 9, 12, 32
 citizens 9, 12, 32  
 市民 9, 12, 32  
 
-bukdvalve 16, 17  
-abdomen 16, 17  
-腹部 16, 17  
+budkavle 16, 17  
+message stick 16, 17  
+信使棒 16, 17  
 
 bönder 9, 11, 32  
 farmers 9, 11, 32  
@@ -102,8 +102,8 @@ Fredrik I 6, 8
 Fredrik I 6, 8  
 弗雷德里克一世 6, 8  
 
-Fredriksstens fästning 8  
-Fredriksstens fortress 8  
+Fredrikstens fästning 8  
+Fredrikstens fortress 8  
 弗雷德里克斯滕要塞 8  
 
 Gotland 26  
@@ -166,7 +166,7 @@ Kina 5, 19
 China 5, 19  
 中国 5, 19  
 
-kinaporlin 19  
+kinaporslin 19  
 Chinese porcelain 19  
 中国瓷器 19  
 

@@ -7,7 +7,7 @@ potatis 28, 29
 präster 9, 32
 radion 37
 riksdagen 6, 9, 11, 12, 16, 25, 32
-riksrätten 9
+riksrådet 9
 Rousseau 25
 Ryssland 16, 24, 32, 34
 rävara 15
@@ -36,7 +36,7 @@ teven 37
 timmer 12
 tjära 12
 tobak 18
-triangelhandeln 18
+triangelhandel 18
 Tyskland 8, 24
 tänkare 25
 Ulrika Eleonora 8

@@ -86,6 +86,6 @@ När man eldar i den går den varma luften genom långa rör inuti ugnen innan d
 When you fire it, the hot air passes through long pipes inside the stove before being released into the chimney. 
 点火时，热空气通过炉子内部的长管道，然后排入烟囱。
 
-På så vis stannar värmen kvar längre i kakelugnen.
-In this way, the heat stays longer in the tiled stove.
-这样，热量就能在瓷片炉中停留更长时间。
+På så vis stannar värmen kvar länge i kakelugnen.
+This way, the heat stays in the stove for a long time.
+这样，炉子里的热量就能保持很长时间。

@@ -34,9 +34,9 @@ riksdagen 6, 9, 11, 12, 16, 25, 32
 parliament 6, 9, 11, 12, 16, 25, 32  
 议会 6, 9, 11, 12, 16, 25, 32  
 
-riksrätten 9  
-the court of appeals 9  
-上诉法院 9  
+riksrådet 9  
+the Council of State 9  
+国家委员会 9  
 
 Rousseau 25  
 Rousseau 25  
@@ -150,7 +150,7 @@ tobak 18
 tobacco 18  
 烟草 18  
 
-triangelhandeln 18  
+triangelhandel 18  
 the triangular trade 18  
 三角贸易 18  
 

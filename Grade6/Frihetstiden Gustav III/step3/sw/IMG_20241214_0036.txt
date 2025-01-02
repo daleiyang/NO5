@@ -12,7 +12,7 @@ Bernadotte, Jean Baptiste 36
 bio 37
 bomull 18
 borgare 9, 12, 32
-bukdvalve 16, 17
+budkavle 16, 17  
 bönder 9, 11, 32
 Dalarna 16, 17
 datorn 37
@@ -24,7 +24,7 @@ fabriksarbetare 12, 15
 Finland 6, 24, 34
 Frankrike 18, 28, 30
 Fredrik I 6, 8
-Fredriksstens fästning 8
+Fredrikstens fästning 8
 Gotland 26
 Gripsholms slott 31
 Gustav III, 30--33
@@ -40,7 +40,7 @@ Karl, hertig 33, 34
 Karl XII 8
 Karl XIV Johan 36
 Kina 5, 19
-kinaporlin 19
+kinaporslin 19
 kolonier 18
 koppar 12
 köpmännen 12, 19

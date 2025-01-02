@@ -12,7 +12,7 @@ Bernadotte, Jean Baptiste 36
 cinema 37
 cotton 18
 citizens 9, 12, 32
-abdomen 16, 17
+message stick 16, 17  
 farmers 9, 11, 32
 Dalarna 16, 17
 the computer 37
@@ -24,7 +24,7 @@ factory workers 12, 15
 Finland 6, 24, 34
 France 18, 28, 30
 Fredrik I 6, 8
-Fredriksstens fortress 8
+Fredrikstens fortress 8
 Gotland 26
 Gripsholms Castle 31
 Gustav III, 30--33
