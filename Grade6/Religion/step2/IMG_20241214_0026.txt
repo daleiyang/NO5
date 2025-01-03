@@ -93,3 +93,7 @@ A disciple is a person who follows a teacher.
 Jesus hade 12 lärjungar som följde honom och lyssnade på det han berättade.  
 Jesus had 12 disciples who followed him and listened to what he said.  
 耶稣有12个门徒，他们跟随他并倾听他所说的话。
+ 
+Jesus föddes i Betlehem men han växte upp i Nasaret.
+Jesus was born in Bethlehem but grew up in Nazareth.
+耶稣出生在伯利恒，但在拿撒勒长大。
